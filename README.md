@@ -24,3 +24,14 @@ Data as of 2026-10-21. Internal use only.
 | `research_notes.json` | Researchers' notes on unconfirmed items |
 
 `intranasal_tracker.html` is an identical copy of `index.html`.
+
+## Verification
+
+Accuracy audit completed 2026-10-21: every card, news item and endpoint row was checked against its source; every NCT matches ClinicalTrials.gov; every source link opens.
+
+| Script | Checks |
+| --- | --- |
+| `verify_trials.py` | Every NCT against the ClinicalTrials.gov API (`--fix` overwrites trial fields with API values) |
+| `verify_links.py` | Every source URL. SEC, BusinessWire, StockTitan and fda.gov block scripts (403/404), so check those in a browser |
+
+Items still marked "(unconfirmed)" on the page are claims no public source could confirm.

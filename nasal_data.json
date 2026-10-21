@@ -117,8 +117,8 @@
     "ko": "FDA 승인"
    },
    "now": {
-    "en": "Oct 2026: J&J cited Spravato as a Q3 neuroscience growth driver; 2025 sales ~US$1.7B, new Phase 3s (adolescents, TRD) recruiting.",
-    "ko": "2026년 10월 J&J는 3분기 신경과학 성장 동력으로 Spravato를 꼽았으며, 2025년 매출 약 17억 달러, 청소년·TRD 신규 3상 모집 중."
+    "en": "Oct 2026: J&J's Q3 2026 results named Spravato among the products driving Neuroscience growth.",
+    "ko": "2026년 10월: J&J 3분기 실적에서 Spravato가 신경과학 부문 성장을 이끈 제품으로 언급됨."
    },
    "lastMove": "2026-10",
    "trials": [
@@ -221,18 +221,18 @@
     "ko": "FDA 승인(2019)"
    },
    "now": {
-    "en": "No 2025–2026 label expansion found; prescribing information listing updated Jan 2026 (Drugs.com), still age 12+.",
-    "ko": "2025–2026년 적응증 확대 없음; 처방정보는 2026년 1월 갱신(Drugs.com), 여전히 12세 이상."
+    "en": "No 2025–2026 label expansion found; current UCB label (revised Jan 2023) still limits use to age 12+.",
+    "ko": "2025~2026년 적응증 확대 없음. 현행 UCB 라벨(2023년 1월 개정)은 여전히 12세 이상으로 제한."
    },
-   "lastMove": "2026-01",
+   "lastMove": "2023-01",
    "trials": [],
    "noTrial": {
     "en": "Marketed (NDA 211321); no active registrational trial found",
     "ko": "시판 중(NDA 211321); 진행 중 허가 임상 없음"
    },
    "src": {
-    "label": "Drugs.com Nayzilam prescribing information",
-    "url": "https://www.drugs.com/pro/nayzilam.html"
+    "label": "DailyMed: NAYZILAM (UCB) label",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=nayzilam"
    }
   },
   {
@@ -292,8 +292,8 @@
    "region": "GB",
    "area": "CNS",
    "company": {
-    "en": "AtaiBeckley → Eli Lilly",
-    "ko": "AtaiBeckley → Eli Lilly"
+    "en": "Eli Lilly (acquired AtaiBeckley)",
+    "ko": "Eli Lilly (AtaiBeckley 인수)"
    },
    "product": {
     "en": "BPL-003",
@@ -308,18 +308,18 @@
     "ko": "치료저항성 우울증"
    },
    "device": {
-    "en": "Nasal spray (device (unconfirmed)",
+    "en": "Nasal spray (device unconfirmed)",
     "ko": "비강 스프레이(기기 미확인)"
    },
    "stage": {
-    "en": "Phase 3",
-    "ko": "임상 3상"
+    "en": "Phase 3 (preparing)",
+    "ko": "3상 (준비 중)"
    },
    "now": {
-    "en": "Jul 2026: Lilly agreed to buy AtaiBeckley (~$2.8B upfront); BPL-003 'initiated Phase 3 activities' (ReConnection-1/-2).",
-    "ko": "2026년 7월 Lilly가 AtaiBeckley 인수 합의(선급 약 28억 달러), BPL-003은 3상(ReConnection-1/-2) 착수."
+    "en": "Sep 2026: Lilly completed its ~$2.8B AtaiBeckley acquisition; BPL-003 (FDA Breakthrough) is in Phase 3 preparation.",
+    "ko": "2026년 9월: Lilly가 약 28억 달러 규모의 AtaiBeckley 인수를 완료; BPL-003(FDA 혁신치료제 지정)은 3상 준비 중."
    },
-   "lastMove": "2026-07",
+   "lastMove": "2026-09",
    "trials": [
     {
      "nct": "NCT05870540",
@@ -342,8 +342,8 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Lilly/AtaiBeckley release via StockTitan (16 Jul 2026)",
-    "url": "https://www.stocktitan.net/news/LLY/lilly-to-acquire-atai-beckley-to-advance-therapies-for-treatment-edhfagsq5211.html"
+    "label": "Lilly PR 2026-09-11 (completes AtaiBeckley acquisition)",
+    "url": "https://www.placera.se/pressmeddelanden/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-20260911"
    }
   },
   {
@@ -368,7 +368,7 @@
     "ko": "사회불안장애 급성 치료"
    },
    "device": {
-    "en": "Microgram-dose nasal spray acting on nasal chemosensory neurons (device (unconfirmed)",
+    "en": "Microgram-dose nasal spray acting on nasal chemosensory neurons (device unconfirmed)",
     "ko": "비강 화학감각 뉴런에 작용하는 마이크로그램 용량 스프레이(기기 미확인)"
    },
    "stage": {
@@ -376,8 +376,8 @@
     "ko": "3상 (실패)"
    },
    "now": {
-    "en": "Aug 2026: exploratory repeat-dose Phase 2 (n=61) not significant; Vistagen seeking FDA input on one new LSAS-based Phase 3.",
-    "ko": "2026년 8월 탐색적 반복투여 2상(61명) 유의성 미달; Vistagen은 LSAS 기반 신규 3상 1건에 대해 FDA 협의 추진."
+    "en": "Aug 2026: exploratory repeat-dose Phase 2 (n=61) was not significant; Vistagen is seeking FDA input on a potential registrational path.",
+    "ko": "2026년 8월: 탐색적 반복투여 2상(n=61) 유의성 없음; Vistagen은 허가 경로에 대해 FDA 의견을 구하는 중."
    },
    "lastMove": "2026-08",
    "trials": [
@@ -445,8 +445,8 @@
     "ko": "2a상 완료"
    },
    "now": {
-    "en": "No 2025–2026 clinical update found; US Phase 2b (planned 2H 2024) start (unconfirmed) after US Phase 1 completed 2023.",
-    "ko": "2025–2026년 임상 업데이트 없음; 2023년 미국 1상 완료 후 2024년 하반기 계획된 2b상 개시 여부 미확인."
+    "en": "No 2025–2026 clinical update found since the US Phase 1 completed in 2023.",
+    "ko": "2023년 미국 1상 완료 이후 2025–2026년 임상 업데이트 없음."
    },
    "lastMove": "2023-06",
    "trials": [],
@@ -481,7 +481,7 @@
     "ko": "비활성 이차진행형 MS; 알츠하이머·MSA·ALS"
    },
    "device": {
-    "en": "Nasal spray, mucosal immunomodulation (device (unconfirmed)",
+    "en": "Nasal spray, mucosal immunomodulation (device unconfirmed)",
     "ko": "점막 면역조절 비강 스프레이(기기 미확인)"
    },
    "stage": {
@@ -489,8 +489,8 @@
     "ko": "2a상"
    },
    "now": {
-    "en": "Sep–Oct 2026: INFORM-MS last visit done (topline due Oct 2026); ALS BANYAN dosing began; Alzheimer's Phase 2 fully dosed (data Q1 2027).",
-    "ko": "2026년 9–10월 INFORM-MS 최종 방문 완료(10월 톱라인 예정), ALS BANYAN 투여 개시, 알츠하이머 2상 투여 완료(2027년 1분기 결과)."
+    "en": "Sep–Oct 2026: INFORM-MS last patient visit done (topline guided for Oct 2026); ALS BANYAN dosing began; Alzheimer's Phase 2 fully enrolled (data Q1 2027).",
+    "ko": "2026년 9–10월: INFORM-MS 마지막 환자 방문 완료(톱라인 10월 예정), ALS BANYAN 투여 개시, 알츠하이머 2상 등록 완료(데이터 2027년 1분기)."
    },
    "lastMove": "2026-10",
    "trials": [
@@ -550,7 +550,7 @@
     "ko": "비동맥염성 전방 허혈성 시신경병증(NAION), 코-시신경 전달"
    },
    "device": {
-    "en": "Intranasal delivery (device (unconfirmed)",
+    "en": "Intranasal delivery (device unconfirmed)",
     "ko": "비강 투여(기기 미확인)"
    },
    "stage": {
@@ -640,12 +640,12 @@
     "ko": "Neurelis"
    },
    "product": {
-    "en": "NRL-4 (olanzapine)",
-    "ko": "NRL-4 (올란자핀)"
+    "en": "NRL-1004 (olanzapine)",
+    "ko": "NRL-1004 (올란자핀)"
    },
    "api": {
-    "en": "Olanzapine",
-    "ko": "올란자핀"
+    "en": "Olanzapine 7.5 mg (Phase 1 dose)",
+    "ko": "Olanzapine 7.5 mg (Phase 1 dose)"
    },
    "indication": {
     "en": "Acute agitation in schizophrenia / bipolar I",
@@ -660,8 +660,8 @@
     "ko": "임상 1상"
    },
    "now": {
-    "en": "Mar 2025: Phase 1 PK study vs IM olanzapine published (J Clin Psychiatry); pre-IND done; no Phase 2 start found.",
-    "ko": "2025년 3월 IM 올란자핀 대비 1상 PK 결과 J Clin Psychiatry 게재; pre-IND 완료, 2상 개시 미확인."
+    "en": "Mar 2025: Phase 1 PK study vs IM olanzapine published (J Clin Psychiatry); Neurelis still lists NRL-1004 at Phase 1, no Phase 2 found.",
+    "ko": "2025년 3월 IM 올란자핀 대비 1상 PK 연구 발표(J Clin Psychiatry). Neurelis는 NRL-1004를 여전히 1상으로 표기, 2상 착수 미확인."
    },
    "lastMove": "2025-03",
    "trials": [
@@ -703,7 +703,7 @@
     "ko": "프라더-윌리 증후군 과식증(8–17.5세)"
    },
    "device": {
-    "en": "Intranasal spray (device (unconfirmed)",
+    "en": "Intranasal spray (device unconfirmed)",
     "ko": "비강 스프레이(기기 미확인)"
    },
    "stage": {
@@ -711,8 +711,8 @@
     "ko": "2상 예정"
    },
    "now": {
-    "en": "Tonix now lists TNX-2900 Phase 2 (4-arm, 12-week, HQ-CT endpoint) as planned for 1Q 2027, slipping from 2026.",
-    "ko": "Tonix는 TNX-2900 2상(4군, 12주, HQ-CT 평가변수)을 2027년 1분기 개시로 연기 표기(당초 2026년)."
+    "en": "Tonix lists a TNX-2900 Phase 2 (4-arm, 12-week, HQ-CT endpoint, ages 8–17) with enrollment planned to start 1Q 2027.",
+    "ko": "Tonix는 TNX-2900 2상(4개 군, 12주, HQ-CT 평가변수, 8–17세) 등록을 2027년 1분기 시작 예정으로 제시."
    },
    "lastMove": "2026-10",
    "trials": [],
@@ -747,18 +747,18 @@
     "ko": "경도인지장애·초기 알츠하이머병"
    },
    "device": {
-    "en": "Aptar Pharma CPS intranasal delivery device",
-    "ko": "Aptar Pharma CPS 비강 투여 기기"
+    "en": "Aptar Pharma CPS device (earlier INI+empagliflozin trial); new trial's device not stated",
+    "ko": "Aptar Pharma CPS 디바이스(이전 INI+엠파글리플로진 임상); 신규 임상의 디바이스는 미기재"
    },
    "stage": {
     "en": "Phase 2 (academic)",
     "ko": "2상(연구자 주도)"
    },
    "now": {
-    "en": "Sep–Oct 2026: INI+empagliflozin Phase 2 results posted; new Phase 2 adding INI to anti-amyloid therapy registered, not yet recruiting.",
-    "ko": "2026년 9–10월 INI+엠파글리플로진 2상 결과 게시, 항아밀로이드 치료 병용 신규 2상 등록(모집 전)."
+    "en": "Oct 2025: INI+empagliflozin Phase 2 results posted; Aug 2026: new Phase 2 adding INI or empagliflozin to anti-amyloid therapy registered, not yet recruiting.",
+    "ko": "2025년 10월 INI+엠파글리플로진 2상 결과 공개, 2026년 8월 항아밀로이드 치료에 INI 또는 엠파글리플로진을 추가하는 신규 2상 등록(모집 전)."
    },
-   "lastMove": "2026-10",
+   "lastMove": "2026-08",
    "trials": [
     {
      "nct": "NCT05081219",
@@ -815,7 +815,7 @@
     "ko": "1상 완료"
    },
    "now": {
-    "en": "Phase 1 (n=16) completed; registry record updated Sep 2025 with no posted results; next study (unconfirmed).",
+    "en": "Phase 1 (n=16) completed; registry record updated Sep 2025 with no posted results; next study unconfirmed.",
     "ko": "1상(16명) 완료; 2025년 9월 등록 갱신, 결과 미게시, 후속 시험 미확인."
    },
    "lastMove": "2025-09",
@@ -854,11 +854,11 @@
     "ko": "통증 유발성을 제거한 변형 재조합 인간 NGF"
    },
    "indication": {
-    "en": "Neonatal hypoxic-ischaemic encephalopathy (per EU CTIS; (unconfirmed)",
+    "en": "Neonatal hypoxic-ischaemic encephalopathy (per EU CTIS; unconfirmed)",
     "ko": "신생아 저산소성 허혈성 뇌병증(EU CTIS 기준, 미확인)"
    },
    "device": {
-    "en": "Intranasal (device (unconfirmed)",
+    "en": "Intranasal (device unconfirmed)",
     "ko": "비강 투여(기기 미확인)"
    },
    "stage": {
@@ -917,10 +917,10 @@
     "ko": "2상 완료"
    },
    "now": {
-    "en": "Phase 2 (n=98, placebo-controlled) completed Apr 2026 in China; results not yet public.",
-    "ko": "중국 위약대조 2상(98명) 2026년 4월 완료, 결과 미공개."
+    "en": "Phase 2 (n=98, placebo-controlled) in China hit primary completion Apr 2026 and completed Jun 2026; results not yet public.",
+    "ko": "중국 2상(n=98, 위약대조)이 2026년 4월 1차 완료, 6월 전체 완료됐으며 결과는 아직 미공개."
    },
-   "lastMove": "2026-04",
+   "lastMove": "2026-06",
    "trials": [
     {
      "nct": "NCT07193901",
@@ -952,7 +952,7 @@
     "ko": "XJN010 비강 스프레이"
    },
    "api": {
-    "en": " (unconfirmed) (not disclosed in registry)",
+    "en": "unconfirmed (not disclosed in registry)",
     "ko": "미확인(등록 정보 미공개)"
    },
    "indication": {
@@ -1015,12 +1015,12 @@
     "ko": "비강 스프레이(미확인)"
    },
    "stage": {
-    "en": "Stopped after Phase 3",
-    "ko": "3상 후 중단"
+    "en": "Phase 3 failed",
+    "ko": "3상 실패"
    },
    "now": {
-    "en": "Sep 2025: Phase 3 COMPASS PWS (n=175) missed primary and all secondaries; Acadia dropped program, OLE terminated.",
-    "ko": "2025년 9월 3상 COMPASS PWS(175명) 1차·2차 평가변수 모두 실패, Acadia 개발 중단 및 연장시험 종료."
+    "en": "Sep 2025: Phase 3 COMPASS PWS (n=175) missed its primary endpoint and showed no separation on any secondary endpoint.",
+    "ko": "2025년 9월: 3상 COMPASS PWS(n=175)에서 1차 평가변수 미달, 2차 평가변수도 모두 위약과 차이 없음."
    },
    "lastMove": "2025-09",
    "trials": [
@@ -1182,8 +1182,8 @@
     "ko": "성인 편두통 급성 치료"
    },
    "device": {
-    "en": "Single-use liquid nasal spray (device supplier (unconfirmed)",
-    "ko": "1회용 액상 비강 스프레이 (디바이스 공급사 (미확인)"
+    "en": "Single-use liquid nasal spray (device supplier unconfirmed)",
+    "ko": "1회용 액상 비강 스프레이 (디바이스 공급사 미확인)"
    },
    "stage": {
     "en": "FDA approved",
@@ -1354,16 +1354,16 @@
     "ko": "PRT-064040 비강 스프레이"
    },
    "api": {
-    "en": " (unconfirmed) (undisclosed active)",
-    "ko": " (미확인) (성분 비공개)"
+    "en": "unconfirmed (undisclosed active)",
+    "ko": "미확인 (성분 비공개)"
    },
    "indication": {
     "en": "Acute treatment of moderate-to-severe migraine",
     "ko": "중등도~중증 편두통 급성 치료"
    },
    "device": {
-    "en": "Nasal spray (details (unconfirmed)",
-    "ko": "비강 스프레이 (세부 (미확인)"
+    "en": "Nasal spray (details unconfirmed)",
+    "ko": "비강 스프레이 (세부 미확인)"
    },
    "stage": {
     "en": "Phase 2 (China)",
@@ -1466,8 +1466,8 @@
     "ko": "소아 중등도·중증 급성 통증 (응급·급성기)"
    },
    "device": {
-    "en": "Nasal spray (device (unconfirmed)",
-    "ko": "비강 스프레이 (디바이스 (미확인)"
+    "en": "Nasal spray (device unconfirmed)",
+    "ko": "비강 스프레이 (디바이스 미확인)"
    },
    "stage": {
     "en": "US hospital supply",
@@ -1604,8 +1604,8 @@
     "ko": "덱스메데토미딘 스프레이"
    },
    "api": {
-    "en": "Dexmedetomidine 10 µg or 25 µg per 50 µL spray",
-    "ko": "덱스메데토미딘 10 µg 또는 25 µg/50 µL 분사"
+    "en": "Dexmedetomidine HCl nasal spray (strengths unconfirmed)",
+    "ko": "덱스메데토미딘 염산염 비강 스프레이 (함량 미확인)"
    },
    "indication": {
     "en": "Pre-procedural sedation/anxiolysis (adults) and preoperative sedation (children)",
@@ -1664,8 +1664,8 @@
     "ko": "특미정 (덱스메데토미딘)"
    },
    "api": {
-    "en": "Dexmedetomidine HCl (strength (unconfirmed)",
-    "ko": "덱스메데토미딘 (함량 (미확인)"
+    "en": "Dexmedetomidine HCl (strength unconfirmed)",
+    "ko": "덱스메데토미딘 (함량 미확인)"
    },
    "indication": {
     "en": "Preoperative sedation/anxiolysis; adjunct sedation in regional anesthesia (adults)",
@@ -1716,16 +1716,16 @@
     "ko": "상악 치아(#4–13, A–J) 치과 마취, 체중 40 kg 이상"
    },
    "device": {
-    "en": "Nasal spray, refrigerated cold-chain (device (unconfirmed)",
-    "ko": "냉장 보관 비강 스프레이 (디바이스 (미확인)"
+    "en": "Nasal spray, refrigerated cold-chain (device unconfirmed)",
+    "ko": "냉장 보관 비강 스프레이 (디바이스 미확인)"
    },
    "stage": {
     "en": "FDA approved",
     "ko": "FDA 승인"
    },
    "now": {
-    "en": "Still listed as marketed by St. Renatus (Jul 2026 database); no 2025-26 news found, commercial activity (unconfirmed).",
-    "ko": "2026년 7월 데이터베이스상 St. Renatus 판매 제품으로 등재되어 있으나, 2025~26년 뉴스는 없고 실제 판매 활동은 (미확인)."
+    "en": "Still listed under NDA 208032 (approved Jun 2016) with St. Renatus as applicant; no 2025–26 news found.",
+    "ko": "NDA 208032(2016년 6월 승인), 신청자 St. Renatus로 여전히 등재; 2025–26년 뉴스 없음."
    },
    "lastMove": "2016-06",
    "trials": [],
@@ -1760,8 +1760,8 @@
     "ko": "오피오이드 과다복용 응급 치료"
    },
    "device": {
-    "en": "Single-dose liquid nasal spray (device maker (unconfirmed) here)",
-    "ko": "1회용 액상 비강 스프레이 (디바이스 제조사 (미확인)"
+    "en": "Single-dose liquid nasal spray (device maker unconfirmed here)",
+    "ko": "1회용 액상 비강 스프레이 (디바이스 제조사 미확인)"
    },
    "stage": {
     "en": "FDA approved, OTC (2023)",
@@ -1804,8 +1804,8 @@
     "ko": "오피오이드 과다복용 응급 치료"
    },
    "device": {
-    "en": "Liquid nasal spray (device (unconfirmed)",
-    "ko": "액상 비강 스프레이 (디바이스 (미확인)"
+    "en": "Liquid nasal spray (device unconfirmed)",
+    "ko": "액상 비강 스프레이 (디바이스 미확인)"
    },
    "stage": {
     "en": "FDA approved · OTC",
@@ -1822,7 +1822,7 @@
     "ko": "생동성·OTC 전환으로 승인; 관련 NCT 없음"
    },
    "src": {
-    "label": "FDA press release (2026-06-16)",
+    "label": "FDA press announcement 2026-06-16",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose"
    }
   },
@@ -1892,8 +1892,8 @@
     "ko": "오피오이드 과다복용 응급 치료"
    },
    "device": {
-    "en": "Liquid nasal spray, twin pack (device (unconfirmed)",
-    "ko": "액상 비강 스프레이 2개입 (디바이스 (미확인)"
+    "en": "Liquid nasal spray, twin pack (device unconfirmed)",
+    "ko": "액상 비강 스프레이 2개입 (디바이스 미확인)"
    },
    "stage": {
     "en": "FDA approved · OTC",
@@ -1936,8 +1936,8 @@
     "ko": "오피오이드 과다복용 응급 치료 (12세 이상)"
    },
    "device": {
-    "en": "Single-dose liquid nasal spray (device (unconfirmed)",
-    "ko": "1회용 액상 비강 스프레이 (디바이스 (미확인)"
+    "en": "Single-dose liquid nasal spray (device unconfirmed)",
+    "ko": "1회용 액상 비강 스프레이 (디바이스 미확인)"
    },
    "stage": {
     "en": "FDA approved · not promoted",
@@ -2044,8 +2044,8 @@
     "ko": "Intravail 흡수촉진제 함유 1회용 액상 스프레이 (디바이스 제조사 재확인 안 됨)"
    },
    "stage": {
-    "en": "Approved in 7 markets",
-    "ko": "7개국 승인"
+    "en": "Approved in 8+ markets",
+    "ko": "8개 이상 시장 승인"
    },
    "now": {
     "en": "Q2 2026 US neffy sales were $26.2M; in Aug 2026 ARS shifted to targeted provider promotion and cut 2H26 spending over 40%.",
@@ -2101,16 +2101,16 @@
     "ko": "Utuly (BRYN-NDS1C)"
    },
    "api": {
-    "en": "Epinephrine 13.2 mg (two-dose device)",
-    "ko": "에피네프린 13.2 mg (2회 투여 디바이스)"
+    "en": "Epinephrine (two-spray dose)",
+    "ko": "에피네프린 (2회 분무 용량)"
    },
    "indication": {
     "en": "Type I allergic reactions incl. anaphylaxis",
     "ko": "아나필락시스 포함 제1형 알레르기 반응"
    },
    "device": {
-    "en": "Aptar Bidose liquid nasal device (upgraded flange/nozzle/dose indicator)",
-    "ko": "Aptar Bidose 액상 비강 디바이스 (개량형 핑거플랜지·노즐·용량표시)"
+    "en": "Upgraded two-spray liquid nasal device (flange, nozzle, dose indicator); maker unconfirmed",
+    "ko": "개선된 2회 분무 액상 비강 디바이스(플랜지·노즐·용량 표시); 제조사 미확인"
    },
    "stage": {
     "en": "Pivotal PK stage",
@@ -2145,8 +2145,8 @@
     "ko": "OX640 (에피네프린 분말)"
    },
    "api": {
-    "en": "Epinephrine (dose (unconfirmed)",
-    "ko": "에피네프린 (용량 (미확인)"
+    "en": "Epinephrine (dose unconfirmed)",
+    "ko": "에피네프린 (용량 미확인)"
    },
    "indication": {
     "en": "Emergency treatment of anaphylaxis",
@@ -2177,7 +2177,7 @@
   },
   {
    "id": "nasus-fmxin002",
-   "lane": "p2",
+   "lane": "early",
    "region": "IL",
    "area": "Emergency & rescue",
    "company": {
@@ -2189,8 +2189,8 @@
     "ko": "FMXIN002 (NS002)"
    },
    "api": {
-    "en": "Epinephrine 3.6–4.0 mg (Phase 2 doses)",
-    "ko": "에피네프린 3.6~4.0 mg (2상 용량)"
+    "en": "Epinephrine dry powder (~4 mg)",
+    "ko": "에피네프린 건조 분말 (약 4 mg)"
    },
    "indication": {
     "en": "Anaphylaxis",
@@ -2201,14 +2201,14 @@
     "ko": "건조분말 비강 디바이스 (회사 주장 실온 5년 안정성)"
    },
    "stage": {
-    "en": "Phase 2/3",
-    "ko": "임상 2/3상"
+    "en": "IND cleared · pivotal planned",
+    "ko": "IND 승인 · 허가 임상 예정"
    },
    "now": {
-    "en": "Presented nasal-deposition and stability posters at AAAAI 2026 (Feb–Mar 2026); Phase 2/3 in at-risk patients enrolling by invitation.",
-    "ko": "2026년 2~3월 AAAAI에서 비강 침착·안정성 포스터를 발표했으며, 고위험 환자 대상 2/3상은 초청 방식으로 모집 중이다."
+    "en": "Sep 2026: FDA cleared the NS002 IND; a pivotal self- vs HCP-administration study is planned for Q4 2026, with topline data in Q1 2027.",
+    "ko": "2026년 9월 FDA가 NS002 IND를 승인했으며, 자가 투여와 의료진 투여를 비교하는 피벗 시험을 2026년 4분기에 시작해 2027년 1분기에 톱라인 결과를 발표할 예정이다."
    },
-   "lastMove": "2026-02",
+   "lastMove": "2026-09",
    "trials": [
     {
      "nct": "NCT07045701",
@@ -2240,8 +2240,8 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "BiopharmaWatch: Nasus at AAAAI 2026",
-    "url": "https://www.biopharmawatch.com/news/NSRX/nasus-pharma-nasal-epinephrine-powder-aaai-2026"
+    "label": "Nasus Pharma release (2026-09-14)",
+    "url": "https://ir.nasuspharma.com/press_releases/nasus-pharma-announces-fda-clearance-to-initiate-clinical-study-of-ns002-in-the-treatment-of-anaphylaxis/"
    }
   },
   {
@@ -2387,8 +2387,8 @@
     "ko": "EU 승인 (2024년 6월)"
    },
    "now": {
-    "en": "Jun 2026: EMA assessment report issued on variation allowing self-administration (11-17 y, supervised) and caregiver administration; EC decision (unconfirmed).",
-    "ko": "2026년 6월: 11~17세 감독하 자가투여 및 보호자 투여 허용 변경에 대한 EMA 평가보고서 공개; EC 최종 결정은 미확인 (미확인)."
+    "en": "Jun 2026: EMA assessment report issued on variation allowing self-administration (11-17 y, supervised) and caregiver administration; EC decision unconfirmed.",
+    "ko": "2026년 6월: 11~17세 감독하 자가투여 및 보호자 투여 허용 변경에 대한 EMA 평가보고서 공개; EC 최종 결정은 미확인(미확인)."
    },
    "lastMove": "2026-06",
    "trials": [],
@@ -2423,8 +2423,8 @@
     "ko": "계절 인플루엔자 예방 (3~17세)"
    },
    "device": {
-    "en": "Ready-to-use liquid nasal spray, no reconstitution (dosing time reported cut from ~2 min to ~8 s)",
-    "ko": "재구성 불필요한 액상 비강 분무 (접종 시간 약 2분→8초로 단축 보도)"
+    "en": "Ready-to-use liquid nasal spray, no reconstitution",
+    "ko": "재구성 불필요한 즉시 사용형 액상 비강 스프레이"
    },
    "stage": {
     "en": "NMPA approved",
@@ -2467,7 +2467,7 @@
     "ko": "COVID-19 기초 및 이종 부스터 접종 (18세 이상)"
    },
    "device": {
-    "en": "Nasal drops (unconfirmed) device details)",
+    "en": "Nasal drops (unconfirmed device details)",
     "ko": "비강 점적 (기기 상세 미확인)"
    },
    "stage": {
@@ -2475,7 +2475,7 @@
     "ko": "인도 긴급사용"
    },
    "now": {
-    "en": "Still listed as authorized in India (tracker, Apr 2026); no 2025-26 supply or use news found - current availability (unconfirmed).",
+    "en": "Still listed as authorized in India (tracker, Apr 2026); no 2025-26 supply or use news found - current availability unconfirmed.",
     "ko": "2026년 4월 기준 인도 허가 유지로 집계되나 2025-26년 공급·사용 소식 없음 - 현재 유통 여부 미확인."
    },
    "lastMove": "2022-12",
@@ -2527,7 +2527,7 @@
     "ko": "COVID-19 예방"
    },
    "device": {
-    "en": "Nasal spray (unconfirmed) device)",
+    "en": "Nasal spray (unconfirmed device)",
     "ko": "비강 분무 (기기 미확인)"
    },
    "stage": {
@@ -2535,10 +2535,10 @@
     "ko": "중국 긴급사용"
    },
    "now": {
-    "en": "Mar 2026 review: Phase 3 overall efficacy 28.2% vs symptomatic Omicron, below the 30% success criterion; no new 2025-26 Wantai news found.",
-    "ko": "2026년 3월 리뷰: 3상 오미크론 유증상 감염 예방효과 28.2%로 성공 기준 30% 미달; 2025-26년 Wantai 신규 소식 없음."
+    "en": "Phase 3 efficacy was 28.2% against symptomatic Omicron, below the 30% success criterion; no 2025–26 news found.",
+    "ko": "3상 유증상 오미크론 예방효과 28.2%로 성공 기준 30%에 미달; 2025–26년 뉴스 없음."
    },
-   "lastMove": "2026-03",
+   "lastMove": "2023-11",
    "trials": [
     {
      "nct": "NCT04809389",
@@ -2551,12 +2551,12 @@
     }
    ],
    "noTrial": {
-    "en": "Phase 3 run in Colombia, Philippines, South Africa, Viet Nam (registry ID (unconfirmed); NCT04809389 is the HKU Phase 1",
+    "en": "Phase 3 run in Colombia, Philippines, South Africa, Viet Nam (registry ID unconfirmed); NCT04809389 is the HKU Phase 1",
     "ko": "3상은 콜롬비아·필리핀·남아공·베트남에서 진행(등록번호 미확인); NCT04809389는 HKU 1상"
    },
    "src": {
-    "label": "HKU Microbiology - Pneucolin",
-    "url": "https://sars20.microbiology.hku.hk/?p=59"
+    "label": "Lancet Respir Med Phase 3 dNS1-RBD (PMC)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10682370/"
    }
   },
   {
@@ -2581,7 +2581,7 @@
     "ko": "COVID-19 예방 (18세 이상)"
    },
    "device": {
-    "en": "Nasal spray, 2 doses 3 weeks apart (device (unconfirmed)",
+    "en": "Nasal spray, 2 doses 3 weeks apart (device unconfirmed)",
     "ko": "비강 분무, 3주 간격 2회 (기기 미확인)"
    },
    "stage": {
@@ -2589,7 +2589,7 @@
     "ko": "러시아 등록"
    },
    "now": {
-    "en": "Registered by Russian Health Ministry Apr 2022; no 2025-26 status found - current use (unconfirmed).",
+    "en": "Registered by Russian Health Ministry Apr 2022; no 2025-26 status found - current use unconfirmed.",
     "ko": "2022년 4월 러시아 보건부 등록; 2025-26년 현황 정보 없음 - 현재 사용 여부 미확인."
    },
    "lastMove": "2022-04",
@@ -2632,7 +2632,7 @@
     "ko": "COVID-19, 단회 비강 투여 vs mRNA 대조"
    },
    "device": {
-    "en": "Intranasal spray (device (unconfirmed)",
+    "en": "Intranasal spray (device unconfirmed)",
     "ko": "비강 분무 (기기 미확인)"
    },
    "stage": {
@@ -2743,7 +2743,7 @@
     "ko": "COVID-19 부스터 (비강·흡입 투여군)"
    },
    "device": {
-    "en": "Intranasal and inhalation routes (devices (unconfirmed)",
+    "en": "Intranasal and inhalation routes (devices unconfirmed)",
     "ko": "비강 및 흡입 경로 (기기 미확인)"
    },
    "stage": {
@@ -2751,8 +2751,8 @@
     "ko": "1상"
    },
    "now": {
-    "en": "NIAID-sponsored Phase 1 (n=80) recruiting as of Oct 2026 registry update; Ocugen added inhaled COVID/flu combo to pipeline (Jul 2026).",
-    "ko": "NIAID 후원 1상(80명) 2026년 10월 등록정보 기준 모집 중; Ocugen은 2026년 7월 흡입형 COVID/독감 복합백신을 파이프라인에 추가."
+    "en": "NIAID-sponsored Phase 1 (n=80) recruiting as of the Oct 2026 registry update; an inhaled COVID/flu combination is also in Ocugen's pipeline.",
+    "ko": "NIAID 후원 1상(n=80) 2026년 10월 등록 갱신 기준 모집 중; Ocugen 파이프라인에 흡입형 코로나/독감 복합 백신도 포함."
    },
    "lastMove": "2026-10",
    "trials": [
@@ -2827,7 +2827,7 @@
     }
    ],
    "noTrial": {
-    "en": "WHO Solidarity Trial Vaccines Phase 3 (registry ID and outcome (unconfirmed)",
+    "en": "WHO Solidarity Trial Vaccines Phase 3 (registry ID and outcome unconfirmed)",
     "ko": "WHO Solidarity 백신 3상 (등록번호·결과 미확인)"
    },
    "src": {
@@ -2857,7 +2857,7 @@
     "ko": "RSV 예방 (6개월~5세 소아)"
    },
    "device": {
-    "en": "Intranasal (device (unconfirmed)",
+    "en": "Intranasal (device unconfirmed)",
     "ko": "비강 투여 (기기 미확인)"
    },
    "stage": {
@@ -2865,10 +2865,10 @@
     "ko": "1상 조기 종료"
    },
    "now": {
-    "en": "Pediatric Phase 1 terminated by sponsor decision (primary completion Jun 2025, n=41); no company explanation found.",
-    "ko": "소아 1상이 스폰서 결정으로 조기 종료(2025년 6월, 41명); 회사 측 설명은 확인되지 않음."
+    "en": "Pediatric Phase 1 (n=41) terminated by sponsor decision Jul 2026 (primary completion Jun 2025); no company explanation found.",
+    "ko": "소아 1상(41명)이 2026년 7월 스폰서 결정으로 조기 종료됨(1차 완료 2025년 6월). 회사 측 설명은 확인되지 않음."
    },
-   "lastMove": "2025-06",
+   "lastMove": "2026-07",
    "trials": [
     {
      "nct": "NCT04919109",
@@ -2908,7 +2908,7 @@
     "ko": "영유아·소아 RSV 예방 (8~59개월)"
    },
    "device": {
-    "en": "Intranasal (device (unconfirmed)",
+    "en": "Intranasal (device unconfirmed)",
     "ko": "비강 투여 (기기 미확인)"
    },
    "stage": {
@@ -2968,7 +2968,7 @@
     "ko": "영유아 RSV 예방"
    },
    "device": {
-    "en": "Intranasal, needle- and adjuvant-free (device (unconfirmed)",
+    "en": "Intranasal, needle- and adjuvant-free (device unconfirmed)",
     "ko": "비강 투여, 무바늘·무보조제 (기기 미확인)"
    },
    "stage": {
@@ -2976,10 +2976,10 @@
     "ko": "보류 (2/3상 준비 단계)"
    },
    "now": {
-    "en": "Portfolio put on hold with layoffs for lack of funding (Fierce Biotech; exact date (unconfirmed), ~2023); no 2025-26 news found.",
-    "ko": "자금난으로 포트폴리오 보류 및 인력 감축(Fierce Biotech, 정확한 시점 미확인·2023년 추정); 2025-26년 소식 없음."
+    "en": "Mar 2024: portfolio put on hold with layoffs, lacking funds for a Phase 2/3 trial (Fierce Biotech); no 2025-26 news found.",
+    "ko": "2024년 3월: 2/3상 자금 부족으로 파이프라인 개발을 중단하고 인력을 감축함(Fierce Biotech). 2025~26년 소식은 확인되지 않음."
    },
-   "lastMove": "2023-08",
+   "lastMove": "2024-03",
    "trials": [
     {
      "nct": "NCT04690335",
@@ -3077,7 +3077,7 @@
   },
   {
    "id": "deltaflu",
-   "lane": "p2",
+   "lane": "early",
    "region": "AT",
    "area": "Vaccines & infection",
    "company": {
@@ -3097,21 +3097,21 @@
     "ko": "범용 인플루엔자 예방"
    },
    "device": {
-    "en": "Intranasal spray (device (unconfirmed)",
+    "en": "Intranasal spray (device unconfirmed)",
     "ko": "비강 분무 (기기 미확인)"
    },
    "stage": {
-    "en": "Phase 2 (challenge)",
-    "ko": "2상 (인체도전)"
+    "en": "Phase 1 / challenge planned",
+    "ko": "1상 / 인체도전 예정"
    },
    "now": {
-    "en": "May 2025: FLUniversal published protocol for EU-funded (EUR 7.6M) human-challenge trials of intranasal DeltaFLU; no results found.",
-    "ko": "2025년 5월: EU 지원(760만 유로) FLUniversal이 비강 DeltaFLU 인체도전시험 프로토콜 발표; 결과는 아직 없음."
+    "en": "May 2025: FLUniversal published the protocol for EU-funded first-in-human and human-challenge trials of intranasal DeltaFLU; no results found.",
+    "ko": "2025년 5월: FLUniversal이 비강 DeltaFLU의 EU 지원 최초 인체 투여 및 인체도전 임상 프로토콜을 발표; 결과 없음."
    },
    "lastMove": "2025-05",
    "trials": [],
    "noTrial": {
-    "en": "EU CTIS registration (ID (unconfirmed); Vivaldi reports completed Phase 1/2 of DeltaFLU strains",
+    "en": "EU CTIS registration (ID unconfirmed); Vivaldi reports completed Phase 1/2 of DeltaFLU strains",
     "ko": "EU CTIS 등록(번호 미확인); Vivaldi는 DeltaFLU 균주 1/2상 완료라고 밝힘"
    },
    "src": {
@@ -3141,7 +3141,7 @@
     "ko": "COVID-19 (OMV 점막 플랫폼)"
    },
    "device": {
-    "en": "Intranasal, 2 doses 3 weeks apart (device (unconfirmed)",
+    "en": "Intranasal, 2 doses 3 weeks apart (device unconfirmed)",
     "ko": "비강 투여, 3주 간격 2회 (기기 미확인)"
    },
    "stage": {
@@ -3149,10 +3149,10 @@
     "ko": "1상 완료"
    },
    "now": {
-    "en": "Jun 2026: Phase 1 results published in Vaccines (no severe vaccine reactions in 26 vaccinees; dose-dependent immunity); Phase 2 plans unclear.",
-    "ko": "2026년 6월: Vaccines지에 1상 결과 게재(접종자 26명 중 중증 이상반응 없음, 용량 의존적 면역); 2상 계획 불명확."
+    "en": "Jul 2026: Phase 1 results published in Vaccines (no severe vaccine reactions in 26 vaccinees; higher dose, higher immunity); Phase 2 plans unclear.",
+    "ko": "2026년 7월: 1상 결과가 Vaccines에 게재됨(백신 접종자 26명 중 중증 이상반응 없음, 고용량군 면역반응이 더 높음). 2상 계획은 불분명함."
    },
-   "lastMove": "2026-06",
+   "lastMove": "2026-07",
    "trials": [
     {
      "nct": "NCT05604690",
@@ -3192,7 +3192,7 @@
     "ko": "COVID-19 부스터"
    },
    "device": {
-    "en": "Intranasal (device (unconfirmed)",
+    "en": "Intranasal (device unconfirmed)",
     "ko": "비강 투여 (기기 미확인)"
    },
    "stage": {
@@ -3243,7 +3243,7 @@
     "ko": "COVID-19 (점막 부스터)"
    },
    "device": {
-    "en": "Nasal spray / intranasal (device (unconfirmed)",
+    "en": "Nasal spray / intranasal (device unconfirmed)",
     "ko": "비강 분무 (기기 미확인)"
    },
    "stage": {
@@ -3312,7 +3312,7 @@
     "ko": "BCG 접종 성인의 결핵 부스터"
    },
    "device": {
-    "en": "Intranasal, single dose (device (unconfirmed)",
+    "en": "Intranasal, single dose (device unconfirmed)",
     "ko": "비강 단회 투여 (기기 미확인)"
    },
    "stage": {
@@ -3363,7 +3363,7 @@
     "ko": "비강 항바이러스 (COVID-19); 재발성 급성 비부비동염 임상"
    },
    "device": {
-    "en": "Nasal spray (device (unconfirmed)",
+    "en": "Nasal spray (device unconfirmed)",
     "ko": "비강 분무 (기기 미확인)"
    },
    "stage": {
@@ -3456,7 +3456,7 @@
     }
    ],
    "noTrial": {
-    "en": "CONTAIN registry ID (unconfirmed) (likely German/EU registry); NCT06008860 is a separate UChicago Astepro early-COVID pilot",
+    "en": "CONTAIN registry ID unconfirmed (likely German/EU registry); NCT06008860 is a separate UChicago Astepro early-COVID pilot",
     "ko": "CONTAIN 등록번호 미확인(독일/EU 등록 추정); NCT06008860은 별도의 UChicago Astepro 초기 COVID 파일럿"
    },
    "src": {
@@ -3691,7 +3691,7 @@
     "ko": "Nasodine"
    },
    "api": {
-    "en": "Povidone-iodine (concentration (unconfirmed)",
+    "en": "Povidone-iodine (concentration unconfirmed)",
     "ko": "포비돈요오드 (농도 미확인)"
    },
    "indication": {
@@ -3713,7 +3713,7 @@
    "lastMove": "2026-03",
    "trials": [],
    "noTrial": {
-    "en": "Phase 3 common-cold trial published (registry ID (unconfirmed); US sale without FDA approval on legal advice (no therapeutic claims)",
+    "en": "Phase 3 common-cold trial published (registry ID unconfirmed); US sale without FDA approval on legal advice (no therapeutic claims)",
     "ko": "감기 대상 3상 결과 발표(등록번호 미확인); 치료 효능 미표방으로 FDA 승인 없이 미국 판매"
    },
    "src": {
@@ -3881,8 +3881,8 @@
     "ko": "계절성 알레르기 비염, 미국에서 6세 이상으로 확대"
    },
    "device": {
-    "en": "Fixed-dose combination metered aqueous spray (pump supplier (unconfirmed)",
-    "ko": "고정용량 복합 정량 수성 스프레이 (펌프 공급사 (미확인)"
+    "en": "Fixed-dose combination metered aqueous spray (pump supplier unconfirmed)",
+    "ko": "고정용량 복합 정량 수성 스프레이 (펌프 공급사 미확인)"
    },
    "stage": {
     "en": "Approved in 6+ markets",
@@ -4021,16 +4021,16 @@
     "ko": "WL1006 (세마글루타이드)"
    },
    "api": {
-    "en": "Semaglutide (GLP-1 RA); dose (unconfirmed)",
-    "ko": "Semaglutide (GLP-1 수용체 작용제); 용량 (미확인)"
+    "en": "Semaglutide (GLP-1 RA); dose unconfirmed",
+    "ko": "Semaglutide (GLP-1 수용체 작용제); 용량 미확인"
    },
    "indication": {
     "en": "Overweight / obesity (weight management)",
     "ko": "과체중·비만 (체중 관리)"
    },
    "device": {
-    "en": "Nasal spray (device/permeation enhancer (unconfirmed)",
-    "ko": "비강 스프레이 (디바이스·흡수촉진제 (미확인)"
+    "en": "Nasal spray (device/permeation enhancer unconfirmed)",
+    "ko": "비강 스프레이 (디바이스·흡수촉진제 미확인)"
    },
    "stage": {
     "en": "Phase 1 (US)",
@@ -4212,8 +4212,8 @@
     "ko": "청소년 비만"
    },
    "device": {
-    "en": "Nasal spray (commercial device (unconfirmed)",
-    "ko": "비강 스프레이 (디바이스 (미확인)"
+    "en": "Nasal spray (commercial device unconfirmed)",
+    "ko": "비강 스프레이 (디바이스 미확인)"
    },
    "stage": {
     "en": "Phase 2 (academic)",
@@ -4255,16 +4255,16 @@
     "ko": "PG-011 (pumecitinib)"
    },
    "api": {
-    "en": "Pumecitinib 0.3–0.6% (small-molecule, JAK-inhibitor class by '-citinib' stem; mechanism (unconfirmed)",
-    "ko": "Pumecitinib 0.3~0.6% (저분자, '-citinib' 명명상 JAK 억제제 계열 추정; (미확인)"
+    "en": "Pumecitinib 0.3–0.6% (small-molecule, JAK-inhibitor class by '-citinib' stem; mechanism unconfirmed)",
+    "ko": "Pumecitinib 0.3~0.6% (저분자, '-citinib' 명명상 JAK 억제제 계열 추정; 미확인)"
    },
    "indication": {
     "en": "Moderate-to-severe seasonal allergic rhinitis, adults",
     "ko": "성인 중등도~중증 계절성 알레르기 비염"
    },
    "device": {
-    "en": "Aqueous nasal spray, 2 sprays/nostril BID (device (unconfirmed)",
-    "ko": "수성 비강 스프레이, 콧구멍당 2회 1일 2회 (디바이스 (미확인)"
+    "en": "Aqueous nasal spray, 2 sprays/nostril BID (device unconfirmed)",
+    "ko": "수성 비강 스프레이, 콧구멍당 2회 1일 2회 (디바이스 미확인)"
    },
    "stage": {
     "en": "Phase IIb/III (seamless)",
@@ -4315,8 +4315,8 @@
     "ko": "ALDP001"
    },
    "api": {
-    "en": " (unconfirmed)",
-    "ko": " (미확인)"
+    "en": "unconfirmed",
+    "ko": "미확인"
    },
    "indication": {
     "en": "Seasonal allergic rhinitis (allergen challenge chamber)",
@@ -4366,8 +4366,8 @@
     "ko": "VVN432"
    },
    "api": {
-    "en": "VVN432 0.5% / 1% (mechanism (unconfirmed)",
-    "ko": "VVN432 0.5% / 1% (기전 (미확인)"
+    "en": "VVN432 0.5% / 1% (mechanism unconfirmed)",
+    "ko": "VVN432 0.5% / 1% (기전 미확인)"
    },
    "indication": {
     "en": "Chronic rhinosinusitis",
@@ -4417,8 +4417,8 @@
     "ko": "CYR-064"
    },
    "api": {
-    "en": "Broad-spectrum PDE inhibitor (theophylline per secondary sources; (unconfirmed) in primary source)",
-    "ko": "광범위 PDE 억제제 (2차 자료상 theophylline; 1차 자료 (미확인)"
+    "en": "Broad-spectrum PDE inhibitor (theophylline per secondary sources; unconfirmed in primary source)",
+    "ko": "광범위 PDE 억제제 (2차 자료상 theophylline; 1차 자료 미확인)"
    },
    "indication": {
     "en": "Persistent post-viral smell loss (hyposmia)",
@@ -4433,8 +4433,8 @@
     "ko": "2상 완료"
    },
    "now": {
-    "en": "Phase 2 FLAVOR (n=151) reported positive topline in Feb 2026; Phase 3 planned for 2H 2026 per trade press.",
-    "ko": "2026년 2월 FLAVOR 2상(151명) 긍정적 톱라인을 발표했으며, 업계 보도상 2026년 하반기 3상 진입 계획이다."
+    "en": "Feb 2026: Phase 2 FLAVOR (n=151) met its safety primary endpoint, with durable smell improvements on secondary endpoints.",
+    "ko": "2026년 2월: 2상 FLAVOR(n=151)가 안전성 1차 평가변수를 충족했고, 2차 평가변수에서 후각 개선이 지속됨."
    },
    "lastMove": "2026-02",
    "trials": [
@@ -4673,7 +4673,7 @@
     "ko": "인플루엔자 예방, 만 24개월~49세"
    },
    "device": {
-    "en": "Pre-filled single-use intranasal sprayer (device vendor (unconfirmed)",
+    "en": "Pre-filled single-use intranasal sprayer (device vendor unconfirmed)",
     "ko": "사전충전형 1회용 비강 분무기(디바이스 공급사 미확인)"
    },
    "stage": {
@@ -4681,8 +4681,8 @@
     "ko": "식약처 허가"
    },
    "now": {
-    "en": "MFDS granted first national lot release in Sep 2025 and sales began; not in the national immunization program.",
-    "ko": "2025년 9월 식약처 첫 국가출하승인 후 판매를 시작했으며, 국가예방접종(NIP)에는 포함되지 않았다."
+    "en": "MFDS issued the first lot release in Sep 2025 and AstraZeneca began preparing sales; not in the national immunization program.",
+    "ko": "식약처가 2025년 9월 첫 국가출하승인을 내주었고 아스트라제네카가 판매 준비에 착수; 국가예방접종사업 미포함."
    },
    "lastMove": "2025-09",
    "trials": [],
@@ -4761,7 +4761,7 @@
     "ko": "정신건강(CNS) 및 호흡기 감염 예방"
    },
    "device": {
-    "en": "Nasal spray formulations targeting nose-to-brain route; device (unconfirmed)",
+    "en": "Nasal spray formulations targeting nose-to-brain route; device unconfirmed",
     "ko": "Nose-to-Brain 경로 겨냥 비강 분무 제형, 디바이스 미확인"
    },
    "stage": {
@@ -4797,8 +4797,8 @@
     "ko": "노즈가드 / 노즈가드 나이트"
    },
    "api": {
-    "en": "Xanthomonas fermentation extract 0.25 mg/mL + camostat",
-    "ko": "잔토모나스 발효추출물 0.25mg/mL + 카모스타트"
+    "en": "Xanthomonas fermentation extract + camostat",
+    "ko": "잔토모나스 발효 추출물 + 카모스타트"
    },
    "indication": {
     "en": "Reducing respiratory viral infection (COVID-19, influenza)",
@@ -4900,7 +4900,7 @@
     "ko": "호흡기 바이러스 감염·인플루엔자"
    },
    "device": {
-    "en": "Intranasal (formulation/device (unconfirmed)",
+    "en": "Intranasal (formulation/device unconfirmed)",
     "ko": "비강 투여(제형·디바이스 미확인)"
    },
    "stage": {
@@ -4944,7 +4944,7 @@
     "ko": "코로나19 예방·치료"
    },
    "device": {
-    "en": "Self-administered intranasal spray (device (unconfirmed)",
+    "en": "Self-administered intranasal spray (device unconfirmed)",
     "ko": "자가투여 비강 스프레이(디바이스 미확인)"
    },
    "stage": {
@@ -4952,7 +4952,7 @@
     "ko": "임상 1상 완료(이스라엘)"
    },
    "now": {
-    "en": "Phase 1 in 16 healthy adults showed safety (Aug 2023); no Phase 2 start found (unconfirmed), likely stalled).",
+    "en": "Phase 1 in 16 healthy adults showed safety (Aug 2023); no Phase 2 start found (unconfirmed, likely stalled).",
     "ko": "2023년 8월 건강인 16명 1상에서 안전성을 확인했으나 2상 착수는 확인되지 않았다(미확인, 정체 추정)."
    },
    "lastMove": "2023-08",
@@ -5039,7 +5039,7 @@
     "ko": "코로나19 예방·치료"
    },
    "device": {
-    "en": "Nasal spray (device (unconfirmed)",
+    "en": "Nasal spray (device unconfirmed)",
     "ko": "비강 분사(디바이스 미확인)"
    },
    "stage": {
@@ -5047,7 +5047,7 @@
     "ko": "비임상"
    },
    "now": {
-    "en": "Preclinical development started Apr 2022 with $2.2M IAVI funding; no later update found (unconfirmed), possibly inactive).",
+    "en": "Preclinical development started Apr 2022 with $2.2M IAVI funding; no later update found (unconfirmed, possibly inactive).",
     "ko": "2022년 4월 IAVI 220만달러 지원으로 비임상을 시작했으나 이후 진척은 확인되지 않았다(미확인, 중단 가능성)."
    },
    "lastMove": "2022-04",
@@ -5083,7 +5083,7 @@
     "ko": "아나필락시스 응급치료(체중 15kg 초과 성인·소아)"
    },
    "device": {
-    "en": "Single-use liquid nasal spray with Intravail absorption enhancer (ARS platform; Aptar UDS per US label – Japan device (unconfirmed)",
+    "en": "Single-use liquid nasal spray with Intravail absorption enhancer (ARS platform; Aptar UDS per US label – Japan device unconfirmed)",
     "ko": "Intravail 흡수촉진제 함유 1회용 액상 비강 분무(ARS 플랫폼, 일본 디바이스 미확인)"
    },
    "stage": {
@@ -5091,13 +5091,13 @@
     "ko": "PMDA 허가"
    },
    "now": {
-    "en": "Japan approved 1 mg and 2 mg doses in Sep 2025; Alfresa targeted Q4 2025 availability (launch (unconfirmed).",
-    "ko": "2025년 9월 일본에서 1mg·2mg이 승인됐고 Alfresa는 2025년 4분기 출시를 목표로 했다(출시 미확인)."
+    "en": "Japan approved the 1 mg and 2 mg doses in Sep 2025; Alfresa launched neffy in Japan in Feb 2026.",
+    "ko": "일본이 2025년 9월 1mg·2mg 용량을 승인; Alfresa가 2026년 2월 일본에 neffy 출시."
    },
-   "lastMove": "2025-09",
+   "lastMove": "2026-02",
    "trials": [],
    "noTrial": {
-    "en": "No Japan-specific NCT found; approval basis (unconfirmed).",
+    "en": "No Japan-specific NCT found; approval basis unconfirmed.",
     "ko": "일본 전용 NCT 없음, 허가 근거 미확인."
    },
    "src": {
@@ -5222,7 +5222,7 @@
     "ko": "인플루엔자 예방"
    },
    "device": {
-    "en": "Lyophilized powder reconstituted for nasal spray (device (unconfirmed)",
+    "en": "Lyophilized powder reconstituted for nasal spray (device unconfirmed)",
     "ko": "동결건조 분말 재구성 후 비강 분무(디바이스 미확인)"
    },
    "stage": {
@@ -5274,7 +5274,7 @@
     "ko": "neffy (중국, 优敏速)"
    },
    "api": {
-    "en": "Epinephrine nasal spray (strengths in China (unconfirmed)",
+    "en": "Epinephrine nasal spray (strengths in China unconfirmed)",
     "ko": "에피네프린 비강 스프레이(중국 용량 미확인)"
    },
    "indication": {
@@ -5290,7 +5290,7 @@
     "ko": "시판"
    },
    "now": {
-    "en": "ARS's May 2026 release lists neffy as commercialized in China as 优敏速; exact NMPA approval date (unconfirmed).",
+    "en": "ARS's May 2026 release lists neffy as commercialized in China as 优敏速; exact NMPA approval date unconfirmed.",
     "ko": "ARS 2026년 5월 발표에 neffy가 중국에서 '优敏速'로 상업화된 것으로 기재됐으며, NMPA 허가일은 미확인이다."
    },
    "lastMove": "2026-05",
@@ -5318,7 +5318,7 @@
     "ko": "HH-120"
    },
    "api": {
-    "en": "HH-120 (protein-based SARS-CoV-2 entry blocker; molecule details (unconfirmed)",
+    "en": "HH-120 (protein-based SARS-CoV-2 entry blocker; molecule details unconfirmed)",
     "ko": "HH-120(단백질 기반 코로나19 진입 차단제, 세부 미확인)"
    },
    "indication": {
@@ -5326,7 +5326,7 @@
     "ko": "코로나19 노출 후 예방·경증 치료"
    },
    "device": {
-    "en": "Nasal spray (device (unconfirmed)",
+    "en": "Nasal spray (device unconfirmed)",
     "ko": "비강 분무(디바이스 미확인)"
    },
    "stage": {
@@ -5431,8 +5431,8 @@
    "region": "GL",
    "type": "Trial",
    "text": {
-    "en": "Tiziana completed dosing in its Phase 2 intranasal foralumab trial in early Alzheimer's disease; topline expected Q1 2027.",
-    "ko": "Tiziana가 초기 알츠하이머병 대상 비강 포랄루맙 2상의 투여를 완료했으며 톱라인은 2027년 1분기 예정."
+    "en": "Tiziana dosed the last patient in its Phase 2 intranasal foralumab trial in early Alzheimer's disease; topline expected Q1 2027.",
+    "ko": "Tiziana가 초기 알츠하이머병 대상 비강 포랄루맙 2상의 마지막 환자 투여를 시작함; 톱라인은 2027년 1분기 예상."
    },
    "src": {
     "label": "StockTitan (Tiziana 6-K)",
@@ -5453,7 +5453,7 @@
    }
   },
   {
-   "date": "2026-10-06",
+   "date": "2026-10-05",
    "region": "GL",
    "type": "Deal",
    "text": {
@@ -5528,6 +5528,19 @@
    "src": {
     "label": "AstraZeneca US",
     "url": "https://www.astrazeneca-us.com/media/articles/2026/FLUMIST-Influenza-Vaccine-Live-Intranasal-Now-Available-in-the-US-for-the-2026-2027-Flu-Season.html"
+   }
+  },
+  {
+   "date": "2026-09-11",
+   "region": "GL",
+   "type": "Deal",
+   "text": {
+    "en": "Eli Lilly completed its acquisition of AtaiBeckley, taking over intranasal BPL-003 (5-MeO-DMT) for treatment-resistant depression.",
+    "ko": "Eli Lilly가 AtaiBeckley 인수를 완료하며 치료저항성 우울증용 비강 BPL-003(5-MeO-DMT)을 확보."
+   },
+   "src": {
+    "label": "Lilly PR 2026-09-11",
+    "url": "https://www.placera.se/pressmeddelanden/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-20260911"
    }
   },
   {
@@ -5747,7 +5760,7 @@
     "ko": "FDA가 Amphastar의 Rextovy 4 mg 날록손 비강 스프레이를 일반의약품(OTC)으로 승인했다."
    },
    "src": {
-    "label": "FDA",
+    "label": "FDA press announcement 2026-06-16",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose"
    }
   },
@@ -5778,6 +5791,19 @@
    }
   },
   {
+   "date": "2026-05-08",
+   "region": "GL",
+   "type": "Device",
+   "text": {
+    "en": "Hovione and IDC opened their intranasal dry-powder delivery platform to commercial partners.",
+    "ko": "Hovione과 IDC가 비강 건조분말 전달 플랫폼을 상업 파트너에게 개방."
+   },
+   "src": {
+    "label": "Pharma Manufacturing",
+    "url": "https://www.pharmamanufacturing.com/industry-news/news/55376204/hovione-idc-open-intranasal-drug-delivery-platform-for-commercial-partnerships"
+   }
+  },
+  {
    "date": "2026-05-07",
    "region": "GL",
    "type": "Regulatory",
@@ -5791,25 +5817,12 @@
    }
   },
   {
-   "date": "2026-05-01",
-   "region": "GL",
-   "type": "Device",
-   "text": {
-    "en": "Hovione and IDC open their single-use, capsule-based nasal dry-powder device to commercial partners (olfactory-region/N2B targeting claimed; multi-dose version in development) (exact day (unconfirmed), May 2026).",
-    "ko": "Hovione와 IDC, 캡슐 기반 일회용 비강 건조분말 디바이스를 상업 파트너에 개방 (후각부/N2B 표적 주장; 다회용 개발 중) (정확한 일자 (미확인), 2026년 5월)."
-   },
-   "src": {
-    "label": "Manufacturing Chemist",
-    "url": "https://manufacturingchemist.com/hovione-idc-open-intranasal-dry-powder-drug-delivery"
-   }
-  },
-  {
    "date": "2026-04-30",
    "region": "GL",
    "type": "Corporate",
    "text": {
-    "en": "Aptar Q1 2026: Pharma core sales -1% as emergency-medicine (Narcan) destocking hits; prescription division -10%, but systemic nasal pipeline still building (release day (unconfirmed), late April).",
-    "ko": "Aptar 2026년 1분기: 응급의약품(Narcan) 재고 조정으로 Pharma 핵심 매출 -1%, 처방 부문 -10%; 전신 비강 파이프라인은 확대 중 (발표일 (미확인), 4월 말)."
+    "en": "Aptar Q1 2026: Pharma core sales fell 1% on emergency-medicine destocking; prescription dispensing systems fell 10% while the systemic nasal pipeline kept building.",
+    "ko": "Aptar 2026년 1분기: 응급의약품 재고 조정으로 Pharma 핵심 매출 1% 감소, 처방 디스펜싱 시스템 10% 감소, 전신 비강 전달 파이프라인은 계속 확대."
    },
    "src": {
     "label": "Aptar 8-K (SEC)",
@@ -5886,8 +5899,8 @@
    "region": "GL",
    "type": "Approval",
    "text": {
-    "en": "European Commission approved EURneffy 1 mg adrenaline nasal spray for children 15–30 kg (ALK).",
-    "ko": "유럽연합 집행위원회가 체중 15~30 kg 소아용 EURneffy 1 mg 아드레날린 비강 스프레이를 승인했다(ALK)."
+    "en": "European Commission approved EURneffy 1 mg adrenaline nasal spray for children ≥15 kg (aged 4+), marketed by ALK.",
+    "ko": "유럽 집행위원회가 15kg 이상(4세 이상) 소아용 EURneffy 1mg 아드레날린 비강 스프레이를 승인(ALK 판매)."
    },
    "src": {
     "label": "ALK investor release",
@@ -5925,8 +5938,8 @@
    "region": "GL",
    "type": "Trial",
    "text": {
-    "en": "Cyrano's CYR-064 nasal spray met its Phase 2 FLAVOR safety endpoint with improvements in post-viral smell loss.",
-    "ko": "Cyrano의 CYR-064 비강 스프레이가 FLAVOR 2상에서 안전성 평가변수를 충족하고 바이러스 후 후각 저하 개선을 보였다."
+    "en": "Cyrano's CYR-064 nasal spray met its Phase 2 FLAVOR safety primary endpoint, with smell improvements on secondary endpoints in post-viral hyposmia.",
+    "ko": "Cyrano의 CYR-064 비강 스프레이가 2상 FLAVOR에서 안전성 1차 평가변수를 충족했고, 바이러스 후 후각저하에서 2차 평가변수상 후각 개선을 보임."
    },
    "src": {
     "label": "Clinical Trials Arena",
@@ -6077,6 +6090,19 @@
    }
   },
   {
+   "date": "2025-12-11",
+   "region": "KR",
+   "type": "Device",
+   "text": {
+    "en": "Rhinocare Korea announces a Singapore joint venture, in final stages, for its drug-free JetStream warm-steam nasal therapy device.",
+    "ko": "라이노케어코리아가 약물 없이 따뜻한 증기로 코 증상을 완화하는 JetStream 기기를 위한 싱가포르 합작법인 설립이 막바지 단계라고 발표했다."
+   },
+   "src": {
+    "label": "BioSpectrum Asia",
+    "url": "https://www.biospectrumasia.com/news/123/27000/rhinocare-korea-accelerates-global-expansion-with-singapore-joint-venture.html"
+   }
+  },
+  {
    "date": "2025-12-04",
    "region": "GL",
    "type": "Filing",
@@ -6087,19 +6113,6 @@
    "src": {
     "label": "PharnexCloud",
     "url": "https://www.pharnexcloud.com/zixun/zcsp_256033"
-   }
-  },
-  {
-   "date": "2025-12-01",
-   "region": "KR",
-   "type": "Device",
-   "text": {
-    "en": "Rhinocare Korea announces a Singapore joint venture for its drug-free JetStream warm-steam nasal therapy device (exact day (unconfirmed); December 2025).",
-    "ko": "Rhinocare Korea, 약물 없는 JetStream 온열 증기 비강 치료 디바이스의 싱가포르 합작법인 설립 발표 (정확한 일자 (미확인); 2025년 12월)."
-   },
-   "src": {
-    "label": "BioSpectrum Asia",
-    "url": "https://www.biospectrumasia.com/news/123/27000/rhinocare-korea-accelerates-global-expansion-with-singapore-joint-venture.html"
    }
   },
   {
@@ -6142,7 +6155,7 @@
    }
   },
   {
-   "date": "2025-09-29",
+   "date": "2025-09-30",
    "region": "GL",
    "type": "Corporate",
    "text": {
@@ -6155,12 +6168,12 @@
    }
   },
   {
-   "date": "2025-09-29",
+   "date": "2025-09-26",
    "region": "KR",
    "type": "Launch",
    "text": {
-    "en": "MFDS issued the first lot release for AstraZeneca's FluMist nasal flu vaccine in Korea and sales began.",
-    "ko": "식약처가 아스트라제네카 비강 독감백신 플루미스트의 첫 국가출하승인을 내 판매가 시작됐다."
+    "en": "MFDS issued the first lot release for AstraZeneca's FluMist nasal flu vaccine in Korea, and AstraZeneca began preparing sales.",
+    "ko": "식약처가 아스트라제네카의 비강 분무형 독감백신 플루미스트에 대해 국내 첫 국가출하승인을 내렸고, 아스트라제네카는 판매 준비에 들어갔다."
    },
    "src": {
     "label": "Dailypharm",
@@ -6211,8 +6224,8 @@
    "region": "GL",
    "type": "Deal",
    "text": {
-    "en": "Aptar Pharma signs exclusive partnership and equity investment with Dianosic (active resorbable intranasal scaffold for allergic rhinitis/CRS), also exploring nose-to-brain uses.",
-    "ko": "Aptar Pharma, Dianosic(알레르기 비염/CRS용 흡수성 비강 내 스캐폴드)과 독점 파트너십 및 지분 투자 체결, nose-to-brain 활용도 검토."
+    "en": "Aptar Pharma signed an exclusive partnership with French biotech Dianosic to develop its active resorbable intranasal scaffold for chronic allergic rhinitis and CRS.",
+    "ko": "Aptar Pharma가 프랑스 바이오텍 Dianosic과 만성 알레르기 비염·만성 부비동염용 흡수성 비강 내 스캐폴드 개발을 위한 독점 파트너십 체결."
    },
    "src": {
     "label": "Business Wire",
@@ -6246,6 +6259,19 @@
    }
   },
   {
+   "date": "2025-08-26",
+   "region": "GL",
+   "type": "Approval",
+   "text": {
+    "en": "China's BCHT won NMPA approval (Aug 2025) for a liquid, no-reconstitution nasal spray live attenuated flu vaccine for ages 3-17.",
+    "ko": "중국 BCHT가 3~17세 대상 재용해가 필요 없는 액상형 비강분무 약독화 생백신 독감백신에 대해 NMPA 허가(2025년 8월)를 받았다."
+   },
+   "src": {
+    "label": "China Securities Journal disclosure",
+    "url": "https://paper.cnstock.com/html/2025-10/31/content_2140352.htm"
+   }
+  },
+  {
    "date": "2025-08-15",
    "region": "GL",
    "type": "Launch",
@@ -6256,19 +6282,6 @@
    "src": {
     "label": "Business Wire",
     "url": "https://www.businesswire.com/news/home/20250815310613/en"
-   }
-  },
-  {
-   "date": "2025-08-03",
-   "region": "GL",
-   "type": "Approval",
-   "text": {
-    "en": "China's BCHT won NMPA approval (Aug 2025) for a liquid, no-reconstitution nasal spray live attenuated flu vaccine for ages 3-17 and began rollout.",
-    "ko": "중국 BCHT(百克生物)가 재구성이 필요 없는 3~17세용 액상 비강 분무 약독화 독감 생백신의 NMPA 승인(2025년 8월)을 받고 공급을 시작했다."
-   },
-   "src": {
-    "label": "China Securities Journal disclosure",
-    "url": "https://paper.cnstock.com/html/2025-10/31/content_2140352.htm"
    }
   },
   {
@@ -6354,12 +6367,12 @@
    "region": "GL",
    "type": "Approval",
    "text": {
-    "en": "FDA approves Atzumi (DHE 5.2 mg nasal powder, Satsuma/SNBL) - first product on SNBL's SMART nasal powder platform; approval on PK + ASCEND safety after an earlier manufacturing-related CRL. Bespak fills/assembles the device.",
-    "ko": "FDA, Atzumi(DHE 5.2 mg 비강 분말, Satsuma/SNBL) 승인 - SNBL SMART 비강 분말 플랫폼 첫 제품. 이전 제조 관련 CRL 이후 PK + ASCEND 안전성으로 승인. Bespak이 충전·조립 담당."
+    "en": "FDA approved Atzumi (DHE 5.2 mg nasal powder, Satsuma/SNBL) on PK and ASCEND safety data, after an earlier CMC-related rejection.",
+    "ko": "FDA가 PK 및 ASCEND 안전성 자료를 근거로 Atzumi(DHE 5.2mg 비강 분말, Satsuma/SNBL)를 승인; 이전에는 CMC 문제로 승인 거절."
    },
    "src": {
-    "label": "NC Biotech",
-    "url": "https://www.ncbiotech.org/news/durham-based-satsuma-wins-fda-approval-migraine-treatment"
+    "label": "Applied Clinical Trials 2025-05-01",
+    "url": "https://www.appliedclinicaltrialsonline.com/view/fda-approves-satsuma-sts101-nasal-powder-acute-migraine"
    }
   },
   {
@@ -6380,8 +6393,8 @@
    "region": "GL",
    "type": "Approval",
    "text": {
-    "en": "FDA approves neffy 1 mg epinephrine nasal spray (Aptar Unidose device) for children 15 to <30 kg, based on a single-arm pediatric PK/PD study.",
-    "ko": "FDA, neffy 1 mg epinephrine 비강 분무(Aptar Unidose 디바이스)를 체중 15~30 kg 미만 소아에 승인. 단일군 소아 PK/PD 시험 근거."
+    "en": "FDA approved neffy 1 mg epinephrine nasal spray for children 15 to <30 kg, based on pediatric and adult PK/PD data.",
+    "ko": "FDA가 체중 15–30kg 미만 소아용 neffy 1mg 에피네프린 비강 스프레이를 소아·성인 PK/PD 자료로 승인."
    },
    "src": {
     "label": "ARS Pharma via BioSpace",
@@ -6426,76 +6439,91 @@
     "products": [
      {
       "product": "Narcan (naloxone 4 mg nasal spray)",
-      "trial": "Healthy-volunteer comparative PK study (IN vs IM naloxone). NIDA-sponsored IN vs IM naloxone PK study is registered as NCT02572089; whether this is the study cited in the Narcan NDA is UNVERIFIED",
-      "nct": "NCT02572089 (UNVERIFIED link to the Narcan NDA)",
+      "trial": {
+       "en": "Healthy-volunteer comparative PK study (n=30): naloxone 2-8 mg IN (incl. the marketed 4 mg/0.1 mL) vs 0.4 mg IM; NIDA/Lightlake/Adapt study NCT02572089, matching the Narcan NDA label PK study",
+       "ko": "건강인 비교 PK 시험(30명): naloxone 2~8 mg IN(시판 4 mg/0.1 mL 포함) vs 0.4 mg IM. NIDA/Lightlake/Adapt 시험 NCT02572089로 Narcan NDA 허가사항의 PK 시험과 일치"
+      },
       "primary": {
        "en": "Cmax, Tmax, AUC0-t, AUC0-inf, t1/2 of naloxone (NCT02572089 primary outcomes)",
        "ko": "naloxone의 Cmax, Tmax, AUC0-t, AUC0-inf, t1/2 (NCT02572089 1차 평가변수)"
       },
       "secondary": {
-       "en": "Comparator: naloxone 0.4 mg IM; early exposure (early partial AUC / concentrations in the first minutes) is what matters clinically. Exact NDA details UNVERIFIED",
-       "ko": "대조약: naloxone 0.4 mg IM. 임상적으로는 투여 직후 수 분간의 조기 노출(초기 부분 AUC/농도)이 핵심. NDA 세부 내용은 UNVERIFIED"
+       "en": "Comparator: naloxone 0.4 mg IM. Label reports relative BA of 4 mg (one nostril) and 8 mg (two nostrils) vs IM; early sampling at 2.5-20 min captures early exposure, which matters most clinically",
+       "ko": "대조약: naloxone 0.4 mg IM. 허가사항은 4 mg(한쪽 콧구멍)·8 mg(양쪽) vs IM 상대 BA를 제시. 2.5~20분 조기 채혈로 임상적으로 핵심인 조기 노출을 평가"
       },
       "timepoint": {
        "en": "Sampling up to 720 min post-dose",
        "ko": "투여 후 720분까지 채혈"
-      }
+      },
+      "ncts": [
+       "NCT02572089"
+      ]
      },
      {
       "product": "Kloxxado (naloxone 8 mg nasal spray, Hikma)",
-      "trial": "Two comparative-bioavailability PK studies in healthy adults (up to 24 per study); no NCT found",
-      "nct": "Not located on ClinicalTrials.gov",
+      "trial": {
+       "en": "8 mg: two comparative-BA PK studies in healthy adults (up to 24 each) vs 0.4 mg IM and 2 mg IV; 4 mg (added Aug 2025): PK study (up to 72) vs Kloxxado 8 mg and a previously approved 4 mg nasal spray; no NCT found",
+       "ko": "8 mg: 건강인 비교 BA PK 시험 2건(각 최대 24명), 0.4 mg IM 및 2 mg IV 대비. 4 mg(2025년 8월 추가): Kloxxado 8 mg 및 기허가 4 mg 비강 분무제 대비 PK 시험(최대 72명). NCT 확인 안 됨"
+      },
       "primary": {
        "en": "Relative bioavailability of one 8 mg spray vs naloxone 0.4 mg IM and 2 mg IV (label)",
        "ko": "8 mg 1회 분무 vs naloxone 0.4 mg IM 및 2 mg IV의 상대 생체이용률 (허가사항)"
       },
       "secondary": {
-       "en": "FDA review: the comparative-BA study supported reliance on Narcan 4 mg efficacy findings; no head-to-head vs Narcan was required for original approval",
-       "ko": "FDA 심사: 비교 BA 시험으로 Narcan 4 mg 유효성 결과에 의존 가능. 최초 허가 시 Narcan과의 직접 비교는 요구되지 않음"
+       "en": "Label: the 8 mg relative BA was shown vs injectable naloxone (0.4 mg IM, 2 mg IV); a later head-to-head PK study vs an approved 4 mg nasal spray supported the 4 mg strength",
+       "ko": "허가사항: 8 mg의 상대 BA는 주사용 naloxone(0.4 mg IM, 2 mg IV) 대비로 제시. 이후 기허가 4 mg 비강 분무제와 직접 비교한 PK 시험이 4 mg 용량 허가를 뒷받침"
       },
       "timepoint": {
        "en": "Single dose, full PK profile",
        "ko": "단회 투여, 전체 PK 프로파일"
-      }
+      },
+      "ncts": []
      },
      {
       "product": "Opvee (nalmefene 2.7 mg nasal spray, Indivior/Opiant)",
       "trial": "PD study in opioid-experienced, non-dependent volunteers (remifentanil-induced respiratory depression model, crossover vs IN naloxone 4 mg) + PK study",
-      "nct": "NCT04828005 (PD); NCT04759768 (PK)",
       "primary": {
        "en": "PD: change in minute ventilation at 5 min during steady-state remifentanil infusion, non-inferiority vs naloxone 4 mg IN. PK: Cmax, Tmax, AUC-inf, t1/2",
        "ko": "PD: remifentanil 정상상태 주입 중 5분 시점 분당환기량(minute ventilation) 변화, naloxone 4 mg IN 대비 비열등성. PK: Cmax, Tmax, AUC-inf, t1/2"
       },
       "secondary": {
-       "en": "Label: onset 2.5-5 min, full recovery of respiratory drive 5-15 min (hypercapnia-response model, n=61). Sponsor-reported +5.75 L/min at 5 min",
-       "ko": "허가사항: 효과 발현 2.5~5분, 호흡 구동 완전 회복 5~15분 (고탄산혈증 반응 모델, 61명). 회사 발표 5분 시점 +5.75 L/min"
+       "en": "Label: onset 2.5-5 min, full recovery of respiratory drive 5-15 min, mean MV increase 5.745 L/min at 5 min (hypercapnia-response model, n=61)",
+       "ko": "허가사항: 효과 발현 2.5~5분, 호흡 구동 완전 회복 5~15분, 5분 시점 분당환기량 평균 5.745 L/min 증가 (고탄산혈증 반응 모델, 61명)"
       },
       "timepoint": {
        "en": "5 min (primary); PK to 48 h",
        "ko": "5분 (1차); PK 48시간까지"
-      }
+      },
+      "ncts": [
+       "NCT04828005",
+       "NCT04759768"
+      ]
      },
      {
       "product": "neffy (epinephrine 2 mg / 1 mg nasal spray, ARS Pharma; Aptar Unidose device)",
       "trial": "4 PK/PD studies in 175 healthy adults (no anaphylaxis), incl. repeat-dose study under nasal allergen challenge requested after the Sept 2023 CRL; supportive URTI/rhinitis PK study; single-arm pediatric PK study (n=42)",
-      "nct": "Pivotal healthy-volunteer PK/PD studies not located on ClinicalTrials.gov; supportive URTI PK study NCT04930900 (verified)",
       "primary": {
        "en": "Epinephrine PK (Cmax, AUC, Tmax, partial AUCs). FDA criterion: minimum exposure >= epinephrine 0.3 mg IM/SC (efficacy) and maximum exposure < EpiPen (safety)",
        "ko": "Epinephrine PK (Cmax, AUC, Tmax, 부분 AUC). FDA 기준: 최소 노출 >= epinephrine 0.3 mg IM/SC(유효성), 최대 노출 < EpiPen(안전성)"
       },
       "secondary": {
-       "en": "PD: SBP and HR change vs EpiPen / IM syringe (sponsor: HR change > IM and EpiPen; BP > IM, numerically > EpiPen). Comparators: EpiPen 0.3 mg, IM epinephrine 0.3 mg, Symjepi",
-       "ko": "PD: EpiPen/IM 주사 대비 수축기혈압(SBP)·심박수(HR) 변화 (회사 발표: HR 변화 IM·EpiPen보다 큼, BP는 IM보다 크고 EpiPen보다 수치상 큼). 대조약: EpiPen 0.3 mg, IM epinephrine 0.3 mg, Symjepi"
+       "en": "PD: SBP and HR change vs EpiPen / IM syringe (sponsor: HR change > IM and EpiPen; BP > IM, numerically > EpiPen). Comparators: EpiPen 0.3 mg, IM epinephrine 0.3 mg",
+       "ko": "PD: EpiPen/IM 주사 대비 수축기혈압(SBP)·심박수(HR) 변화 (회사 발표: HR 변화 IM·EpiPen보다 큼, BP는 IM보다 크고 EpiPen보다 수치상 큼). 대조약: EpiPen 0.3 mg, IM epinephrine 0.3 mg"
       },
       "timepoint": {
        "en": "Early minutes to several hours post-dose; single and repeat (2-dose) administration",
        "ko": "투여 직후 수 분~수 시간; 단회 및 반복(2회) 투여"
-      }
+      },
+      "ncts": [
+       "NCT04930900"
+      ]
      },
      {
       "product": "Baqsimi (glucagon 3 mg nasal powder, Lilly → Amphastar)",
-      "trial": "Adult pivotal non-inferiority study vs glucagon 1 mg IM after insulin-induced hypoglycemia; pediatric study NCT01997411",
-      "nct": "NCT01994746 (adults, verified); NCT01997411 (pediatric, verified title)",
+      "trial": {
+       "en": "Two adult pivotal crossover non-inferiority studies vs glucagon 1 mg IM after insulin-induced hypoglycemia (NCT03339453, n=70; NCT01994746, n=83); pediatric studies NCT01997411 (4 to <17 y) and NCT04992312",
+       "ko": "인슐린 유발 저혈당 후 glucagon 1 mg IM 대비 성인 피보탈 교차 비열등성 시험 2건(NCT03339453, 70명; NCT01994746, 83명); 소아 시험 NCT01997411(4~17세 미만) 및 NCT04992312"
+      },
       "primary": {
        "en": "Treatment success: plasma glucose rise to >=70 mg/dL OR >=20 mg/dL increase from nadir within 30 min (non-inferiority vs IM glucagon)",
        "ko": "치료 성공: 투여 후 30분 이내 혈당 >=70 mg/dL 도달 또는 최저치 대비 >=20 mg/dL 상승 (IM glucagon 대비 비열등성)"
@@ -6507,12 +6535,17 @@
       "timepoint": {
        "en": "Glucose at 0, 5, 10, 15, 20, 25, 30 min",
        "ko": "혈당 0, 5, 10, 15, 20, 25, 30분 측정"
-      }
+      },
+      "ncts": [
+       "NCT03339453",
+       "NCT01994746",
+       "NCT01997411",
+       "NCT04992312"
+      ]
      },
      {
       "product": "Trudhesa (DHE nasal spray, Impel POD device)",
       "trial": "INP104-101 relative-BA study vs D.H.E. 45 injection (systemic safety) and Migranal nasal (efficacy) + STOP 301 long-term safety",
-      "nct": "NCT03557333 (STOP 301, verified); relative-BA study NCT not located",
       "primary": {
        "en": "505(b)(2): PK bridge (Cmax, AUC) to DHE 45 IV and Migranal. STOP 301 primary: SAEs, TEAEs, change in nasal mucosa, change in olfactory function",
        "ko": "505(b)(2): DHE 45 IV 및 Migranal 대비 PK 가교(Cmax, AUC). STOP 301 1차: 중대한 이상반응, TEAE, 비점막 변화, 후각 기능 변화"
@@ -6524,12 +6557,14 @@
       "timepoint": {
        "en": "24 and 52 weeks (STOP 301)",
        "ko": "24주 및 52주 (STOP 301)"
-      }
+      },
+      "ncts": [
+       "NCT03557333"
+      ]
      },
      {
       "product": "Atzumi (DHE 5.2 mg nasal powder, Satsuma/SNBL, SMART platform)",
       "trial": "Phase 1 PK trial + ASCEND long-term open-label safety (placebo-controlled SUMMIT efficacy trial also run)",
-      "nct": "NCT04406649 (ASCEND, verified); NCT04940390 (SUMMIT, verified)",
       "primary": {
        "en": "Approval basis = PK bridge + ASCEND safety. ASCEND registered primaries: % attacks with sustained pain freedom and sustained MBS freedom 2-48 h. SUMMIT: pain freedom and MBS freedom at 2 h",
        "ko": "허가 근거 = PK 가교 + ASCEND 안전성. ASCEND 등록 1차: 2~48시간 지속 통증 소실·MBS 소실 발작 비율. SUMMIT: 2시간 통증 소실 및 MBS 소실"
@@ -6541,7 +6576,11 @@
       "timepoint": {
        "en": "Up to 12 months (ASCEND)",
        "ko": "최대 12개월 (ASCEND)"
-      }
+      },
+      "ncts": [
+       "NCT04406649",
+       "NCT04940390"
+      ]
      }
     ],
     "takeaway": {
@@ -6558,8 +6597,10 @@
     "products": [
      {
       "product": "Zavzpret (zavegepant 10 mg nasal spray, Pfizer)",
-      "trial": "Study 301 (randomized, double-blind, placebo-controlled Phase 2/3)",
-      "nct": "NCT04571060 (verified)",
+      "trial": {
+       "en": "Study 301 (Phase 3) and Study 201 (Phase 2/3), both randomized, double-blind, placebo-controlled",
+       "ko": "Study 301(3상) 및 Study 201(2/3상), 모두 무작위 이중맹검 위약대조"
+      },
       "primary": {
        "en": "Co-primary: % with freedom from pain at 2 h, and % with freedom from most bothersome symptom (MBS) at 2 h",
        "ko": "공동 1차: 2시간 통증 소실 비율, 2시간 가장 괴로운 증상(MBS) 소실 비율"
@@ -6571,12 +6612,15 @@
       "timepoint": {
        "en": "2 h post-dose",
        "ko": "투여 후 2시간"
-      }
+      },
+      "ncts": [
+       "NCT04571060",
+       "NCT03872453"
+      ]
      },
      {
       "product": "Atzumi (DHE nasal powder) - SUMMIT",
       "trial": "SUMMIT placebo-controlled Phase 3",
-      "nct": "NCT04940390 (verified)",
       "primary": {
        "en": "Co-primary pain freedom and MBS freedom at 2 h (approval ultimately relied on PK bridge + ASCEND safety)",
        "ko": "공동 1차 2시간 통증 소실 및 MBS 소실 (최종 허가는 PK 가교 + ASCEND 안전성에 근거)"
@@ -6588,7 +6632,10 @@
       "timepoint": {
        "en": "2 h",
        "ko": "2시간"
-      }
+      },
+      "ncts": [
+       "NCT04940390"
+      ]
      }
     ],
     "takeaway": {
@@ -6606,24 +6653,28 @@
      {
       "product": "Nayzilam (midazolam 5 mg nasal spray, UCB)",
       "trial": "ARTEMIS-1 (randomized, double-blind, placebo-controlled)",
-      "nct": "NCT01390220 (verified; registry status TERMINATED)",
       "primary": {
        "en": "Treatment success: seizure termination within 10 min AND no recurrence from 10 min to 6 h after the double-blind dose",
        "ko": "치료 성공: 이중맹검 투여 후 10분 이내 발작 종료 그리고 10분~6시간 동안 재발 없음"
       },
       "secondary": {
-       "en": "Time to next seizure, recurrence within 6 h, use of rescue medication",
-       "ko": "다음 발작까지 시간, 6시간 내 재발, 추가 구제약 사용"
+       "en": "Seizure recurrence >10 min to 4 h, any seizure to 24 h, time to next seizure (to 24 h)",
+       "ko": "10분 초과~4시간 발작 재발, 24시간까지 발작 발생, 다음 발작까지 시간(24시간까지)"
       },
       "timepoint": {
        "en": "10 min and 6 h",
        "ko": "10분 및 6시간"
-      }
+      },
+      "ncts": [
+       "NCT01390220"
+      ]
      },
      {
       "product": "Valtoco (diazepam nasal spray, Neurelis; Intravail enhancer)",
-      "trial": "PK bridge to Diastat rectal gel (505(b)(2)) + ictal/peri-ictal PK study + 12-month repeat-dose safety study; ages 2-5 added Apr 2025 using second-dose proxy",
-      "nct": "NCT02724423 (ictal/peri-ictal PK, verified); NCT02721069 (long-term safety, verified)",
+      "trial": {
+       "en": "PK bridge to Diastat rectal gel (505(b)(2)) + ictal/peri-ictal PK study + 12-month repeat-dose safety study; ages 2-5 added Apr 2025 based on a Phase 1/2a safety/PK study",
+       "ko": "Diastat 직장 겔 대비 PK 가교(505(b)(2)) + 발작 중/주변기 PK 시험 + 12개월 반복투여 안전성 시험; 2~5세는 2025년 4월 1/2a상 안전성·PK 시험을 근거로 추가"
+      },
       "primary": {
        "en": "Diazepam Cmax/AUC during ictal/peri-ictal period; long-term study: number of participants/AEs over 12 months",
        "ko": "발작 중/주변기 diazepam Cmax/AUC; 장기시험: 12개월간 참여자 수/이상반응"
@@ -6635,7 +6686,11 @@
       "timepoint": {
        "en": "PK 0-6 h; safety 12 months",
        "ko": "PK 0~6시간; 안전성 12개월"
-      }
+      },
+      "ncts": [
+       "NCT02724423",
+       "NCT02721069"
+      ]
      }
     ],
     "takeaway": {
@@ -6653,7 +6708,6 @@
      {
       "product": "Spravato (esketamine nasal spray, J&J) - induction",
       "trial": "TRANSFORM-2 (flexible dose + oral AD); TRANSFORM-1 (fixed dose)",
-      "nct": "NCT02418585 (TRANSFORM-2, verified); NCT02417064 (TRANSFORM-1, verified)",
       "primary": {
        "en": "Change from baseline in MADRS total score at Day 28 (MMRM)",
        "ko": "28일차 MADRS 총점 기저치 대비 변화 (MMRM)"
@@ -6665,12 +6719,15 @@
       "timepoint": {
        "en": "Day 28 (Week 4)",
        "ko": "28일 (4주)"
-      }
+      },
+      "ncts": [
+       "NCT02418585",
+       "NCT02417064"
+      ]
      },
      {
       "product": "Spravato - relapse prevention",
       "trial": "SUSTAIN-1 (randomized withdrawal)",
-      "nct": "NCT02493868 (verified)",
       "primary": {
        "en": "Time to relapse in patients in stable remission (randomized withdrawal design)",
        "ko": "안정 관해 환자에서 재발까지 시간 (무작위 중단 설계)"
@@ -6682,12 +6739,14 @@
       "timepoint": {
        "en": "Up to 92 weeks maintenance",
        "ko": "유지기 최대 92주"
-      }
+      },
+      "ncts": [
+       "NCT02493868"
+      ]
      },
      {
       "product": "Spravato - monotherapy (approved Jan 21, 2025)",
       "trial": "Monotherapy RCT (n=477; 56 mg, 84 mg, placebo)",
-      "nct": "NCT04599855 (verified)",
       "primary": {
        "en": "Change in MADRS total score from Day 1 to Day 28",
        "ko": "1일차~28일차 MADRS 총점 변화"
@@ -6699,12 +6758,14 @@
       "timepoint": {
        "en": "Day 28",
        "ko": "28일"
-      }
+      },
+      "ncts": [
+       "NCT04599855"
+      ]
      },
      {
       "product": "fasedienol (PH94B nasal spray, Vistagen) - investigational",
       "trial": "PALISADE-1 (failed), PALISADE-2 (positive per sponsor), PALISADE-3 (failed Dec 17, 2025), PALISADE-4 (ongoing)",
-      "nct": "NCT04754802; NCT05011396; NCT06358651; NCT06615557 (all verified)",
       "primary": {
        "en": "Change in Subjective Units of Distress Scale (SUDS) during an in-clinic public-speaking challenge vs baseline challenge",
        "ko": "병원 내 대중 연설 과제 중 주관적 고통 척도(SUDS) 변화 (기저 과제 대비)"
@@ -6716,7 +6777,13 @@
       "timepoint": {
        "en": "Single acute dose; challenge ~Day 7 after baseline visit",
        "ko": "단회 급성 투여; 기저 방문 후 약 7일째 과제"
-      }
+      },
+      "ncts": [
+       "NCT04754802",
+       "NCT05011396",
+       "NCT06358651",
+       "NCT06615557"
+      ]
      }
     ],
     "takeaway": {
@@ -6734,24 +6801,26 @@
      {
       "product": "Cardamyst (etripamil 70 mg nasal spray, Milestone) - FDA approved Dec 12, 2025",
       "trial": "RAPID (NODE-301 Part 2), patient self-administration at home vs placebo",
-      "nct": "NCT03464019 (NODE-301 incl. RAPID Parts 2/3, verified); China self-administration Ph3 NCT05410860 (Corxel, verified)",
       "primary": {
        "en": "Time to conversion of PSVT to sinus rhythm (>=30 s) within 30 min of dosing (adjudicated by ECG monitor)",
        "ko": "투여 후 30분 이내 동리듬(30초 이상) 전환까지 시간 (심전도 모니터로 판정)"
       },
       "secondary": {
-       "en": "Conversion at 30 min: 64% vs 31% placebo (RAPID); pooled 59.6%, median 18.5 min; ED visits/medical interventions avoided; nasal AEs",
-       "ko": "30분 전환율: 64% vs 위약 31% (RAPID); 통합분석 59.6%, 중앙값 18.5분; 응급실 방문/의료 개입 감소; 비강 이상반응"
+       "en": "Conversion at 30 min: 64% vs 31% placebo (RAPID, HR 2.6); median time to conversion 17.2 vs 53.5 min; ED visits/medical interventions avoided; nasal AEs",
+       "ko": "30분 내 전환율: 64% vs 위약 31% (RAPID, HR 2.6); 전환까지 중앙값 17.2분 vs 53.5분; 응급실 방문·의료 개입 회피; 비강 이상반응"
       },
       "timepoint": {
        "en": "30 min (NODE-301 Part 1 used 5 h window)",
        "ko": "30분 (NODE-301 Part 1은 5시간 창)"
-      }
+      },
+      "ncts": [
+       "NCT03464019"
+      ]
      }
     ],
     "takeaway": {
-     "en": "Self-administered nasal products for episodic events need an event-driven, ambulatory-monitored trial with a short, objective window (30 min); safety base of >1,800 participants was used.",
-     "ko": "환자가 스스로 투여하는 간헐적 사건용 비강 제품은 짧고 객관적인 시간 창(30분)과 외래 모니터링을 갖춘 사건 기반 시험이 필요하며, 1,800명 이상의 안전성 데이터가 활용되었다."
+     "en": "Self-administered nasal products for episodic events need an event-driven, ambulatory-monitored trial with a short, objective window (30 min).",
+     "ko": "에피소드성 질환용 자가투여 비강 제품은 짧고 객관적인 평가 시간창(30분)을 둔 사건 중심·외래 모니터링 임상이 필요합니다."
     }
    },
    {
@@ -6764,24 +6833,26 @@
      {
       "product": "Xhance (fluticasone propionate, Optinose Exhalation Delivery System) - nasal polyps",
       "trial": "NAVIGATE I and NAVIGATE II",
-      "nct": "NCT01622569; NCT01624662 (verified)",
       "primary": {
        "en": "Co-primary: change in 7-day average morning nasal congestion/obstruction score (Week 4) and change in total endoscopic polyp grade (Week 16)",
        "ko": "공동 1차: 7일 평균 아침 코막힘/폐쇄 점수 변화(4주) 및 내시경 비용종 총 등급 변화(16주)"
       },
       "secondary": {
-       "en": "SNOT-22, PNIF, smell (UPSIT), polyp elimination",
-       "ko": "SNOT-22, PNIF, 후각(UPSIT), 비용종 소실"
+       "en": "SNOT-22, PNIF, diary hyposmia score, polyp elimination (grade 0), PGIC",
+       "ko": "SNOT-22, PNIF, 일지 후각저하 점수, 비용종 소실(등급 0), PGIC"
       },
       "timepoint": {
        "en": "Week 4 and Week 16; 8-week open-label extension",
        "ko": "4주 및 16주; 8주 공개 연장"
-      }
+      },
+      "ncts": [
+       "NCT01622569",
+       "NCT01624662"
+      ]
      },
      {
       "product": "Xhance - CRS without polyps (sNDA approved 2024)",
       "trial": "ReOpen1 and ReOpen2",
-      "nct": "NCT03781804; NCT03960580 (verified)",
       "primary": {
        "en": "Co-primary: change in composite symptom score (congestion + facial pain/pressure + discharge) at Week 4, and change in average percent of opacified volume (APOV) of ethmoid/maxillary sinuses on CT at Week 24",
        "ko": "공동 1차: 4주 복합 증상 점수(코막힘+안면 통증/압박+콧물) 변화, 24주 CT 사골/상악동 평균 혼탁 부피 비율(APOV) 변화"
@@ -6793,12 +6864,18 @@
       "timepoint": {
        "en": "Week 4 (symptoms), Week 24 (CT)",
        "ko": "4주(증상), 24주(CT)"
-      }
+      },
+      "ncts": [
+       "NCT03781804",
+       "NCT03960580"
+      ]
      },
      {
-      "product": "LYR-210 (mometasone sinonasal implant, Lyra) - investigational",
-      "trial": "ENLIGHTEN 1 and ENLIGHTEN 2 (sham-controlled)",
-      "nct": "NCT05219968; NCT05295459 (verified)",
+      "product": "LYR-210 (mometasone sinonasal implant, Lyra) - development suspended Jan 2026",
+      "trial": {
+       "en": "ENLIGHTEN 1 (missed primary, May 2024) and ENLIGHTEN 2 (positive, Jun 2025), sham-controlled",
+       "ko": "ENLIGHTEN 1(1차 미충족, 2024년 5월) 및 ENLIGHTEN 2(긍정적, 2025년 6월), 샴 대조"
+      },
       "primary": {
        "en": "Change in 7-day average composite score of 3 cardinal symptoms (3CS: obstruction, discharge, facial pain/pressure) in patients without polyps",
        "ko": "비용종 없는 환자에서 3대 주증상(3CS: 코막힘, 콧물, 안면 통증/압박) 7일 평균 복합 점수 변화"
@@ -6810,7 +6887,11 @@
       "timepoint": {
        "en": "Week 24",
        "ko": "24주"
-      }
+      },
+      "ncts": [
+       "NCT05219968",
+       "NCT05295459"
+      ]
      }
     ],
     "takeaway": {
@@ -6828,7 +6909,6 @@
      {
       "product": "FluMist (live attenuated influenza vaccine, AstraZeneca); self/caregiver administration approved Sept 2024, FluMist Home launched Aug 2025",
       "trial": "CAIV-T vs TIV in children 6-59 months (pivotal comparative efficacy)",
-      "nct": "NCT00128167 (verified)",
       "primary": {
        "en": "Relative efficacy vs inactivated vaccine against culture-confirmed symptomatic influenza (vaccine-like strains), >=14 days after last dose",
        "ko": "불활화 백신 대비 배양 확진 증상성 인플루엔자(백신 유사주) 상대 효능, 마지막 접종 14일 이후"
@@ -6840,12 +6920,14 @@
       "timepoint": {
        "en": "Full influenza season",
        "ko": "인플루엔자 유행 시즌 전체"
-      }
+      },
+      "ncts": [
+       "NCT00128167"
+      ]
      },
      {
       "product": "iNCOVACC / BBV154 (intranasal adenovirus-vector COVID-19, Bharat Biotech)",
       "trial": "Phase 3 immunogenicity/safety",
-      "nct": "NCT05522335 (verified; registry status UNKNOWN)",
       "primary": {
        "en": "Geometric mean titers (neutralizing antibody) at Day 28/42/90/180; solicited AEs (7 days), unsolicited AEs (to Day 180)",
        "ko": "28/42/90/180일 중화항체 기하평균역가(GMT); 7일 유발 이상반응, 180일까지 비유발 이상반응"
@@ -6857,7 +6939,10 @@
       "timepoint": {
        "en": "Day 28 to Day 180",
        "ko": "28일~180일"
-      }
+      },
+      "ncts": [
+       "NCT05522335"
+      ]
      }
     ],
     "takeaway": {
@@ -6875,7 +6960,6 @@
      {
       "product": "Intranasal insulin (SNIFF, Alzheimer's/MCI)",
       "trial": "SNIFF Phase 2/3 (device-delivered insulin vs placebo)",
-      "nct": "NCT01767909 (verified)",
       "primary": {
        "en": "Change in ADAS-Cog12",
        "ko": "ADAS-Cog12 변화"
@@ -6887,12 +6971,14 @@
       "timepoint": {
        "en": "12 months blinded + 6 months open-label",
        "ko": "12개월 맹검 + 6개월 공개"
-      }
+      },
+      "ncts": [
+       "NCT01767909"
+      ]
      },
      {
       "product": "Generic N2B proof-of-concept designs",
       "trial": "Phase 1 / translational",
-      "nct": "N/A",
       "primary": {
        "en": "CSF-to-plasma AUC ratio vs IV reference; PET or radiolabel imaging of olfactory/brain deposition",
        "ko": "IV 기준 대비 CSF/혈장 AUC 비; 후각부/뇌 침착 PET 또는 방사표지 영상"
@@ -6904,7 +6990,8 @@
       "timepoint": {
        "en": "Hours (PK/imaging) to 12 months (cognition)",
        "ko": "수 시간(PK/영상) ~ 12개월(인지)"
-      }
+      },
+      "ncts": []
      }
     ],
     "takeaway": {
@@ -6918,17 +7005,17 @@
     "agency": "FDA",
     "title": "Nasal Spray and Inhalation Solution, Suspension, and Spray Drug Products - Chemistry, Manufacturing, and Controls Documentation (final)",
     "year": "2002",
-    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/nasal-spray-and-inhalation-solution-suspension-and-spray-drug-products-chemistry-manufacturing-and",
+    "url": "https://www.fda.gov/media/70857/download",
     "why": {
-     "en": "Defines the in vitro CMC tests every nasal spray needs (spray content uniformity, droplet size, spray pattern, plume geometry, priming). URL slug not re-fetched this session.",
-     "ko": "모든 비강 분무제에 필요한 체외 CMC 시험(분무 함량 균일성, 액적 크기, 분무 패턴, 플룸 형상, 프라이밍)을 규정. 이번 세션에서 URL 재확인 안 함."
+     "en": "Defines the in vitro CMC tests every nasal spray needs (spray content uniformity, droplet size, spray pattern, plume geometry, priming). Final, July 2002 (docket FDA-1999-D-0060); does not cover nasal powders. Page URL verified 2026-10-21.",
+     "ko": "모든 비강 분무제에 필요한 체외 CMC 시험(분무 함량 균일성, 액적 크기, 분무 패턴, 플룸 형상, 프라이밍)을 규정. 2002년 7월 최종(Docket FDA-1999-D-0060); 비강 분말제는 적용 제외. 2026-10-21 URL 확인."
     }
    },
    {
     "agency": "FDA",
     "title": "Bioavailability and Bioequivalence Studies for Nasal Aerosols and Nasal Sprays for Local Action (draft)",
     "year": "2003",
-    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bioavailability-and-bioequivalence-studies-nasal-aerosols-and-nasal-sprays-local-action",
+    "url": "https://www.fda.gov/media/70867/download",
     "why": {
      "en": "Still listed as draft (docket FDA-1999-D-0050); partly superseded by product-specific guidances (e.g., fluticasone PSG states it supersedes the 2003 draft).",
      "ko": "여전히 초안으로 게재(Docket FDA-1999-D-0050); fluticasone PSG 등 제품별 가이던스가 일부 대체."
@@ -6946,8 +7033,8 @@
    },
    {
     "agency": "FDA (OGD presentation)",
-    "title": "GDUFA research supporting revision of 9 PSGs for locally acting nasal spray suspensions (in vitro-only option incl. particle size / dissolution)",
-    "year": "2023",
+    "title": "Complex Nasal Suspension PSGs: Utilization of Newly Recommended In Vitro Only Bioequivalence Option (S. Boc, FDA OGD, SBIA 2023; GDUFA research supporting revision of 9 nasal suspension PSGs)",
+    "year": "2023 (13 Sep)",
     "url": "https://www.fda.gov/media/173383/download",
     "why": {
      "en": "Shows FDA's move toward in vitro-only BE (Option 1 for Q1/Q2 same) for nasal suspensions, reducing need for clinical endpoint BE.",
@@ -6958,20 +7045,20 @@
     "agency": "FDA",
     "title": "Migraine: Developing Drugs for Acute Treatment (final)",
     "year": "2018",
-    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/migraine-developing-drugs-acute-treatment",
+    "url": "https://www.fda.gov/media/89829/download",
     "why": {
-     "en": "Source of the co-primary pain freedom + MBS freedom at 2 h used by Zavzpret/SUMMIT. URL not re-fetched this session.",
-     "ko": "Zavzpret/SUMMIT가 사용한 2시간 통증 소실 + MBS 소실 공동 1차의 근거. 이번 세션에서 URL 재확인 안 함."
+     "en": "Source of the co-primary pain freedom + MBS freedom at 2 h used by Zavzpret/SUMMIT. Final, Feb 2018 (docket FDA-2014-D-1540); URL verified 2026-10-21.",
+     "ko": "Zavzpret/SUMMIT가 사용한 2시간 통증 소실 + MBS 소실 공동 1차의 근거. 2018년 2월 최종(Docket FDA-2014-D-1540); 2026-10-21 URL 확인."
     }
    },
    {
     "agency": "FDA",
     "title": "Bridging for Drug-Device and Biologic-Device Combination Products (draft)",
     "year": "2019",
-    "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/bridging-drug-device-and-biologic-device-combination-products",
+    "url": "https://www.fda.gov/media/133676/download",
     "why": {
-     "en": "How to bridge data when the nasal device changes between development and commercial versions. URL not re-fetched this session.",
-     "ko": "개발용과 상업용 비강 디바이스가 바뀔 때 데이터 가교 방법. 이번 세션에서 URL 재확인 안 함."
+     "en": "How to bridge data when the nasal device changes between development and commercial versions. Still draft (Dec 2019, docket FDA-2019-D-5585); URL verified 2026-10-21.",
+     "ko": "개발용과 상업용 비강 디바이스가 바뀔 때 데이터 가교 방법. 여전히 초안(2019년 12월, Docket FDA-2019-D-5585); 2026-10-21 URL 확인."
     }
    },
    {
@@ -6986,12 +7073,12 @@
    },
    {
     "agency": "EMA",
-    "title": "Concept paper on a guideline on the demonstration of therapeutic equivalence for nasal products",
-    "year": "2024 (consultation to 31 Jan 2025)",
-    "url": "https://ema.europa.eu/en/documents/scientific-guideline/concept-paper-development-guideline-demonstration-therapeutic-equivalence-nasal-products_en.pdf",
+    "title": "Guideline on the requirements for demonstrating therapeutic equivalence for nasal products (draft, EMA/220888/2026)",
+    "year": "2026 (draft released 5 Oct 2026; consultation to 28 Feb 2027; concept paper Jul 2024)",
+    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-requirements-demonstrating-therapeutic-equivalence-nasal-products_en.pdf",
     "why": {
-     "en": "Will set TE requirements (in vitro / PK) for local and systemic nasal products (examples: xylometazoline, naloxone). Final guideline status UNVERIFIED.",
-     "ko": "국소·전신 비강 제품(예: xylometazoline, naloxone)의 치료적 동등성(체외/PK) 요건을 정할 예정. 최종 가이드라인 상태 UNVERIFIED."
+     "en": "Sets a stepwise TE approach (in vitro comparison, then PK) for local and systemic nasal products (examples: xylometazoline, naloxone); draft in consultation until 28 Feb 2027.",
+     "ko": "국소·전신 비강 제품(예: xylometazoline, naloxone)의 단계적 치료적 동등성 입증(체외 비교 후 PK) 요건을 제시; 2027년 2월 28일까지 의견수렴 중인 초안."
     }
    },
    {
@@ -7010,8 +7097,8 @@
     "year": "2015",
     "url": "https://medigatenews.com/news/3686095945",
     "why": {
-     "en": "MFDS aligned inhalation equivalence with EU in 2015; no dedicated nasal spray guideline was found, so expect MFDS to lean on FDA/EMA documents - confirm via pre-consultation (UNVERIFIED that none exists).",
-     "ko": "식약처는 2015년 흡입제 동등성 기준을 EU에 맞췄으나 비강 분무제 전용 가이드라인은 확인되지 않음. FDA/EMA 문서를 준용할 가능성이 높으므로 사전상담으로 확인 필요 (부재 여부 UNVERIFIED)."
+     "en": "MFDS aligned inhalation equivalence with EU in 2015; no dedicated nasal spray guideline was found, so expect MFDS to lean on FDA/EMA documents - confirm via pre-consultation (unconfirmed that none exists).",
+     "ko": "식약처는 2015년 흡입제 동등성 기준을 EU에 맞췄으나 비강 분무제 전용 가이드라인은 확인되지 않음. FDA/EMA 문서를 준용할 가능성이 높으므로 사전상담으로 확인 필요 (부재 여부 미확인)."
     }
    }
   ],
@@ -7021,8 +7108,8 @@
     "ko": "이비인후과 전문의의 사전 정의 점수 척도(홍반, 부종, 가피, 비출혈, 궤양/비중격 천공)로 기저 및 반복 비점막 검사. Trudhesa STOP 301은 24/52주 '비점막 변화'를 1차 평가변수로 설정 (NCT03557333)."
    },
    {
-    "en": "Olfactory function testing (UPSIT or Sniffin' Sticks) at baseline and end of treatment; also a PRIMARY endpoint in STOP 301 and a secondary in Xhance polyp trials.",
-    "ko": "기저 및 치료 종료 시 후각 기능 검사(UPSIT 또는 Sniffin' Sticks). STOP 301의 1차 지표이자 Xhance 비용종 시험의 2차 지표."
+    "en": "Olfactory function testing (UPSIT or Sniffin' Sticks) at baseline and end of treatment; a PRIMARY endpoint in STOP 301 (UPSIT) and a secondary (SIT) in the Xhance ReOpen CRS trials.",
+    "ko": "기저 및 치료 종료 시 후각 기능 검사(UPSIT 또는 Sniffin' Sticks). STOP 301의 1차 지표(UPSIT)이자 Xhance ReOpen CRS 시험의 2차 지표(SIT)."
    },
    {
     "en": "Subject-rated nasal discomfort/irritation VAS, taste disturbance (dysgeusia), lacrimation, sneezing and runny nose immediately after dosing; common ARs on recent labels (Atzumi: rhinitis, altered taste, application-site reactions).",
@@ -7037,8 +7124,8 @@
     "ko": "체외 디바이스 성능(FDA 2002 CMC; PSG; EMA 2025 Rev 1): 단회 분무/전달 용량 함량, 레이저 회절 액적 분포, 10 µm 미만 미세 액적 내 약물 비율(폐 노출), 분무 패턴·플룸 형상, 프라이밍/재프라이밍, 말기 분무; 3배치 이상."
    },
    {
-    "en": "For nasal suspensions/powders: particle size of API in the formulation (e.g., MDRS - accepted case-by-case by FDA OGD per industry reports) and dissolution as in vitro BE options.",
-    "ko": "비강 현탁제/분말: 제형 내 API 입자 크기(예: MDRS - 업계 보고에 따르면 FDA OGD가 사안별로 수용) 및 용출을 체외 BE 옵션으로 활용."
+    "en": "For nasal spray suspensions: drug particle size distribution in the formulation (FDA OGD cites MDRS as an example method) and dissolution are in vitro BE options in the 9 revised PSGs; powders have no equivalent PSG pathway yet.",
+    "ko": "비강 분무 현탁제: 제형 내 API 입자 크기 분포(FDA OGD가 MDRS를 예시 방법으로 제시)와 용출이 개정된 PSG 9건의 체외 BE 옵션. 분말제는 아직 동등한 PSG 경로 없음."
    },
    {
     "en": "Regional deposition: gamma scintigraphy or nasal cast (anatomical replica) studies are supportive (not a required regulatory endpoint) but important for N2B/olfactory-region or sinus-targeting claims.",
@@ -7086,8 +7173,8 @@
      "ko": "모든 프로토콜에 표준 국소 내약성 모듈을 넣어라"
     },
     "why": {
-     "en": "ENT mucosal scoring, UPSIT/Sniffin' Sticks and nasal VAS were primary endpoints in Trudhesa's STOP 301; a reusable module across our pipeline creates a comparable platform safety database for every filing.",
-     "ko": "비점막 점수, UPSIT/Sniffin' Sticks, 비강 VAS는 Trudhesa STOP 301의 1차 지표였다. 파이프라인 전체에 재사용 가능한 모듈을 두면 모든 허가에 활용 가능한 플랫폼 안전성 DB가 쌓인다."
+     "en": "ENT mucosal assessment and olfactory testing (UPSIT) were primary endpoints in Trudhesa's STOP 301; a reusable module (adding nasal VAS) across our pipeline creates a comparable platform safety database for every filing.",
+     "ko": "비점막 평가와 후각 검사(UPSIT)는 Trudhesa STOP 301의 1차 지표였다. 파이프라인 전체에 재사용 가능한 모듈(비강 VAS 추가)을 두면 모든 허가에 활용 가능한 플랫폼 안전성 DB가 쌓인다."
     }
    },
    {
@@ -7096,8 +7183,8 @@
      "ko": "임상이 아닌 디바이스/CMC와 인적요인을 핵심 경로로 관리하라"
     },
     "why": {
-     "en": "Recent nasal CRLs were non-clinical: Atzumi (manufacturing), Orexo OX124 (packaging, then HF + commercial-scale data). Freeze the device, run 3-batch in vitro characterization per FDA 2002 / EMA 2025 Rev 1, and validate HF before pivotal.",
-     "ko": "최근 비강 제품 CRL은 비임상 사유였다: Atzumi(제조), Orexo OX124(포장, 이후 HF 및 상업 규모 데이터). 디바이스를 확정하고 FDA 2002 / EMA 2025 Rev 1에 따라 3배치 체외 특성 평가와 HF 검증을 피보탈 전에 완료하라."
+     "en": "Recent nasal CRLs were non-clinical: Atzumi (manufacturing), Orexo OX124 (packaging, then HF + commercial-scale data). Freeze the device, run 3-batch in vitro characterization (FDA 2002 for sprays; EMA 2025 Rev 1 also covers powders), and validate HF before pivotal.",
+     "ko": "최근 비강 제품 CRL은 비임상 사유였다: Atzumi(제조), Orexo OX124(포장, 이후 HF 및 상업 규모 데이터). 디바이스를 확정하고 3배치 체외 특성 평가(분무제는 FDA 2002, 분말제는 EMA 2025 Rev 1도 적용)와 HF 검증을 피보탈 전에 완료하라."
     }
    },
    {
@@ -7106,8 +7193,8 @@
      "ko": "처음부터 개발하기보다 허가 이력이 있는 개방형 분말 디바이스를 도입하라"
     },
     "why": {
-     "en": "In 2026 several FDA-proven powder devices opened to third parties (Bespak-SNBL Oct 2026, Hovione/IDC May 2026, Nemera-Therakind DriDose Apr 2026); an approved device shortens CMC/HF work and supports a Korean-first-then-US filing plan with MFDS pre-consultation.",
-     "ko": "2026년 FDA 허가 이력이 있는 분말 디바이스들이 외부에 개방되었다(Bespak-SNBL 2026년 10월, Hovione/IDC 2026년 5월, Nemera-Therakind DriDose 2026년 4월). 허가된 디바이스는 CMC/HF 작업을 줄이며, 식약처 사전상담을 병행한 국내 우선 후 미국 허가 전략에 유리하다."
+     "en": "In 2026 several powder devices opened to third parties: SNBL's FDA-approved Atzumi device via Bespak (MOU, Oct 2026), plus Hovione/IDC (May 2026) and Nemera-Therakind DriDose (Apr 2026) without an approved product yet; an approved device shortens CMC/HF work and supports a Korean-first-then-US filing plan with MFDS pre-consultation.",
+     "ko": "2026년 여러 분말 디바이스가 외부에 개방되었다: Bespak을 통한 SNBL의 FDA 허가 Atzumi 디바이스(MOU, 2026년 10월), 그리고 아직 허가 제품이 없는 Hovione/IDC(2026년 5월)와 Nemera-Therakind DriDose(2026년 4월). 허가된 디바이스는 CMC/HF 작업을 줄이며, 식약처 사전상담을 병행한 국내 우선 후 미국 허가 전략에 유리하다."
     }
    }
   ],

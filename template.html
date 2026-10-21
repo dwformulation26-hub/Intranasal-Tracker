@@ -368,7 +368,7 @@ function renderEndpoints() {
       <div class="tbl-wrap"><table><thead><tr>
         <th>${T({ en: "Product", ko: "제품" })}</th><th>${T({ en: "Pivotal trial", ko: "허가 임상" })}</th><th>${T({ en: "Primary endpoint", ko: "1차 평가변수" })}</th>
         <th>${T({ en: "Key secondary / PD", ko: "주요 2차 / PD" })}</th><th>${T({ en: "Timepoint", ko: "평가 시점" })}</th></tr></thead><tbody>
-        ${c.products.map((p) => `<tr><td class="nowrap"><b>${esc(p.product)}</b></td><td>${esc(p.trial || "")}${p.nct ? `<br><a class="mono" href="https://clinicaltrials.gov/study/${p.nct}" target="_blank" rel="noopener">${p.nct}</a>` : ""}</td><td>${T(p.primary)}</td><td>${T(p.secondary)}</td><td>${T(p.timepoint)}</td></tr>`).join("")}
+        ${c.products.map((p) => `<tr><td class="nowrap"><b>${esc(p.product)}</b></td><td>${typeof p.trial === "object" ? T(p.trial) : esc(p.trial || "")}${(p.ncts || []).map((n) => `<br><a class="mono" href="https://clinicaltrials.gov/study/${n}" target="_blank" rel="noopener">${n}</a>`).join("")}</td><td>${T(p.primary)}</td><td>${T(p.secondary)}</td><td>${T(p.timepoint)}</td></tr>`).join("")}
       </tbody></table></div>
       <div class="take"><b>${Ti("For a new nasal entrant:", "신규 진입자 시사점:")}</b> ${T(c.takeaway)}</div>
     </div>`).join("")}
