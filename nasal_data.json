@@ -187,9 +187,9 @@
      "nct": "NCT05076838",
      "phase": "Ph1/Ph2",
      "status": "COMPLETED",
-     "pcd": null,
+     "pcd": "2025-03-11",
      "n": 36,
-     "results": false,
+     "results": true,
      "updated": "2026-10-20"
     }
    ],
@@ -198,7 +198,14 @@
     "label": "Neurelis press release via BioSpace (Apr 2025)",
     "url": "https://www.biospace.com/press-releases/neurelis-announces-fda-approval-for-immediate-use-seizure-medication-valtoco-diazepam-nasal-spray-in-ages-2-to-5"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-10-22",
+   "history": [
+    {
+     "date": "2026-10-22",
+     "change": "Added completed pediatric PK study NCT05076838 (n=36) from trial discovery",
+     "src": "https://clinicaltrials.gov/study/NCT05076838"
+    }
+   ]
   },
   {
    "id": "nayzilam",
@@ -561,8 +568,8 @@
     "ko": "세네게르민(재조합 인간 신경성장인자)"
    },
    "indication": {
-    "en": "Non-arteritic anterior ischemic optic neuropathy (NAION), nose-to-optic-nerve; also Phase 2 in spastic cerebral palsy (Italy)",
-    "ko": "비동맥염성 전방 허혈성 시신경병증(NAION), 코-시신경 전달; 경직형 뇌성마비 대상 2상(이탈리아)도 진행"
+    "en": "NAION (nose-to-optic-nerve); also spastic cerebral palsy (Phase 2)",
+    "ko": "비동맥전방허혈성시신경병증(NAION, 코-시신경 전달); 경직형 뇌성마비(2상)"
    },
    "device": {
     "en": "Intranasal delivery (device unconfirmed)",
@@ -573,8 +580,8 @@
     "ko": "임상 3상"
    },
    "now": {
-    "en": "Jul 2026: first patient dosed in global Phase 3 Galassia-NAION-301 (~272 pts) for NAION; Dompe separately runs a Phase 2 (NGF-CP-201, n=60) of intranasal cenegermin in spastic cerebral palsy in Italy, recruiting since Jan 2026.",
-    "ko": "2026년 7월: NAION 대상 글로벌 3상 Galassia-NAION-301(약 272명) 첫 환자 투여; Dompe는 경직형 뇌성마비 대상 별도의 2상(NGF-CP-201, 60명)도 이탈리아에서 2026년 1월부터 모집 중."
+    "en": "Jul 2026: first patient dosed in global Phase 3 Galassia-NAION-301 (~272 pts); a separate Phase 2 in cerebral palsy (Italy) has recruited since Jan 2026.",
+    "ko": "2026년 7월: 글로벌 3상 Galassia-NAION-301(약 272명) 첫 환자 투여; 별도로 이탈리아 뇌성마비 2상이 2026년 1월부터 모집 중."
    },
    "lastMove": "2026-07",
    "trials": [
@@ -598,7 +605,7 @@
     {
      "date": "2026-10-22",
      "change": "Added Dompe's Phase 2 NGF-CP-201 (cerebral palsy) trial in Italy, confirmed via EU CTIS registry",
-     "src": "https://ctis.eu/trial/2025-522786-29-00"
+     "src": "https://euclinicaltrials.eu/search-for-clinical-trials/?lang=en&EUCT=2025-522786-29-00"
     }
    ]
   },
@@ -2242,8 +2249,8 @@
     "ko": "건조분말 비강 디바이스 (회사 주장 실온 5년 안정성)"
    },
    "stage": {
-    "en": "IND cleared · pivotal planned",
-    "ko": "IND 승인 · 허가 임상 예정"
+    "en": "IND cleared; pivotal next",
+    "ko": "IND 승인; 허가 임상 예정"
    },
    "now": {
     "en": "Sep 2026: FDA cleared the NS002 IND; a pivotal self- vs HCP-administration study is planned for Q4 2026, with topline data in Q1 2027.",
@@ -3748,8 +3755,8 @@
     "ko": "시판 (비의약품)"
    },
    "now": {
-    "en": "Oct 2026: Philippines FDA approved Nasodine as an OTC antiseptic nasal spray (valid to Sep 2028); launch via partner SV More could begin as early as Q1 2027, the 5th market after the US, Singapore, Fiji and Indonesia.",
-    "ko": "2026년 10월: 필리핀 식약청이 Nasodine을 OTC 항균 비강 스프레이로 승인(유효기간 2028년 9월까지); 파트너 SV More를 통한 출시는 2027년 1분기 중 가능하며, 미국·싱가포르·피지·인도네시아에 이은 5번째 승인 시장이다."
+    "en": "Oct 2026: Philippines FDA approved Nasodine as an OTC antiseptic nasal spray, its 5th market after the US, Singapore, Fiji and Indonesia.",
+    "ko": "2026년 10월: 필리핀 FDA가 Nasodine을 OTC 소독용 비강 스프레이로 승인; 미국·싱가포르·피지·인도네시아에 이은 5번째 시장."
    },
    "lastMove": "2026-10",
    "trials": [],
@@ -5499,25 +5506,57 @@
     "ko": "비침습적 코-뇌 전달 비강 점적·분무 (기기 미확인)"
    },
    "stage": {
-    "en": "Phase 2a (US); UAE IND granted",
-    "ko": "2a상(미국); UAE IND 승인"
+    "en": "Phase 2a done",
+    "ko": "2a상 완료"
    },
    "now": {
-    "en": "Jun 2026: UAE's Department of Health-Abu Dhabi granted an IND for NEO100 (Phase 1-2 adult, Phase 1/1b pediatric); the US NEO100-01 Phase 2a trial is fully enrolled, with topline data guided for Jul 2026.",
-    "ko": "2026년 6월: 아랍에미리트 아부다비 보건청이 NEO100에 대해 IND를 승인(성인 1–2상, 소아 1/1b상); 미국 NEO100-01 2a상은 등록을 완료했고 톱라인 데이터는 2026년 7월 예정이다."
+    "en": "Aug 2026: Phase 2a NEO100-01 met its primary endpoint (6-month PFS 48.9% vs 20% benchmark, n=24); NeOnc will seek an FDA Type B meeting.",
+    "ko": "2026년 8월: NEO100-01 2a상이 1차 평가변수를 충족(6개월 무진행생존율 48.9%, 기준치 20%, n=24); NeOnc는 FDA Type B 미팅을 요청할 예정."
    },
-   "lastMove": "2026-06",
-   "trials": [],
-   "noTrial": {
-    "en": "Lead US trial described as 'NEO100-01 Phase 2a' (fully enrolled); NCT not given in company release",
-    "ko": "미국 주요 임상은 'NEO100-01 2a상'(등록 완료)으로만 기술됨; 회사 발표에 NCT 번호 없음"
-   },
+   "lastMove": "2026-08",
+   "trials": [
+    {
+     "nct": "NCT02704858",
+     "status": "ACTIVE_NOT_RECRUITING",
+     "phase": "Ph1/Ph2",
+     "n": 49,
+     "pcd": "2026-11-30",
+     "results": false,
+     "updated": "2026-09-14"
+    },
+    {
+     "nct": "NCT05023018",
+     "status": "RECRUITING",
+     "phase": "Ph2",
+     "n": 30,
+     "pcd": "2026-12-30",
+     "results": false,
+     "updated": "2026-09-15"
+    },
+    {
+     "nct": "NCT06357377",
+     "status": "RECRUITING",
+     "phase": "Ph1",
+     "n": 12,
+     "pcd": "2027-06",
+     "results": false,
+     "updated": "2026-09-15"
+    }
+   ],
+   "noTrial": null,
    "src": {
-    "label": "NeOnc Technologies GlobeNewswire release via SEC 8-K (23 Jun 2026)",
-    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626006773/neonctechnologies_ex99-1.htm"
+    "label": "NeOnc press release (12 Aug 2026)",
+    "url": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-22"
+   "checked": "2026-10-22",
+   "history": [
+    {
+     "date": "2026-10-22",
+     "change": "Admin correction: now updated to Aug 2026 Phase 2a topline (routine had a stale Jul 2026 expectation); ClinicalTrials.gov trials linked",
+     "src": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
+    }
+   ]
   },
   {
    "id": "hikma-epinephrine-nasal",
@@ -5529,8 +5568,8 @@
     "ko": "Hikma Pharmaceuticals"
    },
    "product": {
-    "en": "Epinephrine nasal spray (investigational)",
-    "ko": "에피네프린 비강 스프레이(개발 중)"
+    "en": "Epinephrine nasal spray",
+    "ko": "에피네프린 비강 스프레이"
    },
    "api": {
     "en": "Epinephrine",
@@ -5545,12 +5584,12 @@
     "ko": "비강 스프레이(비주사형); 기기 미확인"
    },
    "stage": {
-    "en": "FDA NDA accepted (505(b)(2))",
-    "ko": "FDA NDA 접수(505(b)(2))"
+    "en": "NDA accepted (FDA)",
+    "ko": "NDA 접수(FDA)"
    },
    "now": {
-    "en": "Sep 2026: FDA accepted Hikma's 505(b)(2) NDA for its investigational epinephrine nasal spray; an EU/UK hybrid dossier was accepted via the DCP and National Procedure, and a Canada filing was also made.",
-    "ko": "2026년 9월: FDA가 Hikma의 개발 중인 에피네프린 비강 스프레이에 대한 505(b)(2) NDA를 접수했으며, EU·영국은 DCP·국가 절차로 하이브리드 신청서가 접수되고 캐나다에도 제출됐다."
+    "en": "Sep 2026: FDA accepted Hikma's 505(b)(2) NDA for its epinephrine nasal spray; EU/UK and Canada filings were also made.",
+    "ko": "2026년 9월: FDA가 Hikma 에피네프린 비강 스프레이의 505(b)(2) NDA를 접수; EU·영국·캐나다에도 허가 신청."
    },
    "lastMove": "2026-09",
    "trials": [],
@@ -5567,7 +5606,7 @@
   },
   {
    "id": "ltr-spontan-roxus",
-   "lane": "market",
+   "lane": "early",
    "region": "AU",
    "area": "Other",
    "company": {
@@ -5591,12 +5630,12 @@
     "ko": "속효성 비강 스프레이, 10분 이내 작용 발현(자체 주장)"
    },
    "stage": {
-    "en": "Marketed (AU TGA SAS); US compounded via telehealth; FDA 505(b)(2) pending",
-    "ko": "시판(호주 TGA SAS); 미국은 원격의료 조제약 공급; FDA 505(b)(2) 진행 중"
+    "en": "Pre-NDA; access supply",
+    "ko": "NDA 전; 특별접근 공급"
    },
    "now": {
-    "en": "Oct 2026: first US ROXUS prescriptions (compounded vardenafil nasal spray, Section 503A) were fulfilled via Shed's Mavrox telehealth platform and Strive Pharmacy; SPONTAN continues to be supplied in Australia under the TGA Special Access Scheme.",
-    "ko": "2026년 10월: 조제약 바르데나필 비강 스프레이 ROXUS의 미국 내 첫 처방이 Shed의 Mavrox 원격의료 플랫폼과 Strive Pharmacy를 통해 이뤄짐; SPONTAN은 호주 TGA 특별접근제도 하에서 계속 공급되고 있다."
+    "en": "Oct 2026: first US ROXUS (compounded vardenafil spray) prescriptions filled via telehealth; SPONTAN is supplied in Australia under TGA Special Access.",
+    "ko": "2026년 10월: 미국에서 ROXUS(조제 바르데나필 스프레이) 첫 처방이 원격의료로 조제됨; SPONTAN은 호주 TGA 특별접근제도로 공급 중."
    },
    "lastMove": "2026-10",
    "trials": [],
@@ -5609,7 +5648,14 @@
     "url": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-22"
+   "checked": "2026-10-22",
+   "history": [
+    {
+     "date": "2026-10-22",
+     "change": "Admin correction: lane market -> early (SAS and 503A compounding are not regulatory approvals)",
+     "src": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
+    }
+   ]
   }
  ],
  "news": [
@@ -5845,6 +5891,19 @@
    "src": {
     "label": "Milestone Q2 2026 results (8-K)",
     "url": "https://www.sec.gov/Archives/edgar/data/0001408443/000110465926094466/tm2614433d1_ex99-1.htm"
+   }
+  },
+  {
+   "date": "2026-08-12",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "NeOnc's intranasal NEO100 met its Phase 2a primary endpoint in recurrent IDH1-mutant high-grade glioma: 6-month PFS 48.9% vs a 20% benchmark (p=0.0047, n=24).",
+    "ko": "NeOnc의 비강 투여 NEO100이 재발성 IDH1 변이 고등급 신경교종 2a상에서 1차 평가변수를 충족: 6개월 무진행생존율 48.9%(기준치 20%, p=0.0047, n=24)."
+   },
+   "src": {
+    "label": "NeOnc press release (12 Aug 2026)",
+    "url": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
    }
   },
   {
@@ -6311,8 +6370,8 @@
     "ko": "Dompe가 이탈리아에서 경직형 뇌성마비 2-6세 소아 60명을 대상으로 비강 세네게르민 2상(NGF-CP-201)을 시작했다. NAION 3상과는 별개의 새로운 적응증이다."
    },
    "src": {
-    "label": "EU CTIS trial registry (2025-522786-29-00)",
-    "url": "https://ctis.eu/trial/2025-522786-29-00"
+    "label": "EU Clinical Trials Information System (EU CT 2025-522786-29-00)",
+    "url": "https://euclinicaltrials.eu/search-for-clinical-trials/?lang=en&EUCT=2025-522786-29-00"
    }
   },
   {

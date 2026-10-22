@@ -1,1013 +1,185 @@
 {
- "generated": "2026-10-22T11:05:11+09:00",
- "trials_checked": 107,
+ "generated": "2026-10-22T11:27:56+09:00",
+ "trials_checked": 111,
  "changes": [
   {
-   "card": "spravato",
-   "product": "Spravato",
-   "nct": "NCT07716098",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "spravato",
-   "product": "Spravato",
-   "nct": "NCT07227454",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "tyrvaya",
-   "product": "Tyrvaya",
-   "nct": "NCT05378945",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "bpl-003",
-   "product": "BPL-003",
-   "nct": "NCT05870540",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "bpl-003",
-   "product": "BPL-003",
-   "nct": "NCT05660642",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "fasedienol",
-   "product": "Fasedienol (PH94B)",
-   "nct": "NCT06615557",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "fasedienol",
-   "product": "Fasedienol (PH94B)",
-   "nct": "NCT06358651",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "fasedienol",
-   "product": "Fasedienol (PH94B)",
-   "nct": "NCT06809179",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT06292923",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT06489548",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT07688239",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT07688239",
-   "field": "updated",
-   "old": "2026-07-07",
-   "new": "2026-10-21",
-   "notable": false
-  },
-  {
-   "card": "cenegermin-naion",
-   "product": "Cenegermin (nasal NGF)",
-   "nct": "NCT07453888",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "tr-012001",
-   "product": "TR-012001 (levodopa)",
-   "nct": "NCT06212089",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "nrl-4-olanzapine",
-   "product": "NRL-1004 (olanzapine)",
-   "nct": "NCT06600477",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "intranasal-insulin-wfu",
-   "product": "Intranasal insulin",
-   "nct": "NCT05081219",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "intranasal-insulin-wfu",
-   "product": "Intranasal insulin",
-   "nct": "NCT07756294",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "protollin-ad",
-   "product": "Nasal Protollin",
-   "nct": "NCT07187141",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "chf6467",
-   "product": "CHF6467 (NGF)",
-   "nct": "NCT07163182",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "prt042-rketamine",
-   "product": "PRT042 ((R)-ketamine)",
-   "nct": "NCT07193901",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "xjn010",
-   "product": "XJN010 nasal spray",
-   "nct": "NCT07156773",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "acp-101",
-   "product": "ACP-101 (carbetocin)",
-   "nct": "NCT06173531",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "acp-101",
-   "product": "ACP-101 (carbetocin)",
-   "nct": "NCT06420297",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "sls-002",
-   "product": "SLS-002 (ketamine)",
-   "nct": "NCT04669665",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "sls-002",
-   "product": "SLS-002 (ketamine)",
-   "nct": "NCT06816433",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "inp105",
-   "product": "INP105 / INP107",
-   "nct": "NCT05163717",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "zavzpret",
-   "product": "Zavzpret (zavegepant)",
-   "nct": "NCT05989048",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "zavzpret",
-   "product": "Zavzpret (zavegepant)",
-   "nct": "NCT04571060",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "zavzpret",
-   "product": "Zavzpret (zavegepant)",
-   "nct": "NCT06995729",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "trudhesa",
-   "product": "Trudhesa (DHE)",
-   "nct": "NCT03557333",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "atzumi",
-   "product": "Atzumi (DHE powder)",
-   "nct": "NCT04406649",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "atzumi",
-   "product": "Atzumi (DHE powder)",
-   "nct": "NCT04940390",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "prt-064040",
-   "product": "PRT-064040 nasal spray",
-   "nct": "NCT07304518",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "prt-064040",
-   "product": "PRT-064040 nasal spray",
-   "nct": "NCT07016516",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "cessatech-ct001",
-   "product": "CT001 (KemSu)",
-   "nct": "NCT06364072",
-   "field": "phase",
-   "old": "PHASE2/PHASE3",
-   "new": "Ph2/Ph3",
-   "notable": false
-  },
-  {
-   "card": "tnx1900-pain",
-   "product": "TNX-1900 (oxytocin)",
-   "nct": "NCT07730294",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "tnx1900-pain",
-   "product": "TNX-1900 (oxytocin)",
-   "nct": "NCT07730294",
+   "card": "valtoco",
+   "product": "Valtoco",
+   "nct": "NCT05076838",
    "field": "pcd",
-   "old": "2028-08",
-   "new": "2028-10",
+   "old": null,
+   "new": "2025-03-11",
    "notable": true
   },
   {
-   "card": "tnx1900-pain",
-   "product": "TNX-1900 (oxytocin)",
-   "nct": "NCT07730294",
+   "card": "valtoco",
+   "product": "Valtoco",
+   "nct": "NCT05076838",
+   "field": "results",
+   "old": false,
+   "new": true,
+   "notable": true
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
+   "field": "status",
+   "old": null,
+   "new": "ACTIVE_NOT_RECRUITING",
+   "notable": true
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
+   "field": "phase",
+   "old": null,
+   "new": "Ph1/Ph2",
+   "notable": false
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
+   "field": "n",
+   "old": null,
+   "new": 49,
+   "notable": false
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
+   "field": "pcd",
+   "old": null,
+   "new": "2026-11-30",
+   "notable": true
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
+   "field": "results",
+   "old": null,
+   "new": false,
+   "notable": true
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT02704858",
    "field": "updated",
-   "old": "2026-07-28",
-   "new": "2026-10-21",
+   "old": null,
+   "new": "2026-09-14",
    "notable": false
   },
   {
-   "card": "hengrui-dexmed",
-   "product": "Dexmedetomidine spray",
-   "nct": "NCT05111431",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
+   "field": "status",
+   "old": null,
+   "new": "RECRUITING",
+   "notable": true
   },
   {
-   "card": "hengrui-dexmed",
-   "product": "Dexmedetomidine spray",
-   "nct": "NCT04200235",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
    "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "opvee",
-   "product": "Opvee (nalmefene)",
-   "nct": "NCT04828005",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "opvee",
-   "product": "Opvee (nalmefene)",
-   "nct": "NCT05219669",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "neffy",
-   "product": "neffy / EURneffy",
-   "nct": "NCT06834165",
-   "field": "phase",
-   "old": "PHASE4",
-   "new": "Ph4",
-   "notable": false
-  },
-  {
-   "card": "neffy",
-   "product": "neffy / EURneffy",
-   "nct": "NCT06927999",
-   "field": "phase",
-   "old": "PHASE2",
+   "old": null,
    "new": "Ph2",
    "notable": false
   },
   {
-   "card": "neffy",
-   "product": "neffy / EURneffy",
-   "nct": "NCT05496465",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
+   "field": "n",
+   "old": null,
+   "new": 30,
    "notable": false
   },
   {
-   "card": "nasus-fmxin002",
-   "product": "FMXIN002 (NS002)",
-   "nct": "NCT07045701",
-   "field": "phase",
-   "old": "PHASE2/PHASE3",
-   "new": "Ph2/Ph3",
-   "notable": false
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
+   "field": "pcd",
+   "old": null,
+   "new": "2026-12-30",
+   "notable": true
   },
   {
-   "card": "nasus-fmxin002",
-   "product": "FMXIN002 (NS002)",
-   "nct": "NCT07228325",
-   "field": "phase",
-   "old": "PHASE1/PHASE2",
-   "new": "Ph1/Ph2",
-   "notable": false
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
+   "field": "results",
+   "old": null,
+   "new": false,
+   "notable": true
   },
   {
-   "card": "nasus-fmxin002",
-   "product": "FMXIN002 (NS002)",
-   "nct": "NCT06205134",
-   "field": "phase",
-   "old": "PHASE1/PHASE2",
-   "new": "Ph1/Ph2",
-   "notable": false
-  },
-  {
-   "card": "baqsimi",
-   "product": "Baqsimi (glucagon)",
-   "nct": "NCT01994746",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "baqsimi",
-   "product": "Baqsimi (glucagon)",
-   "nct": "NCT02402933",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "baqsimi",
-   "product": "Baqsimi (glucagon)",
-   "nct": "NCT04992312",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "incovacc",
-   "product": "iNCOVACC (BBV154)",
-   "nct": "NCT05522335",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "incovacc",
-   "product": "iNCOVACC (BBV154)",
-   "nct": "NCT05567471",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "pneucolin",
-   "product": "Pneucolin (dNS1-RBD)",
-   "nct": "NCT04809389",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "sputnik-nasal",
-   "product": "Sputnik V nasal",
-   "nct": "NCT05248373",
-   "field": "phase",
-   "old": "PHASE1/PHASE2",
-   "new": "Ph1/Ph2",
-   "notable": false
-  },
-  {
-   "card": "cvxga",
-   "product": "CVXGA (CVXGA1)",
-   "nct": "NCT06742281",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "cvxga",
-   "product": "CVXGA (CVXGA1)",
-   "nct": "NCT05736835",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "castlevax-cvax01",
-   "product": "CVAX-01 (NDV-HXP-S)",
-   "nct": "NCT07215520",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "ocu500",
-   "product": "OCU500",
-   "nct": "NCT07536308",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "coviliv",
-   "product": "CoviLiv (COVI-VAC)",
-   "nct": "NCT04619628",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "coviliv",
-   "product": "CoviLiv (COVI-VAC)",
-   "nct": "NCT05233826",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "codavax-rsv",
-   "product": "CodaVax-RSV",
-   "nct": "NCT04919109",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "blb201",
-   "product": "BLB201",
-   "nct": "NCT05655182",
-   "field": "phase",
-   "old": "PHASE1/PHASE2",
-   "new": "Ph1/Ph2",
-   "notable": false
-  },
-  {
-   "card": "blb201",
-   "product": "BLB201",
-   "nct": "NCT05655182",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT05023018",
    "field": "updated",
-   "old": "2026-10-09",
-   "new": "2026-10-21",
+   "old": null,
+   "new": "2026-09-15",
    "notable": false
   },
   {
-   "card": "blb201",
-   "product": "BLB201",
-   "nct": "NCT05281263",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
+   "field": "status",
+   "old": null,
+   "new": "RECRUITING",
+   "notable": true
+  },
+  {
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
    "field": "phase",
-   "old": "PHASE1",
+   "old": null,
    "new": "Ph1",
    "notable": false
   },
   {
-   "card": "meissa-mv012968",
-   "product": "MV-012-968",
-   "nct": "NCT04690335",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
+   "field": "n",
+   "old": null,
+   "new": 12,
    "notable": false
   },
   {
-   "card": "meissa-mv012968",
-   "product": "MV-012-968",
-   "nct": "NCT04909021",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
+   "field": "pcd",
+   "old": null,
+   "new": "2027-06",
+   "notable": true
   },
   {
-   "card": "bpze1",
-   "product": "BPZE1",
-   "nct": "NCT05461131",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
+   "field": "results",
+   "old": null,
+   "new": false,
+   "notable": true
   },
   {
-   "card": "bpze1",
-   "product": "BPZE1",
-   "nct": "NCT05116241",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "bpze1",
-   "product": "BPZE1",
-   "nct": "NCT03942406",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "avacc10",
-   "product": "Avacc 10",
-   "nct": "NCT05604690",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "rvx-scpd9",
-   "product": "RVX-sCPD9",
-   "nct": "NCT07703475",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "niaid-nasal-covid",
-   "product": "NIAID nasal COVID candidates",
-   "nct": "NCT07221162",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "niaid-nasal-covid",
-   "product": "NIAID nasal COVID candidates",
-   "nct": "NCT06441968",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "niaid-nasal-covid",
-   "product": "NIAID nasal COVID candidates",
-   "nct": "NCT06026514",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "tb-flu-05e",
-   "product": "TB/Flu-05E",
-   "nct": "NCT06873282",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "nons-enovid",
-   "product": "Enovid / VirX (NONS)",
-   "nct": "NCT06264141",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "nons-enovid",
-   "product": "Enovid / VirX (NONS)",
-   "nct": "NCT05109611",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "nons-enovid",
-   "product": "Enovid / VirX (NONS)",
-   "nct": "NCT05599919",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "azelastine-covid",
-   "product": "Azelastine (antiviral use)",
-   "nct": "NCT06008860",
-   "field": "phase",
-   "old": "PHASE4",
-   "new": "Ph4",
-   "notable": false
-  },
-  {
-   "card": "inna-051",
-   "product": "INNA-051",
-   "nct": "NCT07222670",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "neumifil",
-   "product": "Neumifil",
-   "nct": "NCT05507567",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "neumifil",
-   "product": "Neumifil",
-   "nct": "NCT05093530",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "xf-73-nasal",
-   "product": "XF-73 Nasal",
-   "nct": "NCT03915470",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "hy-133",
-   "product": "HY-133",
-   "nct": "NCT06290557",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "etripamil-cardamyst",
-   "product": "CARDAMYST (etripamil)",
-   "nct": "NCT03464019",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "etripamil-cardamyst",
-   "product": "CARDAMYST (etripamil)",
-   "nct": "NCT06716021",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "etripamil-cardamyst",
-   "product": "CARDAMYST (etripamil)",
-   "nct": "NCT05763953",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "xhance-eds",
-   "product": "XHANCE (fluticasone)",
-   "nct": "NCT03781804",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "xhance-eds",
-   "product": "XHANCE (fluticasone)",
-   "nct": "NCT03960580",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "xhance-eds",
-   "product": "XHANCE (fluticasone)",
-   "nct": "NCT06850805",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "lyra-lyr210",
-   "product": "LYR-210 / LYR-220",
-   "nct": "NCT05295459",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "lyra-lyr210",
-   "product": "LYR-210 / LYR-220",
-   "nct": "NCT05219968",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "wl1006-semaglutide-nasal",
-   "product": "WL1006 (semaglutide)",
-   "nct": "NCT07465965",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "mgh-oxytocin-obesity",
-   "product": "Intranasal oxytocin",
-   "nct": "NCT04551482",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "pumecitinib-pg011",
-   "product": "PG-011 (pumecitinib)",
-   "nct": "NCT07146126",
-   "field": "phase",
-   "old": "PHASE3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "pumecitinib-pg011",
-   "product": "PG-011 (pumecitinib)",
-   "nct": "NCT06837233",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "alixer-aldp001",
-   "product": "ALDP001",
-   "nct": "NCT07219849",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "vivavision-vvn432",
-   "product": "VVN432",
-   "nct": "NCT07259538",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "cyrano-cyr064",
-   "product": "CYR-064",
-   "nct": "NCT06019000",
-   "field": "phase",
-   "old": "PHASE2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "polyrizon-pl14",
-   "product": "PL-14 Allergy Blocker",
-   "nct": "NCT07588672",
-   "field": "phase",
-   "old": "NA",
-   "new": "N/A",
-   "notable": false
-  },
-  {
-   "card": "tor582-hht",
-   "product": "TOR-582 (sirolimus)",
-   "nct": "NCT07667413",
-   "field": "phase",
-   "old": "PHASE1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "kr-spravato",
-   "product": "Spravato (Korea)",
-   "nct": "NCT07053345",
-   "field": "phase",
-   "old": "Phase 4",
-   "new": "Ph4",
-   "notable": false
-  },
-  {
-   "card": "kr-daewoong-noseguard",
-   "product": "Noseguard / Noseguard Night",
-   "nct": "NCT07516977",
-   "field": "phase",
-   "old": "N/A (device)",
-   "new": "N/A",
-   "notable": false
-  },
-  {
-   "card": "kr-caregen-spikedown",
-   "product": "CG-SpikeDown",
-   "nct": "NCT05234320",
-   "field": "phase",
-   "old": "Phase 1",
-   "new": "Ph1",
-   "notable": false
-  },
-  {
-   "card": "jp-esketamine-ph3",
-   "product": "Esketamine (Japan Ph3)",
-   "nct": "NCT07716098",
-   "field": "phase",
-   "old": "Phase 3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "cn-bcht-laiv",
-   "product": "Lyophilized nasal flu LAIV",
-   "nct": "NCT07545564",
-   "field": "phase",
-   "old": "Phase 4",
-   "new": "Ph4",
-   "notable": false
-  },
-  {
-   "card": "cn-bcht-laiv",
-   "product": "Lyophilized nasal flu LAIV",
-   "nct": "NCT06280144",
-   "field": "phase",
-   "old": "Phase 4",
-   "new": "Ph4",
-   "notable": false
-  },
-  {
-   "card": "cn-huahui-hh120",
-   "product": "HH-120",
-   "nct": "NCT05787418",
-   "field": "phase",
-   "old": "Phase 3",
-   "new": "Ph3",
-   "notable": false
-  },
-  {
-   "card": "cn-huahui-hh120",
-   "product": "HH-120",
-   "nct": "NCT05713318",
-   "field": "phase",
-   "old": "Phase 2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "cn-paloalto-pa9159",
-   "product": "PA9159",
-   "nct": "NCT05234580",
-   "field": "phase",
-   "old": "Phase 2",
-   "new": "Ph2",
-   "notable": false
-  },
-  {
-   "card": "cn-paloalto-pa9159",
-   "product": "PA9159",
-   "nct": "NCT07345442",
-   "field": "phase",
-   "old": "Phase 1",
-   "new": "Ph1",
+   "card": "neonc-neo100",
+   "product": "NEO100",
+   "nct": "NCT06357377",
+   "field": "updated",
+   "old": null,
+   "new": "2026-09-15",
    "notable": false
   }
  ],

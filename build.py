@@ -53,6 +53,13 @@ def validate(d):
         for k in ("now", "indication"):
             if bilingual(c.get(k)) and not HANGUL.search(c[k]["ko"]):
                 p.append(f"card {cid}: {k}.ko has no Korean text")
+        # cards must stay readable at a glance (the page overflowed before labels were capped)
+        if bilingual(c.get("stage")) and len(c["stage"]["en"]) > 28:
+            p.append(f"card {cid}: stage.en is {len(c['stage']['en'])} chars (max 28) - put detail in now")
+        if bilingual(c.get("now")) and len(c["now"]["en"].split()) > 32:
+            p.append(f"card {cid}: now.en is {len(c['now']['en'].split())} words (max 32) - keep the latest fact only")
+        if bilingual(c.get("product")) and len(c["product"]["en"]) > 40:
+            p.append(f"card {cid}: product.en longer than 40 chars")
         if not MONTH.fullmatch(c.get("lastMove", "")):
             p.append(f"card {cid}: lastMove must be YYYY-MM")
         if c.get("checked") is not None and not DATE.fullmatch(c["checked"]):

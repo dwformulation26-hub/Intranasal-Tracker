@@ -44,6 +44,10 @@ A card update or news item needs **one Tier 1, or two independent Tier 2**, and 
 but mostly as bot reposts, and some bot summaries were wrong. Use a social lead to go find the press release; if you
 can't find a Tier 1/2 source, drop it.
 
+**Cite the original, not a mirror.** Trial registries: ClinicalTrials.gov, or the official EU register
+(`https://euclinicaltrials.eu/search-for-clinical-trials/?lang=en&EUCT=<number>`), never third-party mirrors such as
+ctis.eu. Company news: the company's own IR page or its wire release, not StockTitan/aggregator copies.
+
 **Open every source you cite, this run.** Subagents and search snippets have reported dead links as working and invented
 plausible URLs. A URL goes into the data only if you fetched it this run and the page states the fact. If WebFetch is
 refused (SEC, BusinessWire, StockTitan and fda.gov often refuse scripts), confirm the same fact via search on a page you
@@ -81,7 +85,10 @@ For each `card` event, plus every `trial_changes` entry with `notable: true`:
   only. Korean `now.ko` starts `2026년 10월: …`.
 - `lastMove` = event month (`YYYY-MM`). `checked` = today's KST date. `src` = `{label, url}` of the cited source.
 - `stage` (short label, ≤ 24 characters) and `lane` change only when the source **explicitly states** the new status:
-  - `market` = approved/marketed anywhere; `review` = NDA/BLA/MAA filed or resubmitted and pending; `p3`/`p2`/`early`
+  - `market` = approved by a regulator (or legally sold as a registered device/OTC product) somewhere. Unapproved
+    access routes - Special Access Scheme, named-patient, early access, 503A/503B compounding - are **not** `market`;
+    such a product sits in the lane of its development stage.
+  - `review` = NDA/BLA/MAA filed or resubmitted and pending; `p3`/`p2`/`early`
     = the most advanced trial actually dosing/enrolling, or completed; `early` also covers IND cleared, preclinical;
     `stopped` = company says discontinued/suspended/terminated, or no activity for 3+ years.
   - Never advance on forward-looking language ("plans", "expects", "aims to", "on track to"). A planned Phase 3 is
@@ -90,7 +97,10 @@ For each `card` event, plus every `trial_changes` entry with `notable: true`:
   - Demotion to `stopped` needs the same confirmation as an advance.
 - New trials for a card's product (from `trial_leads.relatedCards`, confirmed to be the same product) are added to its
   `trials` list using the lead's facts, pivotal/most recent first, at most 3 shown.
-- Append to the card's `history` list (create it if missing): `{"date": "<KST date>", "change": "<one line: what changed, old -> new>", "src": "<url>"}`.
+- Append to the card's `history` list (create it if missing) for **every** card whose text, lane or trials you change
+  (this drives the page's "Updated" badge): `{"date": "<KST date>", "change": "<one line: what changed, old -> new>", "src": "<url>"}`.
+- Length limits (the build rejects longer): `stage` ≤ 28 characters, `now` ≤ 32 words (aim for 25), `product` ≤ 40
+  characters. Put detail in `now`, not in `stage`; keep only the latest fact in `now`.
 - A pure registry refresh (only `updated`/`n`/`phase` moved) needs no card text change.
 
 **Rotation check (catches what feeds miss).** Then take the 25 cards with the oldest `checked` (missing = oldest),
@@ -113,9 +123,16 @@ The admin decided on 2026-10-22 that new products are added automatically. Add a
 5. It is a medicine, vaccine or drug-device product - not a drug-free saline/barrier spray unless regulated as a device
    that competes with a tracked product (as Bentrio and Noseguard do).
 
+**Before writing `now`, run one search for the product's code or brand to find its latest event.** The lead that
+surfaced a product is often old: the first run (2026-10-22) added NEO100 from a June release and wrote "topline data
+guided for Jul 2026" when the topline had been reported on 12 Aug 2026. `now` is the latest material fact, and it must
+never contain an expectation whose date has already passed.
+
 Fill the card exactly like existing ones (see the schema below), with `"added": "<KST date>"`, `checked` = today, the
 area from the controlled list, `device` = what the source says or `"Nasal spray (device maker unconfirmed)"`, and trials
-from ClinicalTrials.gov leads (or `noTrial` text). If a candidate fails any condition, list it in the report under
+from ClinicalTrials.gov leads (or `noTrial` text; the Monday collector then looks the new product up on
+ClinicalTrials.gov by code/brand and lists matches in `trial_leads.json` with `cardLookup`, which next week's run links
+after confirming it is the same product). If a candidate fails any condition, list it in the report under
 "Watching" with what is missing - do not add it.
 
 ### 4. News items (page 3)

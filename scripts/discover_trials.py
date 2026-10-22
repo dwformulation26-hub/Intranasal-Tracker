@@ -103,6 +103,37 @@ def main():
             "relatedCards": related[:5],
             "url": f"https://clinicaltrials.gov/study/{nct}",
         })
+    # Cards without any registry record (often products the weekly routine just added - it cannot reach
+    # ClinicalTrials.gov from the cloud): look the product up by its code/brand, any date.
+    for c in d["cards"]:
+        if c["trials"] or not c.get("added"):
+            continue  # only products the routine added; older trial-less cards were checked by hand
+        code = CODE.search(c["product"]["en"])
+        q = code.group(0) if code else re.split(r"[\s(/,]", c["product"]["en"])[0]
+        if len(q) < 5 or q.lower() in STOP:
+            continue
+        try:  # intervention-name field only: a free-text search matches any study that mentions the word
+            hits = search(f'AREA[InterventionName]"{q}"', "2000-01-01", page_size=10, max_pages=1)
+        except Exception:
+            continue
+        for s in hits:
+            p = s["protocolSection"]
+            ident, st, dz = p["identificationModule"], p["statusModule"], p.get("designModule", {})
+            ints = p.get("armsInterventionsModule", {}).get("interventions", [])
+            text = " ".join([ident.get("briefTitle", ""), ident.get("officialTitle", "")] + [i.get("name", "") for i in ints])
+            if ident["nctId"] in tracked or dz.get("studyType") != "INTERVENTIONAL" or not NASAL_ADMIN.search(text):
+                continue  # a generic molecule name (e.g. epinephrine) matches injectable studies too
+            leads.append({
+                "nct": ident["nctId"], "title": ident.get("briefTitle"),
+                "sponsor": p.get("sponsorCollaboratorsModule", {}).get("leadSponsor", {}).get("name"),
+                "sponsorClass": p.get("sponsorCollaboratorsModule", {}).get("leadSponsor", {}).get("class"),
+                "phase": "/".join(dz.get("phases", [])) or None, "status": st.get("overallStatus"),
+                "enrollment": dz.get("enrollmentInfo", {}).get("count"), "interventions": [], "conditions": [],
+                "countries": [], "firstPosted": st.get("studyFirstPostDateStruct", {}).get("date", ""),
+                "lastUpdate": st.get("lastUpdatePostDateStruct", {}).get("date"), "newRegistration": False,
+                "relatedCards": [c["id"]], "cardLookup": f'card has no trials; registry search for "{q}"',
+                "url": f"https://clinicaltrials.gov/study/{ident['nctId']}",
+            })
     # industry-sponsored product studies first, then newest
     leads.sort(key=lambda x: (x["sponsorClass"] != "INDUSTRY", not x["relatedCards"], x["lastUpdate"] or ""), reverse=False)
     out = {"generated": now_kst().isoformat(timespec="seconds"), "since": since, "term": TERM, "leads": leads}
