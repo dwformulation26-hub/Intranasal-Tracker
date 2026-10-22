@@ -238,12 +238,6 @@ td.nowrap { white-space: nowrap; }
 .jump a:hover { text-decoration: none; border-color: var(--accent); color: var(--accent-ink); }
 .bul { margin: 0; padding: 0; display: grid; gap: 8px; }
 .bul li { list-style: none; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; font-size: 13.5px; }
-.todo { display: grid; gap: 10px; counter-reset: todo; }
-.todo li { list-style: none; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px 14px 52px; position: relative; }
-.todo li::before { counter-increment: todo; content: counter(todo); position: absolute; left: 16px; top: 13px; width: 24px; height: 24px; border-radius: 50%;
-  background: var(--accent); color: var(--surface); font: 600 12.5px/24px var(--mono); text-align: center; }
-.todo b { display: block; }
-.todo .why { font-size: 13px; color: var(--ink-2); margin-top: 4px; }
 .section-h { display: grid; gap: 4px; margin-bottom: 12px; }
 .section-h p { margin: 0; color: var(--ink-2); font-size: 14px; max-width: 72ch; }
 .cat .section-h { margin-bottom: 0; scroll-margin-top: 90px; }
@@ -467,10 +461,7 @@ function renderEndpoints() {
         <span><a class="t" href="${esc(g.url)}" target="_blank" rel="noopener">${Ti(g.title.en, g.title.ko)}</a><span class="w">${T(g.why)}</span></span>
         <span><span class="status ${g.status.toLowerCase()}">${Ti(g.status, STATUS_KO[g.status] || g.status)}</span><span class="yr">${esc(g.year)}</span></span></div>`).join("")}</div>
     </div>
-    <div>
-      <div class="section-h"><h2>${Ti("What we should do next", "향후 우리가 할 일")}</h2></div>
-      <ol class="todo" style="padding:0;margin:0">${E.todo.map((t) => `<li><b>${T(t.h)}</b><div class="why">${T(t.why)}</div></li>`).join("")}</ol>
-    </div>`;
+`;
   el.querySelector(".jump").addEventListener("click", (e) => {
     const a = e.target.closest("a[data-jump]"); if (!a) return;
     e.preventDefault(); document.getElementById(a.dataset.jump)?.scrollIntoView();

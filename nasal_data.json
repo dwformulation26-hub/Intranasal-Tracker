@@ -8099,68 +8099,6 @@
      "ko": "neffy 허가사항; Orexo CRL"
     }
    }
-  ],
-  "todo": [
-   {
-    "h": {
-     "en": "Copy the accepted primary endpoint exactly",
-     "ko": "검증된 1차 평가변수를 그대로 사용"
-    },
-    "why": {
-     "en": "Every approved product in each category used the same agency-endorsed endpoint. A new one adds review risk.",
-     "ko": "각 분야 승인 제품은 모두 같은 규제기관 승인 평가변수를 사용했습니다. 새 평가변수는 심사 위험만 늘립니다."
-    }
-   },
-   {
-    "h": {
-     "en": "Agree the PK window with FDA before first-in-human",
-     "ko": "첫 인체 시험 전 FDA와 PK 범위 합의"
-    },
-    "why": {
-     "en": "neffy shows FDA may require exposure between the IM dose and the autoinjector, plus PD.",
-     "ko": "neffy 사례처럼 FDA는 IM 용량과 자동주사기 사이의 노출과 PD를 요구할 수 있습니다."
-    }
-   },
-   {
-    "h": {
-     "en": "Run 'bad-nose' PK early",
-     "ko": "비강 질환 상태 PK를 조기에 수행"
-    },
-    "why": {
-     "en": "neffy's 2023 CRL asked for repeat dosing under allergen challenge; doing it late costs a review cycle.",
-     "ko": "neffy 2023 CRL은 알레르겐 유발 반복투여를 요구했습니다. 늦으면 심사 주기 하나를 잃습니다."
-    }
-   },
-   {
-    "h": {
-     "en": "Build one local-tolerability module",
-     "ko": "표준 국소 내약성 모듈 구축"
-    },
-    "why": {
-     "en": "Mucosa and smell testing were primary in STOP 301; one module gives a comparable safety database across products.",
-     "ko": "STOP 301에서 비점막·후각 검사가 1차였습니다. 공통 모듈로 제품 간 비교 가능한 안전성 자료를 확보합니다."
-    }
-   },
-   {
-    "h": {
-     "en": "Treat device, CMC and usability as the critical path",
-     "ko": "기기·CMC·사용성을 핵심 경로로 관리"
-    },
-    "why": {
-     "en": "Recent nasal CRLs were non-clinical (Atzumi, Orexo OX124). Freeze the device and validate usability before pivotal.",
-     "ko": "최근 비강 CRL은 비임상 사유였습니다(Atzumi, Orexo OX124). 허가 임상 전 기기를 확정하고 사용성을 검증해야 합니다."
-    }
-   },
-   {
-    "h": {
-     "en": "License an approved powder device",
-     "ko": "승인된 분말 기기 도입 검토"
-    },
-    "why": {
-     "en": "SNBL's FDA-approved Atzumi device opened to partners via Bespak (Oct 2026); it shortens CMC and usability work.",
-     "ko": "SNBL의 FDA 승인 Atzumi 기기가 Bespak을 통해 개방됐습니다(2026년 10월). CMC·사용성 작업을 단축합니다."
-    }
-   }
   ]
  }
 }
