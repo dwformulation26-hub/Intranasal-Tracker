@@ -14,6 +14,7 @@ recreated, use this definition, and update this file whenever the routine change
 | Model | `claude-sonnet-5` |
 | Allowed tools | Bash, Read, Write, Edit, Glob, Grep, WebSearch, WebFetch |
 | Connector | Gmail, `create_draft` only |
+| Draft recipient | **Not committed** (public repo). The account owner's own Gmail; held only in the live routine prompt. |
 
 Manage at <https://claude.ai/code/routines> or with `RemoteTrigger`. The GitHub Actions collector
 (`.github/workflows/collect.yml`) runs at 06:00 KST every day; on Mondays it also syncs trials, two hours before the routine.
@@ -31,5 +32,5 @@ Follow the skill's run order: triage every lead once (breadth first), update exi
 
 Before committing run `python3 build.py --as-of <KST date>`; it must pass, and a failure is fixed in the data, never in code. Never edit template.html, build.py, scripts/, config/, .github/, the endpoints content or the skill. Write data/weekly/reports/<KST date>.md and update data/meta.json even on a quiet run. Commit nasal_data.json, index.html and data/, then `git fetch origin main && git rebase origin/main && git push origin HEAD:main`, then `git fetch origin main && git branch -r --contains HEAD` must list origin/main; if not, lead your final summary with that.
 
-Last step, after the push: create a Gmail DRAFT (never send) to dwformulation26@gmail.com with subject 'Intranasal Radar weekly - <KST date>: <headline>' and the report's headline, new products, card updates and news (English, then a short Korean summary). If Gmail fails, say so; the commit is what matters.
+Last step, after the push: create a Gmail DRAFT (never send) to <OWNER GMAIL - not committed; this repo is public, read it from the live trigger with RemoteTrigger get> with subject 'Intranasal Radar weekly - <KST date>: <headline>' and the report's headline, new products, card updates and news (English, then a short Korean summary). If Gmail fails, say so; the commit is what matters.
 ```

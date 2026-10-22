@@ -192,7 +192,8 @@ If the commit is not on `main`, say so at the top of the summary: the deployed p
 
 ### 8. Gmail draft (last step, after the push)
 
-Create a Gmail **draft** (never send) to `dwformulation26@gmail.com`, subject `Intranasal Radar weekly - <KST date>:
+Create a Gmail **draft** (never send) to the recipient named in the routine prompt (this repo is public, so the
+address lives only in the live routine, never in a file here), subject `Intranasal Radar weekly - <KST date>:
 <headline>`, body = the report's headline, new products, card updates and news (English, then a short Korean summary),
 plus a link to the repo commit. If Gmail fails, say so; the commit is what matters.
 
