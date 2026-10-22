@@ -170,11 +170,69 @@ th .ko { font-weight: 500; font-size: 11px; }
 td { padding: 10px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
 tr:last-child td { border-bottom: 0; }
 td.nowrap { white-space: nowrap; }
-.cat { display: grid; gap: 10px; }
-.cat-h { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
-.cat-h .k { font-family: var(--mono); font-size: 12px; color: var(--accent-ink); }
-.take { font-size: 13.5px; color: var(--ink-2); border-left: 3px solid var(--accent); padding: 2px 0 2px 12px; }
+/* endpoint category: header, the category's standard endpoint, then one short row per product */
+.ep { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden; scroll-margin-top: 90px; }
+.ep-h { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; padding: 16px 18px 12px; }
+.ep-h .route { font-size: 11.5px; font-weight: 600; padding: 2px 9px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-ink); }
+.ep-h .cnt { margin-left: auto; font-family: var(--mono); font-size: 12px; color: var(--muted); }
+.std { display: grid; grid-template-columns: 1.5fr 1.2fr 1fr; background: var(--accent-soft); border-block: 1px solid var(--line); }
+.std > div { padding: 10px 18px; display: grid; gap: 2px; min-width: 0; }
+.std > div + div { border-left: 1px solid var(--line-2); }
+.std .k, .ep-head > div, .ep-row > div::before { font-family: var(--mono); font-size: 10.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.std .k { color: var(--accent-ink); }
+.std .v { font-weight: 600; font-size: 14px; line-height: 1.35; }
+.std .v .ko { font-weight: 500; font-size: 12.5px; }
+.ep-row { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr) minmax(0, 1.35fr) minmax(0, 1.1fr) minmax(0, .8fr) minmax(0, 1.15fr);
+  gap: 4px 16px; padding: 10px 18px; font-size: 13px; line-height: 1.4; align-items: start; }
+.ep-head { padding-block: 9px 7px; border-bottom: 1px solid var(--line); }
+/* in EN·KR mode, tiny labels show English only (KR mode still shows Korean); full text keeps both languages */
+:root[data-lang="both"] :is(.ep-head, .std .k, .ep-h .cnt, .ep-h .route, .c-prod .sub, details.more summary, .jump a, .agency, .status, .seen) .ko-inline { display: none; }
+.ep-item { border-bottom: 1px solid var(--line); }
+.ep-item:last-of-type { border-bottom: 0; }
+.ep-row .ko { font-size: 12px; }
+.c-prod b { font-size: 14px; }
+.c-prod .sub { display: block; color: var(--muted); font-size: 12px; }
+.c-res { color: var(--accent-ink); font-weight: 600; }
+.c-res .ko { font-weight: 500; }
+.c-none { color: var(--line-2); }
+.ep details.more { padding: 0 18px 10px; margin-top: -4px; }
+.ep details.more summary { cursor: pointer; font-size: 12px; color: var(--accent-ink); width: max-content; list-style: none; }
+.ep details.more summary::-webkit-details-marker { display: none; }
+.ep details.more summary::before { content: "+ "; font-family: var(--mono); }
+.ep details.more[open] summary::before { content: "– "; }
+.ep details.more .body { margin-top: 6px; padding: 10px 12px; background: var(--bg); border-radius: 8px; font-size: 12.5px; color: var(--ink-2); display: grid; gap: 6px; }
+.ep details.more .ncts { display: flex; flex-wrap: wrap; gap: 4px 10px; font-family: var(--mono); font-size: 11.5px; }
+.take { margin: 0; padding: 12px 18px; border-top: 1px solid var(--line); font-size: 13px; color: var(--ink-2); }
 .take b { color: var(--ink); }
+@media (max-width: 900px) {
+  .std { grid-template-columns: minmax(0, 1fr); }
+  .std > div + div { border-left: 0; border-top: 1px solid var(--line-2); }
+  .ep-head { display: none; }
+  .ep-row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 8px 14px; }
+  .ep-row > .c-prod { grid-column: 1 / -1; }
+  .ep-row > div[data-l]::before { content: attr(data-l); display: block; margin-bottom: 1px; }
+}
+/* guidance: one line per document */
+.gd { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+.gd-row { display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; gap: 4px 14px; padding: 10px 16px; border-bottom: 1px solid var(--line); align-items: baseline; }
+.gd-row:last-child { border-bottom: 0; }
+.agency { font-family: var(--mono); font-size: 11.5px; font-weight: 500; color: var(--ink-2); }
+.gd-row .t { font-weight: 600; font-size: 13.5px; }
+.gd-row .w { display: block; font-size: 12.5px; color: var(--ink-2); font-weight: 400; margin-top: 1px; }
+.gd-row .w .ko { font-size: 12px; }
+.status { font-size: 11px; font-weight: 600; padding: 1px 8px; border-radius: 999px; background: var(--bg); color: var(--ink-2); white-space: nowrap; }
+.status.final { background: var(--ok-soft); color: var(--ok); }
+.status.draft { background: var(--warn-soft); color: var(--warn); }
+.gd-row .yr { font-family: var(--mono); font-size: 11.5px; color: var(--muted); margin-left: 6px; }
+@media (max-width: 600px) { .gd-row { grid-template-columns: minmax(0, 1fr); } }
+/* nasal-specific tests as tiles */
+.tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 215px), 1fr)); gap: 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; display: grid; gap: 4px; align-content: start; }
+.tile b { font-size: 14px; }
+.tile .w { font-size: 12.5px; color: var(--ink-2); }
+.tile .seen { margin-top: 4px; font-size: 11.5px; color: var(--accent-ink); }
+.tile .seen::before { content: "Seen in · "; color: var(--muted); }
+:root[data-lang="ko"] .tile .seen::before { content: "사례 · "; }
 .jump { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 16px; }
 .jump a { font-size: 12.5px; padding: 4px 10px; border: 1px solid var(--line-2); border-radius: 999px; color: var(--ink-2); background: var(--surface); }
 .jump a:hover { text-decoration: none; border-color: var(--accent); color: var(--accent-ink); }
@@ -358,6 +416,31 @@ function renderCompetitors() {
 }
 
 // ═════════ PAGE 2 — ENDPOINTS ═════════
+const STATUS_KO = { Final: "최종", Draft: "초안", Database: "데이터베이스", Presentation: "발표자료", Template: "템플릿" };
+const COLS = [["Design", "설계"], ["Primary endpoint", "1차 평가변수"], ["Compared with", "대조"], ["When", "시점"], ["Key result", "주요 결과"]];
+const cell = (v, [en, ko], cls = "") => `<div class="${cls}" data-l="${en} · ${ko}">${v ? T(v) : `<span class="c-none">·</span>`}</div>`;
+function epSection(c) {
+  return `<section class="ep" id="cat-${c.key}">
+    <div class="ep-h"><h2>${Ti(c.name.en, c.name.ko)}</h2><span class="route">${Ti(c.route.en, c.route.ko)}</span>
+      <span class="cnt">${Ti(`${c.products.length} product${c.products.length > 1 ? "s" : ""}`, `${c.products.length}개 제품`)}</span></div>
+    <div class="std">
+      <div><span class="k">${Ti("Standard primary endpoint", "표준 1차 평가변수")}</span><span class="v">${T(c.std.primary)}</span></div>
+      <div><span class="k">${Ti("Compared with", "대조")}</span><span class="v">${T(c.std.vs)}</span></div>
+      <div><span class="k">${Ti("Timepoint", "평가 시점")}</span><span class="v">${T(c.std.when)}</span></div>
+    </div>
+    <div class="ep-row ep-head"><div>${Ti("Product", "제품")}</div>${COLS.map(([en, ko]) => `<div>${Ti(en, ko)}</div>`).join("")}</div>
+    ${c.products.map((p) => `<div class="ep-item">
+      <div class="ep-row">
+        <div class="c-prod"><b>${esc(p.name)}</b><span class="sub">${Ti(p.sub.en, p.sub.ko)}</span></div>
+        ${cell(p.design, COLS[0])}${cell(p.primary, COLS[1])}${cell(p.vs, COLS[2])}${cell(p.when, COLS[3])}${cell(p.result, COLS[4], "c-res")}
+      </div>
+      <details class="more"><summary>${Ti("Details", "상세")}${p.ncts.length ? ` · ${p.ncts.length} NCT` : ""}</summary>
+        <div class="body"><div>${T(p.more)}</div>${p.ncts.length ? `<div class="ncts">${p.ncts.map((n) => `<a href="https://clinicaltrials.gov/study/${n}" target="_blank" rel="noopener">${n}</a>`).join("")}</div>` : ""}</div>
+      </details></div>`).join("")}
+    <p class="take"><b>${Ti("For a new nasal entrant:", "신규 진입자 시사점:")}</b> ${T(c.takeaway)}</p>
+  </section>`;
+}
+
 function renderEndpoints() {
   const el = $("#p-endpoints");
   const E = D.endpoints;
@@ -372,26 +455,17 @@ function renderEndpoints() {
       <div class="section-h"><h2>${Ti("Two routes to approval", "허가로 가는 두 가지 경로")}</h2></div>
       <div class="terms">${E.routes.map((r) => `<div class="term"><span class="k">${Ti(r.k.en, r.k.ko)}</span><span class="v">${T(r.v)}</span><span class="d">${T(r.d)}</span></div>`).join("")}</div>
     </div>
-    ${E.categories.map((c) => `
-    <div class="cat">
-      <div class="section-h" id="cat-${c.key}"><div class="cat-h"><h2>${Ti(c.name.en, c.name.ko)}</h2></div></div>
-      <div class="tbl-wrap"><table><thead><tr>
-        <th>${T({ en: "Product", ko: "제품" })}</th><th>${T({ en: "Pivotal trial", ko: "허가 임상" })}</th><th>${T({ en: "Primary endpoint", ko: "1차 평가변수" })}</th>
-        <th>${T({ en: "Key secondary / PD", ko: "주요 2차 / PD" })}</th><th>${T({ en: "Timepoint", ko: "평가 시점" })}</th></tr></thead><tbody>
-        ${c.products.map((p) => `<tr><td class="nowrap"><b>${esc(p.product)}</b></td><td>${typeof p.trial === "object" ? T(p.trial) : esc(p.trial || "")}${(p.ncts || []).map((n) => `<br><a class="mono" href="https://clinicaltrials.gov/study/${n}" target="_blank" rel="noopener">${n}</a>`).join("")}</td><td>${T(p.primary)}</td><td>${T(p.secondary)}</td><td>${T(p.timepoint)}</td></tr>`).join("")}
-      </tbody></table></div>
-      <div class="take"><b>${Ti("For a new nasal entrant:", "신규 진입자 시사점:")}</b> ${T(c.takeaway)}</div>
-    </div>`).join("")}
+    ${E.categories.map(epSection).join("")}
     <div>
       <div class="section-h"><h2>${Ti("Nasal-specific safety and device tests", "비강 제형 고유의 안전성·디바이스 시험")}</h2>
         <p>${T({ en: "Measured in almost every nasal program on top of the efficacy endpoint.", ko: "유효성 평가변수와 별도로 거의 모든 비강 개발에서 측정합니다." })}</p></div>
-      <ul class="bul">${E.localSafety.map((s) => `<li>${T(s)}</li>`).join("")}</ul>
+      <div class="tiles">${E.localSafety.map((s) => `<div class="tile"><b>${Ti(s.name.en, s.name.ko)}</b><span class="w">${T(s.what)}</span><span class="seen">${Ti(s.seen.en, s.seen.ko)}</span></div>`).join("")}</div>
     </div>
     <div>
       <div class="section-h"><h2>${Ti("Guidance documents", "가이드라인")}</h2></div>
-      <div class="tbl-wrap"><table><thead><tr><th>${T({ en: "Agency", ko: "기관" })}</th><th>${T({ en: "Document", ko: "문서" })}</th><th>${T({ en: "Why it matters", ko: "의미" })}</th></tr></thead><tbody>
-        ${E.guidance.map((g) => `<tr><td class="nowrap"><b>${esc(g.agency)}</b><br><span class="muted mono">${esc(g.year || "")}</span></td><td>${g.url ? `<a href="${esc(g.url)}" target="_blank" rel="noopener">${esc(g.title)}</a>` : esc(g.title)}</td><td>${T(g.why)}</td></tr>`).join("")}
-      </tbody></table></div>
+      <div class="gd">${E.guidance.map((g) => `<div class="gd-row"><span class="agency">${esc(g.agency)}</span>
+        <span><a class="t" href="${esc(g.url)}" target="_blank" rel="noopener">${Ti(g.title.en, g.title.ko)}</a><span class="w">${T(g.why)}</span></span>
+        <span><span class="status ${g.status.toLowerCase()}">${Ti(g.status, STATUS_KO[g.status] || g.status)}</span><span class="yr">${esc(g.year)}</span></span></div>`).join("")}</div>
     </div>
     <div>
       <div class="section-h"><h2>${Ti("What we should do next", "향후 우리가 할 일")}</h2></div>

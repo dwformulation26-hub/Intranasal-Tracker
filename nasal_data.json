@@ -6766,775 +6766,6 @@
   }
  ],
  "endpoints": {
-  "categories": [
-   {
-    "key": "pk_bridge",
-    "name": {
-     "en": "505(b)(2) PK/PD-bridging rescue products (nasal vs injection)",
-     "ko": "505(b)(2) PK/PD 가교 응급 제품 (비강 vs 주사)"
-    },
-    "products": [
-     {
-      "product": "Narcan (naloxone 4 mg nasal spray)",
-      "trial": {
-       "en": "Healthy-volunteer comparative PK study (n=30): naloxone 2-8 mg IN (incl. the marketed 4 mg/0.1 mL) vs 0.4 mg IM; NIDA/Lightlake/Adapt study NCT02572089, matching the Narcan NDA label PK study",
-       "ko": "건강인 비교 PK 시험(30명): naloxone 2~8 mg IN(시판 4 mg/0.1 mL 포함) vs 0.4 mg IM. NIDA/Lightlake/Adapt 시험 NCT02572089로 Narcan NDA 허가사항의 PK 시험과 일치"
-      },
-      "primary": {
-       "en": "Cmax, Tmax, AUC0-t, AUC0-inf, t1/2 of naloxone (NCT02572089 primary outcomes)",
-       "ko": "naloxone의 Cmax, Tmax, AUC0-t, AUC0-inf, t1/2 (NCT02572089 1차 평가변수)"
-      },
-      "secondary": {
-       "en": "Comparator: naloxone 0.4 mg IM. Label reports relative BA of 4 mg (one nostril) and 8 mg (two nostrils) vs IM; early sampling at 2.5-20 min captures early exposure, which matters most clinically",
-       "ko": "대조약: naloxone 0.4 mg IM. 허가사항은 4 mg(한쪽 콧구멍)·8 mg(양쪽) vs IM 상대 BA를 제시. 2.5~20분 조기 채혈로 임상적으로 핵심인 조기 노출을 평가"
-      },
-      "timepoint": {
-       "en": "Sampling up to 720 min post-dose",
-       "ko": "투여 후 720분까지 채혈"
-      },
-      "ncts": [
-       "NCT02572089"
-      ]
-     },
-     {
-      "product": "Kloxxado (naloxone 8 mg nasal spray, Hikma)",
-      "trial": {
-       "en": "8 mg: two comparative-BA PK studies in healthy adults (up to 24 each) vs 0.4 mg IM and 2 mg IV; 4 mg (added Aug 2025): PK study (up to 72) vs Kloxxado 8 mg and a previously approved 4 mg nasal spray; no NCT found",
-       "ko": "8 mg: 건강인 비교 BA PK 시험 2건(각 최대 24명), 0.4 mg IM 및 2 mg IV 대비. 4 mg(2025년 8월 추가): Kloxxado 8 mg 및 기허가 4 mg 비강 분무제 대비 PK 시험(최대 72명). NCT 확인 안 됨"
-      },
-      "primary": {
-       "en": "Relative bioavailability of one 8 mg spray vs naloxone 0.4 mg IM and 2 mg IV (label)",
-       "ko": "8 mg 1회 분무 vs naloxone 0.4 mg IM 및 2 mg IV의 상대 생체이용률 (허가사항)"
-      },
-      "secondary": {
-       "en": "Label: the 8 mg relative BA was shown vs injectable naloxone (0.4 mg IM, 2 mg IV); a later head-to-head PK study vs an approved 4 mg nasal spray supported the 4 mg strength",
-       "ko": "허가사항: 8 mg의 상대 BA는 주사용 naloxone(0.4 mg IM, 2 mg IV) 대비로 제시. 이후 기허가 4 mg 비강 분무제와 직접 비교한 PK 시험이 4 mg 용량 허가를 뒷받침"
-      },
-      "timepoint": {
-       "en": "Single dose, full PK profile",
-       "ko": "단회 투여, 전체 PK 프로파일"
-      },
-      "ncts": []
-     },
-     {
-      "product": "Opvee (nalmefene 2.7 mg nasal spray, Indivior/Opiant)",
-      "trial": "PD study in opioid-experienced, non-dependent volunteers (remifentanil-induced respiratory depression model, crossover vs IN naloxone 4 mg) + PK study",
-      "primary": {
-       "en": "PD: change in minute ventilation at 5 min during steady-state remifentanil infusion, non-inferiority vs naloxone 4 mg IN. PK: Cmax, Tmax, AUC-inf, t1/2",
-       "ko": "PD: remifentanil 정상상태 주입 중 5분 시점 분당환기량(minute ventilation) 변화, naloxone 4 mg IN 대비 비열등성. PK: Cmax, Tmax, AUC-inf, t1/2"
-      },
-      "secondary": {
-       "en": "Label: onset 2.5-5 min, full recovery of respiratory drive 5-15 min, mean MV increase 5.745 L/min at 5 min (hypercapnia-response model, n=61)",
-       "ko": "허가사항: 효과 발현 2.5~5분, 호흡 구동 완전 회복 5~15분, 5분 시점 분당환기량 평균 5.745 L/min 증가 (고탄산혈증 반응 모델, 61명)"
-      },
-      "timepoint": {
-       "en": "5 min (primary); PK to 48 h",
-       "ko": "5분 (1차); PK 48시간까지"
-      },
-      "ncts": [
-       "NCT04828005",
-       "NCT04759768"
-      ]
-     },
-     {
-      "product": "neffy (epinephrine 2 mg / 1 mg nasal spray, ARS Pharma; Aptar Unidose device)",
-      "trial": "4 PK/PD studies in 175 healthy adults (no anaphylaxis), incl. repeat-dose study under nasal allergen challenge requested after the Sept 2023 CRL; supportive URTI/rhinitis PK study; single-arm pediatric PK study (n=42)",
-      "primary": {
-       "en": "Epinephrine PK (Cmax, AUC, Tmax, partial AUCs). FDA criterion: minimum exposure >= epinephrine 0.3 mg IM/SC (efficacy) and maximum exposure < EpiPen (safety)",
-       "ko": "Epinephrine PK (Cmax, AUC, Tmax, 부분 AUC). FDA 기준: 최소 노출 >= epinephrine 0.3 mg IM/SC(유효성), 최대 노출 < EpiPen(안전성)"
-      },
-      "secondary": {
-       "en": "PD: SBP and HR change vs EpiPen / IM syringe (sponsor: HR change > IM and EpiPen; BP > IM, numerically > EpiPen). Comparators: EpiPen 0.3 mg, IM epinephrine 0.3 mg",
-       "ko": "PD: EpiPen/IM 주사 대비 수축기혈압(SBP)·심박수(HR) 변화 (회사 발표: HR 변화 IM·EpiPen보다 큼, BP는 IM보다 크고 EpiPen보다 수치상 큼). 대조약: EpiPen 0.3 mg, IM epinephrine 0.3 mg"
-      },
-      "timepoint": {
-       "en": "Early minutes to several hours post-dose; single and repeat (2-dose) administration",
-       "ko": "투여 직후 수 분~수 시간; 단회 및 반복(2회) 투여"
-      },
-      "ncts": [
-       "NCT04930900"
-      ]
-     },
-     {
-      "product": "Baqsimi (glucagon 3 mg nasal powder, Lilly → Amphastar)",
-      "trial": {
-       "en": "Two adult pivotal crossover non-inferiority studies vs glucagon 1 mg IM after insulin-induced hypoglycemia (NCT03339453, n=70; NCT01994746, n=83); pediatric studies NCT01997411 (4 to <17 y) and NCT04992312",
-       "ko": "인슐린 유발 저혈당 후 glucagon 1 mg IM 대비 성인 피보탈 교차 비열등성 시험 2건(NCT03339453, 70명; NCT01994746, 83명); 소아 시험 NCT01997411(4~17세 미만) 및 NCT04992312"
-      },
-      "primary": {
-       "en": "Treatment success: plasma glucose rise to >=70 mg/dL OR >=20 mg/dL increase from nadir within 30 min (non-inferiority vs IM glucagon)",
-       "ko": "치료 성공: 투여 후 30분 이내 혈당 >=70 mg/dL 도달 또는 최저치 대비 >=20 mg/dL 상승 (IM glucagon 대비 비열등성)"
-      },
-      "secondary": {
-       "en": "Time to treatment success, glucagon PK, nasal/ocular AEs; supportive common-cold PK study NCT02778100",
-       "ko": "치료 성공까지 시간, glucagon PK, 비강·안구 이상반응; 감기 상태 PK 보조시험 NCT02778100"
-      },
-      "timepoint": {
-       "en": "Glucose at 0, 5, 10, 15, 20, 25, 30 min",
-       "ko": "혈당 0, 5, 10, 15, 20, 25, 30분 측정"
-      },
-      "ncts": [
-       "NCT03339453",
-       "NCT01994746",
-       "NCT01997411",
-       "NCT04992312"
-      ]
-     },
-     {
-      "product": "Trudhesa (DHE nasal spray, Impel POD device)",
-      "trial": "INP104-101 relative-BA study vs D.H.E. 45 injection (systemic safety) and Migranal nasal (efficacy) + STOP 301 long-term safety",
-      "primary": {
-       "en": "505(b)(2): PK bridge (Cmax, AUC) to DHE 45 IV and Migranal. STOP 301 primary: SAEs, TEAEs, change in nasal mucosa, change in olfactory function",
-       "ko": "505(b)(2): DHE 45 IV 및 Migranal 대비 PK 가교(Cmax, AUC). STOP 301 1차: 중대한 이상반응, TEAE, 비점막 변화, 후각 기능 변화"
-      },
-      "secondary": {
-       "en": "Exploratory efficacy in open-label setting",
-       "ko": "공개 설계에서 탐색적 유효성"
-      },
-      "timepoint": {
-       "en": "24 and 52 weeks (STOP 301)",
-       "ko": "24주 및 52주 (STOP 301)"
-      },
-      "ncts": [
-       "NCT03557333"
-      ]
-     },
-     {
-      "product": "Atzumi (DHE 5.2 mg nasal powder, Satsuma/SNBL, SMART platform)",
-      "trial": "Phase 1 PK trial + ASCEND long-term open-label safety (placebo-controlled SUMMIT efficacy trial also run)",
-      "primary": {
-       "en": "Approval basis = PK bridge + ASCEND safety. ASCEND registered primaries: % attacks with sustained pain freedom and sustained MBS freedom 2-48 h. SUMMIT: pain freedom and MBS freedom at 2 h",
-       "ko": "허가 근거 = PK 가교 + ASCEND 안전성. ASCEND 등록 1차: 2~48시간 지속 통증 소실·MBS 소실 발작 비율. SUMMIT: 2시간 통증 소실 및 MBS 소실"
-      },
-      "secondary": {
-       "en": "Common ARs: rhinitis, nausea, altered taste, application-site reactions. First CRL was for manufacturing (CMC), not clinical data",
-       "ko": "주요 이상반응: 비염, 오심, 미각 이상, 투여부위 반응. 첫 CRL은 임상이 아닌 제조(CMC) 문제"
-      },
-      "timepoint": {
-       "en": "Up to 12 months (ASCEND)",
-       "ko": "최대 12개월 (ASCEND)"
-      },
-      "ncts": [
-       "NCT04406649",
-       "NCT04940390"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "If a reference injection exists, FDA will usually accept a PK (± PD) bridge in healthy volunteers instead of an efficacy trial, but expect to bracket exposure (not below the IM dose, not above the autoinjector) and to add special-population PK (rhinitis/URTI, allergen challenge, repeat dosing).",
-     "ko": "기준 주사제가 있으면 FDA는 대개 유효성 시험 대신 건강인 PK(±PD) 가교를 인정하지만, 노출 범위를 양쪽으로 맞춰야 하고(IM 용량보다 낮지 않게, 자동주사기보다 높지 않게) 비염/상기도감염, 알레르겐 유발, 반복 투여 등 특수 조건 PK를 추가해야 한다."
-    }
-   },
-   {
-    "key": "migraine",
-    "name": {
-     "en": "Acute migraine (nasal)",
-     "ko": "급성 편두통 (비강)"
-    },
-    "products": [
-     {
-      "product": "Zavzpret (zavegepant 10 mg nasal spray, Pfizer)",
-      "trial": {
-       "en": "Study 301 (Phase 3) and Study 201 (Phase 2/3), both randomized, double-blind, placebo-controlled",
-       "ko": "Study 301(3상) 및 Study 201(2/3상), 모두 무작위 이중맹검 위약대조"
-      },
-      "primary": {
-       "en": "Co-primary: % with freedom from pain at 2 h, and % with freedom from most bothersome symptom (MBS) at 2 h",
-       "ko": "공동 1차: 2시간 통증 소실 비율, 2시간 가장 괴로운 증상(MBS) 소실 비율"
-      },
-      "secondary": {
-       "en": "Pain relief at 2 h, sustained pain freedom 2-24 h / 2-48 h, return to normal function, early timepoints (15-60 min)",
-       "ko": "2시간 통증 완화, 2~24/2~48시간 지속 통증 소실, 정상 기능 회복, 조기 시점(15~60분)"
-      },
-      "timepoint": {
-       "en": "2 h post-dose",
-       "ko": "투여 후 2시간"
-      },
-      "ncts": [
-       "NCT04571060",
-       "NCT03872453"
-      ]
-     },
-     {
-      "product": "Atzumi (DHE nasal powder) - SUMMIT",
-      "trial": "SUMMIT placebo-controlled Phase 3",
-      "primary": {
-       "en": "Co-primary pain freedom and MBS freedom at 2 h (approval ultimately relied on PK bridge + ASCEND safety)",
-       "ko": "공동 1차 2시간 통증 소실 및 MBS 소실 (최종 허가는 PK 가교 + ASCEND 안전성에 근거)"
-      },
-      "secondary": {
-       "en": "Sustained freedom endpoints, tolerability",
-       "ko": "지속 소실 지표, 내약성"
-      },
-      "timepoint": {
-       "en": "2 h",
-       "ko": "2시간"
-      },
-      "ncts": [
-       "NCT04940390"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "For a new chemical entity the FDA acute-migraine co-primaries (pain freedom + MBS freedom at 2 h) are non-negotiable; for a reformulated old drug (DHE) a PK bridge plus long-term nasal safety can replace a positive efficacy trial.",
-     "ko": "신규 물질이면 FDA 급성 편두통 공동 1차(2시간 통증 소실 + MBS 소실)는 사실상 고정이다. 기존 약물(DHE) 제형 변경이라면 PK 가교와 장기 비강 안전성으로 유효성 시험을 대신할 수 있다."
-    }
-   },
-   {
-    "key": "seizure",
-    "name": {
-     "en": "Seizure-cluster rescue",
-     "ko": "군집 발작 응급 치료"
-    },
-    "products": [
-     {
-      "product": "Nayzilam (midazolam 5 mg nasal spray, UCB)",
-      "trial": "ARTEMIS-1 (randomized, double-blind, placebo-controlled)",
-      "primary": {
-       "en": "Treatment success: seizure termination within 10 min AND no recurrence from 10 min to 6 h after the double-blind dose",
-       "ko": "치료 성공: 이중맹검 투여 후 10분 이내 발작 종료 그리고 10분~6시간 동안 재발 없음"
-      },
-      "secondary": {
-       "en": "Seizure recurrence >10 min to 4 h, any seizure to 24 h, time to next seizure (to 24 h)",
-       "ko": "10분 초과~4시간 발작 재발, 24시간까지 발작 발생, 다음 발작까지 시간(24시간까지)"
-      },
-      "timepoint": {
-       "en": "10 min and 6 h",
-       "ko": "10분 및 6시간"
-      },
-      "ncts": [
-       "NCT01390220"
-      ]
-     },
-     {
-      "product": "Valtoco (diazepam nasal spray, Neurelis; Intravail enhancer)",
-      "trial": {
-       "en": "PK bridge to Diastat rectal gel (505(b)(2)) + ictal/peri-ictal PK study + 12-month repeat-dose safety study; ages 2-5 added Apr 2025 based on a Phase 1/2a safety/PK study",
-       "ko": "Diastat 직장 겔 대비 PK 가교(505(b)(2)) + 발작 중/주변기 PK 시험 + 12개월 반복투여 안전성 시험; 2~5세는 2025년 4월 1/2a상 안전성·PK 시험을 근거로 추가"
-      },
-      "primary": {
-       "en": "Diazepam Cmax/AUC during ictal/peri-ictal period; long-term study: number of participants/AEs over 12 months",
-       "ko": "발작 중/주변기 diazepam Cmax/AUC; 장기시험: 12개월간 참여자 수/이상반응"
-      },
-      "secondary": {
-       "en": "Proportion of second doses within 24 h (efficacy proxy), nasal irritation, dysgeusia",
-       "ko": "24시간 내 2차 투여 비율(유효성 대리지표), 비강 자극, 미각 이상"
-      },
-      "timepoint": {
-       "en": "PK 0-6 h; safety 12 months",
-       "ko": "PK 0~6시간; 안전성 12개월"
-      },
-      "ncts": [
-       "NCT02724423",
-       "NCT02721069"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "A new molecule needs the ARTEMIS-style 10 min / 6 h treatment-success endpoint; a new nasal form of an approved benzodiazepine can be bridged by PK plus a large long-term safety cohort.",
-     "ko": "신규 물질은 ARTEMIS 방식의 10분/6시간 치료 성공 지표가 필요하고, 허가된 벤조디아제핀의 새 비강 제형은 PK와 대규모 장기 안전성 코호트로 가교할 수 있다."
-    }
-   },
-   {
-    "key": "psychiatry",
-    "name": {
-     "en": "Psychiatry (depression, social anxiety)",
-     "ko": "정신과 (우울증, 사회불안)"
-    },
-    "products": [
-     {
-      "product": "Spravato (esketamine nasal spray, J&J) - induction",
-      "trial": "TRANSFORM-2 (flexible dose + oral AD); TRANSFORM-1 (fixed dose)",
-      "primary": {
-       "en": "Change from baseline in MADRS total score at Day 28 (MMRM)",
-       "ko": "28일차 MADRS 총점 기저치 대비 변화 (MMRM)"
-      },
-      "secondary": {
-       "en": "Onset of response by Day 2 sustained, response/remission rates, SDS, PHQ-9; dissociation (CADSS), BP monitoring",
-       "ko": "2일차 반응 후 지속, 반응/관해율, SDS, PHQ-9; 해리(CADSS), 혈압 모니터링"
-      },
-      "timepoint": {
-       "en": "Day 28 (Week 4)",
-       "ko": "28일 (4주)"
-      },
-      "ncts": [
-       "NCT02418585",
-       "NCT02417064"
-      ]
-     },
-     {
-      "product": "Spravato - relapse prevention",
-      "trial": "SUSTAIN-1 (randomized withdrawal)",
-      "primary": {
-       "en": "Time to relapse in patients in stable remission (randomized withdrawal design)",
-       "ko": "안정 관해 환자에서 재발까지 시간 (무작위 중단 설계)"
-      },
-      "secondary": {
-       "en": "Time to relapse in stable responders",
-       "ko": "안정 반응자에서 재발까지 시간"
-      },
-      "timepoint": {
-       "en": "Up to 92 weeks maintenance",
-       "ko": "유지기 최대 92주"
-      },
-      "ncts": [
-       "NCT02493868"
-      ]
-     },
-     {
-      "product": "Spravato - monotherapy (approved Jan 21, 2025)",
-      "trial": "Monotherapy RCT (n=477; 56 mg, 84 mg, placebo)",
-      "primary": {
-       "en": "Change in MADRS total score from Day 1 to Day 28",
-       "ko": "1일차~28일차 MADRS 총점 변화"
-      },
-      "secondary": {
-       "en": "Remission at Week 4 (MADRS <=12): 22.5% vs 7.6% placebo",
-       "ko": "4주 관해(MADRS <=12): 22.5% vs 위약 7.6%"
-      },
-      "timepoint": {
-       "en": "Day 28",
-       "ko": "28일"
-      },
-      "ncts": [
-       "NCT04599855"
-      ]
-     },
-     {
-      "product": "fasedienol (PH94B nasal spray, Vistagen) - investigational",
-      "trial": "PALISADE-1 (failed), PALISADE-2 (positive per sponsor), PALISADE-3 (failed Dec 17, 2025), PALISADE-4 (ongoing)",
-      "primary": {
-       "en": "Change in Subjective Units of Distress Scale (SUDS) during an in-clinic public-speaking challenge vs baseline challenge",
-       "ko": "병원 내 대중 연설 과제 중 주관적 고통 척도(SUDS) 변화 (기저 과제 대비)"
-      },
-      "secondary": {
-       "en": "Clinician Global Impression of Improvement (CGI-I), Patient Global Impression of Change (PGI-C). PALISADE-3: LS mean change 13.6 vs 14.0 placebo, not significant",
-       "ko": "CGI-I, PGI-C. PALISADE-3: 최소제곱평균 변화 13.6 vs 위약 14.0, 유의성 없음"
-      },
-      "timepoint": {
-       "en": "Single acute dose; challenge ~Day 7 after baseline visit",
-       "ko": "단회 급성 투여; 기저 방문 후 약 7일째 과제"
-      },
-      "ncts": [
-       "NCT04754802",
-       "NCT05011396",
-       "NCT06358651",
-       "NCT06615557"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "Nasal CNS drugs are judged on the same scales as oral drugs (MADRS Day 28, relapse time); acute 'challenge' endpoints like SUDS have high placebo response and replicate poorly, so power and site training matter more than the route.",
-     "ko": "비강 CNS 약물도 경구 약물과 동일한 척도(28일 MADRS, 재발까지 시간)로 평가된다. SUDS 같은 급성 유발 과제 지표는 위약 반응이 크고 재현이 어렵기 때문에 투여 경로보다 검정력과 기관 교육이 더 중요하다."
-    }
-   },
-   {
-    "key": "psvt",
-    "name": {
-     "en": "PSVT (cardiology)",
-     "ko": "발작성 심실상성 빈맥 (PSVT)"
-    },
-    "products": [
-     {
-      "product": "Cardamyst (etripamil 70 mg nasal spray, Milestone) - FDA approved Dec 12, 2025",
-      "trial": "RAPID (NODE-301 Part 2), patient self-administration at home vs placebo",
-      "primary": {
-       "en": "Time to conversion of PSVT to sinus rhythm (>=30 s) within 30 min of dosing (adjudicated by ECG monitor)",
-       "ko": "투여 후 30분 이내 동리듬(30초 이상) 전환까지 시간 (심전도 모니터로 판정)"
-      },
-      "secondary": {
-       "en": "Conversion at 30 min: 64% vs 31% placebo (RAPID, HR 2.6); median time to conversion 17.2 vs 53.5 min; ED visits/medical interventions avoided; nasal AEs",
-       "ko": "30분 내 전환율: 64% vs 위약 31% (RAPID, HR 2.6); 전환까지 중앙값 17.2분 vs 53.5분; 응급실 방문·의료 개입 회피; 비강 이상반응"
-      },
-      "timepoint": {
-       "en": "30 min (NODE-301 Part 1 used 5 h window)",
-       "ko": "30분 (NODE-301 Part 1은 5시간 창)"
-      },
-      "ncts": [
-       "NCT03464019"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "Self-administered nasal products for episodic events need an event-driven, ambulatory-monitored trial with a short, objective window (30 min).",
-     "ko": "에피소드성 질환용 자가투여 비강 제품은 짧고 객관적인 평가 시간창(30분)을 둔 사건 중심·외래 모니터링 임상이 필요합니다."
-    }
-   },
-   {
-    "key": "crs",
-    "name": {
-     "en": "Chronic rhinosinusitis / nasal polyps (local action)",
-     "ko": "만성 비부비동염 / 비용종 (국소 작용)"
-    },
-    "products": [
-     {
-      "product": "Xhance (fluticasone propionate, Optinose Exhalation Delivery System) - nasal polyps",
-      "trial": "NAVIGATE I and NAVIGATE II",
-      "primary": {
-       "en": "Co-primary: change in 7-day average morning nasal congestion/obstruction score (Week 4) and change in total endoscopic polyp grade (Week 16)",
-       "ko": "공동 1차: 7일 평균 아침 코막힘/폐쇄 점수 변화(4주) 및 내시경 비용종 총 등급 변화(16주)"
-      },
-      "secondary": {
-       "en": "SNOT-22, PNIF, diary hyposmia score, polyp elimination (grade 0), PGIC",
-       "ko": "SNOT-22, PNIF, 일지 후각저하 점수, 비용종 소실(등급 0), PGIC"
-      },
-      "timepoint": {
-       "en": "Week 4 and Week 16; 8-week open-label extension",
-       "ko": "4주 및 16주; 8주 공개 연장"
-      },
-      "ncts": [
-       "NCT01622569",
-       "NCT01624662"
-      ]
-     },
-     {
-      "product": "Xhance - CRS without polyps (sNDA approved 2024)",
-      "trial": "ReOpen1 and ReOpen2",
-      "primary": {
-       "en": "Co-primary: change in composite symptom score (congestion + facial pain/pressure + discharge) at Week 4, and change in average percent of opacified volume (APOV) of ethmoid/maxillary sinuses on CT at Week 24",
-       "ko": "공동 1차: 4주 복합 증상 점수(코막힘+안면 통증/압박+콧물) 변화, 24주 CT 사골/상악동 평균 혼탁 부피 비율(APOV) 변화"
-      },
-      "secondary": {
-       "en": "Acute exacerbations, SNOT-22, PGIC",
-       "ko": "급성 악화, SNOT-22, PGIC"
-      },
-      "timepoint": {
-       "en": "Week 4 (symptoms), Week 24 (CT)",
-       "ko": "4주(증상), 24주(CT)"
-      },
-      "ncts": [
-       "NCT03781804",
-       "NCT03960580"
-      ]
-     },
-     {
-      "product": "LYR-210 (mometasone sinonasal implant, Lyra) - development suspended Jan 2026",
-      "trial": {
-       "en": "ENLIGHTEN 1 (missed primary, May 2024) and ENLIGHTEN 2 (positive, Jun 2025), sham-controlled",
-       "ko": "ENLIGHTEN 1(1차 미충족, 2024년 5월) 및 ENLIGHTEN 2(긍정적, 2025년 6월), 샴 대조"
-      },
-      "primary": {
-       "en": "Change in 7-day average composite score of 3 cardinal symptoms (3CS: obstruction, discharge, facial pain/pressure) in patients without polyps",
-       "ko": "비용종 없는 환자에서 3대 주증상(3CS: 코막힘, 콧물, 안면 통증/압박) 7일 평균 복합 점수 변화"
-      },
-      "secondary": {
-       "en": "ENLIGHTEN 2: 3CS -1.13 (p=0.0078); 3CS full population -0.90 (p=0.0209); SNOT-22 -8.7 (p=0.0101); CT opacification, need for rescue",
-       "ko": "ENLIGHTEN 2: 3CS -1.13 (p=0.0078); 전체 집단 3CS -0.90 (p=0.0209); SNOT-22 -8.7 (p=0.0101); CT 혼탁도, 구제치료 필요"
-      },
-      "timepoint": {
-       "en": "Week 24",
-       "ko": "24주"
-      },
-      "ncts": [
-       "NCT05219968",
-       "NCT05295459"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "Locally acting products need a patient-reported symptom score PLUS an objective anatomical endpoint (endoscopic polyp grade or CT opacification); device-driven deposition claims only count if they move those endpoints.",
-     "ko": "국소 작용 제품은 환자 보고 증상 점수와 객관적 해부학적 지표(내시경 비용종 등급 또는 CT 혼탁도)를 함께 충족해야 하며, 디바이스 기반 침착 개선 주장은 이 지표들을 움직일 때만 의미가 있다."
-    }
-   },
-   {
-    "key": "vaccine",
-    "name": {
-     "en": "Nasal vaccines",
-     "ko": "비강 백신"
-    },
-    "products": [
-     {
-      "product": "FluMist (live attenuated influenza vaccine, AstraZeneca); self/caregiver administration approved Sept 2024, FluMist Home launched Aug 2025",
-      "trial": "CAIV-T vs TIV in children 6-59 months (pivotal comparative efficacy)",
-      "primary": {
-       "en": "Relative efficacy vs inactivated vaccine against culture-confirmed symptomatic influenza (vaccine-like strains), >=14 days after last dose",
-       "ko": "불활화 백신 대비 배양 확진 증상성 인플루엔자(백신 유사주) 상대 효능, 마지막 접종 14일 이후"
-      },
-      "secondary": {
-       "en": "Serum HAI antibody titers, nasal wash sIgA (exploratory), viral shedding, reactogenicity (runny nose, wheezing in young children)",
-       "ko": "혈청 HAI 항체가, 비강 세척액 sIgA(탐색적), 백신 바이러스 배출(shedding), 반응원성(콧물, 영유아 천명)"
-      },
-      "timepoint": {
-       "en": "Full influenza season",
-       "ko": "인플루엔자 유행 시즌 전체"
-      },
-      "ncts": [
-       "NCT00128167"
-      ]
-     },
-     {
-      "product": "iNCOVACC / BBV154 (intranasal adenovirus-vector COVID-19, Bharat Biotech)",
-      "trial": "Phase 3 immunogenicity/safety",
-      "primary": {
-       "en": "Geometric mean titers (neutralizing antibody) at Day 28/42/90/180; solicited AEs (7 days), unsolicited AEs (to Day 180)",
-       "ko": "28/42/90/180일 중화항체 기하평균역가(GMT); 7일 유발 이상반응, 180일까지 비유발 이상반응"
-      },
-      "secondary": {
-       "en": "Mucosal (nasal) IgA, cellular immunity",
-       "ko": "점막(비강) IgA, 세포성 면역"
-      },
-      "timepoint": {
-       "en": "Day 28 to Day 180",
-       "ko": "28일~180일"
-      },
-      "ncts": [
-       "NCT05522335"
-      ]
-     }
-    ],
-    "takeaway": {
-     "en": "Licensure still hinges on systemic immunogenicity or clinical efficacy; nasal sIgA is supportive only, so a mucosal platform must also generate serum correlates and shedding/transmission data.",
-     "ko": "허가는 여전히 전신 면역원성 또는 임상 효능에 좌우되며 비강 sIgA는 보조 자료일 뿐이다. 점막 플랫폼도 혈청 상관지표와 shedding/전파 데이터를 함께 확보해야 한다."
-    }
-   },
-   {
-    "key": "n2b",
-    "name": {
-     "en": "Nose-to-brain (exploratory CNS)",
-     "ko": "Nose-to-brain (탐색적 CNS)"
-    },
-    "products": [
-     {
-      "product": "Intranasal insulin (SNIFF, Alzheimer's/MCI)",
-      "trial": "SNIFF Phase 2/3 (device-delivered insulin vs placebo)",
-      "primary": {
-       "en": "Change in ADAS-Cog12",
-       "ko": "ADAS-Cog12 변화"
-      },
-      "secondary": {
-       "en": "CSF Abeta/tau biomarkers, MRI, ADCS-ADL, memory composites (published result: primary not met; device change mid-study was a confounder)",
-       "ko": "CSF Aβ/tau 바이오마커, MRI, ADCS-ADL, 기억 복합 지표 (발표 결과: 1차 미충족; 시험 중 디바이스 교체가 교란 요인)"
-      },
-      "timepoint": {
-       "en": "12 months blinded + 6 months open-label",
-       "ko": "12개월 맹검 + 6개월 공개"
-      },
-      "ncts": [
-       "NCT01767909"
-      ]
-     },
-     {
-      "product": "Generic N2B proof-of-concept designs",
-      "trial": "Phase 1 / translational",
-      "primary": {
-       "en": "CSF-to-plasma AUC ratio vs IV reference; PET or radiolabel imaging of olfactory/brain deposition",
-       "ko": "IV 기준 대비 CSF/혈장 AUC 비; 후각부/뇌 침착 PET 또는 방사표지 영상"
-      },
-      "secondary": {
-       "en": "Target-engagement biomarkers, EEG/fMRI, cognitive or behavioral scales",
-       "ko": "표적 결합 바이오마커, EEG/fMRI, 인지·행동 척도"
-      },
-      "timepoint": {
-       "en": "Hours (PK/imaging) to 12 months (cognition)",
-       "ko": "수 시간(PK/영상) ~ 12개월(인지)"
-      },
-      "ncts": []
-     }
-    ],
-    "takeaway": {
-     "en": "No N2B product has been approved on a 'direct-to-brain' claim; regulators will still want a standard clinical endpoint, and a mid-trial device change can sink the study, so freeze the device before Phase 2.",
-     "ko": "'뇌 직접 전달'을 근거로 허가된 N2B 제품은 아직 없다. 규제기관은 표준 임상 지표를 요구하며, 시험 중 디바이스 교체는 시험 실패로 이어질 수 있으므로 2상 전에 디바이스를 확정해야 한다."
-    }
-   }
-  ],
-  "guidance": [
-   {
-    "agency": "FDA",
-    "title": "Nasal Spray and Inhalation Solution, Suspension, and Spray Drug Products - Chemistry, Manufacturing, and Controls Documentation (final)",
-    "year": "2002",
-    "url": "https://www.fda.gov/media/70857/download",
-    "why": {
-     "en": "Defines the in vitro CMC tests every nasal spray needs (spray content uniformity, droplet size, spray pattern, plume geometry, priming). Final, July 2002 (docket FDA-1999-D-0060); does not cover nasal powders. Page URL verified 2026-10-21.",
-     "ko": "모든 비강 분무제에 필요한 체외 CMC 시험(분무 함량 균일성, 액적 크기, 분무 패턴, 플룸 형상, 프라이밍)을 규정. 2002년 7월 최종(Docket FDA-1999-D-0060); 비강 분말제는 적용 제외. 2026-10-21 URL 확인."
-    }
-   },
-   {
-    "agency": "FDA",
-    "title": "Bioavailability and Bioequivalence Studies for Nasal Aerosols and Nasal Sprays for Local Action (draft)",
-    "year": "2003",
-    "url": "https://www.fda.gov/media/70867/download",
-    "why": {
-     "en": "Still listed as draft (docket FDA-1999-D-0050); partly superseded by product-specific guidances (e.g., fluticasone PSG states it supersedes the 2003 draft).",
-     "ko": "여전히 초안으로 게재(Docket FDA-1999-D-0050); fluticasone PSG 등 제품별 가이던스가 일부 대체."
-    }
-   },
-   {
-    "agency": "FDA",
-    "title": "Product-Specific Guidances database (nasal sprays incl. naloxone, fluticasone, mometasone etc.)",
-    "year": "ongoing",
-    "url": "https://www.accessdata.fda.gov/scripts/cder/psg/index.cfm",
-    "why": {
-     "en": "Nasal PSGs give the exact in vitro tests (single actuation content, DSD, drug in small droplets, spray pattern, plume geometry; 3+ batches) and PK study design; naloxone PSG allows in vitro-only BE if Q1/Q2 same.",
-     "ko": "비강 PSG는 체외 시험 항목(단회 분무 함량, 액적 분포, 미세 액적 내 약물, 분무 패턴, 플룸 형상; 3배치 이상)과 PK 설계를 명시. naloxone PSG는 Q1/Q2 동일 시 체외 BE만으로 허용."
-    }
-   },
-   {
-    "agency": "FDA (OGD presentation)",
-    "title": "Complex Nasal Suspension PSGs: Utilization of Newly Recommended In Vitro Only Bioequivalence Option (S. Boc, FDA OGD, SBIA 2023; GDUFA research supporting revision of 9 nasal suspension PSGs)",
-    "year": "2023 (13 Sep)",
-    "url": "https://www.fda.gov/media/173383/download",
-    "why": {
-     "en": "Shows FDA's move toward in vitro-only BE (Option 1 for Q1/Q2 same) for nasal suspensions, reducing need for clinical endpoint BE.",
-     "ko": "비강 현탁제에서 체외 단독 BE(Q1/Q2 동일 시 Option 1)로의 전환을 보여주며 임상 종료점 BE 필요성을 줄임."
-    }
-   },
-   {
-    "agency": "FDA",
-    "title": "Migraine: Developing Drugs for Acute Treatment (final)",
-    "year": "2018",
-    "url": "https://www.fda.gov/media/89829/download",
-    "why": {
-     "en": "Source of the co-primary pain freedom + MBS freedom at 2 h used by Zavzpret/SUMMIT. Final, Feb 2018 (docket FDA-2014-D-1540); URL verified 2026-10-21.",
-     "ko": "Zavzpret/SUMMIT가 사용한 2시간 통증 소실 + MBS 소실 공동 1차의 근거. 2018년 2월 최종(Docket FDA-2014-D-1540); 2026-10-21 URL 확인."
-    }
-   },
-   {
-    "agency": "FDA",
-    "title": "Bridging for Drug-Device and Biologic-Device Combination Products (draft)",
-    "year": "2019",
-    "url": "https://www.fda.gov/media/133676/download",
-    "why": {
-     "en": "How to bridge data when the nasal device changes between development and commercial versions. Still draft (Dec 2019, docket FDA-2019-D-5585); URL verified 2026-10-21.",
-     "ko": "개발용과 상업용 비강 디바이스가 바뀔 때 데이터 가교 방법. 여전히 초안(2019년 12월, Docket FDA-2019-D-5585); 2026-10-21 URL 확인."
-    }
-   },
-   {
-    "agency": "EMA",
-    "title": "Guideline on the pharmaceutical quality of inhalation and nasal medicinal products, Revision 1",
-    "year": "2025 (adopted 14 Jul 2025; effective 1 Feb 2026)",
-    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-pharmaceutical-quality-inhalation-nasal-medicinal-products-revision-1_en.pdf",
-    "why": {
-     "en": "Replaces the 2006 guideline; now in force for EU filings and adds Medical Device Regulation considerations for integral devices.",
-     "ko": "2006년 가이드라인을 대체하며 현재 EU 허가에 적용; 일체형 디바이스에 대한 의료기기규정(MDR) 고려사항 추가."
-    }
-   },
-   {
-    "agency": "EMA",
-    "title": "Guideline on the requirements for demonstrating therapeutic equivalence for nasal products (draft, EMA/220888/2026)",
-    "year": "2026 (draft released 5 Oct 2026; consultation to 28 Feb 2027; concept paper Jul 2024)",
-    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-requirements-demonstrating-therapeutic-equivalence-nasal-products_en.pdf",
-    "why": {
-     "en": "Sets a stepwise TE approach (in vitro comparison, then PK) for local and systemic nasal products (examples: xylometazoline, naloxone); draft in consultation until 28 Feb 2027.",
-     "ko": "국소·전신 비강 제품(예: xylometazoline, naloxone)의 단계적 치료적 동등성 입증(체외 비교 후 PK) 요건을 제시; 2027년 2월 28일까지 의견수렴 중인 초안."
-    }
-   },
-   {
-    "agency": "WHO PQ",
-    "title": "Notes on the design of bioequivalence study: naloxone nasal",
-    "year": "2026 (May)",
-    "url": "https://extranet.who.int/prequal/sites/default/files/document_files/BE%20Naloxone_nasal_May2026.pdf",
-    "why": {
-     "en": "Recent BE design template for a systemic nasal product; useful for LMIC/tender markets.",
-     "ko": "전신 작용 비강 제품의 최신 BE 설계 예시; 중저소득국/입찰 시장에 유용."
-    }
-   },
-   {
-    "agency": "MFDS",
-    "title": "폐흡입제 동등성 입증 가이드라인 (inhalation equivalence guideline; no nasal-specific MFDS guideline found)",
-    "year": "2015",
-    "url": "https://medigatenews.com/news/3686095945",
-    "why": {
-     "en": "MFDS aligned inhalation equivalence with EU in 2015; no dedicated nasal spray guideline was found, so expect MFDS to lean on FDA/EMA documents - confirm via pre-consultation (unconfirmed that none exists).",
-     "ko": "식약처는 2015년 흡입제 동등성 기준을 EU에 맞췄으나 비강 분무제 전용 가이드라인은 확인되지 않음. FDA/EMA 문서를 준용할 가능성이 높으므로 사전상담으로 확인 필요 (부재 여부 미확인)."
-    }
-   }
-  ],
-  "localSafety": [
-   {
-    "en": "Nasal mucosal examination by ENT with a predefined scoring scale (erythema, edema, crusting, epistaxis, ulceration/septal perforation) at baseline and repeatedly; Trudhesa STOP 301 made 'change in nasal mucosa' a PRIMARY endpoint over 24/52 weeks (NCT03557333).",
-    "ko": "이비인후과 전문의의 사전 정의 점수 척도(홍반, 부종, 가피, 비출혈, 궤양/비중격 천공)로 기저 및 반복 비점막 검사. Trudhesa STOP 301은 24/52주 '비점막 변화'를 1차 평가변수로 설정 (NCT03557333)."
-   },
-   {
-    "en": "Olfactory function testing (UPSIT or Sniffin' Sticks) at baseline and end of treatment; a PRIMARY endpoint in STOP 301 (UPSIT) and a secondary (SIT) in the Xhance ReOpen CRS trials.",
-    "ko": "기저 및 치료 종료 시 후각 기능 검사(UPSIT 또는 Sniffin' Sticks). STOP 301의 1차 지표(UPSIT)이자 Xhance ReOpen CRS 시험의 2차 지표(SIT)."
-   },
-   {
-    "en": "Subject-rated nasal discomfort/irritation VAS, taste disturbance (dysgeusia), lacrimation, sneezing and runny nose immediately after dosing; common ARs on recent labels (Atzumi: rhinitis, altered taste, application-site reactions).",
-    "ko": "투여 직후 환자 평가 비강 불편감/자극 VAS, 미각 이상, 눈물, 재채기, 콧물. 최근 허가사항의 주요 이상반응(Atzumi: 비염, 미각 이상, 투여부위 반응)."
-   },
-   {
-    "en": "Special nasal-condition PK: upper respiratory infection / rhinitis (neffy NCT04930900; Baqsimi common-cold study NCT02778100) and repeat dosing under nasal allergen challenge (requested by FDA in the neffy 2023 CRL).",
-    "ko": "특수 비강 상태 PK: 상기도감염/비염(neffy NCT04930900; Baqsimi 감기 시험 NCT02778100), 비강 알레르겐 유발 하 반복 투여(neffy 2023 CRL에서 FDA 요청)."
-   },
-   {
-    "en": "In vitro device performance (FDA 2002 CMC; PSGs; EMA 2025 Rev 1): single-actuation/delivered dose content, droplet size distribution (laser diffraction), % drug in small droplets <10 um (lung exposure), spray pattern and plume geometry, priming/repriming, tail-off; >=3 batches.",
-    "ko": "체외 디바이스 성능(FDA 2002 CMC; PSG; EMA 2025 Rev 1): 단회 분무/전달 용량 함량, 레이저 회절 액적 분포, 10 µm 미만 미세 액적 내 약물 비율(폐 노출), 분무 패턴·플룸 형상, 프라이밍/재프라이밍, 말기 분무; 3배치 이상."
-   },
-   {
-    "en": "For nasal spray suspensions: drug particle size distribution in the formulation (FDA OGD cites MDRS as an example method) and dissolution are in vitro BE options in the 9 revised PSGs; powders have no equivalent PSG pathway yet.",
-    "ko": "비강 분무 현탁제: 제형 내 API 입자 크기 분포(FDA OGD가 MDRS를 예시 방법으로 제시)와 용출이 개정된 PSG 9건의 체외 BE 옵션. 분말제는 아직 동등한 PSG 경로 없음."
-   },
-   {
-    "en": "Regional deposition: gamma scintigraphy or nasal cast (anatomical replica) studies are supportive (not a required regulatory endpoint) but important for N2B/olfactory-region or sinus-targeting claims.",
-    "ko": "부위별 침착: 감마 신티그래피 또는 비강 캐스트(해부학적 모형) 연구는 필수 규제 지표는 아니나 N2B/후각부 또는 부비동 표적 주장에 중요."
-   },
-   {
-    "en": "Human factors / usability validation and device robustness (temperature excursions, freezing, carry case) - neffy's 2026 label adds use after freezing and exposure up to 122 F; Orexo OX124 CRL (2024) required an additional HF study.",
-    "ko": "인적요인/사용성 검증 및 디바이스 견고성(온도 이탈, 동결, 휴대 케이스). neffy 2026 허가사항에 동결 후 사용 및 122°F 노출 허용 추가; Orexo OX124 CRL(2024)은 추가 HF 시험 요구."
-   }
-  ],
-  "todo": [
-   {
-    "h": {
-     "en": "Copy the accepted primary endpoint exactly",
-     "ko": "이미 인정된 1차 평가변수를 그대로 사용하라"
-    },
-    "why": {
-     "en": "Every approved nasal product in each category used the same agency-endorsed endpoint (2 h pain + MBS freedom; 30-min glucose criteria; 30-min sinus-rhythm conversion; MADRS Day 28). Inventing a new endpoint adds review risk with no upside.",
-     "ko": "각 범주의 허가 비강 제품은 모두 규제기관이 인정한 동일 지표(2시간 통증+MBS 소실, 30분 혈당 기준, 30분 동리듬 전환, 28일 MADRS)를 썼다. 새로운 지표를 만들면 이점 없이 심사 위험만 커진다."
-    }
-   },
-   {
-    "h": {
-     "en": "Agree the PK bridge window with FDA before the first human study",
-     "ko": "첫 인체시험 전에 FDA와 PK 가교 범위를 합의하라"
-    },
-    "why": {
-     "en": "neffy shows FDA may require exposure bracketed between the IM dose (floor) and the autoinjector (ceiling) plus PD; a Type B pre-IND meeting fixes the comparator, partial AUC and PD endpoints up front.",
-     "ko": "neffy 사례처럼 FDA는 IM 용량(하한)과 자동주사기(상한) 사이 노출 및 PD를 요구할 수 있다. Type B pre-IND 회의로 대조약, 부분 AUC, PD 지표를 미리 확정해야 한다."
-    }
-   },
-   {
-    "h": {
-     "en": "Run 'bad-nose' PK early (rhinitis, URTI, allergen challenge, repeat dosing)",
-     "ko": "'나쁜 코' 조건 PK(비염, 상기도감염, 알레르겐 유발, 반복 투여)를 조기에 수행하라"
-    },
-    "why": {
-     "en": "neffy's 2023 CRL asked for repeat dosing under nasal allergen challenge, and Baqsimi/neffy both ran URTI studies; doing them late delays approval by a cycle.",
-     "ko": "neffy 2023 CRL은 비강 알레르겐 유발 하 반복 투여를 요구했고 Baqsimi와 neffy 모두 상기도감염 시험을 수행했다. 늦게 하면 허가가 한 사이클 지연된다."
-    }
-   },
-   {
-    "h": {
-     "en": "Build a standard local-tolerability module into every protocol",
-     "ko": "모든 프로토콜에 표준 국소 내약성 모듈을 넣어라"
-    },
-    "why": {
-     "en": "ENT mucosal assessment and olfactory testing (UPSIT) were primary endpoints in Trudhesa's STOP 301; a reusable module (adding nasal VAS) across our pipeline creates a comparable platform safety database for every filing.",
-     "ko": "비점막 평가와 후각 검사(UPSIT)는 Trudhesa STOP 301의 1차 지표였다. 파이프라인 전체에 재사용 가능한 모듈(비강 VAS 추가)을 두면 모든 허가에 활용 가능한 플랫폼 안전성 DB가 쌓인다."
-    }
-   },
-   {
-    "h": {
-     "en": "Treat device/CMC and human factors as the critical path, not clinical",
-     "ko": "임상이 아닌 디바이스/CMC와 인적요인을 핵심 경로로 관리하라"
-    },
-    "why": {
-     "en": "Recent nasal CRLs were non-clinical: Atzumi (manufacturing), Orexo OX124 (packaging, then HF + commercial-scale data). Freeze the device, run 3-batch in vitro characterization (FDA 2002 for sprays; EMA 2025 Rev 1 also covers powders), and validate HF before pivotal.",
-     "ko": "최근 비강 제품 CRL은 비임상 사유였다: Atzumi(제조), Orexo OX124(포장, 이후 HF 및 상업 규모 데이터). 디바이스를 확정하고 3배치 체외 특성 평가(분무제는 FDA 2002, 분말제는 EMA 2025 Rev 1도 적용)와 HF 검증을 피보탈 전에 완료하라."
-    }
-   },
-   {
-    "h": {
-     "en": "License an open-access approved powder device rather than build from scratch",
-     "ko": "처음부터 개발하기보다 허가 이력이 있는 개방형 분말 디바이스를 도입하라"
-    },
-    "why": {
-     "en": "In 2026 several powder devices opened to third parties: SNBL's FDA-approved Atzumi device via Bespak (MOU, Oct 2026), plus Hovione/IDC (May 2026) and Nemera-Therakind DriDose (Apr 2026) without an approved product yet; an approved device shortens CMC/HF work and supports a Korean-first-then-US filing plan with MFDS pre-consultation.",
-     "ko": "2026년 여러 분말 디바이스가 외부에 개방되었다: Bespak을 통한 SNBL의 FDA 허가 Atzumi 디바이스(MOU, 2026년 10월), 그리고 아직 허가 제품이 없는 Hovione/IDC(2026년 5월)와 Nemera-Therakind DriDose(2026년 4월). 허가된 디바이스는 CMC/HF 작업을 줄이며, 식약처 사전상담을 병행한 국내 우선 후 미국 허가 전략에 유리하다."
-    }
-   }
-  ],
   "title": {
    "en": "How nasal products are measured, and what we should do",
    "ko": "비강 제품은 어떻게 평가되는가, 그리고 우리가 할 일"
@@ -7554,8 +6785,8 @@
      "ko": "PK 가교 (505(b)(2))"
     },
     "d": {
-     "en": "Cmax, AUC and Tmax vs the approved IM/IV/SC reference in healthy volunteers; PD added where exposure alone is not persuasive (epinephrine, glucagon, opioid reversal).",
-     "ko": "건강인 대상 기존 IM/IV/SC 대조약과 Cmax·AUC·Tmax 비교. 노출량만으로 설득이 어려우면 PD 추가(에피네프린, 글루카곤, 오피오이드 역전)."
+     "en": "Cmax, AUC and Tmax vs the approved injection in healthy volunteers; PD when exposure alone is not enough.",
+     "ko": "건강인에서 기허가 주사제 대비 Cmax·AUC·Tmax 비교; 노출만으로 부족하면 PD 추가."
     }
    },
    {
@@ -7568,8 +6799,8 @@
      "ko": "유효성 임상"
     },
     "d": {
-     "en": "Disease-standard primary endpoint against placebo: MADRS, 2-h pain freedom, seizure termination, conversion to sinus rhythm, polyp/congestion scores, lab-confirmed infection.",
-     "ko": "위약 대비 질환 표준 1차 평가변수: MADRS, 2시간 통증 소실, 발작 종료, 동율동 전환, 비용종·코막힘 점수, 확진 감염."
+     "en": "The disease's standard endpoint vs placebo: MADRS, 2-h pain freedom, seizure stop, rhythm conversion.",
+     "ko": "위약 대비 질환 표준 평가변수: MADRS, 2시간 통증 소실, 발작 종료, 동율동 전환."
     }
    },
    {
@@ -7582,8 +6813,8 @@
      "ko": "비강 안전성 세트"
     },
     "d": {
-     "en": "Nasal mucosal exam, irritation/discomfort scores, smell testing, and repeat-dose tolerability.",
-     "ko": "비점막 검사, 자극·불편감 점수, 후각 검사, 반복 투여 내약성."
+     "en": "Nasal mucosa exam, irritation scores, smell testing, repeat-dose tolerability.",
+     "ko": "비점막 검사, 자극 점수, 후각 검사, 반복투여 내약성."
     }
    },
    {
@@ -7596,8 +6827,1338 @@
      "ko": "디바이스 성능"
     },
     "d": {
-     "en": "Spray pattern, plume geometry, droplet/particle size, shot weight and dose uniformity: the in-vitro data FDA uses for nasal BE.",
-     "ko": "분무 패턴, 플룸 형상, 액적/입자 크기, 분사량, 용량 균일성 — FDA가 비강 BE 판단에 쓰는 in vitro 자료."
+     "en": "Spray pattern, plume, droplet size, shot weight and dose uniformity: FDA's in vitro BE tests.",
+     "ko": "분무 패턴, 플룸, 액적 크기, 분사량, 용량 균일성: FDA의 in vitro BE 시험."
+    }
+   }
+  ],
+  "categories": [
+   {
+    "key": "pk_bridge",
+    "name": {
+     "en": "Rescue products bridged to an injection",
+     "ko": "주사제 대비 PK 가교 응급 제품"
+    },
+    "route": {
+     "en": "505(b)(2) PK bridge",
+     "ko": "505(b)(2) PK 가교"
+    },
+    "std": {
+     "primary": {
+      "en": "PK: Cmax, AUC, Tmax",
+      "ko": "PK: Cmax·AUC·Tmax"
+     },
+     "vs": {
+      "en": "Approved IM/IV injection",
+      "ko": "기허가 IM/IV 주사제"
+     },
+     "when": {
+      "en": "Minutes to hours, healthy volunteers",
+      "ko": "수분~수시간, 건강인"
+     }
+    },
+    "products": [
+     {
+      "name": "Narcan",
+      "sub": {
+       "en": "naloxone 4 mg spray",
+       "ko": "날록손 4 mg 스프레이"
+      },
+      "design": {
+       "en": "PK study · n=30",
+       "ko": "PK 시험 · 30명"
+      },
+      "primary": {
+       "en": "Cmax, Tmax, AUC, t½",
+       "ko": "Cmax·Tmax·AUC·t½"
+      },
+      "vs": {
+       "en": "Naloxone 0.4 mg IM",
+       "ko": "날록손 0.4 mg IM"
+      },
+      "when": {
+       "en": "0–12 h",
+       "ko": "0–12시간"
+      },
+      "result": null,
+      "more": {
+       "en": "2–8 mg intranasal tested, 4 mg/0.1 mL marketed. Early sampling at 2.5–20 min captures the exposure that matters clinically.",
+       "ko": "비강 2–8 mg 시험, 4 mg/0.1 mL 시판. 2.5–20분 조기 채혈로 임상적으로 중요한 초기 노출을 확인."
+      },
+      "ncts": [
+       "NCT02572089"
+      ]
+     },
+     {
+      "name": "Kloxxado",
+      "sub": {
+       "en": "naloxone 8 mg spray",
+       "ko": "날록손 8 mg 스프레이"
+      },
+      "design": {
+       "en": "2 PK studies · ≤24 each",
+       "ko": "PK 시험 2건 · 각 ≤24명"
+      },
+      "primary": {
+       "en": "Relative bioavailability",
+       "ko": "상대 생체이용률"
+      },
+      "vs": {
+       "en": "Naloxone 0.4 mg IM, 2 mg IV",
+       "ko": "날록손 0.4 mg IM, 2 mg IV"
+      },
+      "when": {
+       "en": "Single dose",
+       "ko": "단회 투여"
+      },
+      "result": {
+       "en": "4 mg strength added Aug 2025",
+       "ko": "2025년 8월 4 mg 추가"
+      },
+      "more": {
+       "en": "The 4 mg strength rests on a head-to-head PK study (up to 72) vs Kloxxado 8 mg and an approved 4 mg spray. No NCT found.",
+       "ko": "4 mg는 Kloxxado 8 mg 및 기허가 4 mg 스프레이 대비 PK 시험(최대 72명)으로 허가. NCT 미확인."
+      },
+      "ncts": []
+     },
+     {
+      "name": "Opvee",
+      "sub": {
+       "en": "nalmefene 2.7 mg spray",
+       "ko": "날메펜 2.7 mg 스프레이"
+      },
+      "design": {
+       "en": "PD + PK · opioid-experienced",
+       "ko": "PD + PK · 오피오이드 경험자"
+      },
+      "primary": {
+       "en": "Minute-ventilation change at 5 min",
+       "ko": "5분 시점 분당환기량 변화"
+      },
+      "vs": {
+       "en": "Naloxone 4 mg nasal",
+       "ko": "날록손 4 mg 비강"
+      },
+      "when": {
+       "en": "5 min (PK to 48 h)",
+       "ko": "5분 (PK 48시간)"
+      },
+      "result": {
+       "en": "+5.745 L/min at 5 min",
+       "ko": "5분 +5.745 L/min"
+      },
+      "more": {
+       "en": "Remifentanil respiratory-depression model, non-inferiority design. Label: onset 2.5–5 min, full recovery of breathing drive in 5–15 min (n=61).",
+       "ko": "레미펜타닐 호흡억제 모델, 비열등성 설계. 허가사항: 2.5–5분 발현, 5–15분 내 호흡 구동 완전 회복(61명)."
+      },
+      "ncts": [
+       "NCT04828005",
+       "NCT04759768"
+      ]
+     },
+     {
+      "name": "neffy",
+      "sub": {
+       "en": "epinephrine 2 / 1 mg spray",
+       "ko": "에피네프린 2 / 1 mg 스프레이"
+      },
+      "design": {
+       "en": "4 PK/PD studies · n=175",
+       "ko": "PK/PD 시험 4건 · 175명"
+      },
+      "primary": {
+       "en": "PK inside an exposure window",
+       "ko": "노출 범위 내 PK"
+      },
+      "vs": {
+       "en": "EpiPen 0.3 mg; IM 0.3 mg",
+       "ko": "EpiPen 0.3 mg; IM 0.3 mg"
+      },
+      "when": {
+       "en": "Minutes–hours; 1 and 2 doses",
+       "ko": "수분~수시간; 1·2회 투여"
+      },
+      "result": {
+       "en": "PD: blood pressure, heart rate",
+       "ko": "PD: 혈압·심박수"
+      },
+      "more": {
+       "en": "FDA bracket: exposure at least IM 0.3 mg, below EpiPen. A repeat-dose study under nasal allergen challenge was added after the Sept 2023 CRL; also rhinitis/cold PK and a pediatric PK study (n=42).",
+       "ko": "FDA 기준: 노출이 IM 0.3 mg 이상, EpiPen 미만. 2023년 9월 CRL 후 비강 알레르겐 유발 반복투여 시험 추가; 비염·감기 PK, 소아 PK(42명)도 수행."
+      },
+      "ncts": [
+       "NCT04930900"
+      ]
+     },
+     {
+      "name": "Baqsimi",
+      "sub": {
+       "en": "glucagon 3 mg powder",
+       "ko": "글루카곤 3 mg 분말"
+      },
+      "design": {
+       "en": "2 crossover studies · n=70, 83",
+       "ko": "교차 시험 2건 · 70·83명"
+      },
+      "primary": {
+       "en": "Glucose ≥70 or +20 mg/dL in 30 min",
+       "ko": "30분 내 혈당 ≥70 또는 +20 mg/dL"
+      },
+      "vs": {
+       "en": "Glucagon 1 mg IM",
+       "ko": "글루카곤 1 mg IM"
+      },
+      "when": {
+       "en": "0–30 min",
+       "ko": "0–30분"
+      },
+      "result": null,
+      "more": {
+       "en": "Non-inferiority design after insulin-induced hypoglycemia. Pediatric studies (4 to <17 years) and a supportive common-cold PK study; nasal and eye side effects tracked.",
+       "ko": "인슐린 유발 저혈당 후 비열등성 설계. 소아 시험(4~17세 미만)과 감기 상황 PK 보조 시험; 코·눈 이상반응 추적."
+      },
+      "ncts": [
+       "NCT03339453",
+       "NCT01994746",
+       "NCT01997411",
+       "NCT04992312"
+      ]
+     },
+     {
+      "name": "Trudhesa",
+      "sub": {
+       "en": "DHE spray (POD device)",
+       "ko": "DHE 스프레이 (POD 기기)"
+      },
+      "design": {
+       "en": "PK bridge + 52-week safety",
+       "ko": "PK 가교 + 52주 안전성"
+      },
+      "primary": {
+       "en": "PK; nasal mucosa and smell",
+       "ko": "PK; 비점막·후각"
+      },
+      "vs": {
+       "en": "DHE 45 injection; Migranal",
+       "ko": "DHE 45 주사; Migranal"
+      },
+      "when": {
+       "en": "24 and 52 weeks",
+       "ko": "24·52주"
+      },
+      "result": null,
+      "more": {
+       "en": "The STOP 301 safety study made change in nasal mucosa and in olfactory function primary endpoints, next to SAEs and TEAEs. Efficacy was exploratory and open-label.",
+       "ko": "STOP 301 안전성 시험은 중대 이상반응·이상반응과 함께 비점막 변화와 후각 변화를 1차 평가변수로 설정. 유효성은 공개 탐색 평가."
+      },
+      "ncts": [
+       "NCT03557333"
+      ]
+     },
+     {
+      "name": "Atzumi",
+      "sub": {
+       "en": "DHE 5.2 mg powder",
+       "ko": "DHE 5.2 mg 분말"
+      },
+      "design": {
+       "en": "PK bridge + 12-month safety",
+       "ko": "PK 가교 + 12개월 안전성"
+      },
+      "primary": {
+       "en": "PK; long-term safety (ASCEND)",
+       "ko": "PK; 장기 안전성 (ASCEND)"
+      },
+      "vs": {
+       "en": "—",
+       "ko": "—"
+      },
+      "when": {
+       "en": "Up to 12 months",
+       "ko": "최대 12개월"
+      },
+      "result": {
+       "en": "First CRL was manufacturing, not clinical",
+       "ko": "첫 CRL은 임상 아닌 제조(CMC) 사유"
+      },
+      "more": {
+       "en": "ASCEND registered sustained pain freedom and MBS freedom 2–48 h; the placebo-controlled SUMMIT trial also ran. Common reactions: rhinitis, nausea, altered taste.",
+       "ko": "ASCEND는 2–48시간 지속 통증 소실·MBS 소실을 등록; 위약대조 SUMMIT도 수행. 흔한 이상반응: 비염, 구역, 미각 변화."
+      },
+      "ncts": [
+       "NCT04406649",
+       "NCT04940390"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "With a reference injection, FDA accepts a PK (± PD) bridge in healthy volunteers. Expect an exposure window and PK in rhinitis, colds, allergen challenge and repeat dosing.",
+     "ko": "기준 주사제가 있으면 FDA는 건강인 PK(±PD) 가교를 인정합니다. 노출 범위 설정과 비염·감기·알레르겐 유발·반복투여 PK를 예상해야 합니다."
+    }
+   },
+   {
+    "key": "migraine",
+    "name": {
+     "en": "Acute migraine",
+     "ko": "급성 편두통"
+    },
+    "route": {
+     "en": "Efficacy RCT",
+     "ko": "유효성 임상"
+    },
+    "std": {
+     "primary": {
+      "en": "Pain freedom + MBS freedom",
+      "ko": "통증 소실 + MBS 소실"
+     },
+     "vs": {
+      "en": "Placebo",
+      "ko": "위약"
+     },
+     "when": {
+      "en": "2 h after dosing",
+      "ko": "투여 2시간 후"
+     }
+    },
+    "products": [
+     {
+      "name": "Zavzpret",
+      "sub": {
+       "en": "zavegepant 10 mg spray",
+       "ko": "자베게판트 10 mg 스프레이"
+      },
+      "design": {
+       "en": "2 RCTs (Ph3, Ph2/3)",
+       "ko": "RCT 2건 (3상, 2/3상)"
+      },
+      "primary": {
+       "en": "Co-primary: pain + MBS freedom",
+       "ko": "공동 1차: 통증·MBS 소실"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "2 h",
+       "ko": "2시간"
+      },
+      "result": null,
+      "more": {
+       "en": "Secondaries: pain relief at 2 h, sustained pain freedom 2–24 h and 2–48 h, return to normal function, onset at 15–60 min.",
+       "ko": "2차: 2시간 통증 완화, 2–24·2–48시간 지속 통증 소실, 정상 기능 회복, 15–60분 조기 효과."
+      },
+      "ncts": [
+       "NCT04571060",
+       "NCT03872453"
+      ]
+     },
+     {
+      "name": "Atzumi (SUMMIT)",
+      "sub": {
+       "en": "DHE 5.2 mg powder",
+       "ko": "DHE 5.2 mg 분말"
+      },
+      "design": {
+       "en": "Placebo-controlled Ph3",
+       "ko": "위약대조 3상"
+      },
+      "primary": {
+       "en": "Co-primary: pain + MBS freedom",
+       "ko": "공동 1차: 통증·MBS 소실"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "2 h",
+       "ko": "2시간"
+      },
+      "result": {
+       "en": "Approval used the PK bridge instead",
+       "ko": "허가는 PK 가교로 대체"
+      },
+      "more": {
+       "en": "Secondaries: sustained freedom endpoints and tolerability.",
+       "ko": "2차: 지속 소실 평가변수, 내약성."
+      },
+      "ncts": [
+       "NCT04940390"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "A new molecule must hit both 2-hour co-primaries. A reformulated old drug (DHE) can rely on a PK bridge plus long-term nasal safety.",
+     "ko": "신규 물질은 2시간 공동 1차 평가변수를 모두 충족해야 합니다. 기존 약물(DHE) 개량 제형은 PK 가교와 장기 비강 안전성으로 대체할 수 있습니다."
+    }
+   },
+   {
+    "key": "seizure",
+    "name": {
+     "en": "Seizure-cluster rescue",
+     "ko": "군집발작 응급 치료"
+    },
+    "route": {
+     "en": "RCT or PK bridge",
+     "ko": "RCT 또는 PK 가교"
+    },
+    "std": {
+     "primary": {
+      "en": "Seizure stops ≤10 min, no recurrence to 6 h",
+      "ko": "10분 내 발작 종료, 6시간 재발 없음"
+     },
+     "vs": {
+      "en": "Placebo",
+      "ko": "위약"
+     },
+     "when": {
+      "en": "10 min and 6 h",
+      "ko": "10분·6시간"
+     }
+    },
+    "products": [
+     {
+      "name": "Nayzilam",
+      "sub": {
+       "en": "midazolam 5 mg spray",
+       "ko": "미다졸람 5 mg 스프레이"
+      },
+      "design": {
+       "en": "ARTEMIS-1 RCT",
+       "ko": "ARTEMIS-1 RCT"
+      },
+      "primary": {
+       "en": "Stopped ≤10 min + no recurrence to 6 h",
+       "ko": "10분 내 종료 + 6시간 재발 없음"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "10 min, 6 h",
+       "ko": "10분, 6시간"
+      },
+      "result": null,
+      "more": {
+       "en": "Secondaries: recurrence from 10 min to 4 h, any seizure to 24 h, time to next seizure.",
+       "ko": "2차: 10분~4시간 재발, 24시간 내 발작, 다음 발작까지 시간."
+      },
+      "ncts": [
+       "NCT01390220"
+      ]
+     },
+     {
+      "name": "Valtoco",
+      "sub": {
+       "en": "diazepam spray (Intravail)",
+       "ko": "디아제팜 스프레이 (Intravail)"
+      },
+      "design": {
+       "en": "PK bridge + 12-month safety",
+       "ko": "PK 가교 + 12개월 안전성"
+      },
+      "primary": {
+       "en": "Seizure-time PK; long-term AEs",
+       "ko": "발작 중 PK; 장기 이상반응"
+      },
+      "vs": {
+       "en": "Diastat rectal gel",
+       "ko": "Diastat 직장 겔"
+      },
+      "when": {
+       "en": "PK 0–6 h; 12 months",
+       "ko": "PK 0–6시간; 12개월"
+      },
+      "result": {
+       "en": "Ages 2–5 added Apr 2025",
+       "ko": "2025년 4월 2–5세 추가"
+      },
+      "more": {
+       "en": "Second dose within 24 h used as an efficacy proxy; nasal irritation and taste change tracked. Ages 2–5 came from a Phase 1/2a safety and PK study.",
+       "ko": "24시간 내 2차 투여 비율을 유효성 대리지표로 사용; 비강 자극·미각 변화 추적. 2–5세 확대는 1/2a상 안전성·PK 시험 근거."
+      },
+      "ncts": [
+       "NCT02724423",
+       "NCT02721069"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "A new molecule needs the 10-minute / 6-hour treatment-success endpoint. A nasal form of an approved benzodiazepine can be bridged by PK plus a large long-term safety cohort.",
+     "ko": "신규 물질은 10분/6시간 치료 성공 평가변수가 필요합니다. 기허가 벤조디아제핀의 비강 제형은 PK와 대규모 장기 안전성 코호트로 가교할 수 있습니다."
+    }
+   },
+   {
+    "key": "psychiatry",
+    "name": {
+     "en": "Depression and social anxiety",
+     "ko": "우울증·사회불안"
+    },
+    "route": {
+     "en": "Efficacy RCT",
+     "ko": "유효성 임상"
+    },
+    "std": {
+     "primary": {
+      "en": "MADRS change (depression)",
+      "ko": "MADRS 변화 (우울증)"
+     },
+     "vs": {
+      "en": "Placebo (± oral antidepressant)",
+      "ko": "위약 (± 경구 항우울제)"
+     },
+     "when": {
+      "en": "Day 28",
+      "ko": "28일째"
+     }
+    },
+    "products": [
+     {
+      "name": "Spravato",
+      "sub": {
+       "en": "esketamine · induction",
+       "ko": "에스케타민 · 유도"
+      },
+      "design": {
+       "en": "TRANSFORM-1 / -2",
+       "ko": "TRANSFORM-1 / -2"
+      },
+      "primary": {
+       "en": "MADRS change",
+       "ko": "MADRS 변화"
+      },
+      "vs": {
+       "en": "Placebo + oral AD",
+       "ko": "위약 + 경구 항우울제"
+      },
+      "when": {
+       "en": "Day 28",
+       "ko": "28일째"
+      },
+      "result": null,
+      "more": {
+       "en": "Also response and remission rates, SDS, PHQ-9; dissociation (CADSS) and blood pressure monitored.",
+       "ko": "반응률·관해율, SDS, PHQ-9도 평가; 해리(CADSS)·혈압 모니터링."
+      },
+      "ncts": [
+       "NCT02418585",
+       "NCT02417064"
+      ]
+     },
+     {
+      "name": "Spravato",
+      "sub": {
+       "en": "esketamine · relapse prevention",
+       "ko": "에스케타민 · 재발 방지"
+      },
+      "design": {
+       "en": "SUSTAIN-1 randomized withdrawal",
+       "ko": "SUSTAIN-1 무작위 중단"
+      },
+      "primary": {
+       "en": "Time to relapse",
+       "ko": "재발까지 시간"
+      },
+      "vs": {
+       "en": "Placebo (withdrawal)",
+       "ko": "위약 (중단)"
+      },
+      "when": {
+       "en": "Up to 92 weeks",
+       "ko": "최대 92주"
+      },
+      "result": null,
+      "more": {
+       "en": "Measured in stable remitters (primary) and stable responders.",
+       "ko": "안정적 관해 환자(1차)와 안정적 반응 환자에서 평가."
+      },
+      "ncts": [
+       "NCT02493868"
+      ]
+     },
+     {
+      "name": "Spravato",
+      "sub": {
+       "en": "esketamine · monotherapy",
+       "ko": "에스케타민 · 단독요법"
+      },
+      "design": {
+       "en": "RCT · n=477",
+       "ko": "RCT · 477명"
+      },
+      "primary": {
+       "en": "MADRS change",
+       "ko": "MADRS 변화"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "Day 28",
+       "ko": "28일째"
+      },
+      "result": {
+       "en": "Remission 22.5% vs 7.6%",
+       "ko": "관해율 22.5% vs 7.6%"
+      },
+      "more": {
+       "en": "56 mg and 84 mg arms; approved as monotherapy on 21 Jan 2025.",
+       "ko": "56 mg·84 mg 군; 2025년 1월 21일 단독요법 승인."
+      },
+      "ncts": [
+       "NCT04599855"
+      ]
+     },
+     {
+      "name": "Fasedienol",
+      "sub": {
+       "en": "PH94B spray (investigational)",
+       "ko": "PH94B 스프레이 (개발 중)"
+      },
+      "design": {
+       "en": "PALISADE-1 to -4",
+       "ko": "PALISADE-1~4"
+      },
+      "primary": {
+       "en": "Distress (SUDS) in a speaking challenge",
+       "ko": "발표 과제 중 불안(SUDS)"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "Single acute dose",
+       "ko": "단회 투여"
+      },
+      "result": {
+       "en": "PALISADE-3: 13.6 vs 14.0 (ns)",
+       "ko": "PALISADE-3: 13.6 vs 14.0 (무의미)"
+      },
+      "more": {
+       "en": "PALISADE-1 failed, PALISADE-2 positive per sponsor, PALISADE-3 failed (Dec 2025), PALISADE-4 missed its primary (Jun 2026). Secondaries: CGI-I, PGI-C.",
+       "ko": "PALISADE-1 실패, PALISADE-2 회사 발표상 성공, PALISADE-3 실패(2025년 12월), PALISADE-4 1차 평가변수 미충족(2026년 6월). 2차: CGI-I, PGI-C."
+      },
+      "ncts": [
+       "NCT04754802",
+       "NCT05011396",
+       "NCT06358651",
+       "NCT06615557"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "Nasal CNS drugs are judged on the same scales as oral drugs. Acute challenge endpoints such as SUDS have high placebo response and replicate poorly.",
+     "ko": "비강 CNS 약물도 경구제와 같은 척도로 평가됩니다. SUDS 같은 급성 유발 평가변수는 위약 반응이 크고 재현성이 낮습니다."
+    }
+   },
+   {
+    "key": "psvt",
+    "name": {
+     "en": "PSVT (heart rhythm)",
+     "ko": "발작성 상심실성 빈맥 (PSVT)"
+    },
+    "route": {
+     "en": "Efficacy RCT",
+     "ko": "유효성 임상"
+    },
+    "std": {
+     "primary": {
+      "en": "Conversion to sinus rhythm",
+      "ko": "동율동 전환"
+     },
+     "vs": {
+      "en": "Placebo, self-dosed at home",
+      "ko": "위약, 가정 자가투여"
+     },
+     "when": {
+      "en": "30 min",
+      "ko": "30분"
+     }
+    },
+    "products": [
+     {
+      "name": "Cardamyst",
+      "sub": {
+       "en": "etripamil 70 mg spray",
+       "ko": "에트리파밀 70 mg 스프레이"
+      },
+      "design": {
+       "en": "RAPID RCT · at home",
+       "ko": "RAPID RCT · 가정"
+      },
+      "primary": {
+       "en": "Time to conversion within 30 min",
+       "ko": "30분 내 전환까지 시간"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "30 min",
+       "ko": "30분"
+      },
+      "result": {
+       "en": "64% vs 31%; 17.2 vs 53.5 min",
+       "ko": "64% vs 31%; 17.2 vs 53.5분"
+      },
+      "more": {
+       "en": "Conversion of ≥30 s adjudicated from an ECG monitor; HR 2.6; fewer emergency visits. NODE-301 Part 1 used a 5-hour window. FDA approved 12 Dec 2025.",
+       "ko": "30초 이상 전환을 심전도 기록으로 판정; HR 2.6; 응급실 방문 감소. NODE-301 Part 1은 5시간 창 사용. 2025년 12월 12일 FDA 승인."
+      },
+      "ncts": [
+       "NCT03464019"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "Self-dosed nasal products for episodic events need an event-driven, ambulatory-monitored trial with a short, objective window.",
+     "ko": "에피소드성 질환용 자가투여 비강 제품은 짧고 객관적인 평가 시간창을 둔 사건 중심·외래 모니터링 임상이 필요합니다."
+    }
+   },
+   {
+    "key": "crs",
+    "name": {
+     "en": "Chronic rhinosinusitis and polyps (local)",
+     "ko": "만성 부비동염·비용종 (국소)"
+    },
+    "route": {
+     "en": "Efficacy RCT",
+     "ko": "유효성 임상"
+    },
+    "std": {
+     "primary": {
+      "en": "Symptom score + anatomy (polyps or CT)",
+      "ko": "증상 점수 + 해부학 (비용종·CT)"
+     },
+     "vs": {
+      "en": "Placebo or sham",
+      "ko": "위약 또는 가짜 시술"
+     },
+     "when": {
+      "en": "Week 4 and Week 16–24",
+      "ko": "4주, 16–24주"
+     }
+    },
+    "products": [
+     {
+      "name": "Xhance",
+      "sub": {
+       "en": "fluticasone EDS · polyps",
+       "ko": "플루티카손 EDS · 비용종"
+      },
+      "design": {
+       "en": "NAVIGATE I & II",
+       "ko": "NAVIGATE I·II"
+      },
+      "primary": {
+       "en": "Congestion score + polyp grade",
+       "ko": "코막힘 점수 + 비용종 등급"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "Week 4 / Week 16",
+       "ko": "4주 / 16주"
+      },
+      "result": null,
+      "more": {
+       "en": "Secondaries: SNOT-22, peak nasal inspiratory flow, hyposmia diary, polyp elimination, PGIC; 8-week open-label extension.",
+       "ko": "2차: SNOT-22, 최대비강흡기유량, 후각저하 일지, 비용종 소실, PGIC; 8주 공개 연장."
+      },
+      "ncts": [
+       "NCT01622569",
+       "NCT01624662"
+      ]
+     },
+     {
+      "name": "Xhance",
+      "sub": {
+       "en": "fluticasone EDS · CRS without polyps",
+       "ko": "플루티카손 EDS · 비용종 없는 CRS"
+      },
+      "design": {
+       "en": "ReOpen1 & 2",
+       "ko": "ReOpen1·2"
+      },
+      "primary": {
+       "en": "Symptom composite + CT opacification",
+       "ko": "증상 복합점수 + CT 혼탁도"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "Week 4 / Week 24",
+       "ko": "4주 / 24주"
+      },
+      "result": {
+       "en": "Approved 2024 (sNDA)",
+       "ko": "2024년 승인 (sNDA)"
+      },
+      "more": {
+       "en": "Secondaries: acute exacerbations, SNOT-22, PGIC; smell testing (SIT) included.",
+       "ko": "2차: 급성 악화, SNOT-22, PGIC; 후각 검사(SIT) 포함."
+      },
+      "ncts": [
+       "NCT03781804",
+       "NCT03960580"
+      ]
+     },
+     {
+      "name": "LYR-210",
+      "sub": {
+       "en": "mometasone sinus implant",
+       "ko": "모메타손 부비동 임플란트"
+      },
+      "design": {
+       "en": "ENLIGHTEN 1 & 2 · sham",
+       "ko": "ENLIGHTEN 1·2 · 가짜 시술"
+      },
+      "primary": {
+       "en": "3-symptom composite (3CS)",
+       "ko": "3대 증상 복합점수 (3CS)"
+      },
+      "vs": {
+       "en": "Sham procedure",
+       "ko": "가짜 시술"
+      },
+      "when": {
+       "en": "Week 24",
+       "ko": "24주"
+      },
+      "result": {
+       "en": "ENLIGHTEN 2: 3CS −1.13 (p=0.0078)",
+       "ko": "ENLIGHTEN 2: 3CS −1.13 (p=0.0078)"
+      },
+      "more": {
+       "en": "ENLIGHTEN 1 missed (May 2024); ENLIGHTEN 2 positive (Jun 2025): full-population 3CS −0.90, SNOT-22 −8.7. Development suspended Jan 2026.",
+       "ko": "ENLIGHTEN 1 미충족(2024년 5월); ENLIGHTEN 2 성공(2025년 6월): 전체군 3CS −0.90, SNOT-22 −8.7. 2026년 1월 개발 중단."
+      },
+      "ncts": [
+       "NCT05219968",
+       "NCT05295459"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "Local products need a patient-reported symptom score plus an objective anatomical endpoint. Device deposition claims count only if they move those endpoints.",
+     "ko": "국소 작용 제품은 환자 보고 증상 점수와 객관적 해부학 평가변수가 모두 필요합니다. 기기 분포 주장은 이 평가변수를 개선할 때만 인정됩니다."
+    }
+   },
+   {
+    "key": "vaccine",
+    "name": {
+     "en": "Nasal vaccines",
+     "ko": "비강 백신"
+    },
+    "route": {
+     "en": "Efficacy or immunogenicity",
+     "ko": "유효성 또는 면역원성"
+    },
+    "std": {
+     "primary": {
+      "en": "Confirmed disease or serum antibody",
+      "ko": "확진 질환 또는 혈청 항체"
+     },
+     "vs": {
+      "en": "Licensed vaccine or none",
+      "ko": "허가 백신 또는 없음"
+     },
+     "when": {
+      "en": "Season, or Day 28–180",
+      "ko": "유행 시즌 또는 28–180일"
+     }
+    },
+    "products": [
+     {
+      "name": "FluMist",
+      "sub": {
+       "en": "live attenuated flu vaccine",
+       "ko": "약독화 생독감 백신"
+      },
+      "design": {
+       "en": "CAIV-T vs TIV · children",
+       "ko": "CAIV-T vs TIV · 소아"
+      },
+      "primary": {
+       "en": "Culture-confirmed influenza",
+       "ko": "배양 확진 인플루엔자"
+      },
+      "vs": {
+       "en": "Inactivated vaccine (TIV)",
+       "ko": "불활화 백신 (TIV)"
+      },
+      "when": {
+       "en": "Full season",
+       "ko": "한 시즌"
+      },
+      "result": {
+       "en": "Self/caregiver use approved 2024",
+       "ko": "2024년 자가·보호자 투여 승인"
+      },
+      "more": {
+       "en": "Also serum HAI titres, nasal sIgA (exploratory), viral shedding and reactions (runny nose; wheeze in young children). FluMist Home launched Aug 2025.",
+       "ko": "혈청 HAI 항체가, 비강 sIgA(탐색), 바이러스 배출, 반응(콧물; 영유아 쌕쌕거림)도 평가. 2025년 8월 FluMist Home 출시."
+      },
+      "ncts": [
+       "NCT00128167"
+      ]
+     },
+     {
+      "name": "iNCOVACC",
+      "sub": {
+       "en": "BBV154 nasal COVID vaccine",
+       "ko": "BBV154 비강 코로나 백신"
+      },
+      "design": {
+       "en": "Phase 3 immunogenicity",
+       "ko": "3상 면역원성"
+      },
+      "primary": {
+       "en": "Neutralising antibody titres",
+       "ko": "중화항체가"
+      },
+      "vs": {
+       "en": "—",
+       "ko": "—"
+      },
+      "when": {
+       "en": "Day 28–180",
+       "ko": "28–180일"
+      },
+      "result": null,
+      "more": {
+       "en": "Solicited reactions for 7 days; nasal IgA and cellular immunity were secondary.",
+       "ko": "7일 유도 이상반응; 비강 IgA·세포면역은 2차 평가."
+      },
+      "ncts": [
+       "NCT05522335"
+      ]
+     }
+    ],
+    "takeaway": {
+     "en": "Licensure still rests on serum immunogenicity or clinical efficacy. Nasal sIgA is supportive only.",
+     "ko": "허가는 여전히 혈청 면역원성 또는 임상 유효성에 근거합니다. 비강 sIgA는 보조 지표일 뿐입니다."
+    }
+   },
+   {
+    "key": "n2b",
+    "name": {
+     "en": "Nose-to-brain (exploratory)",
+     "ko": "코-뇌 전달 (탐색)"
+    },
+    "route": {
+     "en": "Standard CNS scales",
+     "ko": "표준 CNS 척도"
+    },
+    "std": {
+     "primary": {
+      "en": "Standard clinical scale",
+      "ko": "표준 임상 척도"
+     },
+     "vs": {
+      "en": "Placebo",
+      "ko": "위약"
+     },
+     "when": {
+      "en": "12 months (cognition)",
+      "ko": "12개월 (인지)"
+     }
+    },
+    "products": [
+     {
+      "name": "Intranasal insulin",
+      "sub": {
+       "en": "SNIFF · Alzheimer's / MCI",
+       "ko": "SNIFF · 알츠하이머 / MCI"
+      },
+      "design": {
+       "en": "Ph2/3 RCT · device",
+       "ko": "2/3상 RCT · 기기"
+      },
+      "primary": {
+       "en": "ADAS-Cog12",
+       "ko": "ADAS-Cog12"
+      },
+      "vs": {
+       "en": "Placebo",
+       "ko": "위약"
+      },
+      "when": {
+       "en": "12 + 6 months",
+       "ko": "12 + 6개월"
+      },
+      "result": {
+       "en": "Primary not met",
+       "ko": "1차 평가변수 미충족"
+      },
+      "more": {
+       "en": "CSF amyloid/tau, MRI and ADCS-ADL also measured. A device change mid-study was a confounder.",
+       "ko": "CSF 아밀로이드/타우, MRI, ADCS-ADL도 평가. 시험 중 기기 변경이 교란 요인."
+      },
+      "ncts": [
+       "NCT01767909"
+      ]
+     },
+     {
+      "name": "N2B proof of concept",
+      "sub": {
+       "en": "generic early design",
+       "ko": "일반적 초기 설계"
+      },
+      "design": {
+       "en": "Phase 1 / translational",
+       "ko": "1상 / 중개"
+      },
+      "primary": {
+       "en": "CSF:plasma AUC; PET deposition",
+       "ko": "CSF:혈장 AUC; PET 분포"
+      },
+      "vs": {
+       "en": "IV reference",
+       "ko": "IV 기준"
+      },
+      "when": {
+       "en": "Hours",
+       "ko": "수시간"
+      },
+      "result": null,
+      "more": {
+       "en": "Add target-engagement biomarkers, EEG/fMRI or behavioural scales.",
+       "ko": "표적 결합 바이오마커, EEG/fMRI, 행동 척도 추가."
+      },
+      "ncts": []
+     }
+    ],
+    "takeaway": {
+     "en": "No product has been approved on a direct-to-brain claim. Regulators still want a standard clinical endpoint, so freeze the device before Phase 2.",
+     "ko": "코-뇌 직접 전달 주장으로 승인된 제품은 없습니다. 규제기관은 표준 임상 평가변수를 요구하므로 2상 전에 기기를 확정해야 합니다."
+    }
+   }
+  ],
+  "guidance": [
+   {
+    "agency": "FDA",
+    "status": "Final",
+    "year": "2002",
+    "title": {
+     "en": "Nasal spray CMC documentation",
+     "ko": "비강 스프레이 CMC 문서"
+    },
+    "url": "https://www.fda.gov/media/70857/download",
+    "why": {
+     "en": "The in vitro tests every nasal spray needs. Excludes powders.",
+     "ko": "모든 비강 스프레이에 필요한 in vitro 시험. 분말 제외."
+    }
+   },
+   {
+    "agency": "FDA",
+    "status": "Draft",
+    "year": "2003",
+    "title": {
+     "en": "BA/BE for local-action nasal sprays",
+     "ko": "국소작용 비강 스프레이 BA/BE"
+    },
+    "url": "https://www.fda.gov/media/70867/download",
+    "why": {
+     "en": "Partly replaced by product-specific guidances.",
+     "ko": "제품별 가이드라인으로 일부 대체."
+    }
+   },
+   {
+    "agency": "FDA",
+    "status": "Database",
+    "year": "ongoing",
+    "title": {
+     "en": "Product-specific guidances (nasal)",
+     "ko": "제품별 가이드라인 (비강)"
+    },
+    "url": "https://www.accessdata.fda.gov/scripts/cder/psg/index.cfm",
+    "why": {
+     "en": "Exact in vitro and PK designs; naloxone allows in vitro-only BE.",
+     "ko": "정확한 in vitro·PK 설계; 날록손은 in vitro만으로 BE 가능."
+    }
+   },
+   {
+    "agency": "FDA",
+    "status": "Presentation",
+    "year": "2023",
+    "title": {
+     "en": "In vitro-only BE for nasal suspensions",
+     "ko": "비강 현탁제 in vitro 단독 BE"
+    },
+    "url": "https://www.fda.gov/media/173383/download",
+    "why": {
+     "en": "9 suspension guidances now allow BE without a clinical study.",
+     "ko": "현탁제 가이드라인 9건이 임상 없이 BE 허용."
+    }
+   },
+   {
+    "agency": "FDA",
+    "status": "Final",
+    "year": "2018",
+    "title": {
+     "en": "Migraine: acute treatment",
+     "ko": "편두통: 급성 치료"
+    },
+    "url": "https://www.fda.gov/media/89829/download",
+    "why": {
+     "en": "Source of the 2-hour pain + MBS co-primaries.",
+     "ko": "2시간 통증·MBS 공동 1차 평가변수의 근거."
+    }
+   },
+   {
+    "agency": "FDA",
+    "status": "Draft",
+    "year": "2019",
+    "title": {
+     "en": "Bridging after a device change",
+     "ko": "기기 변경 시 가교"
+    },
+    "url": "https://www.fda.gov/media/133676/download",
+    "why": {
+     "en": "How to bridge data when the device changes.",
+     "ko": "기기 변경 시 자료 가교 방법."
+    }
+   },
+   {
+    "agency": "EMA",
+    "status": "Final",
+    "year": "2025",
+    "title": {
+     "en": "Quality of inhalation and nasal products, Rev 1",
+     "ko": "흡입·비강 제품 품질, Rev 1"
+    },
+    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-pharmaceutical-quality-inhalation-nasal-medicinal-products-revision-1_en.pdf",
+    "why": {
+     "en": "In force from 1 Feb 2026; covers integral devices.",
+     "ko": "2026년 2월 1일 시행; 일체형 기기 포함."
+    }
+   },
+   {
+    "agency": "EMA",
+    "status": "Draft",
+    "year": "2026",
+    "title": {
+     "en": "Therapeutic equivalence for nasal products",
+     "ko": "비강 제품 치료적 동등성"
+    },
+    "url": "https://www.ema.europa.eu/en/documents/scientific-guideline/draft-guideline-requirements-demonstrating-therapeutic-equivalence-nasal-products_en.pdf",
+    "why": {
+     "en": "Stepwise: in vitro, then PK. Comments to 28 Feb 2027.",
+     "ko": "단계적: in vitro 후 PK. 의견수렴 2027년 2월 28일까지."
+    }
+   },
+   {
+    "agency": "WHO",
+    "status": "Template",
+    "year": "2026",
+    "title": {
+     "en": "BE study design: naloxone nasal",
+     "ko": "BE 설계: 날록손 비강"
+    },
+    "url": "https://extranet.who.int/prequal/sites/default/files/document_files/BE%20Naloxone_nasal_May2026.pdf",
+    "why": {
+     "en": "BE template for a systemic nasal product; tender markets.",
+     "ko": "전신작용 비강 제품 BE 템플릿; 입찰 시장."
+    }
+   },
+   {
+    "agency": "MFDS",
+    "status": "Final",
+    "year": "2015",
+    "title": {
+     "en": "Inhalation equivalence guideline",
+     "ko": "폐흡입제 동등성 입증 가이드라인"
+    },
+    "url": "https://medigatenews.com/news/3686095945",
+    "why": {
+     "en": "No nasal-specific MFDS guideline found; confirm in pre-consultation.",
+     "ko": "비강 전용 식약처 가이드라인 미확인; 사전상담으로 확인."
+    }
+   }
+  ],
+  "localSafety": [
+   {
+    "name": {
+     "en": "Nasal mucosa exam",
+     "ko": "비점막 검사"
+    },
+    "what": {
+     "en": "ENT scoring of redness, swelling, crusting, bleeding, ulceration",
+     "ko": "이비인후과 점수: 발적·부종·가피·출혈·궤양"
+    },
+    "seen": {
+     "en": "Primary in Trudhesa STOP 301",
+     "ko": "Trudhesa STOP 301 1차"
+    }
+   },
+   {
+    "name": {
+     "en": "Smell testing",
+     "ko": "후각 검사"
+    },
+    "what": {
+     "en": "UPSIT or Sniffin' Sticks at start and end",
+     "ko": "시작·종료 시 UPSIT 또는 Sniffin' Sticks"
+    },
+    "seen": {
+     "en": "STOP 301 primary; Xhance ReOpen",
+     "ko": "STOP 301 1차; Xhance ReOpen"
+    }
+   },
+   {
+    "name": {
+     "en": "Local irritation",
+     "ko": "국소 자극"
+    },
+    "what": {
+     "en": "Discomfort VAS, taste change, sneezing, runny nose",
+     "ko": "불편감 VAS, 미각 변화, 재채기, 콧물"
+    },
+    "seen": {
+     "en": "Atzumi label",
+     "ko": "Atzumi 허가사항"
+    }
+   },
+   {
+    "name": {
+     "en": "'Bad-nose' PK",
+     "ko": "비강 질환 상태 PK"
+    },
+    "what": {
+     "en": "PK with colds or rhinitis; repeat dosing under allergen challenge",
+     "ko": "감기·비염 시 PK; 알레르겐 유발 반복투여"
+    },
+    "seen": {
+     "en": "neffy, Baqsimi",
+     "ko": "neffy, Baqsimi"
+    }
+   },
+   {
+    "name": {
+     "en": "Spray performance",
+     "ko": "분무 성능"
+    },
+    "what": {
+     "en": "Dose content, droplet size, % <10 µm, spray pattern, plume; ≥3 batches",
+     "ko": "용량 함량, 액적 크기, 10 µm 미만 비율, 분무 패턴, 플룸; 3배치 이상"
+    },
+    "seen": {
+     "en": "FDA 2002, EMA Rev 1",
+     "ko": "FDA 2002, EMA Rev 1"
+    }
+   },
+   {
+    "name": {
+     "en": "Suspension BE in vitro",
+     "ko": "현탁제 in vitro BE"
+    },
+    "what": {
+     "en": "Particle size in formulation and dissolution",
+     "ko": "제형 내 입자 크기와 용출"
+    },
+    "seen": {
+     "en": "9 revised FDA guidances",
+     "ko": "개정 FDA 가이드라인 9건"
+    }
+   },
+   {
+    "name": {
+     "en": "Deposition",
+     "ko": "비강 내 분포"
+    },
+    "what": {
+     "en": "Gamma scintigraphy or nasal cast; supportive only",
+     "ko": "감마 신티그래피 또는 비강 모형; 보조 자료"
+    },
+    "seen": {
+     "en": "Needed for nose-to-brain claims",
+     "ko": "코-뇌 전달 주장 시 필요"
+    }
+   },
+   {
+    "name": {
+     "en": "Human factors and robustness",
+     "ko": "사용성·내구성"
+    },
+    "what": {
+     "en": "Usability validation; heat, freezing, carry case",
+     "ko": "사용성 검증; 고온·동결·휴대 케이스"
+    },
+    "seen": {
+     "en": "neffy label; Orexo CRL",
+     "ko": "neffy 허가사항; Orexo CRL"
+    }
+   }
+  ],
+  "todo": [
+   {
+    "h": {
+     "en": "Copy the accepted primary endpoint exactly",
+     "ko": "검증된 1차 평가변수를 그대로 사용"
+    },
+    "why": {
+     "en": "Every approved product in each category used the same agency-endorsed endpoint. A new one adds review risk.",
+     "ko": "각 분야 승인 제품은 모두 같은 규제기관 승인 평가변수를 사용했습니다. 새 평가변수는 심사 위험만 늘립니다."
+    }
+   },
+   {
+    "h": {
+     "en": "Agree the PK window with FDA before first-in-human",
+     "ko": "첫 인체 시험 전 FDA와 PK 범위 합의"
+    },
+    "why": {
+     "en": "neffy shows FDA may require exposure between the IM dose and the autoinjector, plus PD.",
+     "ko": "neffy 사례처럼 FDA는 IM 용량과 자동주사기 사이의 노출과 PD를 요구할 수 있습니다."
+    }
+   },
+   {
+    "h": {
+     "en": "Run 'bad-nose' PK early",
+     "ko": "비강 질환 상태 PK를 조기에 수행"
+    },
+    "why": {
+     "en": "neffy's 2023 CRL asked for repeat dosing under allergen challenge; doing it late costs a review cycle.",
+     "ko": "neffy 2023 CRL은 알레르겐 유발 반복투여를 요구했습니다. 늦으면 심사 주기 하나를 잃습니다."
+    }
+   },
+   {
+    "h": {
+     "en": "Build one local-tolerability module",
+     "ko": "표준 국소 내약성 모듈 구축"
+    },
+    "why": {
+     "en": "Mucosa and smell testing were primary in STOP 301; one module gives a comparable safety database across products.",
+     "ko": "STOP 301에서 비점막·후각 검사가 1차였습니다. 공통 모듈로 제품 간 비교 가능한 안전성 자료를 확보합니다."
+    }
+   },
+   {
+    "h": {
+     "en": "Treat device, CMC and usability as the critical path",
+     "ko": "기기·CMC·사용성을 핵심 경로로 관리"
+    },
+    "why": {
+     "en": "Recent nasal CRLs were non-clinical (Atzumi, Orexo OX124). Freeze the device and validate usability before pivotal.",
+     "ko": "최근 비강 CRL은 비임상 사유였습니다(Atzumi, Orexo OX124). 허가 임상 전 기기를 확정하고 사용성을 검증해야 합니다."
+    }
+   },
+   {
+    "h": {
+     "en": "License an approved powder device",
+     "ko": "승인된 분말 기기 도입 검토"
+    },
+    "why": {
+     "en": "SNBL's FDA-approved Atzumi device opened to partners via Bespak (Oct 2026); it shortens CMC and usability work.",
+     "ko": "SNBL의 FDA 승인 Atzumi 기기가 Bespak을 통해 개방됐습니다(2026년 10월). CMC·사용성 작업을 단축합니다."
     }
    }
   ]
