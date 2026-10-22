@@ -145,7 +145,8 @@
    "src": {
     "label": "J&J Q3 2026 earnings release (SEC 8-K, 13 Oct 2026)",
     "url": "https://www.sec.gov/Archives/edgar/data/0000200406/000020040626000189/a2026q3exhibit991.htm"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "valtoco",
@@ -181,15 +182,23 @@
     "ko": "2025년 4월 FDA가 2–5세로 적응증 확대, 이후 Neurelis는 2025년 순매출 약 2.95–3억 달러를 발표(2026년 1월)."
    },
    "lastMove": "2025-04",
-   "trials": [],
-   "noTrial": {
-    "en": "Approved; age expansion based on Phase 1/2a open-label safety/PK study (NCT not verified here)",
-    "ko": "승인 제품; 연령 확대는 1/2a상 공개 안전성·PK 시험 기반(NCT 미확인)"
-   },
+   "trials": [
+    {
+     "nct": "NCT05076838",
+     "phase": "Ph1/Ph2",
+     "status": "COMPLETED",
+     "pcd": null,
+     "n": 36,
+     "results": false,
+     "updated": "2026-10-20"
+    }
+   ],
+   "noTrial": null,
    "src": {
     "label": "Neurelis press release via BioSpace (Apr 2025)",
     "url": "https://www.biospace.com/press-releases/neurelis-announces-fda-approval-for-immediate-use-seizure-medication-valtoco-diazepam-nasal-spray-in-ages-2-to-5"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "nayzilam",
@@ -233,7 +242,8 @@
    "src": {
     "label": "DailyMed: NAYZILAM (UCB) label",
     "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=nayzilam"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "tyrvaya",
@@ -284,7 +294,8 @@
    "src": {
     "label": "Eyewire News (6 Oct 2026)",
     "url": "https://eyewire.news/news/harrow-closes-acquisition-of-tyrvaya-from-viatris"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "bpl-003",
@@ -344,7 +355,8 @@
    "src": {
     "label": "Lilly PR 2026-09-11 (completes AtaiBeckley acquisition)",
     "url": "https://www.placera.se/pressmeddelanden/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-20260911"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "fasedienol",
@@ -413,7 +425,8 @@
    "src": {
     "label": "Vistagen release via BioSpace (6 Aug 2026)",
     "url": "https://www.biospace.com/press-releases/vistagen-announces-topline-results-for-repeat-dose-study-of-fasedienol-for-acute-treatment-of-social-anxiety-disorder"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "itruvone",
@@ -457,7 +470,8 @@
    "src": {
     "label": "Vistagen Phase 1 results via BioSpace (Jun 2023)",
     "url": "https://www.biospace.com/vistagen-announces-results-of-successful-u-s-phase-1-study-of-itruvone-ph10-enabling-u-s-phase-2b-development-for-treatment-of-major-depressive-disorder"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "foralumab",
@@ -526,7 +540,8 @@
    "src": {
     "label": "Tiziana INFORM-MS last-visit release via StockTitan (21 Sep 2026)",
     "url": "https://www.stocktitan.net/news/TLSA/tiziana-announces-last-patient-completes-last-visit-in-phase-2a-ckm8mz72y58o.html"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "cenegermin-naion",
@@ -546,8 +561,8 @@
     "ko": "세네게르민(재조합 인간 신경성장인자)"
    },
    "indication": {
-    "en": "Non-arteritic anterior ischemic optic neuropathy (NAION), nose-to-optic-nerve",
-    "ko": "비동맥염성 전방 허혈성 시신경병증(NAION), 코-시신경 전달"
+    "en": "Non-arteritic anterior ischemic optic neuropathy (NAION), nose-to-optic-nerve; also Phase 2 in spastic cerebral palsy (Italy)",
+    "ko": "비동맥염성 전방 허혈성 시신경병증(NAION), 코-시신경 전달; 경직형 뇌성마비 대상 2상(이탈리아)도 진행"
    },
    "device": {
     "en": "Intranasal delivery (device unconfirmed)",
@@ -558,8 +573,8 @@
     "ko": "임상 3상"
    },
    "now": {
-    "en": "Jul 2026: first patient dosed in global Phase 3 Galassia-NAION-301 (~272 pts, 130+ sites) of intranasal NGF.",
-    "ko": "2026년 7월 비강 NGF 글로벌 3상 Galassia-NAION-301(약 272명, 130개 이상 기관) 첫 환자 투여."
+    "en": "Jul 2026: first patient dosed in global Phase 3 Galassia-NAION-301 (~272 pts) for NAION; Dompe separately runs a Phase 2 (NGF-CP-201, n=60) of intranasal cenegermin in spastic cerebral palsy in Italy, recruiting since Jan 2026.",
+    "ko": "2026년 7월: NAION 대상 글로벌 3상 Galassia-NAION-301(약 272명) 첫 환자 투여; Dompe는 경직형 뇌성마비 대상 별도의 2상(NGF-CP-201, 60명)도 이탈리아에서 2026년 1월부터 모집 중."
    },
    "lastMove": "2026-07",
    "trials": [
@@ -577,7 +592,15 @@
    "src": {
     "label": "Dompé release via BioSpace (14 Jul 2026)",
     "url": "https://www.biospace.com/press-releases/dompe-doses-first-patient-in-phase-3-study-of-cenegermin-bkbj-in-naion"
-   }
+   },
+   "checked": "2026-10-22",
+   "history": [
+    {
+     "date": "2026-10-22",
+     "change": "Added Dompe's Phase 2 NGF-CP-201 (cerebral palsy) trial in Italy, confirmed via EU CTIS registry",
+     "src": "https://ctis.eu/trial/2025-522786-29-00"
+    }
+   ]
   },
   {
    "id": "tr-012001",
@@ -628,7 +651,8 @@
    "src": {
     "label": "MDS abstract: TR-012001 proof-of-concept",
     "url": "https://www.mdsabstracts.org/abstract/a-proof-of-concept-study-of-tr-012001-a-nasal-levodopa-in-patients-with-parkinsons-disease-with-off-episodes-without-dopa-decarboxylase-inhibitor/"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "nrl-4-olanzapine",
@@ -679,7 +703,8 @@
    "src": {
     "label": "J Clin Psychiatry (19 Mar 2025)",
     "url": "https://psychiatrist.com/jcp/single-dose-open-label-parallel-design-study-pharmacokinetics-investigational-olanzapine-intranasal-spray-vs-intramuscular-healthy-adult-males"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "tnx-2900",
@@ -723,7 +748,8 @@
    "src": {
     "label": "Tonix TNX-2900 program page",
     "url": "https://www.tonixpharma.com/tnx-2900/"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "intranasal-insulin-wfu",
@@ -783,7 +809,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07756294",
     "url": "https://clinicaltrials.gov/study/NCT07756294"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "protollin-ad",
@@ -834,7 +861,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07187141",
     "url": "https://clinicaltrials.gov/study/NCT07187141"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "chf6467",
@@ -885,7 +913,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07163182",
     "url": "https://clinicaltrials.gov/study/NCT07163182"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "prt042-rketamine",
@@ -936,7 +965,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07193901",
     "url": "https://clinicaltrials.gov/study/NCT07193901"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "xjn010",
@@ -987,7 +1017,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07156773",
     "url": "https://clinicaltrials.gov/study/NCT07156773"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "acp-101",
@@ -1047,7 +1078,8 @@
    "src": {
     "label": "Acadia press release, Business Wire (24 Sep 2025)",
     "url": "https://secure.businesswire.com/news/home/20250924187122/en/Acadia-Pharmaceuticals-Announces-Phase-3-COMPASS-PWS-Trial-of-Intranasal-Carbetocin-ACP-101-for-Hyperphagia-in-Prader-Willi-Syndrome-Did-Not-Meet-Primary-Endpoint"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "sls-002",
@@ -1107,7 +1139,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT06816433",
     "url": "https://clinicaltrials.gov/study/NCT06816433"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "inp105",
@@ -1158,7 +1191,8 @@
    "src": {
     "label": "Sidley: Impel liquidating plan / asset sale",
     "url": "https://www.sidley.com/en/newslanding/newsannouncements/2024/04/sidley-secures-confirmation-of-liquidating-plan-for-impel-pharmaceuticals"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "zavzpret",
@@ -1227,7 +1261,8 @@
    "src": {
     "label": "PharnexCloud (CDE acceptance, 2025-12-05)",
     "url": "https://www.pharnexcloud.com/zixun/zcsp_256033"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "trudhesa",
@@ -1278,7 +1313,8 @@
    "src": {
     "label": "Trudhesa.com (© 2026 Impel Pharmaceuticals)",
     "url": "https://www.trudhesa.com/"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "atzumi",
@@ -1338,7 +1374,8 @@
    "src": {
     "label": "FilingReader (SNBL disclosure, 2026-05-11)",
     "url": "https://filingreader.com/news-wire/tokyo/2026-05-11/snbl-to-self-commercialize-migraine-drug-after-failed-licensing-talks"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "prt-064040",
@@ -1398,7 +1435,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07304518",
     "url": "https://clinicaltrials.gov/study/NCT07304518"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "sprix",
@@ -1442,7 +1480,8 @@
    "src": {
     "label": "FEP Blue medical policy (Oct 2025)",
     "url": "https://www1.fepblue.org/-/media/PDFs/Medical-Policies/2025/October/Medical-Policies/Remove-and-Replace/570045-Sprix-ketorolac.pdf"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "cessatech-ct001",
@@ -1493,7 +1532,8 @@
    "src": {
     "label": "Cessatech release (2026-08-27)",
     "url": "https://www.inderes.fi/releases/cessatech-ct001-ready-for-shipment-to-initial-us-hospitals-as-launch-activities-commence"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "tnx1900-pain",
@@ -1544,7 +1584,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07730294",
     "url": "https://clinicaltrials.gov/study/NCT07730294"
-   }
+   },
+   "checked": "2026-10-22"
   },
   {
    "id": "pecfent",
@@ -3707,19 +3748,27 @@
     "ko": "시판 (비의약품)"
    },
    "now": {
-    "en": "Mar 2026: US sales up 275% (Dec 2025-Feb 2026 vs prior winter); Firebrick seeking Philippine and other SE Asian approvals.",
-    "ko": "2026년 3월: 미국 매출 전년 겨울 대비 275% 증가(2025년 12월~2026년 2월); 필리핀 등 동남아 허가 추진."
+    "en": "Oct 2026: Philippines FDA approved Nasodine as an OTC antiseptic nasal spray (valid to Sep 2028); launch via partner SV More could begin as early as Q1 2027, the 5th market after the US, Singapore, Fiji and Indonesia.",
+    "ko": "2026년 10월: 필리핀 식약청이 Nasodine을 OTC 항균 비강 스프레이로 승인(유효기간 2028년 9월까지); 파트너 SV More를 통한 출시는 2027년 1분기 중 가능하며, 미국·싱가포르·피지·인도네시아에 이은 5번째 승인 시장이다."
    },
-   "lastMove": "2026-03",
+   "lastMove": "2026-10",
    "trials": [],
    "noTrial": {
     "en": "Phase 3 common-cold trial published (registry ID unconfirmed); US sale without FDA approval on legal advice (no therapeutic claims)",
     "ko": "감기 대상 3상 결과 발표(등록번호 미확인); 치료 효능 미표방으로 FDA 승인 없이 미국 판매"
    },
    "src": {
-    "label": "Biotech Dispatch, 4 Mar 2026",
-    "url": "https://biotechdispatch.com.au/news/firebrick-pharma-targets-breakout-year-in-2026-as-nasodine-expansion-accelerates"
-   }
+    "label": "Firebrick Pharma ASX announcement (16 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261016/pdf/075d74n0qz65rm.pdf"
+   },
+   "checked": "2026-10-22",
+   "history": [
+    {
+     "date": "2026-10-22",
+     "change": "Philippines FDA approved Nasodine (OTC antiseptic class); 5th approved market",
+     "src": "https://announcements.asx.com.au/asxpdf/20261016/pdf/075d74n0qz65rm.pdf"
+    }
+   ]
   },
   {
    "id": "etripamil-cardamyst",
@@ -5423,9 +5472,160 @@
     "label": "ClinicalTrials.gov NCT07345442",
     "url": "https://clinicaltrials.gov/study/NCT07345442"
    }
+  },
+  {
+   "id": "neonc-neo100",
+   "lane": "p2",
+   "region": "US",
+   "area": "CNS",
+   "company": {
+    "en": "NeOnc Technologies",
+    "ko": "NeOnc Technologies"
+   },
+   "product": {
+    "en": "NEO100",
+    "ko": "NEO100"
+   },
+   "api": {
+    "en": "Perillyl alcohol (purified), intranasal nose-to-brain delivery",
+    "ko": "페릴릴 알코올(정제), 비강-뇌 직접전달"
+   },
+   "indication": {
+    "en": "Recurrent/progressive high-grade (Grade III/IV) glioma, incl. IDH1-mutant",
+    "ko": "재발성·진행성 고등급(3/4등급) 신경교종(IDH1 변이 포함)"
+   },
+   "device": {
+    "en": "Intranasal drops/spray for non-invasive nose-to-brain delivery (device unconfirmed)",
+    "ko": "비침습적 코-뇌 전달 비강 점적·분무 (기기 미확인)"
+   },
+   "stage": {
+    "en": "Phase 2a (US); UAE IND granted",
+    "ko": "2a상(미국); UAE IND 승인"
+   },
+   "now": {
+    "en": "Jun 2026: UAE's Department of Health-Abu Dhabi granted an IND for NEO100 (Phase 1-2 adult, Phase 1/1b pediatric); the US NEO100-01 Phase 2a trial is fully enrolled, with topline data guided for Jul 2026.",
+    "ko": "2026년 6월: 아랍에미리트 아부다비 보건청이 NEO100에 대해 IND를 승인(성인 1–2상, 소아 1/1b상); 미국 NEO100-01 2a상은 등록을 완료했고 톱라인 데이터는 2026년 7월 예정이다."
+   },
+   "lastMove": "2026-06",
+   "trials": [],
+   "noTrial": {
+    "en": "Lead US trial described as 'NEO100-01 Phase 2a' (fully enrolled); NCT not given in company release",
+    "ko": "미국 주요 임상은 'NEO100-01 2a상'(등록 완료)으로만 기술됨; 회사 발표에 NCT 번호 없음"
+   },
+   "src": {
+    "label": "NeOnc Technologies GlobeNewswire release via SEC 8-K (23 Jun 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626006773/neonctechnologies_ex99-1.htm"
+   },
+   "added": "2026-10-22",
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "hikma-epinephrine-nasal",
+   "lane": "review",
+   "region": "GB",
+   "area": "Emergency & rescue",
+   "company": {
+    "en": "Hikma Pharmaceuticals",
+    "ko": "Hikma Pharmaceuticals"
+   },
+   "product": {
+    "en": "Epinephrine nasal spray (investigational)",
+    "ko": "에피네프린 비강 스프레이(개발 중)"
+   },
+   "api": {
+    "en": "Epinephrine",
+    "ko": "에피네프린"
+   },
+   "indication": {
+    "en": "Anaphylaxis (Type I allergic reactions)",
+    "ko": "아나필락시스(1형 알레르기 반응)"
+   },
+   "device": {
+    "en": "Nasal spray (non-injectable); device unconfirmed",
+    "ko": "비강 스프레이(비주사형); 기기 미확인"
+   },
+   "stage": {
+    "en": "FDA NDA accepted (505(b)(2))",
+    "ko": "FDA NDA 접수(505(b)(2))"
+   },
+   "now": {
+    "en": "Sep 2026: FDA accepted Hikma's 505(b)(2) NDA for its investigational epinephrine nasal spray; an EU/UK hybrid dossier was accepted via the DCP and National Procedure, and a Canada filing was also made.",
+    "ko": "2026년 9월: FDA가 Hikma의 개발 중인 에피네프린 비강 스프레이에 대한 505(b)(2) NDA를 접수했으며, EU·영국은 DCP·국가 절차로 하이브리드 신청서가 접수되고 캐나다에도 제출됐다."
+   },
+   "lastMove": "2026-09",
+   "trials": [],
+   "noTrial": {
+    "en": "505(b)(2) hybrid filing relies on a full non-clinical/clinical data package; no NCT given in the company release",
+    "ko": "505(b)(2) 혼합 신청은 전체 비임상·임상 자료 패키지에 기반; 회사 발표에 NCT 번호 없음"
+   },
+   "src": {
+    "label": "Hikma press release (9 Sep 2026)",
+    "url": "https://www.hikma.com/news/hikma-advances-its-epinephrine-nasal-spray-with-multi-market-regulatory-filings/"
+   },
+   "added": "2026-10-22",
+   "checked": "2026-10-22"
+  },
+  {
+   "id": "ltr-spontan-roxus",
+   "lane": "market",
+   "region": "AU",
+   "area": "Other",
+   "company": {
+    "en": "LTR Pharma",
+    "ko": "LTR Pharma"
+   },
+   "product": {
+    "en": "SPONTAN / ROXUS (vardenafil nasal spray)",
+    "ko": "SPONTAN / ROXUS (바르데나필 비강 스프레이)"
+   },
+   "api": {
+    "en": "Vardenafil",
+    "ko": "바르데나필"
+   },
+   "indication": {
+    "en": "Erectile dysfunction",
+    "ko": "발기부전"
+   },
+   "device": {
+    "en": "Fast-acting intranasal spray, onset claimed <=10 min (company data)",
+    "ko": "속효성 비강 스프레이, 10분 이내 작용 발현(자체 주장)"
+   },
+   "stage": {
+    "en": "Marketed (AU TGA SAS); US compounded via telehealth; FDA 505(b)(2) pending",
+    "ko": "시판(호주 TGA SAS); 미국은 원격의료 조제약 공급; FDA 505(b)(2) 진행 중"
+   },
+   "now": {
+    "en": "Oct 2026: first US ROXUS prescriptions (compounded vardenafil nasal spray, Section 503A) were fulfilled via Shed's Mavrox telehealth platform and Strive Pharmacy; SPONTAN continues to be supplied in Australia under the TGA Special Access Scheme.",
+    "ko": "2026년 10월: 조제약 바르데나필 비강 스프레이 ROXUS의 미국 내 첫 처방이 Shed의 Mavrox 원격의료 플랫폼과 Strive Pharmacy를 통해 이뤄짐; SPONTAN은 호주 TGA 특별접근제도 하에서 계속 공급되고 있다."
+   },
+   "lastMove": "2026-10",
+   "trials": [],
+   "noTrial": {
+    "en": "SPONTAN's US 505(b)(2) pathway is pre-pivotal; ROXUS is compounded and not FDA-reviewed; no NCT confirmed this run",
+    "ko": "SPONTAN의 미국 505(b)(2) 경로는 아직 중추 임상 이전 단계; ROXUS는 조제약으로 FDA 심사 대상 아님; 이번 조사에서 NCT 미확인"
+   },
+   "src": {
+    "label": "LTR Pharma ASX announcement: First ROXUS Prescriptions Fulfilled in the US (6 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
+   },
+   "added": "2026-10-22",
+   "checked": "2026-10-22"
   }
  ],
  "news": [
+  {
+   "date": "2026-10-19",
+   "region": "GL",
+   "type": "Regulatory",
+   "text": {
+    "en": "UK's MHRA opened an 8-week consultation (closing 14 Dec 2026) on letting schools keep spare adrenaline nasal sprays on site for anaphylaxis, alongside the auto-injectors they already stock.",
+    "ko": "영국 MHRA가 학교가 기존 자동주사기와 함께 아나필락시스용 예비 비강 아드레날린 스프레이를 비치할 수 있도록 하는 8주간의 의견수렴(2026년 12월 14일 마감)을 시작했다."
+   },
+   "src": {
+    "label": "MHRA/GOV.UK news (19 Oct 2026)",
+    "url": "https://www.gov.uk/government/news/mhra-consults-on-proposals-to-allow-schools-to-keep-spare-adrenaline-nasal-sprays-on-site"
+   }
+  },
   {
    "date": "2026-10-16",
    "region": "GL",
@@ -5440,6 +5640,19 @@
    }
   },
   {
+   "date": "2026-10-16",
+   "region": "GL",
+   "type": "Approval",
+   "text": {
+    "en": "Philippines FDA approved Firebrick's Nasodine (povidone-iodine) nasal spray as an OTC antiseptic, valid to Sep 2028; it becomes Nasodine's 5th approved market after the US, Singapore, Fiji and Indonesia.",
+    "ko": "필리핀 식약청이 Firebrick의 Nasodine(포비돈요오드) 비강 스프레이를 OTC 항균제로 승인(유효기간 2028년 9월); 미국·싱가포르·피지·인도네시아에 이어 5번째 승인 시장이 됐다."
+   },
+   "src": {
+    "label": "Firebrick Pharma ASX announcement (16 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261016/pdf/075d74n0qz65rm.pdf"
+   }
+  },
+  {
    "date": "2026-10-14",
    "region": "GL",
    "type": "Device",
@@ -5450,6 +5663,32 @@
    "src": {
     "label": "PharmaTimes",
     "url": "https://pharmatimes.com/?p=105196"
+   }
+  },
+  {
+   "date": "2026-10-14",
+   "region": "GL",
+   "type": "Device",
+   "text": {
+    "en": "Aptar Pharma's LuerVax intranasal vaccine-delivery device and its Spray Divider (200µL/500µL, one spray per nostril) received CE marking as a Class I medical device under the EU MDR.",
+    "ko": "Aptar Pharma의 비강 백신전달 기기 LuerVax와 Spray Divider(200µL·500µL, 비공당 1회 분무)가 EU MDR 하에서 1등급 의료기기 CE 인증을 받았다."
+   },
+   "src": {
+    "label": "Aptar press release (14 Oct 2026)",
+    "url": "https://aptar.com/en-us/news-events/aptar-announces-ce-marking-for-luervax-and-accompanying-spray-divider-strengthening-support-for-vaccine-developers"
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "region": "GL",
+   "type": "Launch",
+   "text": {
+    "en": "LTR Pharma's ROXUS (compounded intranasal vardenafil for ED) had its first US prescriptions filled via Shed's Mavrox telehealth platform and Strive Pharmacy under Section 503A compounding.",
+    "ko": "LTR Pharma의 ROXUS(조제약 바르데나필 비강 스프레이, 발기부전용)가 Shed의 Mavrox 원격의료 플랫폼과 Strive Pharmacy를 통해 미국에서 503A 조항에 따라 첫 처방 조제됐다."
+   },
+   "src": {
+    "label": "LTR Pharma ASX announcement (6 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
    }
   },
   {
@@ -5541,6 +5780,19 @@
    "src": {
     "label": "Lilly PR 2026-09-11",
     "url": "https://www.placera.se/pressmeddelanden/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-20260911"
+   }
+  },
+  {
+   "date": "2026-09-09",
+   "region": "GL",
+   "type": "Filing",
+   "text": {
+    "en": "Hikma's 505(b)(2) NDA for an investigational epinephrine nasal spray (anaphylaxis) was accepted for FDA review; a hybrid EU/UK dossier was also accepted via the DCP/National Procedure and a filing was made in Canada.",
+    "ko": "Hikma의 개발 중인 에피네프린 비강 스프레이(아나필락시스용) 505(b)(2) NDA가 FDA 심사에 접수됐으며, EU·영국에서도 DCP·국가절차로 하이브리드 신청서가 접수되고 캐나다에도 제출됐다."
+   },
+   "src": {
+    "label": "Hikma press release (9 Sep 2026)",
+    "url": "https://www.hikma.com/news/hikma-advances-its-epinephrine-nasal-spray-with-multi-market-regulatory-filings/"
    }
   },
   {
@@ -5749,6 +6001,19 @@
    "src": {
     "label": "EMA assessment report",
     "url": "https://www.ema.europa.eu/en/documents/variation-report/fluenz-vr-0000302352-epar-assessment-report-variation_en.pdf"
+   }
+  },
+  {
+   "date": "2026-06-23",
+   "region": "GL",
+   "type": "Regulatory",
+   "text": {
+    "en": "UAE's Department of Health-Abu Dhabi granted an IND for NeOnc's intranasal NEO100 (perillyl alcohol) in adult and pediatric high-grade glioma, as the US NEO100-01 Phase 2a trial completed enrollment.",
+    "ko": "아랍에미리트 아부다비 보건청이 NeOnc의 비강 NEO100(페릴릴 알코올)에 대해 성인·소아 고등급 신경교종 IND를 승인했으며, 미국 NEO100-01 2a상은 등록을 완료했다."
+   },
+   "src": {
+    "label": "NeOnc Technologies GlobeNewswire release via SEC 8-K (23 Jun 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626006773/neonctechnologies_ex99-1.htm"
    }
   },
   {
@@ -6035,6 +6300,19 @@
    "src": {
     "label": "BioSpace / Lyra release",
     "url": "https://www.biospace.com/press-releases/lyra-therapeutics-provides-corporate-update"
+   }
+  },
+  {
+   "date": "2026-01-07",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Dompe began a Phase 2 trial (NGF-CP-201) of intranasal cenegermin in children aged 2-6 with spastic cerebral palsy (n=60) in Italy, a new indication beyond its NAION Phase 3 program.",
+    "ko": "Dompe가 이탈리아에서 경직형 뇌성마비 2-6세 소아 60명을 대상으로 비강 세네게르민 2상(NGF-CP-201)을 시작했다. NAION 3상과는 별개의 새로운 적응증이다."
+   },
+   "src": {
+    "label": "EU CTIS trial registry (2025-522786-29-00)",
+    "url": "https://ctis.eu/trial/2025-522786-29-00"
    }
   },
   {

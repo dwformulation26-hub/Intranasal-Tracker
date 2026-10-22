@@ -261,14 +261,24 @@
    "items": 0
   }
  },
- "last_update_run": "2026-10-21T18:00:00+09:00",
- "rotation_cursor": null,
+ "last_update_run": "2026-10-22T11:06:57+09:00",
+ "rotation_cursor": "tnx1900-pain",
  "source_health": {
   "sec.gov": "refuses scripts - confirm via search",
-  "businesswire.com": "refuses scripts",
+  "businesswire.com": "refuses scripts (403) - confirm via search/alternate source",
   "stocktitan.net": "refuses scripts",
   "fda.gov": "refuses scripts (404) - pages exist",
-  "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files"
+  "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files",
+  "fiercebiotech.com": "refused this run (403)",
+  "globenewswire.com organization search": "refused this run (403)",
+  "aptar.com news listing": "renders empty via fetch; use direct article URL",
+  "ASX announcement PDFs (announcements.asx.com.au)": "WebFetch returns encrypted/unreadable text; Read tool on the saved local PDF works"
  },
- "last_update_counts": null
+ "last_update_counts": {
+  "cards_updated": 3,
+  "cards_added": 3,
+  "news_added": 7,
+  "leads_triaged": 125,
+  "rotation_checked": 25
+ }
 }

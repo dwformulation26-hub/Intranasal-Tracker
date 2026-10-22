@@ -14,7 +14,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "cenegermin CP trial captured (card+news)"
   },
   {
    "title": "Aptar Announces CE Marking for LuerVax® and Accompanying Spray Divider, Strengthening Support for Vaccine Developers - BioSpace",
@@ -30,7 +31,8 @@
     "LuerVax"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "Aptar LuerVax CE mark - news added"
   },
   {
    "title": "Tiziana Life Sciences Announces Last Patient Dosed in Phase 2 Trial of Intranasal Foralumab for Early Alzheimer’s Disease - Quiver Quantitative",
@@ -48,7 +50,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab Alzheimer's dosing already captured"
   },
   {
    "title": "Tiziana completes dosing in Phase 2 Alzheimer’s trial of intranasal foralumab - Proactive financial news",
@@ -66,7 +69,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab Alzheimer's dosing"
   },
   {
    "title": "CHMP Backs Extended Use of AstraZeneca H5N1 Pandemic Flu Vaccine - Contagion Live",
@@ -80,7 +84,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal (injectable H5N1 vaccine)"
   },
   {
    "title": "The final patient has begun dosing in a nasal Alzheimer’s trial testing the drug alone and with two approved treatments. - Stock Titan",
@@ -94,7 +99,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab Alzheimer's dosing"
   },
   {
    "title": "R3 Stem Cell Researchers Publish Systematic Review of Intranasal Regenerative Biologics for Neurological Disorders - The National Law Review",
@@ -110,7 +116,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic review, no specific product/event"
   },
   {
    "title": "Roxus® ED Nasal Spray Now Available in the U.S.: Peak Blood Levels in About 10 Minutes, Not an Hour - Morningstar",
@@ -126,7 +133,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "LTR Pharma Roxus/Spontan - new card"
   },
   {
    "title": "PCARE and PROs: Addressing penile cancer's hidden burden - Urology Times",
@@ -140,7 +148,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated urology topic"
   },
   {
    "title": "Tiziana Life Sciences Doses Last Patient in Phase 2 Trial of Intranasal Foralumab in Alzheimer's Disease - marketscreener.com",
@@ -158,7 +167,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab Alzheimer's dosing"
   },
   {
    "title": "Parents Struggle With Nasal Spray Technique Despite Good Attitudes, Study Finds - Bioengineer.org",
@@ -174,7 +184,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general usability study, no specific product"
   },
   {
    "title": "Needle-free flu sprays could transform winter - University of Auckland",
@@ -188,7 +199,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general advocacy piece, no new fact"
   },
   {
    "title": "Hikma Pharmaceuticals Spotlights R&D Shift, Nasal Epinephrine Filing Progress - TradingView",
@@ -204,7 +216,8 @@
     "Nasal Epinephrine"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "Hikma epinephrine nasal spray - new card"
   },
   {
    "title": "Why underactive bladder stays under the radar - Urology Times",
@@ -218,7 +231,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated topic"
   },
   {
    "title": "Management and deal teams from Tiziana (TLSA) will attend a Toronto MS meeting October 21–23. - Stock Titan",
@@ -234,7 +248,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "forward-looking conference attendance notice"
   },
   {
    "title": "NeOnc Technologies Reports Early Clinical Improvement in Compassionate-Use NEO100 Patient in Abu Dhabi - Quiver Quantitative",
@@ -248,7 +263,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "NeOnc NEO100 - new card"
   },
   {
    "title": "The last patient starts dosing in Tiziana (TLSA)’s Phase 2 Alzheimer’s trial. - Stock Titan",
@@ -264,7 +280,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab Alzheimer's dosing"
   },
   {
    "title": "All 14 patients in Tiziana’s multiple sclerosis access program had stable or improved disease within six months. - Stock Titan",
@@ -280,7 +297,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Tier3 only (StockTitan), no Tier1/2 found"
   },
   {
    "title": "High-dose cerium dioxide nanorods induce behavioral and - Bioengineer.org",
@@ -294,7 +312,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "preclinical academic research, not tracked"
   },
   {
    "title": "Mount Sinai Wins $20.7 Million Deal to Build a Next-Generation Respiratory Vaccine Platform - bioengineer.org",
@@ -308,7 +327,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "early funding award, no defined product yet"
   },
   {
    "title": "Three-year-old boy shows early improvement afte... - Pluang",
@@ -322,7 +342,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi case"
   },
   {
    "title": "LTR Pharma clears 2000-unit SPONTAN milestone in Australia - The Australian",
@@ -336,7 +357,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "folded into LTR Pharma Spontan/Roxus card"
   },
   {
    "title": "Tackling calf pneumonia from day one in county Antrim - Farming Life",
@@ -350,7 +372,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "veterinary, out of scope"
   },
   {
    "title": "NeOnc Reports Early Clinical Improvement in First Child Treated with NEO100 Under Compassionate Use in Abu Dhabi - The Manila Times",
@@ -364,7 +387,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi case"
   },
   {
    "title": "Canaries Launches Respiratory Infection Vaccination Campaign with Over 281,000 Doses, a 5.4% Increase - Tenerife Weekly",
@@ -378,7 +402,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general vaccination numbers, not nasal-specific"
   },
   {
    "title": "New Nasal Spray for Erectile Dysfunction Now Available in US - Medscape",
@@ -394,7 +419,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup Roxus - LTR Pharma card"
   },
   {
    "title": "Ketamine Nasal Spray Helps 62% of Patients With Depression - North American Community Hub - NCHStats",
@@ -410,7 +436,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general statistic piece, no new fact"
   },
   {
    "title": "Diazepam Nasal Spray Terminates Most Pediatric Status Epilepticus Episodes in Seizure Clusters, Post Hoc Analysis Shows - NeurologyLive",
@@ -426,7 +453,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "forward-looking 'to present', no new data"
   },
   {
    "title": "Why Drug Companies Are Rushing to Market Ketamine Medicines - The New York Times",
@@ -440,7 +468,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general trend piece, no new fact"
   },
   {
    "title": "MHRA could allow schools to hold reserves of nasal adrenaline spray - Pharmaceutical Technology",
@@ -454,7 +483,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "MHRA schools consultation - news added"
   },
   {
    "title": "FDA approves RYZUMVI for presbyopia - Glance by Eyes On Eyecare",
@@ -468,7 +498,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal (eye drop)"
   },
   {
    "title": "FDA sets new PDUFA date for Anaphylm for type I allergic reactions - Contemporary Pediatrics",
@@ -482,7 +513,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal (sublingual film)"
   },
   {
    "title": "EMA Gives Green Light To EU-Wide Switch Of Opioid Overdose Spray Nyxoid - HBW Insight",
@@ -496,7 +528,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 EU-wide switch found this run"
   },
   {
    "title": "A nasal spray for sudden fast heartbeats is approved for one condition; a trial for another is on the agenda. - Stock Titan",
@@ -512,7 +545,8 @@
     "nasal spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Tier3 only, no new verifiable fact"
   },
   {
    "title": "Tiziana Life Sciences completes enrolment in Phase 2 nasal immunotherapy trial for Alzheimer's - Dealroom",
@@ -528,7 +562,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab Alzheimer's dosing"
   },
   {
    "title": "Stop Buying This Cold Medicine. The FDA Says It Doesn’t Work - Money Talks News",
@@ -542,7 +577,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "oral phenylephrine, not nasal"
   },
   {
    "title": "Eton Pharmaceuticals licenses cheek-film seizure drug for U.S. market​ - Crain's Chicago Business",
@@ -556,7 +592,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "buccal film, not intranasal"
   },
   {
    "title": "Exclusive | FDA-approved ketamine treatment fights depression better than decades on Prozac, patients say - New York Post",
@@ -570,7 +607,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general trend piece, no new fact"
   },
   {
    "title": "NEURELIS TO PRESENT ANALYSES OF STUDY DATA FROM PEDIATRIC PATIENTS WITH SEIZURE CLUSTERS AT THE CHILD NEUROLOGY SOCIETY ANNUAL MEETING - PR Newswire",
@@ -586,7 +624,8 @@
     "NEURELIS"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "forward-looking 'to present', no new data"
   },
   {
    "title": "Cyrano Therapeutics Announces Presentation of Positive Phase 2 FLAVOR Data Demonstrating Statistically Significant Improvement in Smell Function with CYR-064 in Patients with Post-Viral Smell Loss - Morningstar",
@@ -603,7 +642,8 @@
     "Cyrano Therapeutics"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1/2 confirmation of new Oct data"
   },
   {
    "title": "Satralizumab Reduces MOGAD Relapse Risk in Phase 3 METEOROID Trial - NeurologyLive",
@@ -617,7 +657,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal (injectable)"
   },
   {
    "title": "Nyxoid: Don’t Put Up Pharmacy Access Barriers, Urges Switch Expert Prof. Brass - HBW Insight",
@@ -631,7 +672,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Nyxoid, no Tier1 confirmation"
   },
   {
    "title": "Most Psilocybin Trial Volunteers Can Tell They Got the Real Drug, So Psychiatrists Propose a Multidrug Fake - Medical Daily",
@@ -645,7 +687,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated topic"
   },
   {
    "title": "CVS Agrees To Pay $315 Million Over Unlawful Controlled Substance Prescriptions – Here’s What Patients Should Know - Yahoo Health",
@@ -659,7 +702,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated topic"
   },
   {
    "title": "First-in-Human Trial Begins for an Antisense Oligonucleotide in KCNT1-Related Epilepsy - NeurologyLive",
@@ -673,7 +717,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal"
   },
   {
    "title": "Vistagen brings in GATC Health's predictive AI to design next trials of its neuroscience pipeline - Dealroom",
@@ -689,7 +734,8 @@
     "Vistagen"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general AI partnership, no nasal-specific fact"
   },
   {
    "title": "Hepion unit gets FDA feedback on GV104 for gambling disorder - StreetInsider",
@@ -703,7 +749,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "route not confirmed intranasal"
   },
   {
    "title": "Firebrick Pharma Receives Philippines Food and Drug Administration Approval for Nasodine Nasal Spray - Kalkine",
@@ -720,7 +767,8 @@
     "Nasodine"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "nasodine card+news updated (Philippines)"
   },
   {
    "title": "Vanda Pharmaceuticals Says Experimental Anxiety Treatment Misses Primary Endpoint - Benzinga",
@@ -734,7 +782,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "confirmed oral drug (VQW-765), not nasal"
   },
   {
    "title": "new drug approved by fda for weight loss - BusinessWorld Online",
@@ -748,7 +797,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no nasal-specific fact"
   },
   {
    "title": "Eton Pharma licenses Libervant diazepam buccal film for US epilepsy seizure clusters - AllSci",
@@ -762,7 +812,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Eton Libervant, buccal not nasal"
   },
   {
    "title": "Needle-free flu sprays could transform winter in our hospitals - Newsroom",
@@ -776,7 +827,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup general advocacy piece"
   },
   {
    "title": "Diabeloop Announces the Completion of Its Balance Sheet Restructuring and Looks Ahead to the Next Phase of Its Development - greatreporter",
@@ -790,7 +842,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "insulin pump company, not nasal"
   },
   {
    "title": "Zydus Gets USFDA Nod for Menopause Treatment Drug - Rediff MoneyWiz",
@@ -804,7 +857,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "could not confirm nasal route or event"
   },
   {
    "title": "fda recent review glp-1 weight loss drugs prescribing patterns 2026 - Meteo.gr",
@@ -818,7 +872,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general GLP-1 piece, not nasal-specific"
   },
   {
    "title": "novo nordisk says obesity drug trial confirms weight loss - Meteo.gr",
@@ -832,7 +887,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a tracked nasal semaglutide product"
   },
   {
    "title": "LOI Modifier Linked to Neuron Loss in Huntington’s Disease | Rare Diseases Today - DocWireNews",
@@ -846,7 +902,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated research, not a tracked product"
   },
   {
    "title": "Breathwork Really Can Induce an Altered State of Consciousness, Experiment Shows - ScienceAlert",
@@ -860,7 +917,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma product"
   },
   {
    "title": "Vistagen Selects GATC Health to Apply Predictive AI Across Lead Clinical-Stage Drug Development Programs - GlobeNewswire",
@@ -876,7 +934,8 @@
     "Vistagen"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Vistagen GATC AI partnership"
   },
   {
    "title": "Why Your Sense of Smell Fades After 60 – and When It's a Warning Sign - Yahoo News Singapore",
@@ -890,7 +949,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general consumer health piece"
   },
   {
    "title": "Is EU Vaccine Device Approval Altering The Investment Case For AptarGroup (ATR)? - Simply Wall Street",
@@ -904,7 +964,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup Aptar LuerVax CE mark"
   },
   {
    "title": "Tiziana Doses Last Patient in Phase 2 Trial of Intranasal Foralumab for Mild Alzheimer’s Disease - GlobeNewswire",
@@ -922,7 +983,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup foralumab, primary wire"
   },
   {
    "title": "Roxus® ED Nasal Spray Now Available in the U.S.: Peak Blood Levels in About 10 Minutes, Not an Hour - PR Newswire",
@@ -938,7 +1000,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "primary source for Roxus card"
   },
   {
    "title": "Tiziana Management Team to Attend the 10th Joint ACTRIMS-ECTRIMS Meeting in Toronto - GlobeNewswire",
@@ -954,7 +1017,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "forward-looking conference attendance notice"
   },
   {
    "title": "Milestone Pharmaceuticals Announces Clinical Data Presentations at Upcoming Cardiology Conferences - GlobeNewswire",
@@ -970,7 +1034,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "forward-looking 'will present', no data yet"
   },
   {
    "title": "Neuronetics to Report Third Quarter 2026 Financial and Operating Results and Host Conference Call - GlobeNewswire",
@@ -984,7 +1049,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a nasal product company"
   },
   {
    "title": "Press Release Distribution & Media Outreach Platform for PR Agencies - ACCESS Newswire",
@@ -998,7 +1064,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "platform self-promotion, not news"
   },
   {
    "title": "Tonix Pharmaceuticals to Present an Analysis of Phase 3 Data on TONMYA® at the IASP 2026 World Congress on Pain - GlobeNewswire",
@@ -1012,7 +1079,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "TNX-102 SL is oral, not nasal"
   },
   {
    "title": "Tonix Pharmaceuticals Announces Presentations at World Vaccine Congress Europe 2026 - GlobeNewswire",
@@ -1026,7 +1094,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "TNX-801 route not confirmed nasal"
   },
   {
    "title": "NeOnc CEO Amir F. Heshmatpour to Address Global Life Sciences Investment at Abu Dhabi Future Health Summit 2026 - GlobeNewswire",
@@ -1040,7 +1109,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi"
   },
   {
    "title": "NeOnc Technologies and the Department of Health – Abu Dhabi - GlobeNewswire",
@@ -1054,7 +1124,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi (IND)"
   },
   {
    "title": "NeOnc’s Boldest Test Yet: Child’s Early Improvement Puts NEO100 in the Spotlight with Compassionate-Use Milestone - GlobeNewswire",
@@ -1068,7 +1139,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc; pediatric case unconfirmed Tier1"
   },
   {
    "title": "NeOnc Deepens Abu Dhabi Research Ties as Its Brain Cancer Story Moves Forward - GlobeNewswire",
@@ -1082,7 +1154,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi"
   },
   {
    "title": "Xlear Highlights How STMP and Xylitol Show Promise for Toothpaste that Protects Enamel better than Fluoride alone - PR Newswire",
@@ -1096,7 +1169,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "toothpaste product, not a nasal drug"
   },
   {
    "title": "Amgen, AZ dive deep into Tezspire's Dupixent-challenging victory in EoE phase 3 - Fierce Pharma",
@@ -1110,7 +1184,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable biologic, not nasal"
   },
   {
    "title": "Roxus® ED Nasal Spray Now Available in the U.S.: Peak Blood Levels in About 10 Minutes, Not an Hour - BioSpace",
@@ -1126,7 +1201,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup Roxus - LTR Pharma card"
   },
   {
    "title": "Sanofi and pCPA Sign Letter of Intent for Dupixent® Across Four Indications in Dermatology and Respiratory Care - BioSpace",
@@ -1140,7 +1216,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal"
   },
   {
    "title": "Vanda’s social anxiety drug flunks Phase 3 trial in female patients - Endpoints News",
@@ -1154,7 +1231,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Vanda, confirmed oral not nasal"
   },
   {
    "title": "TEZSPIRE positive results from Phase III CROSSING trial in eosinophilic esophagitis including symptom improvement, histologic and endoscopic remission presented at United European Gastroenterology Week - BioSpace",
@@ -1168,7 +1246,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Tezspire, injectable not nasal"
   },
   {
    "title": "TEZSPIRE® DELIVERED HISTOLOGIC REMISSION AND SYMPTOM IMPROVEMENT IN EOSINOPHILIC ESOPHAGITIS - BioSpace",
@@ -1182,7 +1261,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Tezspire, injectable not nasal"
   },
   {
    "title": "FDA considers interim access for compounded peptides; Enspryng’s label expansion - Endpoints News",
@@ -1196,7 +1276,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal"
   },
   {
    "title": "Hepion Pharmaceuticals Receives Positive FDA Response on GV104 in Gambling Disorder, a Condition With No Approved Medication - BioSpace",
@@ -1210,7 +1291,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Hepion, route not confirmed nasal"
   },
   {
    "title": "NeOnc Technologies and the Department of Health – Abu Dhabi Sign MoU to Advance Brain Cancer Research and Proposed Clinical Collaboration - BioSpace",
@@ -1224,7 +1306,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup NeOnc Abu Dhabi"
   },
   {
    "title": "Neurocrine Biosciences Presents Real-World Evidence Mapping the Lifelong, Evolving Impact of Classic Congenital Adrenal Hyperplasia - BioSpace",
@@ -1238,7 +1321,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal"
   },
   {
    "title": "Tonix Pharmaceuticals Announces Presentations at World Vaccine Congress Europe 2026 - BioSpace",
@@ -1252,7 +1336,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Tonix WVC, route unconfirmed"
   },
   {
    "title": "First and Only Ulcerative Colitis Treat-to-Target Trial Shows Treating to Disease Clearance vs. Symptomatic Remission with ENTYVIO® (vedolizumab) Prolongs Time to First Disease-Related Complication - BioSpace",
@@ -1266,7 +1351,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal"
   },
   {
    "title": "Fierce Biotech Layoff Tracker 2026: Enlivex excises 60%; Eyepoint halves headcount - Fierce Biotech",
@@ -1280,7 +1366,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general layoff tracker, not product-specific"
   },
   {
    "title": "Endpoints News - Endpoints News",
@@ -1294,7 +1381,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "newsletter title, no content"
   },
   {
    "title": "미 발기부전 비강 스프레이 판매 - 의학신문",
@@ -1310,7 +1398,8 @@
     "비강 스프레이"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup Roxus KR coverage"
   },
   {
    "title": "[일반의약품] 봄철 비염은 옛말, 지속성 비염-약국 상담의 새로운 기준 - 약사공론",
@@ -1324,7 +1413,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general consumer pharmacy content"
   },
   {
    "title": "재사용 가능한 비강 기도관 시장 2035년 전망: 수술·중환자실 확대로 수요 가속 - 뉴스 및 통계 - IndexBox",
@@ -1338,7 +1428,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size report, out of scope"
   },
   {
    "title": "어? 이건 뭐지?- 사진으로 보는 이비인후 질환 > 뉴스 - 한의신문",
@@ -1352,7 +1443,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general ENT photo feature, no fact"
   },
   {
    "title": "저희 약국은 두 제품이 '2026년 베트남 국가 브랜드'로 선정되는 영광을 누리게 되었습니다. - Vietnam.vn",
@@ -1366,7 +1458,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "too vague to identify product"
   },
   {
    "title": "2035년 산소 마스크 시장 전망: 만성 호흡기 질환 부담이 수요 견인 - 뉴스 및 통계 - IndexBox",
@@ -1380,7 +1473,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size report, out of scope"
   },
   {
    "title": "‘바이러스 후각 상실’ 최초 치료제 나오나… 시라노, 2상서 위약 대비 6배 효과 - 아이알팜",
@@ -1394,7 +1488,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Cyrano, no new verified fact"
   },
   {
    "title": "“痛くない”インフル予防接種「フルミスト」とは？前年比8倍と猛威を振るう中で注目の鼻スプレー型ワクチンを解説 費用や注意点も - TBS NEWS DIG",
@@ -1410,7 +1505,8 @@
     "フルミスト"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general consumer explainer, no new fact"
   },
   {
    "title": "“痛くない”インフル予防接種「フルミスト」とは?前年比8倍と猛威を振るう中で注目の鼻スプレー型ワクチンを解説 費用や注意点も - Yahoo!ニュース",
@@ -1426,7 +1522,8 @@
     "フルミスト"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup FluMist Japan explainer"
   },
   {
    "title": "早まる流行 インフルエンザ長期化か 専門家「ワクチン接種検討を」（北海道新聞） - LINE NEWS",
@@ -1440,7 +1537,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general flu season piece, not nasal-specific"
   },
   {
    "title": "浙商观察：民生为本，大健康产业新生态如何重塑？ - 搜狐网",
@@ -1454,7 +1552,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "too vague, not a specific product/event"
   },
   {
    "title": "国内首仿畅齐灵®糠酸氟替卡松鼻用喷雾剂在阿里健康首发上线 - 砍柴网",
@@ -1470,7 +1569,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "brand/listing unconfirmed via Tier1 this run"
   },
   {
    "title": "USP SYSTEM-LEVEL INSIGHTS TO SUPPORT EARLIER PACKAGING DECISIONS",
@@ -1486,7 +1586,8 @@
     "Aptar Pharma"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general technical article, not an event"
   },
   {
    "title": "Bespak and SNBL agree global access deal for FDA‑approved nasal device",
@@ -1505,7 +1606,8 @@
     "nasal device"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup of existing 2026-10-14 Bespak/SNBL item"
   },
   {
    "title": "Web Description is generally cheaper and can be used within a few minutes. A Facebook News Quota, which was launched on 19 April, is an open-access space hosted by the Facebook user intranasal facilities.",
@@ -1522,7 +1624,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "I just read an ED chart note where the RN stated they attempted to give the patient intranasal Narcan but that the patient was verbally uncooperative and moved around too much.   Y’all. This patient DID NOT NEED NARCAN.   I cannot.",
@@ -1541,7 +1644,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Tiziana Life Sciences has completed patient enrolment in its Phase 2 trial of intranasal foralumab for mild Alzheimer's. Topline data expected in 2026.",
@@ -1560,7 +1664,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "José Gómez Rial, inmunólogo: «Todos los años ingresan en la uci niños previamente sanos por gripe»\r \r https://www.lavozdegalicia.es/noticia/lavozdelasalud/enfermedades/2026/10/20/jose-gomez-rial-inmunologo-anos-ingresan-uci-ninos-previamente-sanos-gripe/00031792511577052466713.ht",
@@ -1575,7 +1680,8 @@
    "tier": 3,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "I have done it both last year and this month and it's been pretty easy www.flumist.com",
@@ -1595,7 +1701,8 @@
     "flumist"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "ATS Red Journal Editor's Choice: Myeloid TLR2 signaling amplifies immunopathology in influenza-infected murine neonates #pulmonary #infections @atscommunity.bsky.social  academic.oup.com/ajrcmb/artic...",
@@ -1610,7 +1717,8 @@
    "tier": 3,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Intranasal IGF-1 represents a potentially translatable strategy for attenuating trigeminal CGRP release and oxidative markers, although this requires validation in female cohorts and assessment of sex-specific effects.  THE PROSPERO REGISTRATION: CRD420251143073. (🧵 11/11)",
@@ -1627,7 +1735,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Delivery through the nose seems to lower anxiety regardless of scent with lavender. Intranasal is a drug delivery method.",
@@ -1644,7 +1753,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Continúa la vacunación frente a la gripe de grupos diana en el centro de Salud Dr. Guigou en Santa Cruz de Tenerife.   Los niños deben estar protegidos. No hay que pincharlos. ¡Su vacuna es intranasal!",
@@ -1661,7 +1771,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Tu louperais une dose de carbesia pour un cheval (facturé 100€), je veux bien mais une dose de vaccin c'est entre 3 et 5€ (max de max 12 € prix d'achat pour un intranasal).",
@@ -1678,7 +1789,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "As much as I joke about the packaging, thanks to everyone making intranasal vaccines possible, seriously.",
@@ -1695,7 +1807,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Just got the last of our flu/covid vaccinations in for this period. It was the kid’s intranasal flu spray, which showed up in an enormous package. She’s a big fan compared to getting an injection.",
@@ -1712,7 +1825,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "",
@@ -1727,7 +1841,8 @@
    "tier": 3,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "#TLSA Tiziana Doses Last Patient in Phase 2 Trial of Intranasal Foralumab for Mild Alzheimer’s Disease  https://www.stocktitan.net/news/TLSA/tiziana-doses-last-patient-in-phase-2-trial-of-intranasal-foralumab-fg0l1vhzlb21.html?utm_source=stocktitan-bluesky&utm_medium=social",
@@ -1749,7 +1864,8 @@
     "tiziana"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "The authors included RRIDs in their in Chemical Engineering Journal paper! RRIDs improve reproducibility in scientific research. #accelerateopenscience #RRID #reproducibility",
@@ -1766,7 +1882,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "PWH and HIV- adults had similar baseline pneumococcal IgG. PWH carriage linked to lower serum IgG (0.84 vs 2.33µg/mL, p<0.01) & nasal IgG (p=0.07). HIV- showed ↑IgG binding post-challenge (120→209 AU, p=0.004), PWH didn't. 🦠",
@@ -1781,7 +1898,8 @@
    "tier": 3,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Breast milk antibodies show promise against multiple respiratory viruses ->News-Medical | More on \"Breast milk antibodies fight respiratory viruses\" at BigEarthData.ai",
@@ -1796,7 +1914,8 @@
    "tier": 3,
    "matched": [],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Awesome to follow the advancements of the intranasal RSV vaccine! #PITT_ID26",
@@ -1813,7 +1932,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Mather Hospital uses FDA-approved esketamine nasal spray Spravato for severe depression, with many patients reporting faster, greater improvement than prior Prozac use. ",
@@ -1831,7 +1951,8 @@
     "esketamine nasal"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Ciao Neffy!👋🏼👋🏼👋🏼",
@@ -1848,7 +1969,8 @@
     "Neffy"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "VALISのみんなー！ 20万再生！ おめでとうございます！！！ 🎉🎉🎊🎊㊗️🎊🎊🎉🎉 (๑>◡<๑)b #再生回数お祝いの記録 #VALIS  【Case of NEFFY】VALIS − 027「猫好的ショータイム」【VALIS合唱】 youtu.be/BiNz8d1HFK4 .",
@@ -1865,7 +1987,8 @@
     "NEFFY"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   },
   {
    "title": "Milestone announced data presentations at CAPP (Oct 22), TCT (Nov 2) and AHA (Nov 7). $MIST  https://www.merlintrader.com/milestone-pharmaceuticals-mist-stock-hub/",
@@ -1883,7 +2006,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-10-22T11:01+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead (Tier3), no actionable new fact"
   }
  ],
  "updated": "2026-10-22T11:01+09:00"
