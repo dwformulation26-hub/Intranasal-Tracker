@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-21",
+ "asOf": "2026-10-22",
  "lanes": [
   {
    "id": "market",
@@ -124,7 +124,7 @@
    "trials": [
     {
      "nct": "NCT07716098",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2028-12-27",
      "n": 348,
@@ -133,7 +133,7 @@
     },
     {
      "nct": "NCT07227454",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2031-04-09",
      "n": 258,
@@ -272,7 +272,7 @@
    "trials": [
     {
      "nct": "NCT05378945",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2023-04-04",
      "n": 340,
@@ -323,7 +323,7 @@
    "trials": [
     {
      "nct": "NCT05870540",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2025-03-28",
      "n": 196,
@@ -332,7 +332,7 @@
     },
     {
      "nct": "NCT05660642",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-11",
      "n": 72,
@@ -383,7 +383,7 @@
    "trials": [
     {
      "nct": "NCT06615557",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2026-04-21",
      "n": 238,
@@ -392,7 +392,7 @@
     },
     {
      "nct": "NCT06358651",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2025-10-31",
      "n": 238,
@@ -401,7 +401,7 @@
     },
     {
      "nct": "NCT06809179",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-04",
      "n": 60,
@@ -496,7 +496,7 @@
    "trials": [
     {
      "nct": "NCT06292923",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2026-09",
      "n": 54,
@@ -505,7 +505,7 @@
     },
     {
      "nct": "NCT06489548",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-06",
      "n": 16,
@@ -514,12 +514,12 @@
     },
     {
      "nct": "NCT07688239",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2027-07",
      "n": 44,
      "results": false,
-     "updated": "2026-07-07"
+     "updated": "2026-10-21"
     }
    ],
    "noTrial": null,
@@ -565,7 +565,7 @@
    "trials": [
     {
      "nct": "NCT07453888",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2027-09",
      "n": 272,
@@ -616,7 +616,7 @@
    "trials": [
     {
      "nct": "NCT06212089",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2024-04-26",
      "n": 12,
@@ -667,7 +667,7 @@
    "trials": [
     {
      "nct": "NCT06600477",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2023-11-01",
      "n": 24,
@@ -762,7 +762,7 @@
    "trials": [
     {
      "nct": "NCT05081219",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2024-09-17",
      "n": 47,
@@ -771,7 +771,7 @@
     },
     {
      "nct": "NCT07756294",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2028-04",
      "n": 30,
@@ -822,7 +822,7 @@
    "trials": [
     {
      "nct": "NCT07187141",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2022-09-22",
      "n": 16,
@@ -873,7 +873,7 @@
    "trials": [
     {
      "nct": "NCT07163182",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2027-02-28",
      "n": 68,
@@ -924,7 +924,7 @@
    "trials": [
     {
      "nct": "NCT07193901",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2026-04-10",
      "n": 98,
@@ -975,7 +975,7 @@
    "trials": [
     {
      "nct": "NCT07156773",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-03-30",
      "n": 84,
@@ -1026,7 +1026,7 @@
    "trials": [
     {
      "nct": "NCT06173531",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2025-08-19",
      "n": 175,
@@ -1035,7 +1035,7 @@
     },
     {
      "nct": "NCT06420297",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "TERMINATED",
      "pcd": "2025-12-19",
      "n": 168,
@@ -1086,7 +1086,7 @@
    "trials": [
     {
      "nct": "NCT04669665",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2023-06-17",
      "n": 164,
@@ -1095,7 +1095,7 @@
     },
     {
      "nct": "NCT06816433",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "SUSPENDED",
      "pcd": "2029-05",
      "n": 200,
@@ -1146,7 +1146,7 @@
    "trials": [
     {
      "nct": "NCT05163717",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "TERMINATED",
      "pcd": "2023-03-31",
      "n": 8,
@@ -1197,7 +1197,7 @@
    "trials": [
     {
      "nct": "NCT05989048",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2025-05-30",
      "n": 1414,
@@ -1206,7 +1206,7 @@
     },
     {
      "nct": "NCT04571060",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2021-10-10",
      "n": 1978,
@@ -1215,7 +1215,7 @@
     },
     {
      "nct": "NCT06995729",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2027-08-12",
      "n": 16,
@@ -1266,7 +1266,7 @@
    "trials": [
     {
      "nct": "NCT03557333",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2020-03-17",
      "n": 360,
@@ -1317,7 +1317,7 @@
    "trials": [
     {
      "nct": "NCT04406649",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2023-01-16",
      "n": 482,
@@ -1326,7 +1326,7 @@
     },
     {
      "nct": "NCT04940390",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-10-13",
      "n": 1591,
@@ -1377,7 +1377,7 @@
    "trials": [
     {
      "nct": "NCT07304518",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-09",
      "n": 456,
@@ -1386,7 +1386,7 @@
     },
     {
      "nct": "NCT07016516",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2025-09-08",
      "n": 80,
@@ -1481,7 +1481,7 @@
    "trials": [
     {
      "nct": "NCT06364072",
-     "phase": "PHASE2/PHASE3",
+     "phase": "Ph2/Ph3",
      "status": "COMPLETED",
      "pcd": "2025-05-09",
      "n": 155,
@@ -1532,12 +1532,12 @@
    "trials": [
     {
      "nct": "NCT07730294",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "NOT_YET_RECRUITING",
-     "pcd": "2028-08",
+     "pcd": "2028-10",
      "n": 75,
      "results": false,
-     "updated": "2026-07-28"
+     "updated": "2026-10-21"
     }
    ],
    "noTrial": null,
@@ -1627,7 +1627,7 @@
    "trials": [
     {
      "nct": "NCT05111431",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-05-20",
      "n": 159,
@@ -1636,7 +1636,7 @@
     },
     {
      "nct": "NCT04200235",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2020-08-06",
      "n": 48,
@@ -1951,7 +1951,7 @@
    "trials": [
     {
      "nct": "NCT04828005",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2022-03-14",
      "n": 84,
@@ -1960,7 +1960,7 @@
     },
     {
      "nct": "NCT05219669",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2021-11-19",
      "n": 24,
@@ -2055,7 +2055,7 @@
    "trials": [
     {
      "nct": "NCT06834165",
-     "phase": "PHASE4",
+     "phase": "Ph4",
      "status": "RECRUITING",
      "pcd": "2027-04",
      "n": 600,
@@ -2064,7 +2064,7 @@
     },
     {
      "nct": "NCT06927999",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2027-06",
      "n": 42,
@@ -2073,7 +2073,7 @@
     },
     {
      "nct": "NCT05496465",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2024-02-29",
      "n": 21,
@@ -2212,7 +2212,7 @@
    "trials": [
     {
      "nct": "NCT07045701",
-     "phase": "PHASE2/PHASE3",
+     "phase": "Ph2/Ph3",
      "status": "ENROLLING_BY_INVITATION",
      "pcd": "2026-06-12",
      "n": 30,
@@ -2221,7 +2221,7 @@
     },
     {
      "nct": "NCT07228325",
-     "phase": "PHASE1/PHASE2",
+     "phase": "Ph1/Ph2",
      "status": "ENROLLING_BY_INVITATION",
      "pcd": "2026-03",
      "n": 50,
@@ -2230,7 +2230,7 @@
     },
     {
      "nct": "NCT06205134",
-     "phase": "PHASE1/PHASE2",
+     "phase": "Ph1/Ph2",
      "status": "COMPLETED",
      "pcd": "2024-02-02",
      "n": 12,
@@ -2281,7 +2281,7 @@
    "trials": [
     {
      "nct": "NCT01994746",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2015-01",
      "n": 77,
@@ -2290,7 +2290,7 @@
     },
     {
      "nct": "NCT02402933",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2015-08",
      "n": 26,
@@ -2299,7 +2299,7 @@
     },
     {
      "nct": "NCT04992312",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2023-11-05",
      "n": 7,
@@ -2482,7 +2482,7 @@
    "trials": [
     {
      "nct": "NCT05522335",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "UNKNOWN",
      "pcd": "2022-07-19",
      "n": 3160,
@@ -2491,7 +2491,7 @@
     },
     {
      "nct": "NCT05567471",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-05-03",
      "n": 875,
@@ -2542,7 +2542,7 @@
    "trials": [
     {
      "nct": "NCT04809389",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "UNKNOWN",
      "pcd": "2022-09",
      "n": 115,
@@ -2596,7 +2596,7 @@
    "trials": [
     {
      "nct": "NCT05248373",
-     "phase": "PHASE1/PHASE2",
+     "phase": "Ph1/Ph2",
      "status": "UNKNOWN",
      "pcd": "2023-02-14",
      "n": 400,
@@ -2647,7 +2647,7 @@
    "trials": [
     {
      "nct": "NCT06742281",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2026-06-15",
      "n": 432,
@@ -2656,7 +2656,7 @@
     },
     {
      "nct": "NCT05736835",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2025-12-16",
      "n": 227,
@@ -2707,7 +2707,7 @@
    "trials": [
     {
      "nct": "NCT07215520",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2026-09-06",
      "n": 200,
@@ -2758,7 +2758,7 @@
    "trials": [
     {
      "nct": "NCT07536308",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2027-04-29",
      "n": 80,
@@ -2809,7 +2809,7 @@
    "trials": [
     {
      "nct": "NCT04619628",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2021-06-26",
      "n": 48,
@@ -2818,7 +2818,7 @@
     },
     {
      "nct": "NCT05233826",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2022-07-21",
      "n": 20,
@@ -2872,7 +2872,7 @@
    "trials": [
     {
      "nct": "NCT04919109",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "TERMINATED",
      "pcd": "2025-06-26",
      "n": 41,
@@ -2923,16 +2923,16 @@
    "trials": [
     {
      "nct": "NCT05655182",
-     "phase": "PHASE1/PHASE2",
+     "phase": "Ph1/Ph2",
      "status": "RECRUITING",
      "pcd": "2028-12-30",
      "n": 137,
      "results": false,
-     "updated": "2026-10-09"
+     "updated": "2026-10-21"
     },
     {
      "nct": "NCT05281263",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2022-12-05",
      "n": 30,
@@ -2983,7 +2983,7 @@
    "trials": [
     {
      "nct": "NCT04690335",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2021-05-07",
      "n": 60,
@@ -2992,7 +2992,7 @@
     },
     {
      "nct": "NCT04909021",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "UNKNOWN",
      "pcd": "2023-10",
      "n": 63,
@@ -3043,7 +3043,7 @@
    "trials": [
     {
      "nct": "NCT05461131",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2023-07-25",
      "n": 53,
@@ -3052,7 +3052,7 @@
     },
     {
      "nct": "NCT05116241",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2024-05-15",
      "n": 368,
@@ -3061,7 +3061,7 @@
     },
     {
      "nct": "NCT03942406",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2020-02-14",
      "n": 300,
@@ -3156,7 +3156,7 @@
    "trials": [
     {
      "nct": "NCT05604690",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2023-08-09",
      "n": 40,
@@ -3207,7 +3207,7 @@
    "trials": [
     {
      "nct": "NCT07703475",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2027-11-15",
      "n": 80,
@@ -3258,7 +3258,7 @@
    "trials": [
     {
      "nct": "NCT07221162",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2026-11-24",
      "n": 140,
@@ -3267,7 +3267,7 @@
     },
     {
      "nct": "NCT06441968",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2025-11-12",
      "n": 60,
@@ -3276,7 +3276,7 @@
     },
     {
      "nct": "NCT06026514",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2025-01-16",
      "n": 27,
@@ -3327,7 +3327,7 @@
    "trials": [
     {
      "nct": "NCT06873282",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2024-01-12",
      "n": 160,
@@ -3378,7 +3378,7 @@
    "trials": [
     {
      "nct": "NCT06264141",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2025-02-22",
      "n": 162,
@@ -3387,7 +3387,7 @@
     },
     {
      "nct": "NCT05109611",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "TERMINATED",
      "pcd": "2024-01-30",
      "n": 1389,
@@ -3396,7 +3396,7 @@
     },
     {
      "nct": "NCT05599919",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-01-31",
      "n": 306,
@@ -3447,7 +3447,7 @@
    "trials": [
     {
      "nct": "NCT06008860",
-     "phase": "PHASE4",
+     "phase": "Ph4",
      "status": "RECRUITING",
      "pcd": "2026-12",
      "n": 280,
@@ -3501,7 +3501,7 @@
    "trials": [
     {
      "nct": "NCT07222670",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2027-03-12",
      "n": 1100,
@@ -3552,7 +3552,7 @@
    "trials": [
     {
      "nct": "NCT05507567",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2023-05-04",
      "n": 104,
@@ -3561,7 +3561,7 @@
     },
     {
      "nct": "NCT05093530",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2022-04-05",
      "n": 60,
@@ -3612,7 +3612,7 @@
    "trials": [
     {
      "nct": "NCT03915470",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2021-01-04",
      "n": 124,
@@ -3663,7 +3663,7 @@
    "trials": [
     {
      "nct": "NCT06290557",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2025-07-01",
      "n": 52,
@@ -3758,7 +3758,7 @@
    "trials": [
     {
      "nct": "NCT03464019",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "TERMINATED",
      "pcd": "2023-01-20",
      "n": 1097,
@@ -3767,7 +3767,7 @@
     },
     {
      "nct": "NCT06716021",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2028-12",
      "n": 750,
@@ -3776,7 +3776,7 @@
     },
     {
      "nct": "NCT05763953",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2027-06-01",
      "n": 60,
@@ -3827,7 +3827,7 @@
    "trials": [
     {
      "nct": "NCT03781804",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-01-19",
      "n": 332,
@@ -3836,7 +3836,7 @@
     },
     {
      "nct": "NCT03960580",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2022-05-04",
      "n": 223,
@@ -3845,7 +3845,7 @@
     },
     {
      "nct": "NCT06850805",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2028-03-31",
      "n": 84,
@@ -3940,7 +3940,7 @@
    "trials": [
     {
      "nct": "NCT05295459",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2025-04-02",
      "n": 182,
@@ -3949,7 +3949,7 @@
     },
     {
      "nct": "NCT05219968",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2024-03-04",
      "n": 196,
@@ -4044,7 +4044,7 @@
    "trials": [
     {
      "nct": "NCT07465965",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2026-08-21",
      "n": 60,
@@ -4227,7 +4227,7 @@
    "trials": [
     {
      "nct": "NCT04551482",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-12-31",
      "n": 55,
@@ -4278,7 +4278,7 @@
    "trials": [
     {
      "nct": "NCT07146126",
-     "phase": "PHASE3",
+     "phase": "Ph3",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2026-06-30",
      "n": 600,
@@ -4287,7 +4287,7 @@
     },
     {
      "nct": "NCT06837233",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2025-05-26",
      "n": 179,
@@ -4338,7 +4338,7 @@
    "trials": [
     {
      "nct": "NCT07219849",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "RECRUITING",
      "pcd": "2026-04",
      "n": 164,
@@ -4389,7 +4389,7 @@
    "trials": [
     {
      "nct": "NCT07259538",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "RECRUITING",
      "pcd": "2026-07-30",
      "n": 60,
@@ -4440,7 +4440,7 @@
    "trials": [
     {
      "nct": "NCT06019000",
-     "phase": "PHASE2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2025-11-11",
      "n": 151,
@@ -4535,7 +4535,7 @@
    "trials": [
     {
      "nct": "NCT07588672",
-     "phase": "NA",
+     "phase": "N/A",
      "status": "RECRUITING",
      "pcd": "2027-07-15",
      "n": 120,
@@ -4586,7 +4586,7 @@
    "trials": [
     {
      "nct": "NCT07667413",
-     "phase": "PHASE1",
+     "phase": "Ph1",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2027-07",
      "n": 27,
@@ -4637,7 +4637,7 @@
    "trials": [
     {
      "nct": "NCT07053345",
-     "phase": "Phase 4",
+     "phase": "Ph4",
      "status": "COMPLETED",
      "pcd": "2026-07-13",
      "n": 47,
@@ -4820,7 +4820,7 @@
    "trials": [
     {
      "nct": "NCT07516977",
-     "phase": "N/A (device)",
+     "phase": "N/A",
      "status": "NOT_YET_RECRUITING",
      "pcd": "2026-08-31",
      "n": 2000,
@@ -4959,7 +4959,7 @@
    "trials": [
     {
      "nct": "NCT05234320",
-     "phase": "Phase 1",
+     "phase": "Ph1",
      "status": "UNKNOWN",
      "pcd": "2023-01",
      "n": 16,
@@ -5186,7 +5186,7 @@
    "trials": [
     {
      "nct": "NCT07716098",
-     "phase": "Phase 3",
+     "phase": "Ph3",
      "status": "RECRUITING",
      "pcd": "2028-12-27",
      "n": 348,
@@ -5237,7 +5237,7 @@
    "trials": [
     {
      "nct": "NCT07545564",
-     "phase": "Phase 4",
+     "phase": "Ph4",
      "status": "ENROLLING_BY_INVITATION",
      "pcd": "2026-04-23",
      "n": 200,
@@ -5246,7 +5246,7 @@
     },
     {
      "nct": "NCT06280144",
-     "phase": "Phase 4",
+     "phase": "Ph4",
      "status": "UNKNOWN",
      "pcd": "2024-06-30",
      "n": 6080,
@@ -5341,7 +5341,7 @@
    "trials": [
     {
      "nct": "NCT05787418",
-     "phase": "Phase 3",
+     "phase": "Ph3",
      "status": "COMPLETED",
      "pcd": "2024-03-27",
      "n": 918,
@@ -5350,7 +5350,7 @@
     },
     {
      "nct": "NCT05713318",
-     "phase": "Phase 2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2023-06-19",
      "n": 200,
@@ -5401,7 +5401,7 @@
    "trials": [
     {
      "nct": "NCT05234580",
-     "phase": "Phase 2",
+     "phase": "Ph2",
      "status": "COMPLETED",
      "pcd": "2022-10-10",
      "n": 204,
@@ -5410,7 +5410,7 @@
     },
     {
      "nct": "NCT07345442",
-     "phase": "Phase 1",
+     "phase": "Ph1",
      "status": "COMPLETED",
      "pcd": "2025-06-09",
      "n": 36,

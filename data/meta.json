@@ -1,0 +1,274 @@
+{
+ "last_collect": "2026-10-22T11:01+09:00",
+ "feed_health": {
+  "Google News EN: intranasal": {
+   "status": "ok",
+   "items": 25,
+   "kept": 25
+  },
+  "Google News EN: nasal spray (pharma terms)": {
+   "status": "ok",
+   "items": 34,
+   "kept": 34
+  },
+  "Google News EN: nasal powder": {
+   "status": "ok",
+   "items": 0,
+   "kept": 0
+  },
+  "Google News EN: nasal/intranasal vaccine": {
+   "status": "ok",
+   "items": 1,
+   "kept": 1
+  },
+  "Google News EN: nose-to-brain": {
+   "status": "ok",
+   "items": 7,
+   "kept": 7
+  },
+  "Google News EN: wires intranasal": {
+   "status": "ok",
+   "items": 19,
+   "kept": 18
+  },
+  "Google News EN: trade press nasal": {
+   "status": "ok",
+   "items": 19,
+   "kept": 19
+  },
+  "Google News EN: China nasal approvals": {
+   "status": "ok",
+   "items": 2,
+   "kept": 2
+  },
+  "Google News KO: 비강 제약": {
+   "status": "ok",
+   "items": 7,
+   "kept": 7
+  },
+  "Google News KO: 비강 투여/스프레이": {
+   "status": "ok",
+   "items": 2,
+   "kept": 2
+  },
+  "Google News JA: 点鼻": {
+   "status": "ok",
+   "items": 4,
+   "kept": 4
+  },
+  "Google News ZH: 鼻喷": {
+   "status": "ok",
+   "items": 2,
+   "kept": 2
+  },
+  "GlobeNewswire keyword: intranasal": {
+   "status": "ok",
+   "items": 20,
+   "kept": 1
+  },
+  "GlobeNewswire industry: Pharmaceuticals": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "GlobeNewswire industry: Biotechnology": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "PR Newswire: pharmaceuticals": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "PR Newswire: biotechnology": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "PR Newswire: FDA approval": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "BusinessWire home": {
+   "status": "ok",
+   "items": 74,
+   "kept": 0
+  },
+  "FDA press releases": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "FDA What's New: Drugs": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "FDA What's New: Biologics": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "FDA Recalls": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "EMA news": {
+   "status": "ok",
+   "items": 10,
+   "kept": 0
+  },
+  "EMA what's new": {
+   "status": "ok",
+   "items": 426,
+   "kept": 0
+  },
+  "MFDS 보도자료": {
+   "status": "ok",
+   "items": 29,
+   "kept": 0
+  },
+  "MFDS 공지": {
+   "status": "ok",
+   "items": 29,
+   "kept": 0
+  },
+  "PMDA 新着": {
+   "status": "ok",
+   "items": 0,
+   "kept": 0
+  },
+  "DART 오늘의 공시": {
+   "status": "ok",
+   "items": 45,
+   "kept": 0
+  },
+  "Endpoints News": {
+   "status": "ok",
+   "items": 24,
+   "kept": 0
+  },
+  "BioSpace": {
+   "status": "ok",
+   "items": 20,
+   "kept": 0
+  },
+  "NeurologyLive": {
+   "status": "ok",
+   "items": 30,
+   "kept": 2
+  },
+  "ONdrugDelivery": {
+   "status": "ok",
+   "items": 24,
+   "kept": 1
+  },
+  "PharmaTimes": {
+   "status": "ok",
+   "items": 10,
+   "kept": 1
+  },
+  "PharmTech": {
+   "status": "ok",
+   "items": 30,
+   "kept": 0
+  },
+  "Pharmaceutical Technology": {
+   "status": "ok",
+   "items": 10,
+   "kept": 0
+  },
+  "Drug Delivery Business News": {
+   "status": "ok",
+   "items": 10,
+   "kept": 0
+  },
+  "AJMC": {
+   "status": "ok",
+   "items": 30,
+   "kept": 0
+  },
+  "Korea Biomedical Review": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "히트뉴스": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "메디파나뉴스": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "더바이오": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "팜뉴스": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "청년의사": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "의학신문": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "약사공론": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "뉴스더보이스": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "헬스코리아뉴스": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "연합뉴스 건강": {
+   "status": "ok",
+   "items": 120,
+   "kept": 0
+  },
+  "한국경제 IT/바이오": {
+   "status": "ok",
+   "items": 50,
+   "kept": 0
+  },
+  "Bluesky search": {
+   "status": "ok",
+   "items": 22,
+   "errors": []
+  },
+  "openFDA drugsfda (nasal)": {
+   "status": "ok",
+   "items": 0
+  }
+ },
+ "last_update_run": "2026-10-21T18:00:00+09:00",
+ "rotation_cursor": null,
+ "source_health": {
+  "sec.gov": "refuses scripts - confirm via search",
+  "businesswire.com": "refuses scripts",
+  "stocktitan.net": "refuses scripts",
+  "fda.gov": "refuses scripts (404) - pages exist",
+  "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files"
+ },
+ "last_update_counts": null
+}

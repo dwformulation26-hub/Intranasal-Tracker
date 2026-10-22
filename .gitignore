@@ -1,10 +1,4 @@
-.claude/
+.claude/*
+!.claude/skills/
 __pycache__/
-list.py
-show_fixes.py
-make_factcheck.py
-fix_endpoint_ncts.py
-apply_fixes.py
-nasal_data.pre_audit.json
-blocked_urls.json
-verify_*_report.json
+data/weekly/link_check.json

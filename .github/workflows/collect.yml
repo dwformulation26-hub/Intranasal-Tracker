@@ -1,0 +1,52 @@
+name: Collect leads
+
+# Deterministic collection only (no AI). The Claude weekly routine (Monday 08:00 KST) reads what this leaves in data/.
+on:
+  schedule:
+    - cron: "0 21 * * *"   # every day 06:00 KST: news feeds (most feeds only hold 1-3 days)
+  workflow_dispatch:
+    inputs:
+      trials:
+        description: "Also sync tracked trials and discover new ones"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect news (daily)
+        run: python scripts/collect_news.py --when 3d
+
+      - name: Weekly trial sync (Monday 06:00 KST, or on request)
+        # the 21:00 UTC Sunday run is 06:00 KST Monday
+        run: |
+          if [ "$(TZ=Asia/Seoul date +%u)" = "1" ] || [ "${{ inputs.trials }}" = "true" ]; then
+            python scripts/sync_trials.py
+            python scripts/discover_trials.py
+            python build.py
+          else
+            echo "Not Monday in KST - trial sync skipped"
+          fi
+
+      - name: Commit
+        run: |
+          git config user.name "intranasal-collector[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ nasal_data.json index.html
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "Collect $(TZ=Asia/Seoul date +%F): $(python -c "import json;m=json.load(open('data/meta.json'));h=m['feed_health'];print(sum(v['status']=='ok' for v in h.values()),'/',len(h),'sources ok')")"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 10; done

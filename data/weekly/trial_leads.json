@@ -1,0 +1,34 @@
+{
+ "generated": "2026-10-22T11:05:11+09:00",
+ "since": "2026-10-14",
+ "term": "intranasal OR \"nasal spray\" OR \"nasal powder\" OR \"nasal gel\" OR \"nose-to-brain\" OR \"nasal vaccine\" OR \"intranasally\" OR \"nasal administration\" OR \"nasal insert\" OR \"sinus implant\"",
+ "leads": [
+  {
+   "nct": "NCT05076838",
+   "title": "Pharmacokinetics Study of VALTOCO® in Pediatric Subjects With Epilepsy",
+   "sponsor": "Neurelis, Inc.",
+   "sponsorClass": "INDUSTRY",
+   "phase": "PHASE1/PHASE2",
+   "status": "COMPLETED",
+   "enrollment": 36,
+   "interventions": [
+    "DRUG: Diazepam Nasal Spray [Valtoco]"
+   ],
+   "conditions": [
+    "Epilepsy"
+   ],
+   "countries": [
+    "United States"
+   ],
+   "firstPosted": "2021-10-13",
+   "lastUpdate": "2026-10-20",
+   "newRegistration": false,
+   "relatedCards": [
+    "valtoco",
+    "nrl-4-olanzapine",
+    "jp-spydia"
+   ],
+   "url": "https://clinicaltrials.gov/study/NCT05076838"
+  }
+ ]
+}

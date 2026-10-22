@@ -127,6 +127,8 @@ h3 { margin: 0; }
 .pills { display: flex; flex-wrap: wrap; gap: 6px; }
 .stage { font-size: 11.5px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--bg); color: var(--ink-2); line-height: 1.5; }
 .area { font-size: 11.5px; font-weight: 500; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line-2); color: var(--ink-2); line-height: 1.5; }
+.fresh { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--warn-soft); color: var(--warn); line-height: 1.5; }
+.fresh.new { background: var(--ok-soft); color: var(--ok); }
 .row { display: grid; grid-template-columns: 70px minmax(0, 1fr); gap: 10px; font-size: 13.5px; border-top: 1px solid var(--line); padding-top: 10px; min-width: 0; }
 .lbl { font-size: 11px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); padding-top: 2px; line-height: 1.3; }
 .lbl .ko { display: block; font-size: 11.5px; letter-spacing: 0; text-transform: none; color: var(--muted); font-weight: 500; }
@@ -278,13 +280,21 @@ function trialHtml(c) {
   }).join("") + (c.noTrial ? `<div class="muted" style="font-size:12px">${T(c.noTrial)}</div>` : "");
 }
 
+// "New" for cards added in the last 30 days, "Updated" for a card change in the last 14 days (weekly routine writes these)
+const daysAgo = (d) => (new Date(D.asOf) - new Date(d)) / 864e5;
+function badge(c) {
+  if (c.added && daysAgo(c.added) <= 30) return `<span class="fresh new">${Ti("New", "신규")}</span>`;
+  const last = (c.history || []).map((h) => h.date).sort().pop();
+  return last && daysAgo(last) <= 14 ? `<span class="fresh">${Ti("Updated", "업데이트")}</span>` : "";
+}
+
 function card(c) {
   const ar = D.areas.find((a) => a.id === c.area) || { en: c.area, ko: c.area };
   return `<article class="card">
     <div class="card-h"><div><div class="co">${T(c.company)}</div><h3 class="prod">${T(c.product)}</h3></div>
       <span class="flag${c.region === "KR" ? " kr" : ""}" title="${esc(c.region)}">${esc(c.region)}</span></div>
     <div class="api">${T(c.api)}</div>
-    <div class="pills"><span class="stage">${Ti(c.stage.en, c.stage.ko)}</span><span class="area">${Ti(ar.en, ar.ko)}</span></div>
+    <div class="pills"><span class="stage">${Ti(c.stage.en, c.stage.ko)}</span><span class="area">${Ti(ar.en, ar.ko)}</span>${badge(c)}</div>
     <div class="row"><div class="lbl">${T({ en: "For", ko: "적응증" })}</div><div>${T(c.indication)}</div></div>
     <div class="row"><div class="lbl">${T({ en: "Now", ko: "현황" })}</div><div class="now">${T(c.now)}${c.src ? ` <a class="srcl" href="${esc(c.src.url)}" target="_blank" rel="noopener" title="${esc(c.src.label)}">↗</a>` : ""}</div></div>
     <div class="row"><div class="lbl">${T({ en: "Device", ko: "디바이스" })}</div><div class="dev">${T(c.device)}</div></div>

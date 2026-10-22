@@ -1,0 +1,23 @@
+{
+ "_about": "Keyword filter for feeds marked filter='keywords'. Card product brands from nasal_data.json are added automatically. Korean '비강' needs a pharma co-term (it also matches 비강암 and vet stories). Avoid bare 'nasal' (polyps, cannula, rhinitis columns) and bare '코'.",
+ "en": ["intranasal", "intra-nasal", "nasal spray", "nasal powder", "nasal vaccine", "mucosal vaccine",
+        "live attenuated influenza vaccine", "nasal epinephrine", "epinephrine nasal", "nasal naloxone", "naloxone nasal",
+        "nasal delivery", "nasal drug delivery", "nose-to-brain", "nasal formulation", "nasal device", "nasal implant",
+        "sinus implant", "nasal gel", "nasal drops", "nasally", "neffy", "EURneffy", "ARS Pharmaceuticals", "Spravato",
+        "esketamine nasal", "Valtoco", "Neurelis", "Nayzilam", "Zavzpret", "zavegepant", "Atzumi", "Satsuma", "Trudhesa",
+        "Cardamyst", "etripamil", "Milestone Pharmaceuticals", "FluMist", "Fluenz", "Baqsimi", "Narcan", "Kloxxado",
+        "Rextovy", "RiVive", "Opvee", "nalmefene nasal", "Izipry", "OX124", "OX640", "amorphOX", "Tyrvaya", "Xhance",
+        "Optinose", "Ryaltris", "foralumab", "Tiziana", "BPL-003", "fasedienol", "itruvone", "Vistagen", "Nasus Pharma",
+        "NS002", "NS003", "BBP01", "Belhaven", "BPZE1", "ILiAD", "CVXGA", "CyanVac", "CastleVax", "BLB201", "BLB-201",
+        "Blue Lake Biotechnology", "INNA-051", "OCU500", "TNX-1900", "TNX-2900", "carbetocin nasal", "Cyrano Therapeutics",
+        "CYR-064", "Polyrizon", "Nasodine", "Bentrio", "Kovanaze", "Natesto", "Sprix", "Aptar Pharma", "LuerVax", "Bespak",
+        "SNBL", "Nemera", "DriDose", "Kindeva", "cenegermin intranasal", "WL1006", "Utuly", "Bryn Pharma"],
+ "ko": ["비강 분무", "비강분무", "비강 스프레이", "비강스프레이", "비강 투여", "비강투여", "비강 백신", "비강형 백신",
+        "비강 분말", "점비", "코 스프레이", "코에 뿌리는", "콧속에 뿌리는", "나잘 스프레이", "나잘스프레이", "코-뇌", "비강-뇌",
+        "에피네프린 비강", "네피", "스프라바토", "발토코", "플루미스트", "박시미", "나르칸", "날록손", "리알트리스",
+        "노즈가드", "나조넥스"],
+ "ko_gated": {"term": "비강", "co_terms": ["제약", "임상", "허가", "개발", "출시", "제형", "약물", "백신", "신약", "승인"]},
+ "ja": ["点鼻", "経鼻", "鼻腔", "ネフィー", "フルミスト"],
+ "zh": ["鼻喷", "鼻用喷雾剂", "鼻喷疫苗", "鼻腔给药"],
+ "exclude": ["nasal polyps", "CRSwNP", "nasal cannula", "nasopharyngeal carcinoma", "비강암"]
+}

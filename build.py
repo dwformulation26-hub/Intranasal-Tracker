@@ -1,7 +1,11 @@
-"""Merge research JSON files into nasal_data.json and render index.html from template.html.
+"""Validate nasal_data.json and render index.html from template.html.
 
-Usage: python build.py <research_dir>
-Edit nasal_data.json by hand afterwards and re-run with --from-data to re-render without re-merging.
+Usage:
+  python build.py                  validate + render
+  python build.py --as-of 2026-10-27   also set the "Data as of" date first
+  python build.py --check          validate only (exit 1 on any problem)
+
+The weekly routine must leave this passing before it commits. A failure is fixed in the data, never here.
 """
 import json
 import re
@@ -9,119 +13,110 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).parent
-AS_OF = "2026-10-21"
-SLICES = ["cns", "pain_emergency", "vaccines", "metabolic_ent", "asia"]
-LANES = [
-    {"id": "market", "name": {"en": "On market", "ko": "시판"}},
-    {"id": "review", "name": {"en": "Regulatory review", "ko": "허가 심사"}},
-    {"id": "p3", "name": {"en": "Phase 3", "ko": "임상 3상"}},
-    {"id": "p2", "name": {"en": "Phase 2", "ko": "임상 2상"}},
-    {"id": "early", "name": {"en": "Phase 1 / preclinical", "ko": "임상 1상 / 전임상"}},
-    {"id": "stopped", "name": {"en": "Stopped or dormant", "ko": "중단·휴면"}},
-]
-AREAS = [
-    {"id": "CNS", "en": "CNS & psychiatry", "ko": "중추신경·정신"},
-    {"id": "Pain & migraine", "en": "Pain & migraine", "ko": "통증·편두통"},
-    {"id": "Emergency & rescue", "en": "Emergency & rescue", "ko": "응급·구조"},
-    {"id": "Vaccines & infection", "en": "Vaccines & infection", "ko": "백신·감염"},
-    {"id": "Metabolic & endocrine", "en": "Metabolic & endocrine", "ko": "대사·내분비"},
-    {"id": "ENT & respiratory", "en": "ENT & respiratory", "ko": "이비인후·호흡기"},
-    {"id": "Cardiovascular", "en": "Cardiovascular", "ko": "심혈관"},
-    {"id": "Other", "en": "Other", "ko": "기타"},
-]
-BI = ["company", "product", "api", "indication", "device", "stage", "now"]
+DATA = HERE / "nasal_data.json"
+LANES = {"market", "review", "p3", "p2", "early", "stopped"}
+NEWS_TYPES = {"Approval", "Filing", "Deal", "Launch", "Trial", "Corporate", "Device", "Regulatory"}
+TRIAL_STATUS = {"COMPLETED", "RECRUITING", "ACTIVE_NOT_RECRUITING", "NOT_YET_RECRUITING", "ENROLLING_BY_INVITATION",
+                "TERMINATED", "WITHDRAWN", "SUSPENDED", "UNKNOWN"}
+CARD_TEXT = ("company", "product", "api", "indication", "device", "stage", "now")
+DATE = re.compile(r"\d{4}-\d{2}-\d{2}")
+MONTH = re.compile(r"\d{4}-\d{2}")
+HANGUL = re.compile(r"[가-힣]")
+# words that describe the pipeline, not the world - never shown on the page
+NARRATION = re.compile(r"\b(this run|weekly run|routine|search result|snippet|fetched|EGRESS|UNVERIFIED)\b", re.I)
 
 
-def norm(s):
-    return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+def bilingual(v):
+    return isinstance(v, dict) and isinstance(v.get("en"), str) and v["en"].strip() and isinstance(v.get("ko"), str) and v["ko"].strip()
 
 
-def check_card(c, problems):
-    cid = c.get("id", "?")
-    if c.get("lane") not in {l["id"] for l in LANES}:
-        problems.append(f"{cid}: bad lane {c.get('lane')}")
-    if c.get("area") not in {a["id"] for a in AREAS}:
-        problems.append(f"{cid}: bad area {c.get('area')}")
-    for k in BI:
-        v = c.get(k)
-        if not isinstance(v, dict) or not v.get("en"):
-            problems.append(f"{cid}: missing {k}")
-            c[k] = {"en": str(v or "—"), "ko": str(v or "—")} if not isinstance(v, dict) else {"en": v.get("en") or "—", "ko": v.get("ko") or v.get("en") or "—"}
-        elif not v.get("ko"):
-            v["ko"] = v["en"]
-    c.setdefault("trials", [])
-    c.setdefault("noTrial", None)
-    for t in c["trials"]:
-        if not re.fullmatch(r"NCT\d{8}", t.get("nct", "")):
-            problems.append(f"{cid}: bad NCT {t.get('nct')}")
-    if not c.get("src") or not c["src"].get("url"):
-        problems.append(f"{cid}: no source")
+def validate(d):
+    p = []
+    areas = {a["id"] for a in d["areas"]}
+    ids = set()
+    for c in d["cards"]:
+        cid = c.get("id", "?")
+        if cid in ids:
+            p.append(f"card {cid}: duplicate id")
+        ids.add(cid)
+        if c.get("lane") not in LANES:
+            p.append(f"card {cid}: lane {c.get('lane')!r} not in {sorted(LANES)}")
+        if c.get("area") not in areas:
+            p.append(f"card {cid}: area {c.get('area')!r} not in areas list")
+        if not re.fullmatch(r"[A-Z]{2}", c.get("region", "")):
+            p.append(f"card {cid}: region must be a 2-letter code")
+        for k in CARD_TEXT:
+            if not bilingual(c.get(k)):
+                p.append(f"card {cid}: {k} needs non-empty en and ko")
+            elif NARRATION.search(c[k]["en"]):
+                p.append(f"card {cid}: {k} contains pipeline narration")
+        for k in ("now", "indication"):
+            if bilingual(c.get(k)) and not HANGUL.search(c[k]["ko"]):
+                p.append(f"card {cid}: {k}.ko has no Korean text")
+        if not MONTH.fullmatch(c.get("lastMove", "")):
+            p.append(f"card {cid}: lastMove must be YYYY-MM")
+        if c.get("checked") is not None and not DATE.fullmatch(c["checked"]):
+            p.append(f"card {cid}: checked must be YYYY-MM-DD")
+        src = c.get("src") or {}
+        if not (src.get("url", "").startswith("http") and src.get("label")):
+            p.append(f"card {cid}: src needs label and http(s) url")
+        for t in c.get("trials", []):
+            if not re.fullmatch(r"NCT\d{8}", t.get("nct", "")):
+                p.append(f"card {cid}: bad NCT {t.get('nct')}")
+            if t.get("status") not in TRIAL_STATUS:
+                p.append(f"card {cid}: {t.get('nct')} status {t.get('status')!r}")
+        if not c.get("trials") and not bilingual(c.get("noTrial")):
+            p.append(f"card {cid}: no trials and no noTrial text")
+    seen = set()
+    for n in d["news"]:
+        key = n.get("date", "?") + " " + (n.get("text", {}).get("en", "")[:40])
+        if not DATE.fullmatch(n.get("date", "")):
+            p.append(f"news {key}: date must be YYYY-MM-DD")
+        if n.get("region") not in ("KR", "GL"):
+            p.append(f"news {key}: region must be KR or GL")
+        if n.get("type") not in NEWS_TYPES:
+            p.append(f"news {key}: type {n.get('type')!r}")
+        if not bilingual(n.get("text")) or not HANGUL.search(n["text"].get("ko", "")):
+            p.append(f"news {key}: text needs en and Korean ko")
+        elif NARRATION.search(n["text"]["en"]):
+            p.append(f"news {key}: text contains pipeline narration")
+        src = n.get("src") or {}
+        if not src.get("url", "").startswith("http"):
+            p.append(f"news {key}: src url missing")
+        url = src.get("url")
+        if url in seen:
+            p.append(f"news {key}: duplicate source url (same story twice?)")
+        seen.add(url)
+    dates = [n["date"] for n in d["news"]]
+    if dates != sorted(dates, reverse=True):
+        p.append("news must be sorted newest first")
+    if not DATE.fullmatch(d.get("asOf", "")):
+        p.append("asOf must be YYYY-MM-DD")
+    return p
 
 
-def merge(research):
-    cards, news, notes = [], [], {}
-    seen = {}
-    for s in SLICES:
-        p = research / f"{s}.json"
-        if not p.exists():
-            print(f"!! missing slice {s}")
-            continue
-        d = json.loads(p.read_text(encoding="utf-8"))
-        notes[s] = d.get("notes", "")
-        for c in d.get("cards", []):
-            key = norm(c.get("product", {}).get("en")) + "|" + c.get("region", "")
-            if key in seen:
-                print(f"   dup card {c.get('id')} ({s}) ~ {seen[key]}")
-                continue
-            seen[key] = f"{c.get('id')} ({s})"
-            c["_slice"] = s
-            cards.append(c)
-        news += d.get("news", [])
-    en = research / "endpoints_news.json"
-    endpoints = {}
-    if en.exists():
-        e = json.loads(en.read_text(encoding="utf-8"))
-        news += e.get("news", [])
-        notes["endpoints_news"] = e.get("notes", "")
-        endpoints = {k: e.get(k, []) for k in ("categories", "guidance", "localSafety", "todo")}
-    # de-duplicate news by date + leading words
-    out, keys = [], set()
-    for n in sorted(news, key=lambda n: n.get("date", ""), reverse=True):
-        k = n.get("date", "") + norm(n.get("text", {}).get("en", ""))[:40]
-        if k in keys:
-            continue
-        keys.add(k)
-        out.append(n)
-    return cards, out, endpoints, notes
-
-
-def render(data):
+def render(d):
     tpl = (HERE / "template.html").read_text(encoding="utf-8")
-    blob = json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    blob = json.dumps(d, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     html = tpl.replace("/*DATA*/null", blob)
-    for out in ("index.html", "intranasal_tracker.html"):
-        (HERE / out).write_text(html, encoding="utf-8")
-    print(f"wrote index.html ({len(html)//1024} KB): {len(data['cards'])} cards, {len(data['news'])} news")
+    (HERE / "index.html").write_text(html, encoding="utf-8")
+    print(f"wrote index.html ({len(html) // 1024} KB): {len(d['cards'])} cards, {len(d['news'])} news, as of {d['asOf']}")
 
 
 def main():
-    data_path = HERE / "nasal_data.json"
-    if "--from-data" in sys.argv:
-        data = json.loads(data_path.read_text(encoding="utf-8"))
-    else:
-        cards, news, endpoints, notes = merge(Path(sys.argv[1]))
-        endpoints.update(json.loads((HERE / "endpoints_frame.json").read_text(encoding="utf-8")))
-        data = {"asOf": AS_OF, "lanes": LANES, "areas": AREAS, "cards": cards, "news": news, "endpoints": endpoints}
-        (HERE / "research_notes.json").write_text(json.dumps(notes, ensure_ascii=False, indent=1), encoding="utf-8")
-    problems = []
-    for c in data["cards"]:
-        check_card(c, problems)
-    for n in data["news"]:
-        if not re.fullmatch(r"\d{4}-\d{2}(-\d{2})?", n.get("date", "")):
-            problems.append(f"news bad date {n.get('date')}")
-    print("\n".join(problems) or "no problems")
-    data_path.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-    render(data)
+    d = json.loads(DATA.read_text(encoding="utf-8"))
+    if "--as-of" in sys.argv:
+        d["asOf"] = sys.argv[sys.argv.index("--as-of") + 1]
+        DATA.write_text(json.dumps(d, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    problems = validate(d)
+    for x in problems:
+        print("PROBLEM:", x)
+    if problems:
+        print(f"{len(problems)} problem(s) - fix the data, then build again")
+        sys.exit(1)
+    print("validation passed")
+    if "--check" not in sys.argv:
+        render(d)
 
 
 if __name__ == "__main__":

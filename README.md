@@ -1,37 +1,38 @@
 # Intranasal Pipeline Radar
 
-Bilingual (EN/KR) competitor tracker for intranasal products across all disease areas: sprays, powders, gels, implants and nasal vaccines. Same three-page format as the Presbyopia Pipeline Radar.
+Bilingual (EN/KR) competitor tracker for intranasal products across all disease areas: sprays, powders, gels, implants
+and nasal vaccines. Same three-page format as the Presbyopia Pipeline Radar.
 
-1. **Competitors**: 102 products in stage lanes (on market → stopped), with a disease-area × stage table, Korea/Global and disease-area filters, delivery device, and ClinicalTrials.gov trial records.
-2. **Endpoints**: the usual approval routes (PK bridge vs efficacy program), pivotal endpoints by product type, nasal safety/device tests, guidance documents and next steps.
-3. **News**: dated events Jan 2025 – Oct 2026, including delivery-system (device/platform) news.
+1. **Competitors**: product cards in stage lanes (on market → stopped), disease-area × stage table, Korea/Global and
+   disease-area filters, delivery device, ClinicalTrials.gov records. "New" / "Updated" badges mark recent changes.
+2. **Endpoints**: approval routes, pivotal endpoints by product type, nasal safety/device tests, guidance, next steps.
+3. **News**: dated events since Jan 2025, including delivery-system news.
 
-Data as of 2026-10-21. Internal use only.
+`index.html` is one static file with all data built in - deploy it as-is. Internal use only.
 
-## Deploy
+## Weekly automation
 
-`index.html` is a single static file with all data built in, so it can be served as-is (GitHub Pages, Netlify, Vercel, an intranet web server). It loads only Google Fonts from outside.
+| When (KST) | What | Where |
+|---|---|---|
+| Every day 06:00 | `scripts/collect_news.py`: ~50 feeds + Bluesky + openFDA → `data/weekly/news_cache.json` | GitHub Actions (`.github/workflows/collect.yml`) |
+| Monday 06:00 | also `scripts/sync_trials.py` (refresh every tracked NCT) and `scripts/discover_trials.py` (new intranasal studies) | GitHub Actions |
+| Monday 08:00 | Claude verifies the week's leads, updates cards and news in EN/KR, adds new products with an official source, runs QC, pushes to `main`, leaves a Gmail draft | Claude cloud routine, following `.claude/skills/intranasal-weekly-update/SKILL.md` |
 
-## Update the data
+Weekly reports: `data/weekly/reports/<date>.md`. Sources and the social-media evaluation: [docs/sources.md](docs/sources.md).
+Routine definition (recoverable copy): [docs/routine.md](docs/routine.md).
+
+Run the Action by hand: GitHub → Actions → "Collect leads" → Run workflow.
+
+## Files
 
 | File | Role |
-| --- | --- |
-| `nasal_data.json` | All cards, news and endpoint content — edit this by hand |
+|---|---|
+| `nasal_data.json` | All cards, news and endpoint content |
 | `template.html` | Page design and rendering code |
-| `build.py` | `python build.py --from-data` re-renders `index.html` from `nasal_data.json` |
-| `curate.py`, `tidy.py` | One-off clean-up steps already applied to `nasal_data.json` (duplicate removal, shortened labels) |
-| `endpoints_frame.json` | Title, intro and "two routes" box of the Endpoints page (used when re-merging research) |
-| `research_notes.json` | Researchers' notes on unconfirmed items |
+| `build.py` | `python build.py [--as-of YYYY-MM-DD]` validates the data and renders `index.html`; `--check` validates only |
+| `config/feeds.json`, `config/keywords.json` | What the daily collector reads and keeps |
+| `scripts/` | Collector, trial sync/discovery, ClinicalTrials.gov client, link checker |
+| `data/meta.json` | Run bookkeeping: last collection/update, feed health, rotation cursor |
+| `research_notes.json` | Original researchers' notes |
 
-`intranasal_tracker.html` is an identical copy of `index.html`.
-
-## Verification
-
-Accuracy audit completed 2026-10-21: every card, news item and endpoint row was checked against its source; every NCT matches ClinicalTrials.gov; every source link opens.
-
-| Script | Checks |
-| --- | --- |
-| `verify_trials.py` | Every NCT against the ClinicalTrials.gov API (`--fix` overwrites trial fields with API values) |
-| `verify_links.py` | Every source URL. SEC, BusinessWire, StockTitan and fda.gov block scripts (403/404), so check those in a browser |
-
-Items still marked "(unconfirmed)" on the page are claims no public source could confirm.
+Accuracy audit completed 2026-10-21; items still marked "(unconfirmed)" are claims no public source could confirm.
