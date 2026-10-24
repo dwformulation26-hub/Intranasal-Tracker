@@ -1,15 +1,15 @@
 {
- "last_collect": "2026-10-24T08:48+09:00",
+ "last_collect": "2026-10-25T08:03+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 11,
-   "kept": 11
+   "items": 8,
+   "kept": 8
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 18,
-   "kept": 18
+   "items": 10,
+   "kept": 10
   },
   "Google News EN: nasal powder": {
    "status": "ok",
@@ -23,18 +23,18 @@
   },
   "Google News EN: nose-to-brain": {
    "status": "ok",
-   "items": 4,
-   "kept": 4
+   "items": 5,
+   "kept": 5
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 9,
-   "kept": 8
+   "items": 3,
+   "kept": 3
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 5,
-   "kept": 4
+   "items": 1,
+   "kept": 1
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 38,
+   "items": 13,
    "kept": 0
   },
   "FDA press releases": {
