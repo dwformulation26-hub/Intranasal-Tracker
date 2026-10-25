@@ -1,20 +1,20 @@
 {
- "last_collect": "2026-10-25T08:03+09:00",
+ "last_collect": "2026-10-26T08:08+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 10,
-   "kept": 10
+   "items": 6,
+   "kept": 6
   },
   "Google News EN: nasal powder": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "Google News EN: nasal/intranasal vaccine": {
    "status": "ok",
@@ -23,13 +23,13 @@
   },
   "Google News EN: nose-to-brain": {
    "status": "ok",
-   "items": 5,
-   "kept": 5
+   "items": 4,
+   "kept": 4
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 3,
-   "kept": 3
+   "items": 0,
+   "kept": 0
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
@@ -38,28 +38,28 @@
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
-  },
-  "Google News KO: 비강 제약": {
-   "status": "ok",
-   "items": 5,
-   "kept": 5
-  },
-  "Google News KO: 비강 투여/스프레이": {
-   "status": "ok",
-   "items": 3,
-   "kept": 3
-  },
-  "Google News JA: 点鼻": {
-   "status": "ok",
    "items": 0,
    "kept": 0
   },
+  "Google News KO: 비강 제약": {
+   "status": "ok",
+   "items": 1,
+   "kept": 1
+  },
+  "Google News KO: 비강 투여/스프레이": {
+   "status": "ok",
+   "items": 1,
+   "kept": 1
+  },
+  "Google News JA: 点鼻": {
+   "status": "ok",
+   "items": 1,
+   "kept": 1
+  },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 7,
-   "kept": 7
+   "items": 6,
+   "kept": 6
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 13,
+   "items": 0,
    "kept": 0
   },
   "FDA press releases": {
@@ -143,7 +143,7 @@
   },
   "DART 오늘의 공시": {
    "status": "ok",
-   "items": 0,
+   "items": 4,
    "kept": 0
   },
   "Endpoints News": {
@@ -182,9 +182,8 @@
    "kept": 0
   },
   "Drug Delivery Business News": {
-   "status": "ok",
-   "items": 10,
-   "kept": 0
+   "status": "error",
+   "error": "HTTPError: HTTP Error 504: Gateway Timeout"
   },
   "AJMC": {
    "status": "ok",
@@ -234,7 +233,7 @@
   "뉴스더보이스": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 2
   },
   "헬스코리아뉴스": {
    "status": "ok",
@@ -253,7 +252,7 @@
   },
   "Bluesky search": {
    "status": "ok",
-   "items": 17,
+   "items": 7,
    "errors": []
   },
   "openFDA drugsfda (nasal)": {
