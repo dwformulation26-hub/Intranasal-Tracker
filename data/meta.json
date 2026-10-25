@@ -260,24 +260,30 @@
    "items": 0
   }
  },
- "last_update_run": "2026-10-22T11:06:57+09:00",
- "rotation_cursor": "tnx1900-pain",
+ "last_update_run": "2026-10-26T08:05:30+09:00",
+ "rotation_cursor": "coviliv",
  "source_health": {
   "sec.gov": "refuses scripts - confirm via search",
   "businesswire.com": "refuses scripts (403) - confirm via search/alternate source",
   "stocktitan.net": "refuses scripts",
   "fda.gov": "refuses scripts (404) - pages exist",
   "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files",
-  "fiercebiotech.com": "refused this run (403)",
+  "fiercebiotech.com": "refused this run (403, Cloudflare)",
   "globenewswire.com organization search": "refused this run (403)",
   "aptar.com news listing": "renders empty via fetch; use direct article URL",
-  "ASX announcement PDFs (announcements.asx.com.au)": "WebFetch returns encrypted/unreadable text; Read tool on the saved local PDF works"
+  "ASX announcement PDFs (announcements.asx.com.au)": "WebFetch returns encrypted/unreadable text; Read tool on the saved local PDF works",
+  "zawya.com": "ok this run (press release mirror)",
+  "cfi.net.cn": "ok this run (mirrors official Chinese disclosures verbatim)",
+  "cninfo.com.cn static PDFs": "ok this run via direct fetch",
+  "thepharmacist.co.uk": "ok this run",
+  "globenewswire.com": "refuses scripts (403) - confirm via finviz/zawya/syndication mirror",
+  "gcs-web.com (NeOnc IR site)": "refuses scripts (403) - use finviz mirror of the same release"
  },
  "last_update_counts": {
   "cards_updated": 3,
-  "cards_added": 3,
-  "news_added": 7,
-  "leads_triaged": 125,
+  "cards_added": 2,
+  "news_added": 5,
+  "leads_triaged": 68,
   "rotation_checked": 25
  }
 }

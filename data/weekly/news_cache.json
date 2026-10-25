@@ -2023,7 +2023,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Ceres CBT101 Ph1 EEG; no Tier1 - Watching"
   },
   {
    "title": "Prognica Labs and Pinnacology Research & Development announce strategic partnership - Zawya",
@@ -2037,7 +2038,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Prognica/Pinnacology: no code/API disclosed - Watching"
   },
   {
    "title": "NeOnc Technologies to Be Featured on Health Uncensored with Dr. Drew to Discuss Reaching Brain Tumors Without Surgery or Systemic Chemotherapy - The Manila Times",
@@ -2051,7 +2053,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NeOnc media appearance, no material fact"
   },
   {
    "title": "NeOnc Heads to Fox Business as Brain Cancer Milestones Put Its Mission in the Spotlight - The Manila Times",
@@ -2065,7 +2068,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NeOnc media appearance, no material fact"
   },
   {
    "title": "Tiziana Life Sciences to discuss foralumab programs at Toronto MS meeting - Proactive financial news",
@@ -2082,7 +2086,8 @@
     "foralumab"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "conference attendance notice only"
   },
   {
    "title": "Resyca, Cyrano Report Positive Phase 2 Smell Loss Results - Contract Pharma",
@@ -2096,7 +2101,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "cyrano-cyr064 card + news updated"
   },
   {
    "title": "SCIENTURE Issues Shareholder Letter Highlighting Sequential Revenue Growth, Two FDA-Approved Commercial Products, and Continued Progress Toward Profitability in 2027 - The Manila Times",
@@ -2110,7 +2116,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "scienture-rezenopy card added"
   },
   {
    "title": "Ketamine drugmakers seek FDA approval as providers raise concerns: 5 things to know - RamaOnHealthcare",
@@ -2124,7 +2131,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general ketamine market piece, no single product fact"
   },
   {
    "title": "A Fake Painkiller That Burned the Nose Eased Pain More Than One That Felt Like Nothing at All - inkl",
@@ -2138,7 +2146,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic placebo study, not a company product"
   },
   {
    "title": "Liposomal Mitoxantrone Shows Early Safety Signal in Phase 2 NMOSD Trial - NeurologyLive",
@@ -2152,7 +2161,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "liposomal mitoxantrone is IV, not intranasal"
   },
   {
    "title": "When Volunteers Learned No Fentanyl Was in Their Sprays, the Burning Side Effect Stopped Easing Their Pain, at Least at First - Medical Daily",
@@ -2166,7 +2176,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic placebo study, not a company product"
   },
   {
    "title": "will medicare cover weight loss drugs in 2026 - BusinessWorld Online",
@@ -2180,7 +2191,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal-specific"
   },
   {
    "title": "How Rutgers Is Training Tomorrow’s Public Health Heroes | Newswise - Newswise",
@@ -2194,7 +2206,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "irrelevant (public health training feature)"
   },
   {
    "title": "Part 5: What's the Biggest Gap in Pediatric Neurology Care Right Now? - NeurologyLive",
@@ -2208,7 +2221,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "roundtable commentary, not product news"
   },
   {
    "title": "First needle-free adrenaline treatment for young children launched in the UK - The Pharmacist",
@@ -2222,7 +2236,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stale Jun 2026 EURneffy approval, already reflected on neffy card"
   },
   {
    "title": "Firebrick Pharma (ASX:FRE) Launches Nasodine Sinus Rinse Kit in Singapore at S$34.99 - Kalkine",
@@ -2238,7 +2253,8 @@
     "Nasodine"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "nasodine card + news updated (Sinus Rinse launch)"
   },
   {
    "title": "Consultation for spare adrenaline nasal sprays in schools launched by MHRA - The Pharmacist",
@@ -2252,7 +2268,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "duplicate of 2026-10-19 MHRA news item already on page 3"
   },
   {
    "title": "Greenwood medical practice offers ketamine therapy for depression, anxiety - NewsBreak: Local News & Alerts",
@@ -2266,7 +2283,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "local ketamine clinic, not a tracked product"
   },
   {
    "title": "Orexo Q3 2026 slides: platform shift advances despite deepening losses By Investing.com - Investing.com UK",
@@ -2280,7 +2298,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Orexo Q3 2026 report not located this run"
   },
   {
    "title": "A packaging executive from Amcor will lead Aptar's pharma business in January. - Stock Titan",
@@ -2294,7 +2313,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Aptar device-maker personnel move, not drug-specific"
   },
   {
    "title": "AptarGroup, Inc. (ATR) stock price, news, quote and history - Yahoo Finance UK",
@@ -2308,7 +2328,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock quote listing"
   },
   {
    "title": "SCIENTURE Issues Shareholder Letter Highlighting Sequential - GlobeNewswire",
@@ -2322,7 +2343,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "duplicate wire of Scienture item, see scienture-rezenopy"
   },
   {
    "title": "NeOnc Technologies to Be Featured on Health Uncensored with - GlobeNewswire",
@@ -2336,7 +2358,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NeOnc media appearance, duplicate"
   },
   {
    "title": "NeOnc Heads to Fox Business as Brain Cancer Milestones Put Its Mission in the Spotlight - GlobeNewswire",
@@ -2350,7 +2373,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NeOnc media appearance, duplicate"
   },
   {
    "title": "수성 하나로이비인후과, 비강 시술용 유니트 특허 등록… 진료 기술 경쟁력 강화 - 바이오타임즈",
@@ -2364,7 +2388,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "small ENT clinic device patent, not a tracked company"
   },
   {
    "title": "콧물 흘리던 반려견…CT·비강내시경 진단하니 림프형질세포성 비염 - 뉴스1",
@@ -2378,7 +2403,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "veterinary, irrelevant"
   },
   {
    "title": "남하제약: 전국적인 브랜드 인지도에서 장기적인 경쟁력까지 - Vietnam.vn",
@@ -2392,7 +2418,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "branding/marketing story, no product fact"
   },
   {
    "title": "니온크 테크놀로지스, 아부다비 보건부와 암·CNS 치료 연구 협력 MOU 체결 - 데이터투자",
@@ -2406,7 +2433,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100 card + news updated (Abu Dhabi MOU)"
   },
   {
    "title": "아이허브 10월 할인코드, 본격 감기 시즌에 챙겨야 할 환절기 아이템 7 - www.cosmopolitan.co.kr",
@@ -2420,7 +2448,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "consumer coupon content"
   },
   {
    "title": "流感高发季来了，8类人群优先接种流感疫苗 - 华声在线",
@@ -2434,7 +2463,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable flu vaccine priority groups, not nasal-specific"
   },
   {
    "title": "流感疫苗四价变三价，“降价”后还能不能放心打？ - 温州新闻",
@@ -2448,7 +2478,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable flu vaccine pricing, not nasal-specific"
   },
   {
    "title": "스프라바토·옥스루모 급여 신설…크리스비타 성인까지 확대",
@@ -2465,7 +2496,8 @@
     "스프라바토"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Spravato KR reimbursement notice: single Tier2 source only, needs 2nd confirmation"
   },
   {
    "title": "🚨 $NTHI On October 16, 2026, NeOnc Technologies Holdings, Inc. issued a press release announcing early clinical improvement in its first patient treated in Abu Dhabi, United Arab Emirates, with investigational intranasal NEO100 through the Company’s Compassionate Care program.",
@@ -2483,7 +2515,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "lead confirmed via NeOnc press release, see neonc-neo100"
   },
   {
    "title": "Checkout this article I found at PLOS: dx.plos.org/10.1371/jour...",
@@ -2500,7 +2533,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated academic article"
   },
   {
    "title": "bioengineer.org/intranasal-c...",
@@ -2518,7 +2552,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "same as creatine item - Watching (Ceres CBT101)"
   },
   {
    "title": "Herpes Virus Appears to Hijack The Brain's Immune Cells, And It Could Have Serious Consequences journals.plos.org/plospathogen...",
@@ -2535,7 +2570,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic article, not a pharma product"
   },
   {
    "title": "La Junta de Extremadura permitirá la administración de forma excepcional pese a ser mayor de 12 años, tras valorar las circunstancias del menor y con consentimiento informado",
@@ -2552,7 +2588,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "local admin exception, no identifiable product, no Tier1/2"
   },
   {
    "title": "I guess it's still not good enough? Phooey! www.nature.com/articles/s41...",
@@ -2569,7 +2606,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-23T08:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no product identified"
   },
   {
    "title": "Prognica Labs inks strategic partnership with Pinnacology to advance novel intranasal anxiety therapy - BioSpectrum Asia",
@@ -2585,7 +2623,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Prognica/Pinnacology dup of item1 - Watching"
   },
   {
    "title": "Tiziana Management Team to Attend the 10th Joint ACTRIMS-ECTRIMS Meeting in Toronto - The Manila Times",
@@ -2601,7 +2640,8 @@
     "Tiziana"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "conference attendance notice, duplicate"
   },
   {
    "title": "Intranasal Corticosteroids Market Research Explores Growth Within A $9.74 Billion Opportunity - openPR.com",
@@ -2617,7 +2657,8 @@
     "Intranasal"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size research report"
   },
   {
    "title": "From nasal delivery to sterile injectables: Biodeal Pharmaceuticals’ expansion plans - The Economic Times",
@@ -2633,7 +2674,8 @@
     "nasal delivery"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "sterile-injectables deal; nasal only an existing CDMO capability, no new fact"
   },
   {
    "title": "Firebrick Pharma (ASX:FRE) Broadens Nasodine Range Ahead of US Pharmacy Push - Kalkine",
@@ -2649,7 +2691,8 @@
     "Nasodine"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "context for nasodine card update (US pharmacy push)"
   },
   {
    "title": "Sacramento Patients with Treatment-Resistant… - inkl",
@@ -2663,7 +2706,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "local ketamine clinic, unclear product"
   },
   {
    "title": "Inhalation And Nasal Spray Generic Drugs Market Outlook Signals Expansion To $45.92 Billion Through 2030 - openPR.com",
@@ -2679,7 +2723,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size research report"
   },
   {
    "title": "AptarGroup, Inc. (ATR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -2693,7 +2738,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock quote listing"
   },
   {
    "title": "novo nordisk weight loss drug wegovy approved in china - BusinessWorld Online",
@@ -2707,7 +2753,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable weight-loss drug, not nasal"
   },
   {
    "title": "남하 제약은 4년 연속 베트남 국가 브랜드로 선정되었습니다. - Vietnam.vn",
@@ -2721,7 +2768,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "branding story, duplicate"
   },
   {
    "title": "智飞生物：“鼻喷重组RSV疫苗”获批临床试验 - 东方财富网",
@@ -2737,7 +2785,8 @@
     "鼻喷"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "cn-zhifei-rsv card added"
   },
   {
    "title": "智飞生物鼻喷重组呼吸道合胞病毒疫苗获批临床 - 新浪财经",
@@ -2753,7 +2802,8 @@
     "鼻喷"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup confirmation, see cn-zhifei-rsv"
   },
   {
    "title": "智飞生物(300122):鼻喷重组呼吸道合胞病毒疫苗（黑猩猩腺病毒载体）获得临床试验批准通知书 - 中财网",
@@ -2769,7 +2819,8 @@
     "鼻喷"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "primary Tier1 source for cn-zhifei-rsv card"
   },
   {
    "title": "突发！500亿LED芯片龙头实控人被检察机关批准逮捕|盘后公告集锦 - 财联社",
@@ -2783,7 +2834,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "irrelevant (unrelated corporate arrest)"
   },
   {
    "title": "南河制药——连续第四次荣获越南国家品牌称号。 - Vietnam.vn",
@@ -2797,7 +2849,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "branding story, duplicate"
   },
   {
    "title": "Great to come together with fellow British 🇬🇧 trial centres for this study (NCT07453888) which is investigating intranasal nerve growth factor (cenegermin) for NAION - a condition that can cause sudden, irreversible sight loss.  #Ophthalmology #NeuroOphthalmology #NAION",
@@ -2815,7 +2868,8 @@
     "intranasal"
    ],
    "fetched": "2026-10-24T08:48+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "already captured on cenegermin-naion card"
   },
   {
    "title": "Early Antibiotic Stop in Neutropenic Fever Did Not Raise Severe Events - Contagion Live",
@@ -2829,7 +2883,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not nasal/intranasal"
   },
   {
    "title": "Pharmacy of October 12 evaluates for the first time analgesics and sedatives in newborns in critical condition - Demócrata",
@@ -2843,7 +2898,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a specific nasal product"
   },
   {
    "title": "AptarGroup, Inc. (ATR) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -2857,7 +2913,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock quote listing"
   },
   {
    "title": "HKU Showcases Smart Living Innovations at InnoCarnival 2026 - Mirage News",
@@ -2871,7 +2928,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general innovation showcase, not pharma-specific"
   },
   {
    "title": "智飞生物鼻喷重组呼吸道合胞病毒疫苗获批临床 - 搜狐网",
@@ -2887,7 +2945,8 @@
     "鼻喷"
    ],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "dup confirmation, see cn-zhifei-rsv"
   },
   {
    "title": "流感疫苗四价变三价，“降价”后还能不能放心打？ - 搜狐网",
@@ -2901,7 +2960,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-25T08:03+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable flu vaccine pricing, not nasal-specific"
   },
   {
    "title": "LTR Pharma (ASX:LTP) - Stock Analysis - Simply Wall Street",
@@ -2915,7 +2975,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock analysis piece, no new fact"
   },
   {
    "title": "Flu monitoring season begins in Latvia / Article - Latvian Public Media",
@@ -2929,7 +2990,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general flu-season monitoring notice, not nasal-specific"
   },
   {
    "title": "After a long, strange trip, this CEO is close to taking a psilocybin pill to market - Business Insider",
@@ -2943,7 +3005,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "psilocybin oral pill, not intranasal"
   },
   {
    "title": "Inhaled Bergamot Oil Prevents Postpartum Depression in Rat Study - Bioengineer.org",
@@ -2957,7 +3020,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic rat study (inhaled bergamot oil), not a company product"
   },
   {
    "title": "Layoff Tracker: Tango plans 14% workforce cut, mainly of research staff - BioSpace",
@@ -2971,7 +3035,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Tango Therapeutics layoff tracker item, not an intranasal company"
   },
   {
    "title": "ノートPCに“貼る収納”。ガジェットや小物をまとめてスマートに持ち運べるポーチを発売〜コクヨ - 教育家庭新聞",
@@ -2985,7 +3050,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "irrelevant (laptop pouch product ad)"
   },
   {
    "title": "疫苗行业周报：创新验证与存量承压并行_行业研究_研报 - 证券之星",
@@ -2999,7 +3065,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "vaccine-industry weekly market report"
   },
   {
    "title": "스프라바토·엑스코프리도 ‘두 개의 약값’…약가유연제 14품목 추가",
@@ -3015,7 +3082,8 @@
     "스프라바토"
    ],
    "fetched": "2026-10-26T08:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Spravato KR pricing-flexibility article: same single-publisher source as the other Spravato KR lead, still needs independent 2nd confirmation"
   }
  ],
  "updated": "2026-10-26T08:08+09:00"

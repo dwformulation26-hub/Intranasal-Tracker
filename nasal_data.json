@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-22",
+ "asOf": "2026-10-26",
  "lanes": [
   {
    "id": "market",
@@ -1636,7 +1636,8 @@
    "src": {
     "label": "EMA PecFent product information",
     "url": "https://www.ema.europa.eu/en/documents/product-information/pecfent-epar-product-information_de.pdf"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "hengrui-dexmed",
@@ -1696,7 +1697,8 @@
    "src": {
     "label": "ChemLinked: China new drug approvals, Aug 2023",
     "url": "https://baipharm.chemlinked.com/news/monthly-report-new-drug-approvals-in-china-august-2023"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "purity-dexmed",
@@ -1740,7 +1742,8 @@
    "src": {
     "label": "ChemLinked: China new drug approvals, Apr 2024",
     "url": "https://baipharm.chemlinked.com/news/monthly-report-new-drug-approvals-in-china-april-2024"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "kovanaze",
@@ -1784,7 +1787,8 @@
    "src": {
     "label": "DrugPatentWatch: Kovanaze",
     "url": "https://www.drugpatentwatch.com/p/tradename/KOVANAZE"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "narcan",
@@ -1828,7 +1832,8 @@
    "src": {
     "label": "Emergent release via Barchart (2026-02-12)",
     "url": "https://www.barchart.com/story/news/195102/emergent-biosolutions-receives-u-s-fda-approval-of-supplemental-new-drug-application-snda-for-narcan-nasal-spray-multipacks"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "rextovy",
@@ -1872,7 +1877,8 @@
    "src": {
     "label": "FDA press announcement 2026-06-16",
     "url": "https://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "kloxxado",
@@ -1916,7 +1922,8 @@
    "src": {
     "label": "Hikma release (2025-03-20)",
     "url": "https://hikma.com/media/rqmldjhy/kloxxado-approved-by-health-canada-20-mar-2025.pdf"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "rivive",
@@ -1960,7 +1967,8 @@
    "src": {
     "label": "Drug Topics (shipping, Dec 2023)",
     "url": "https://www.drugtopics.com/view/harm-reduction-therapeutics-begins-shipping-otc-naloxone-nasal-spray"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "opvee",
@@ -2020,7 +2028,8 @@
    "src": {
     "label": "NY Attorney General press release (2025)",
     "url": "https://ag.ny.gov/press-release/2025/attorney-general-james-stops-misleading-marketing-unauthorized-opioid-overdose"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "orexo-izipry",
@@ -2064,7 +2073,8 @@
    "src": {
     "label": "Orexo release (2026-09-29)",
     "url": "https://www.inderes.se/en/releases/orexo-resubmits-nda-for-iziprytm-to-the-fda-a-high-dose-rescue-medication-for-opioid-overdose"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "neffy",
@@ -2133,7 +2143,8 @@
    "src": {
     "label": "RTTNews: ARS Q2 2026",
     "url": "https://www.rttnews.com/3681550/ars-pharma-refocuses-strategy-as-q2-revenue-hits-33-7m.aspx"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "bryn-utuly",
@@ -2177,7 +2188,8 @@
    "src": {
     "label": "Bryn release (2025-06-25)",
     "url": "https://www.santelog.com/actualites-sante-nasdaq/bryn-pharma-announces-first-participant-dosed-pkpd-trial-upgraded-nasal"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "orexo-ox640",
@@ -2221,7 +2233,8 @@
    "src": {
     "label": "News-Medical (Orexo release, 2026-09-15)",
     "url": "https://www.news-medical.net/news/20260915/Orexo-announces-FDA-acceptance-of-Investigational-New-Drug-(IND)-application-for-OX640-for-the-treatment-of-anaphylaxis.aspx"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "nasus-fmxin002",
@@ -2290,7 +2303,8 @@
    "src": {
     "label": "Nasus Pharma release (2026-09-14)",
     "url": "https://ir.nasuspharma.com/press_releases/nasus-pharma-announces-fda-clearance-to-initiate-clinical-study-of-ns002-in-the-treatment-of-anaphylaxis/"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "baqsimi",
@@ -2359,7 +2373,8 @@
    "src": {
     "label": "Amphastar Q2 2026 results (Finviz)",
     "url": "https://finviz.com/news/378884/amphastar-pharmaceuticals-reports-financial-results-for-the-three-months-ended-june-30-2026"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "flumist-home",
@@ -2403,7 +2418,8 @@
    "src": {
     "label": "AstraZeneca US, 14 Sep 2026",
     "url": "https://www.astrazeneca-us.com/media/articles/2026/FLUMIST-Influenza-Vaccine-Live-Intranasal-Now-Available-in-the-US-for-the-2026-2027-Flu-Season.html"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "fluenz-eu",
@@ -2447,7 +2463,8 @@
    "src": {
     "label": "EMA Fluenz variation assessment report (Jun 2026)",
     "url": "https://www.ema.europa.eu/en/documents/variation-report/fluenz-vr-0000302352-epar-assessment-report-variation_en.pdf"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "bcht-nasal-laiv",
@@ -2491,7 +2508,8 @@
    "src": {
     "label": "China Securities Journal disclosure, 31 Oct 2025",
     "url": "https://paper.cnstock.com/html/2025-10/31/content_2140352.htm"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "incovacc",
@@ -2551,7 +2569,8 @@
    "src": {
     "label": "Absolutely Maybe NextGen vax update, 30 Apr 2026",
     "url": "https://absolutelymaybe.plos.org/2026/04/30/another-intranasal-covid-vaccine-starting-in-the-us-nextgen-vax-monthly-update/"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "pneucolin",
@@ -2605,7 +2624,8 @@
    "src": {
     "label": "Lancet Respir Med Phase 3 dNS1-RBD (PMC)",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10682370/"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "sputnik-nasal",
@@ -2656,7 +2676,8 @@
    "src": {
     "label": "Interfax, 1 Apr 2022",
     "url": "https://interfax.com/newsroom/top-stories/77736/"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "cvxga",
@@ -2716,7 +2737,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT06742281",
     "url": "https://clinicaltrials.gov/study/NCT06742281"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "castlevax-cvax01",
@@ -2767,7 +2789,8 @@
    "src": {
     "label": "Absolutely Maybe NextGen vax update, 29 Jul 2026",
     "url": "https://absolutelymaybe.plos.org/2026/07/29/bumper-month-of-clinical-trial-news-to-ring-out-this-vax-series/"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "ocu500",
@@ -2818,7 +2841,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07536308",
     "url": "https://clinicaltrials.gov/study/NCT07536308"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "coviliv",
@@ -2881,7 +2905,8 @@
    "src": {
     "label": "Global Health Technologies Coalition - BARDA COVID-19",
     "url": "https://www.ghtcoalition.org/impact-stories/barda-covid-19"
-   }
+   },
+   "checked": "2026-10-26"
   },
   {
    "id": "codavax-rsv",
@@ -3755,8 +3780,8 @@
     "ko": "시판 (비의약품)"
    },
    "now": {
-    "en": "Oct 2026: Philippines FDA approved Nasodine as an OTC antiseptic nasal spray, its 5th market after the US, Singapore, Fiji and Indonesia.",
-    "ko": "2026년 10월: 필리핀 FDA가 Nasodine을 OTC 소독용 비강 스프레이로 승인; 미국·싱가포르·피지·인도네시아에 이은 5번째 시장."
+    "en": "Oct 2026: Firebrick launched Nasodine Sinus Rinse, a povidone-iodine antiseptic wash kit, its third product, to healthcare professionals in Singapore.",
+    "ko": "2026년 10월: Firebrick가 포비돈요오드 기반 항균 비강·부비동 세정 키트인 Nasodine Sinus Rinse(3번째 제품)를 싱가포르 의료진 대상으로 출시했다."
    },
    "lastMove": "2026-10",
    "trials": [],
@@ -3765,11 +3790,16 @@
     "ko": "감기 대상 3상 결과 발표(등록번호 미확인); 치료 효능 미표방으로 FDA 승인 없이 미국 판매"
    },
    "src": {
-    "label": "Firebrick Pharma ASX announcement (16 Oct 2026)",
-    "url": "https://announcements.asx.com.au/asxpdf/20261016/pdf/075d74n0qz65rm.pdf"
+    "label": "Firebrick Pharma ASX announcement (21 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261021/pdf/075kw9wncprqws.pdf"
    },
-   "checked": "2026-10-22",
+   "checked": "2026-10-26",
    "history": [
+    {
+     "date": "2026-10-26",
+     "change": "Added Nasodine Sinus Rinse launch (Singapore, 3rd product in range); now updated from Oct 16 Philippines approval",
+     "src": "https://announcements.asx.com.au/asxpdf/20261021/pdf/075kw9wncprqws.pdf"
+    },
     {
      "date": "2026-10-22",
      "change": "Philippines FDA approved Nasodine (OTC antiseptic class); 5th approved market",
@@ -4489,10 +4519,10 @@
     "ko": "2상 완료"
    },
    "now": {
-    "en": "Feb 2026: Phase 2 FLAVOR (n=151) met its safety primary endpoint, with durable smell improvements on secondary endpoints.",
-    "ko": "2026년 2월: 2상 FLAVOR(n=151)가 안전성 1차 평가변수를 충족했고, 2차 평가변수에서 후각 개선이 지속됨."
+    "en": "Oct 2026: ARS meeting data showed CYR-064 significantly improved smell scores vs placebo in patients under 60 (66% of the FLAVOR trial) over 24 weeks; Phase 3 planned.",
+    "ko": "2026년 10월: ARS 학회에서 발표된 FLAVOR 임상 데이터에 따르면 60세 미만 환자군(전체의 66%)에서 CYR-064가 24주간 위약 대비 후각 점수를 유의하게 개선; 3상을 계획 중이다."
    },
-   "lastMove": "2026-02",
+   "lastMove": "2026-10",
    "trials": [
     {
      "nct": "NCT06019000",
@@ -4506,9 +4536,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Clinical Trials Arena: Cyrano reports positive CYR-064 data (18 Feb 2026)",
-    "url": "https://www.clinicaltrialsarena.com/news/cyrano-reports-positive-data-cyr064/"
-   }
+    "label": "Clinical Trials Arena: Cyrano's CYR-064 meets primary safety endpoint (19 Oct 2026)",
+    "url": "https://www.clinicaltrialsarena.com/news/cyranos-cyr-064-meets-primary-safety-endpoint/"
+   },
+   "checked": "2026-10-26",
+   "history": [
+    {
+     "date": "2026-10-26",
+     "change": "now updated: Feb 2026 topline -> Oct 2026 ARS meeting efficacy data (<60y subgroup, 24wk)",
+     "src": "https://www.clinicaltrialsarena.com/news/cyranos-cyr-064-meets-primary-safety-endpoint/"
+    }
+   ]
   },
   {
    "id": "bentrio-altamira",
@@ -5510,10 +5548,10 @@
     "ko": "2a상 완료"
    },
    "now": {
-    "en": "Aug 2026: Phase 2a NEO100-01 met its primary endpoint (6-month PFS 48.9% vs 20% benchmark, n=24); NeOnc will seek an FDA Type B meeting.",
-    "ko": "2026년 8월: NEO100-01 2a상이 1차 평가변수를 충족(6개월 무진행생존율 48.9%, 기준치 20%, n=24); NeOnc는 FDA Type B 미팅을 요청할 예정."
+    "en": "Oct 2026: NeOnc signed an MOU with Abu Dhabi's Dept. of Health on CNS-cancer research; two children there are receiving NEO100 via compassionate use.",
+    "ko": "2026년 10월: NeOnc가 아부다비 보건부와 CNS암 연구 MOU를 체결; 아부다비에서 어린이 2명이 NEO100을 동정적 사용으로 투여받고 있다."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-10",
    "trials": [
     {
      "nct": "NCT02704858",
@@ -5545,12 +5583,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "NeOnc press release (12 Aug 2026)",
-    "url": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
+    "label": "NeOnc Technologies press release via Finviz (21 Oct 2026)",
+    "url": "https://finviz.com/news/405349/neonc-technologies-and-the-department-of-health-abu-dhabi-sign-mou-to-advance-brain-cancer-research-and-proposed-clinical-collaboration"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-22",
+   "checked": "2026-10-26",
    "history": [
+    {
+     "date": "2026-10-26",
+     "change": "now updated: Aug 2026 Phase 2a topline -> Oct 2026 Abu Dhabi DoH MOU + compassionate-use NEO100 in 2 children",
+     "src": "https://finviz.com/news/405349/neonc-technologies-and-the-department-of-health-abu-dhabi-sign-mou-to-advance-brain-cancer-research-and-proposed-clinical-collaboration"
+    },
     {
      "date": "2026-10-22",
      "change": "Admin correction: now updated to Aug 2026 Phase 2a topline (routine had a stale Jul 2026 expectation); ClinicalTrials.gov trials linked",
@@ -5656,9 +5699,140 @@
      "src": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
     }
    ]
+  },
+  {
+   "id": "cn-zhifei-rsv",
+   "lane": "early",
+   "region": "CN",
+   "area": "Vaccines & infection",
+   "company": {
+    "en": "Zhifei Biological (Beijing Zhifei Lvzhu)",
+    "ko": "즈페이바이오(베이징 즈페이뤼주)"
+   },
+   "product": {
+    "en": "Nasal RSV vaccine (chimp adeno vector)",
+    "ko": "비강분무 RSV 백신(침팬지 아데노바이러스 벡터)"
+   },
+   "api": {
+    "en": "Recombinant RSV vaccine, chimpanzee adenovirus vector",
+    "ko": "재조합 RSV 백신, 침팬지 아데노바이러스 벡터"
+   },
+   "indication": {
+    "en": "Prevention of RSV-related lower respiratory tract infection",
+    "ko": "RSV 관련 하기도감염 예방"
+   },
+   "device": {
+    "en": "Nasal spray (mucosal immunization); device maker unconfirmed",
+    "ko": "비강 분무(점막면역); 기기 제조사 미확인"
+   },
+   "stage": {
+    "en": "Clinical trial approved",
+    "ko": "임상시험 승인"
+   },
+   "now": {
+    "en": "Oct 2026: China's NMPA approved Zhifei's nasal spray recombinant RSV vaccine (chimp adenovirus vector) for clinical trials (notice 2026LP03224).",
+    "ko": "2026년 10월: 중국 국가약품감독관리국이 즈페이의 침팬지 아데노바이러스 벡터 비강분무 재조합 RSV 백신의 임상시험을 승인(통지서 2026LP03224)."
+   },
+   "lastMove": "2026-10",
+   "trials": [],
+   "noTrial": {
+    "en": "Clinical trial approval notice issued; no ClinicalTrials.gov/registry number disclosed in the company announcement",
+    "ko": "임상시험 승인통지서 발급; 회사 공고에 등록번호 미기재"
+   },
+   "src": {
+    "label": "Zhifei Biological company announcement via CFi.CN (23 Oct 2026)",
+    "url": "https://www.cfi.net.cn/p20261023001196.html"
+   },
+   "added": "2026-10-26",
+   "checked": "2026-10-26"
+  },
+  {
+   "id": "scienture-rezenopy",
+   "lane": "market",
+   "region": "US",
+   "area": "Emergency & rescue",
+   "company": {
+    "en": "Scienture Holdings",
+    "ko": "Scienture Holdings"
+   },
+   "product": {
+    "en": "REZENOPY",
+    "ko": "REZENOPY"
+   },
+   "api": {
+    "en": "Naloxone HCl 10 mg",
+    "ko": "염산날록손 10 mg"
+   },
+   "indication": {
+    "en": "Known or suspected opioid overdose",
+    "ko": "오피오이드 과다복용(의심 포함)"
+   },
+   "device": {
+    "en": "Single-use nasal spray device",
+    "ko": "1회용 비강 스프레이 기기"
+   },
+   "stage": {
+    "en": "FDA approved; launched",
+    "ko": "FDA 승인; 출시"
+   },
+   "now": {
+    "en": "Aug 2026: Scienture commercially launched REZENOPY (naloxone 10 mg) nasal spray, filling first US wholesaler orders; the highest-dose FDA-approved naloxone nasal spray.",
+    "ko": "2026년 8월: Scienture가 REZENOPY(날록손 10mg) 비강 스프레이를 상업 출시하고 미국 도매업체에 첫 주문을 공급; 미국 내 최고 용량의 FDA 승인 날록손 비강 스프레이."
+   },
+   "lastMove": "2026-08",
+   "trials": [],
+   "noTrial": {
+    "en": "FDA-approved (NDA) naloxone nasal spray; no new NCT disclosed in the commercial-launch release",
+    "ko": "FDA 승인(NDA) 날록손 비강 스프레이; 출시 공고에 신규 임상시험 등록번호 없음"
+   },
+   "src": {
+    "label": "Scienture press release via GlobeNewswire (12 Aug 2026)",
+    "url": "https://pr.redmondspokesman.com/article/SCIENTURE-Announces-Commercial-Launch-and-Fulfillment-of-Initial-Purchase-Orders-of-REZENOPYtm-the-Highest-Dose-FDA-Approved-Naloxone-Nasal-Spray/6a7c6247e2557832e110e08f"
+   },
+   "added": "2026-10-26",
+   "checked": "2026-10-26"
   }
  ],
  "news": [
+  {
+   "date": "2026-10-23",
+   "region": "GL",
+   "type": "Filing",
+   "text": {
+    "en": "China's NMPA approved Zhifei's nasal spray recombinant RSV vaccine (chimpanzee adenovirus vector) for clinical trials, the company's first mucosal-immunization RSV candidate to reach that stage.",
+    "ko": "중국 국가약품감독관리국이 즈페이의 침팬지 아데노바이러스 벡터 비강분무 재조합 RSV 백신의 임상시험을 승인; 회사의 첫 점막면역 RSV 후보가 이 단계에 도달했다."
+   },
+   "src": {
+    "label": "Zhifei Biological company announcement via CFi.CN (23 Oct 2026)",
+    "url": "https://www.cfi.net.cn/p20261023001196.html"
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "region": "GL",
+   "type": "Deal",
+   "text": {
+    "en": "NeOnc Technologies signed an MOU with Abu Dhabi's Department of Health on CNS-cancer research and clinical collaboration; two children there are receiving NEO100 via compassionate use.",
+    "ko": "NeOnc Technologies가 아부다비 보건부와 CNS암 연구·임상 협력 MOU를 체결; 아부다비에서 어린이 2명이 NEO100을 동정적 사용으로 투여받고 있다."
+   },
+   "src": {
+    "label": "NeOnc Technologies press release via Finviz (21 Oct 2026)",
+    "url": "https://finviz.com/news/405349/neonc-technologies-and-the-department-of-health-abu-dhabi-sign-mou-to-advance-brain-cancer-research-and-proposed-clinical-collaboration"
+   }
+  },
+  {
+   "date": "2026-10-21",
+   "region": "GL",
+   "type": "Launch",
+   "text": {
+    "en": "Firebrick launched Nasodine Sinus Rinse, a povidone-iodine antiseptic wash kit and its third Nasodine product, to healthcare professionals in Singapore.",
+    "ko": "Firebrick가 포비돈요오드 항균 세정 키트이자 3번째 Nasodine 제품인 Nasodine Sinus Rinse를 싱가포르 의료진 대상으로 출시했다."
+   },
+   "src": {
+    "label": "Firebrick Pharma ASX announcement (21 Oct 2026)",
+    "url": "https://announcements.asx.com.au/asxpdf/20261021/pdf/075kw9wncprqws.pdf"
+   }
+  },
   {
    "date": "2026-10-19",
    "region": "GL",
@@ -5670,6 +5844,19 @@
    "src": {
     "label": "MHRA/GOV.UK news (19 Oct 2026)",
     "url": "https://www.gov.uk/government/news/mhra-consults-on-proposals-to-allow-schools-to-keep-spare-adrenaline-nasal-sprays-on-site"
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Cyrano presented detailed Phase 2 FLAVOR data for CYR-064 at the American Rhinologic Society meeting, showing significant smell-score gains vs placebo in patients under 60.",
+    "ko": "Cyrano가 미국 비과학회(ARS) 학회에서 CYR-064의 2상 FLAVOR 세부 데이터를 발표; 60세 미만 환자에서 위약 대비 후각 점수가 유의하게 개선됐다."
+   },
+   "src": {
+    "label": "Clinical Trials Arena (19 Oct 2026)",
+    "url": "https://www.clinicaltrialsarena.com/news/cyranos-cyr-064-meets-primary-safety-endpoint/"
    }
   },
   {
@@ -5904,6 +6091,19 @@
    "src": {
     "label": "NeOnc press release (12 Aug 2026)",
     "url": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
+   }
+  },
+  {
+   "date": "2026-08-12",
+   "region": "GL",
+   "type": "Launch",
+   "text": {
+    "en": "Scienture commercially launched REZENOPY (naloxone 10 mg) nasal spray, the highest-dose FDA-approved naloxone nasal spray, filling first US wholesaler orders.",
+    "ko": "Scienture가 미국 내 최고 용량의 FDA 승인 날록손 비강 스프레이인 REZENOPY(10mg)를 상업 출시하고 미국 도매업체에 첫 주문을 공급했다."
+   },
+   "src": {
+    "label": "Scienture press release via GlobeNewswire (12 Aug 2026)",
+    "url": "https://pr.redmondspokesman.com/article/SCIENTURE-Announces-Commercial-Launch-and-Fulfillment-of-Initial-Purchase-Orders-of-REZENOPYtm-the-Highest-Dose-FDA-Approved-Naloxone-Nasal-Spray/6a7c6247e2557832e110e08f"
    }
   },
   {
