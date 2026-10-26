@@ -17,7 +17,7 @@ recreated, use this definition, and update this file whenever the routine change
 | Draft recipient | **Not committed** (public repo). The account owner's own Gmail; held only in the live routine prompt. |
 
 Manage at <https://claude.ai/code/routines> or with `RemoteTrigger`. The GitHub Actions collector
-(`.github/workflows/collect.yml`) runs at 06:00 KST every day; on Mondays it also syncs trials, two hours before the routine.
+(`.github/workflows/collect.yml`) runs at 03:00 KST every day (GitHub often starts it 1-3 h late); on Mondays it also syncs trials before the 08:00 routine.
 
 ## Prompt
 

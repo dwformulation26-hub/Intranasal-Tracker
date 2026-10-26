@@ -3,7 +3,8 @@ name: Collect leads
 # Deterministic collection only (no AI). The Claude weekly routine (Monday 08:00 KST) reads what this leaves in data/.
 on:
   schedule:
-    - cron: "0 21 * * *"   # every day 06:00 KST: news feeds (most feeds only hold 1-3 days)
+    - cron: "0 18 * * *"   # every day 03:00 KST: news feeds (most feeds only hold 1-3 days). GitHub often
+                           # starts scheduled jobs 1-3 h late, so this leaves margin before the 08:00 KST routine
   workflow_dispatch:
     inputs:
       trials:
@@ -31,8 +32,8 @@ jobs:
       - name: Collect news (daily)
         run: python scripts/collect_news.py --when 3d
 
-      - name: Weekly trial sync (Monday 06:00 KST, or on request)
-        # the 21:00 UTC Sunday run is 06:00 KST Monday
+      - name: Weekly trial sync (Monday 03:00 KST, or on request)
+        # the 18:00 UTC Sunday run is 03:00 KST Monday
         run: |
           if [ "$(TZ=Asia/Seoul date +%u)" = "1" ] || [ "${{ inputs.trials }}" = "true" ]; then
             python scripts/sync_trials.py

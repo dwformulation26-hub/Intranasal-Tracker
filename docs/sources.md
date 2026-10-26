@@ -7,7 +7,7 @@ keywords in `config/keywords.json`.
 
 Most usable feeds only hold 1-3 days of items (PR Newswire ~20 items/day, BusinessWire, GlobeNewswire industry feeds,
 Endpoints, BioSpace, FDA "What's New", and every Korean outlet at ~50 items/day). A once-a-week pull would miss most of
-the week, so a free GitHub Actions job polls every day at 06:00 KST and keeps a 21-day cache. The Claude routine reads a
+the week, so a free GitHub Actions job polls every day at 03:00 KST and keeps a 21-day cache. The Claude routine reads a
 full week of it on Monday.
 
 ## Sources (by role)

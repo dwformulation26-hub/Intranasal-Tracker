@@ -13,9 +13,9 @@ it, so **an item you could not verify is left out, never guessed**.
 
 | File | Written by | When (KST) | Contents |
 |---|---|---|---|
-| `data/weekly/news_cache.json` | `scripts/collect_news.py` | every day 06:00 | Rolling 21-day cache of keyword-matched items from ~50 feeds (Google News EN/KO/JA/ZH, FDA, EMA, MFDS, PMDA, DART, wires, trade press, 11 Korean outlets), openFDA nasal submissions, and Bluesky posts (`kind: "social"`). Each item has `status` `new` / `used` / `dismissed`. |
-| `data/weekly/trial_changes.json` | `scripts/sync_trials.py` | Monday 06:00 | Every tracked NCT re-read from ClinicalTrials.gov; the API values are **already written** into `nasal_data.json`. `notable: true` = status, results or primary-completion change. |
-| `data/weekly/trial_leads.json` | `scripts/discover_trials.py` | Monday 06:00 | Untracked interventional intranasal product studies updated since the last collection, with `relatedCards` guesses and `newRegistration`. |
+| `data/weekly/news_cache.json` | `scripts/collect_news.py` | every day 03:00 | Rolling 21-day cache of keyword-matched items from ~50 feeds (Google News EN/KO/JA/ZH, FDA, EMA, MFDS, PMDA, DART, wires, trade press, 11 Korean outlets), openFDA nasal submissions, and Bluesky posts (`kind: "social"`). Each item has `status` `new` / `used` / `dismissed`. |
+| `data/weekly/trial_changes.json` | `scripts/sync_trials.py` | Monday 03:00 | Every tracked NCT re-read from ClinicalTrials.gov; the API values are **already written** into `nasal_data.json`. `notable: true` = status, results or primary-completion change. |
+| `data/weekly/trial_leads.json` | `scripts/discover_trials.py` | Monday 03:00 | Untracked interventional intranasal product studies updated since the last collection, with `relatedCards` guesses and `newRegistration`. |
 | `data/meta.json` | both | | `last_collect`, `feed_health`, `last_update_run`, `rotation_cursor`, `source_health`. |
 
 The cloud sandbox blocks direct access to clinicaltrials.gov, so never try to re-run `sync_trials.py` or
