@@ -1,10 +1,10 @@
 {
- "last_collect": "2026-10-26T08:08+09:00",
+ "last_collect": "2026-10-27T07:32+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
@@ -28,13 +28,13 @@
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 0,
-   "kept": 0
+   "items": 3,
+   "kept": 3
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 5,
+   "kept": 4
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
@@ -43,13 +43,13 @@
   },
   "Google News KO: 비강 제약": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "Google News KO: 비강 투여/스프레이": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 0,
+   "kept": 0
   },
   "Google News JA: 点鼻": {
    "status": "ok",
@@ -58,8 +58,8 @@
   },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 6,
-   "kept": 6
+   "items": 5,
+   "kept": 5
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 0,
+   "items": 35,
    "kept": 0
   },
   "FDA press releases": {
@@ -123,7 +123,7 @@
   },
   "EMA what's new": {
    "status": "ok",
-   "items": 468,
+   "items": 488,
    "kept": 0
   },
   "MFDS 보도자료": {
@@ -143,7 +143,7 @@
   },
   "DART 오늘의 공시": {
    "status": "ok",
-   "items": 4,
+   "items": 7,
    "kept": 0
   },
   "Endpoints News": {
@@ -159,12 +159,12 @@
   "NeurologyLive": {
    "status": "ok",
    "items": 30,
-   "kept": 1
+   "kept": 0
   },
   "ONdrugDelivery": {
    "status": "ok",
    "items": 24,
-   "kept": 0
+   "kept": 1
   },
   "PharmaTimes": {
    "status": "ok",
@@ -182,8 +182,9 @@
    "kept": 0
   },
   "Drug Delivery Business News": {
-   "status": "error",
-   "error": "HTTPError: HTTP Error 504: Gateway Timeout"
+   "status": "ok",
+   "items": 10,
+   "kept": 0
   },
   "AJMC": {
    "status": "ok",
