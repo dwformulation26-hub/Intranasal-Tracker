@@ -1,7 +1,7 @@
 # Scheduled routine (recoverable copy)
 
 The weekly update runs from a Claude cloud routine stored on the Claude account, not in this repo. If it ever has to be
-recreated, use this definition, and update this file whenever the routine changes. Created 2026-10-22.
+recreated, use this definition, and update this file whenever the routine changes. Created 2026-10-22; prompt last updated 2026-10-26 (this-week vs found-late split).
 
 | Setting | Value |
 |---|---|
@@ -30,7 +30,7 @@ Work in this one session: do not spawn sub-agents. Inputs are already collected 
 
 Follow the skill's run order: triage every lead once (breadth first), update existing cards only on a Tier 1 source or two independent Tier 2 sources you opened this run, run the 25-card rotation check, add new products automatically only when all five conditions in the skill hold (explicitly intranasal, defined product, Tier 1 source opened this run, not already a card), add news items with the event's own date, and write every text field in English and Korean. Social (Bluesky) items are leads only and are never cited. Never cite a URL you did not open this run; never advance a lane on plans or expectations.
 
-Before committing run `python3 build.py --as-of <KST date>`; it must pass, and a failure is fixed in the data, never in code. Never edit template.html, build.py, scripts/, config/, .github/, the endpoints content or the skill. Write data/weekly/reports/<KST date>.md and update data/meta.json even on a quiet run. Commit nasal_data.json, index.html and data/, then `git fetch origin main && git rebase origin/main && git push origin HEAD:main`, then `git fetch origin main && git branch -r --contains HEAD` must list origin/main; if not, lead your final summary with that.
+Before committing run `python3 build.py --as-of <KST date>`; it must pass, and a failure is fixed in the data, never in code. Never edit template.html, build.py, scripts/, config/, .github/, the endpoints content or the skill. Write data/weekly/reports/<KST date>.md and update data/meta.json even on a quiet run. The report covers this week only: items whose event date falls inside this run's window (since meta.json last_update_run) go in the headline, counts and main lists; anything older that this run found goes in a separate 'Found late' section with its original date, per the skill's 'This week vs found late' rule. Commit nasal_data.json, index.html and data/, then `git fetch origin main && git rebase origin/main && git push origin HEAD:main`, then `git fetch origin main && git branch -r --contains HEAD` must list origin/main; if not, lead your final summary with that.
 
-Last step, after the push: create a Gmail DRAFT (never send) to <OWNER GMAIL - not committed; this repo is public, read it from the live trigger with RemoteTrigger get> with subject 'Intranasal Radar weekly - <KST date>: <headline>' and the report's headline, new products, card updates and news (English, then a short Korean summary). If Gmail fails, say so; the commit is what matters.
+Last step, after the push: create a Gmail DRAFT (never send) to <OWNER GMAIL - not committed; this repo is public, read it from the live trigger with RemoteTrigger get> with subject 'Intranasal Radar weekly - <KST date>: <headline about this week only>' and the report's window, headline, this week's new products, card updates and news, then a separate 'Found late' section with original dates only if there are late finds, then a short Korean summary of this week. If Gmail fails, say so; the commit is what matters.
 ```

@@ -28,6 +28,15 @@ Start with `TZ=Asia/Seoul date '+%Y-%m-%dT%H:%M:%S+09:00'` and use that one valu
 (`checked`, `added`, news `date` is the event date - see below) is a KST calendar date from `TZ=Asia/Seoul date +%F`.
 The window for this run starts at `meta.json.last_update_run` (default: 8 days ago).
 
+**This week vs found late.** Every item you log has an event date (a news item's `date`; for a card update or new
+product, the date of the event behind its `now` sentence). An item dated **inside the window** is this week's news. An
+item dated **before the window** is real but old news that this run discovered late (e.g. a product launched in August
+that first reached the tracker in October). Log both on the page exactly as usual, under their true event dates, but
+keep them apart in the weekly report and the Gmail draft (steps 7 and 8): the headline, the counts and the main lists
+cover this week only, and late finds go in a separate **Found late** section that shows each item's original date. Never
+let a late find make the week look busier than it was. On 2026-10-26 a REZENOPY launch dated 12 Aug was listed as that
+week's news, and the admin removed it from the weekly report.
+
 ## Source tiers - the confirmation rule
 
 - **Tier 1 (confirm alone):** company press release / IR page / SEC or DART filing, regulator (FDA, EMA, MFDS, PMDA,
@@ -172,10 +181,14 @@ English - no more, no less.
 
 ### 7. Write the report, update meta, commit to main
 
-- Write `data/weekly/reports/<KST date>.md`: headline sentence; **New products added**; **Card updates** (card, old ->
-  new, source); **News added**; **Watching** (failed the bar, with what's missing); **Dismissed** count by reason;
-  **Source health** (feeds failing in `feed_health`, hosts refused this run); coverage (cards rotation-checked, leads
-  triaged).
+- Write `data/weekly/reports/<KST date>.md`, titled with the window (`Weekly update — <window start> to <KST date>`):
+  headline sentence about **this week's** events only; counts (new products, card updates, news) for this week only;
+  **New products added**, **Card updates** (card, old -> new, source) and **News added**, each listing only items dated
+  inside the window; then **Found late** (items dated before the window that this run added or updated, each with its
+  original date and one line on what it is; omit the section when empty); **Watching** (failed the bar, with what's
+  missing); **Dismissed** count by reason; **Source health** (feeds failing in `feed_health`, hosts refused this run);
+  coverage (cards rotation-checked, leads triaged). If nothing inside the window happened, say so in the headline
+  ("Quiet week") rather than leading with a late find.
 - `data/meta.json`: set `last_update_run` (the "now" value), `rotation_cursor`, `source_health`, and
   `last_update_counts` `{cards_updated, cards_added, news_added, leads_triaged, rotation_checked}` - even on a quiet
   run; a missing update is indistinguishable from a failed run.
@@ -194,8 +207,10 @@ If the commit is not on `main`, say so at the top of the summary: the deployed p
 
 Create a Gmail **draft** (never send) to the recipient named in the routine prompt (this repo is public, so the
 address lives only in the live routine, never in a file here), subject `Intranasal Radar weekly - <KST date>:
-<headline>`, body = the report's headline, new products, card updates and news (English, then a short Korean summary),
-plus a link to the repo commit. If Gmail fails, say so; the commit is what matters.
+<headline>`, body = the report's window, headline, and this week's new products, card updates and news; then a
+separate **Found late** section (original dates shown) only if there are late finds; then a short Korean summary of
+this week; plus a link to the repo commit. The subject and headline describe this week only. If Gmail fails, say so;
+the commit is what matters.
 
 ## Data schema (nasal_data.json)
 
