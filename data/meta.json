@@ -1,5 +1,5 @@
 {
- "last_collect": "2026-10-28T07:02+09:00",
+ "last_collect": "2026-10-29T07:26+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
@@ -8,8 +8,8 @@
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 10,
-   "kept": 10
+   "items": 27,
+   "kept": 27
   },
   "Google News EN: nasal powder": {
    "status": "ok",
@@ -18,48 +18,48 @@
   },
   "Google News EN: nasal/intranasal vaccine": {
    "status": "ok",
-   "items": 0,
-   "kept": 0
+   "items": 2,
+   "kept": 2
   },
   "Google News EN: nose-to-brain": {
-   "status": "ok",
-   "items": 7,
-   "kept": 7
-  },
-  "Google News EN: wires intranasal": {
    "status": "ok",
    "items": 6,
    "kept": 6
   },
+  "Google News EN: wires intranasal": {
+   "status": "ok",
+   "items": 12,
+   "kept": 11
+  },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 9,
-   "kept": 8
+   "items": 12,
+   "kept": 11
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
-   "items": 0,
-   "kept": 0
+   "items": 1,
+   "kept": 1
   },
   "Google News KO: 비강 제약": {
    "status": "ok",
-   "items": 10,
-   "kept": 10
+   "items": 12,
+   "kept": 12
   },
   "Google News KO: 비강 투여/스프레이": {
+   "status": "ok",
+   "items": 5,
+   "kept": 5
+  },
+  "Google News JA: 点鼻": {
    "status": "ok",
    "items": 4,
    "kept": 4
   },
-  "Google News JA: 点鼻": {
-   "status": "ok",
-   "items": 3,
-   "kept": 3
-  },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 5,
-   "kept": 5
+   "items": 6,
+   "kept": 6
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 77,
+   "items": 59,
    "kept": 0
   },
   "FDA press releases": {
@@ -123,7 +123,7 @@
   },
   "EMA what's new": {
    "status": "ok",
-   "items": 510,
+   "items": 538,
    "kept": 0
   },
   "MFDS 보도자료": {
@@ -209,12 +209,12 @@
   "더바이오": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "팜뉴스": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "청년의사": {
    "status": "ok",
@@ -224,7 +224,7 @@
   "의학신문": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "약사공론": {
    "status": "ok",
@@ -253,7 +253,7 @@
   },
   "Bluesky search": {
    "status": "ok",
-   "items": 6,
+   "items": 11,
    "errors": []
   },
   "openFDA drugsfda (nasal)": {
