@@ -261,8 +261,8 @@
    "items": 0
   }
  },
- "last_update_run": "2026-10-26T08:05:30+09:00",
- "rotation_cursor": "coviliv",
+ "last_update_run": "2026-11-02T08:02:38+09:00",
+ "rotation_cursor": "natesto",
  "source_health": {
   "sec.gov": "refuses scripts - confirm via search",
   "businesswire.com": "refuses scripts (403) - confirm via search/alternate source",
@@ -278,13 +278,17 @@
   "cninfo.com.cn static PDFs": "ok this run via direct fetch",
   "thepharmacist.co.uk": "ok this run",
   "globenewswire.com": "refuses scripts (403) - confirm via finviz/zawya/syndication mirror",
-  "gcs-web.com (NeOnc IR site)": "refuses scripts (403) - use finviz mirror of the same release"
+  "gcs-web.com (NeOnc IR site)": "refuses scripts (403) - use finviz mirror of the same release",
+  "ir.ataibeckley.com": "DNS blocked this run - could not confirm BPL-003 JAMA publication claim",
+  "polyrizon.com / ir.polyrizon.com": "DNS blocked this run - used biopharmawatch GlobeNewswire mirror instead",
+  "astrazeneca.com media centre": "refused this run (403) - used VNVC official product page + VN trade press instead",
+  "biospectrumasia.com PDF export": "WebFetch returns only metadata/compressed stream - use the HTML article URL instead"
  },
  "last_update_counts": {
-  "cards_updated": 3,
-  "cards_added": 2,
-  "news_added": 5,
-  "leads_triaged": 68,
+  "cards_updated": 2,
+  "cards_added": 0,
+  "news_added": 3,
+  "leads_triaged": 199,
   "rotation_checked": 25
  }
 }

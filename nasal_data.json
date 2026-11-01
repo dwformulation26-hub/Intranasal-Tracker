@@ -1,5 +1,5 @@
 {
- "asOf": "2026-10-26",
+ "asOf": "2026-11-02",
  "lanes": [
   {
    "id": "market",
@@ -2957,7 +2957,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT04919109",
     "url": "https://clinicaltrials.gov/study/NCT04919109"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "blb201",
@@ -3017,7 +3018,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT05655182",
     "url": "https://clinicaltrials.gov/study/NCT05655182"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "meissa-mv012968",
@@ -3077,7 +3079,8 @@
    "src": {
     "label": "Fierce Biotech - Meissa future in limbo",
     "url": "https://www.fiercebiotech.com/biotech/meissa-vaccines-future-limbo-due-current-fundraising-climate-ceo"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "bpze1",
@@ -3146,7 +3149,8 @@
    "src": {
     "label": "Business Wire - ILiAD $115M Series B, 9 Feb 2026",
     "url": "https://www.businesswire.com/news/home/20260209017075/en/ILiAD-Biotechnologies-Announces-%24115M-Oversubscribed-Series-B-Financing-to-Advance-BPZE1-Pertussis-Vaccine"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "deltaflu",
@@ -3190,7 +3194,8 @@
    "src": {
     "label": "Frontiers in Immunology 2025 (FLUniversal protocol)",
     "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1568778/full"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "avacc10",
@@ -3241,7 +3246,8 @@
    "src": {
     "label": "Absolutely Maybe NextGen vax update, 29 Jul 2026",
     "url": "https://absolutelymaybe.plos.org/2026/07/29/bumper-month-of-clinical-trial-news-to-ring-out-this-vax-series/"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "rvx-scpd9",
@@ -3292,7 +3298,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07703475",
     "url": "https://clinicaltrials.gov/study/NCT07703475"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "niaid-nasal-covid",
@@ -3361,7 +3368,8 @@
    "src": {
     "label": "Absolutely Maybe NextGen vax update, 29 Jun 2026",
     "url": "https://absolutelymaybe.plos.org/2026/06/29/more-trials-recruiting-and-other-nextgen-covid-vaccine-news/"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "tb-flu-05e",
@@ -3412,7 +3420,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT06873282",
     "url": "https://clinicaltrials.gov/study/NCT06873282"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "nons-enovid",
@@ -3481,7 +3490,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT06264141",
     "url": "https://clinicaltrials.gov/study/NCT06264141"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "azelastine-covid",
@@ -3535,7 +3545,8 @@
    "src": {
     "label": "Saarland University press release, 2 Sep 2025",
     "url": "https://www.uni-saarland.de/en/news/nasal-spray-azelastin-covid-19-sars-cov-2-39343.html"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "inna-051",
@@ -3586,7 +3597,8 @@
    "src": {
     "label": "PharmaTimes, 29 Jan 2026",
     "url": "https://pharmatimes.com/news/ena-respiratory-begins-dosing-in-phase-2-study-of-inna-051-nasal-spray/"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "neumifil",
@@ -3646,7 +3658,8 @@
    "src": {
     "label": "BioSpace - Pneumagen peer-reviewed Phase II publication",
     "url": "https://www.biospace.com/press-releases/pneumagen-announces-peer-reviewed-publication-of-positive-phase-ii-study-data-highlighting-the-potential-of-neumifil-a-novel-broad-spectrum-antiviral"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "xf-73-nasal",
@@ -3697,7 +3710,8 @@
    "src": {
     "label": "Manufacturing Chemist, 22 Sep 2025",
     "url": "https://manufacturingchemist.com/emv-capital-moirai-acquires-destiny-pharma-xf-antibiotic"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "hy-133",
@@ -3748,7 +3762,8 @@
    "src": {
     "label": "The Microbiologist - HY-133 FIH study launched",
     "url": "https://www.the-microbiologist.com/news/human-clinical-study-launched-using-phage-lysin-to-eliminate-staph-in-the-nasal-microbiome/3760.article"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "nasodine",
@@ -3793,7 +3808,7 @@
     "label": "Firebrick Pharma ASX announcement (21 Oct 2026)",
     "url": "https://announcements.asx.com.au/asxpdf/20261021/pdf/075kw9wncprqws.pdf"
    },
-   "checked": "2026-10-26",
+   "checked": "2026-11-02",
    "history": [
     {
      "date": "2026-10-26",
@@ -3874,7 +3889,8 @@
    "src": {
     "label": "Milestone 8-K: NMPA approval of etripamil (3 Sep 2026)",
     "url": "https://www.sec.gov/Archives/edgar/data/0001408443/000110465926105052/tm2624766d1_ex99-1.htm"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "xhance-eds",
@@ -3943,7 +3959,8 @@
    "src": {
     "label": "Pharmaceutical Technology: Paratek completes Optinose acquisition (22 May 2025)",
     "url": "https://www.pharmaceutical-technology.com/news/paratek-optinose-acquisition/"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "ryaltris",
@@ -3987,7 +4004,8 @@
    "src": {
     "label": "Healio: FDA expands Ryaltris approval to ages 6–11 (21 Jul 2026)",
     "url": "https://www.healio.com/news/allergy-asthma/20260721/fda-expands-ryaltris-approval-to-include-children-aged-6-to-11-years"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "lyra-lyr210",
@@ -4047,7 +4065,8 @@
    "src": {
     "label": "Lyra IR: intention to file Form 25 for Nasdaq delisting (17 Apr 2026)",
     "url": "https://investors.lyratherapeutics.com/news-releases/news-release-details/lyra-therapeutics-inc-announces-intention-voluntarily-file-form"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "natesto",
@@ -4091,7 +4110,8 @@
    "src": {
     "label": "DailyMed: NATESTO label (revised 7/2025)",
     "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dea6bed1-eaca-11e3-ac10-0800200c9a66"
-   }
+   },
+   "checked": "2026-11-02"
   },
   {
    "id": "wl1006-semaglutide-nasal",
@@ -4539,7 +4559,7 @@
     "label": "Clinical Trials Arena: Cyrano's CYR-064 meets primary safety endpoint (19 Oct 2026)",
     "url": "https://www.clinicaltrialsarena.com/news/cyranos-cyr-064-meets-primary-safety-endpoint/"
    },
-   "checked": "2026-10-26",
+   "checked": "2026-11-02",
    "history": [
     {
      "date": "2026-10-26",
@@ -4622,10 +4642,10 @@
     "ko": "의료기기 임상"
    },
    "now": {
-    "en": "Randomized device study vs Ayr saline (n=120) began Sep 2026; completion estimated Jul 2027.",
-    "ko": "2026년 9월 Ayr 식염수 대조 무작위 기기 임상(120명)을 시작했으며 2027년 7월 완료 예정이다."
+    "en": "Oct 2026: Polyrizon completed enrollment and randomization of all 120 patients (5 US sites) in the NASARIX (PL-14) seasonal allergic rhinitis device study.",
+    "ko": "2026년 10월: Polyrizon이 NASARIX(PL-14) 계절성 알레르기 비염 기기 임상에서 미국 5개 사이트 120명 전체 등록·무작위배정을 완료했다."
    },
-   "lastMove": "2026-09",
+   "lastMove": "2026-10",
    "trials": [
     {
      "nct": "NCT07588672",
@@ -4639,9 +4659,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "ClinicalTrials.gov NCT07588672",
-    "url": "https://clinicaltrials.gov/study/NCT07588672"
-   }
+    "label": "Polyrizon GlobeNewswire release via BioPharmaWatch (27 Oct 2026)",
+    "url": "https://www.biopharmawatch.com/news/PLRZ/polyrizon-completes-enrollment-nasarix-allergy-blocker"
+   },
+   "checked": "2026-11-02",
+   "history": [
+    {
+     "date": "2026-10-27",
+     "change": "Completed enrollment/randomization of all 120 patients across 5 US sites; now updated from Sep 2026 trial start",
+     "src": "https://www.biopharmawatch.com/news/PLRZ/polyrizon-completes-enrollment-nasarix-allergy-blocker"
+    }
+   ]
   },
   {
    "id": "tor582-hht",
@@ -4724,10 +4752,10 @@
     "ko": "식약처 허가"
    },
    "now": {
-    "en": "HIRA's Drug Reimbursement Evaluation Committee accepted Spravato's reimbursement appropriateness in Jul 2026.",
-    "ko": "2026년 7월 심평원 약제급여평가위원회에서 급여 적정성을 인정받았다."
+    "en": "Nov 2026: Korea added national health-insurance reimbursement for Spravato in adults with moderate-or-worse MDD unresponsive to >=2 antidepressants, effective Nov 1.",
+    "ko": "2026년 11월: 한국이 항우울제 2종 이상에 반응하지 않는 중등도 이상 주요우울장애 성인 대상 스프라바토 건강보험 급여를 신설, 11월 1일부터 적용."
    },
-   "lastMove": "2026-07",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT07053345",
@@ -4741,9 +4769,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Medipana, 2026-07-02",
-    "url": "https://www.medipana.com/news/articleView.html?idxno=414018"
-   }
+    "label": "의학신문(Bosa), 2026-10-29",
+    "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015126"
+   },
+   "checked": "2026-11-02",
+   "history": [
+    {
+     "date": "2026-10-29",
+     "change": "Added Korean national health-insurance reimbursement for Spravato (moderate-or-worse MDD, >=2 failed antidepressants), effective 2026-11-01; now updated from Jul 2026 committee review",
+     "src": "https://www.bosa.co.kr/news/articleView.html?idxno=3015126"
+    }
+   ]
   },
   {
    "id": "kr-flumist",
@@ -5587,7 +5623,7 @@
     "url": "https://finviz.com/news/405349/neonc-technologies-and-the-department-of-health-abu-dhabi-sign-mou-to-advance-brain-cancer-research-and-proposed-clinical-collaboration"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-26",
+   "checked": "2026-11-02",
    "history": [
     {
      "date": "2026-10-26",
@@ -5744,7 +5780,7 @@
     "url": "https://www.cfi.net.cn/p20261023001196.html"
    },
    "added": "2026-10-26",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   },
   {
    "id": "scienture-rezenopy",
@@ -5790,10 +5826,49 @@
     "url": "https://pr.redmondspokesman.com/article/SCIENTURE-Announces-Commercial-Launch-and-Fulfillment-of-Initial-Purchase-Orders-of-REZENOPYtm-the-Highest-Dose-FDA-Approved-Naloxone-Nasal-Spray/6a7c6247e2557832e110e08f"
    },
    "added": "2026-10-26",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   }
  ],
  "news": [
+  {
+   "date": "2026-10-29",
+   "region": "KR",
+   "type": "Regulatory",
+   "text": {
+    "en": "Korea's Ministry of Health and Welfare added national health-insurance reimbursement for Spravato (esketamine), Oxlumo and Xcopri and expanded Crysvita to adults, effective Nov 1; Spravato is limited to moderate-or-worse MDD patients unresponsive to >=2 antidepressants.",
+    "ko": "한국 보건복지부가 스프라바토(에스케타민)·옥스루모·엑스코프리 건강보험 급여를 신설하고 크리스비타는 성인까지 확대, 11월 1일부터 적용; 스프라바토는 항우울제 2종 이상에 반응하지 않는 중등도 이상 주요우울장애 환자로 제한된다."
+   },
+   "src": {
+    "label": "의학신문(Bosa), 2026-10-29",
+    "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015126"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "region": "GL",
+   "type": "Launch",
+   "text": {
+    "en": "AstraZeneca's FluMist nasal-spray flu vaccine launched in Vietnam for ages 2 to under 18, with VNVC as the first and only clinic network deploying it there.",
+    "ko": "AstraZeneca의 비강분무형 독감 백신 FluMist가 베트남에서 2세~18세 미만 대상으로 출시; VNVC가 이를 도입한 최초이자 유일한 접종 네트워크다."
+   },
+   "src": {
+    "label": "VNVC official product page + Báo Lào Cai (28 Oct 2026)",
+    "url": "https://vnvc.vn/vac-xin-cum-dang-xit-flumist/"
+   }
+  },
+  {
+   "date": "2026-10-27",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Polyrizon completed enrollment and randomization of all 120 patients across 5 US sites in its NASARIX (PL-14) device study for seasonal allergic rhinitis.",
+    "ko": "Polyrizon이 계절성 알레르기 비염 대상 NASARIX(PL-14) 기기 임상에서 미국 5개 사이트 120명 전체 등록·무작위배정을 완료했다."
+   },
+   "src": {
+    "label": "Polyrizon GlobeNewswire release via BioPharmaWatch (27 Oct 2026)",
+    "url": "https://www.biopharmawatch.com/news/PLRZ/polyrizon-completes-enrollment-nasarix-allergy-blocker"
+   }
+  },
   {
    "date": "2026-10-23",
    "region": "GL",
