@@ -536,11 +536,11 @@
     {
      "nct": "NCT07688239",
      "phase": "Ph2",
-     "status": "NOT_YET_RECRUITING",
+     "status": "ENROLLING_BY_INVITATION",
      "pcd": "2027-07",
      "n": 44,
      "results": false,
-     "updated": "2026-10-21"
+     "updated": "2026-10-28"
     }
    ],
    "noTrial": null,
@@ -592,7 +592,7 @@
      "pcd": "2027-09",
      "n": 272,
      "results": false,
-     "updated": "2026-09-10"
+     "updated": "2026-10-27"
     }
    ],
    "noTrial": null,
@@ -2834,7 +2834,7 @@
      "pcd": "2027-04-29",
      "n": 80,
      "results": false,
-     "updated": "2026-10-23"
+     "updated": "2026-10-30"
     }
    ],
    "noTrial": null,
@@ -3285,7 +3285,7 @@
      "pcd": "2027-11-15",
      "n": 80,
      "results": false,
-     "updated": "2026-10-16"
+     "updated": "2026-10-30"
     }
    ],
    "noTrial": null,
