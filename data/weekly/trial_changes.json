@@ -1,32 +1,140 @@
 {
- "generated": "2026-11-02T06:56:00+09:00",
+ "generated": "2026-11-09T06:55:36+09:00",
  "trials_checked": 111,
  "changes": [
   {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT07688239",
-   "field": "status",
-   "old": "NOT_YET_RECRUITING",
-   "new": "ENROLLING_BY_INVITATION",
-   "notable": true
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT07688239",
+   "card": "spravato",
+   "product": "Spravato",
+   "nct": "NCT07716098",
    "field": "updated",
-   "old": "2026-10-21",
-   "new": "2026-10-28",
+   "old": "2026-09-25",
+   "new": "2026-11-03",
    "notable": false
   },
   {
-   "card": "cenegermin-naion",
-   "product": "Cenegermin (nasal NGF)",
-   "nct": "NCT07453888",
+   "card": "spravato",
+   "product": "Spravato",
+   "nct": "NCT07227454",
    "field": "updated",
-   "old": "2026-09-10",
-   "new": "2026-10-27",
+   "old": "2026-09-25",
+   "new": "2026-11-03",
+   "notable": false
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06615557",
+   "field": "status",
+   "old": "ACTIVE_NOT_RECRUITING",
+   "new": "COMPLETED",
+   "notable": true
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06615557",
+   "field": "updated",
+   "old": "2026-05-22",
+   "new": "2026-11-04",
+   "notable": false
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06358651",
+   "field": "status",
+   "old": "ACTIVE_NOT_RECRUITING",
+   "new": "COMPLETED",
+   "notable": true
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06358651",
+   "field": "updated",
+   "old": "2025-11-26",
+   "new": "2026-11-03",
+   "notable": false
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06809179",
+   "field": "status",
+   "old": "RECRUITING",
+   "new": "COMPLETED",
+   "notable": true
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06809179",
+   "field": "n",
+   "old": 60,
+   "new": 61,
+   "notable": false
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06809179",
+   "field": "pcd",
+   "old": "2026-04",
+   "new": "2026-06-12",
+   "notable": true
+  },
+  {
+   "card": "fasedienol",
+   "product": "Fasedienol (PH94B)",
+   "nct": "NCT06809179",
+   "field": "updated",
+   "old": "2026-02-05",
+   "new": "2026-11-04",
+   "notable": false
+  },
+  {
+   "card": "tnx1900-pain",
+   "product": "TNX-1900 (oxytocin)",
+   "nct": "NCT07730294",
+   "field": "status",
+   "old": "NOT_YET_RECRUITING",
+   "new": "RECRUITING",
+   "notable": true
+  },
+  {
+   "card": "tnx1900-pain",
+   "product": "TNX-1900 (oxytocin)",
+   "nct": "NCT07730294",
+   "field": "pcd",
+   "old": "2028-10",
+   "new": "2028-11",
+   "notable": true
+  },
+  {
+   "card": "tnx1900-pain",
+   "product": "TNX-1900 (oxytocin)",
+   "nct": "NCT07730294",
+   "field": "updated",
+   "old": "2026-10-21",
+   "new": "2026-11-06",
+   "notable": false
+  },
+  {
+   "card": "ocu500",
+   "product": "OCU500",
+   "nct": "NCT07536308",
+   "field": "status",
+   "old": "RECRUITING",
+   "new": "ACTIVE_NOT_RECRUITING",
+   "notable": true
+  },
+  {
+   "card": "ocu500",
+   "product": "OCU500",
+   "nct": "NCT07536308",
+   "field": "n",
+   "old": 80,
+   "new": 83,
    "notable": false
   },
   {
@@ -34,8 +142,8 @@
    "product": "OCU500",
    "nct": "NCT07536308",
    "field": "updated",
-   "old": "2026-10-23",
-   "new": "2026-10-30",
+   "old": "2026-10-30",
+   "new": "2026-11-06",
    "notable": false
   },
   {
@@ -43,8 +151,62 @@
    "product": "RVX-sCPD9",
    "nct": "NCT07703475",
    "field": "updated",
-   "old": "2026-10-16",
-   "new": "2026-10-30",
+   "old": "2026-10-30",
+   "new": "2026-11-06",
+   "notable": false
+  },
+  {
+   "card": "mgh-oxytocin-obesity",
+   "product": "Intranasal oxytocin",
+   "nct": "NCT04551482",
+   "field": "n",
+   "old": 55,
+   "new": 54,
+   "notable": false
+  },
+  {
+   "card": "mgh-oxytocin-obesity",
+   "product": "Intranasal oxytocin",
+   "nct": "NCT04551482",
+   "field": "pcd",
+   "old": "2026-12-31",
+   "new": "2027-03-31",
+   "notable": true
+  },
+  {
+   "card": "mgh-oxytocin-obesity",
+   "product": "Intranasal oxytocin",
+   "nct": "NCT04551482",
+   "field": "updated",
+   "old": "2026-06-26",
+   "new": "2026-11-04",
+   "notable": false
+  },
+  {
+   "card": "tor582-hht",
+   "product": "TOR-582 (sirolimus)",
+   "nct": "NCT07667413",
+   "field": "pcd",
+   "old": "2027-07",
+   "new": "2028-05",
+   "notable": true
+  },
+  {
+   "card": "tor582-hht",
+   "product": "TOR-582 (sirolimus)",
+   "nct": "NCT07667413",
+   "field": "updated",
+   "old": "2026-08-21",
+   "new": "2026-11-06",
+   "notable": false
+  },
+  {
+   "card": "jp-esketamine-ph3",
+   "product": "Esketamine (Japan Ph3)",
+   "nct": "NCT07716098",
+   "field": "updated",
+   "old": "2026-09-25",
+   "new": "2026-11-03",
    "notable": false
   }
  ],

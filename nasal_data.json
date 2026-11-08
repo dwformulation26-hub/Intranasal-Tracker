@@ -129,7 +129,7 @@
      "pcd": "2028-12-27",
      "n": 348,
      "results": false,
-     "updated": "2026-09-25"
+     "updated": "2026-11-03"
     },
     {
      "nct": "NCT07227454",
@@ -138,7 +138,7 @@
      "pcd": "2031-04-09",
      "n": 258,
      "results": false,
-     "updated": "2026-09-25"
+     "updated": "2026-11-03"
     }
    ],
    "noTrial": null,
@@ -403,29 +403,29 @@
     {
      "nct": "NCT06615557",
      "phase": "Ph3",
-     "status": "ACTIVE_NOT_RECRUITING",
+     "status": "COMPLETED",
      "pcd": "2026-04-21",
      "n": 238,
      "results": false,
-     "updated": "2026-05-22"
+     "updated": "2026-11-04"
     },
     {
      "nct": "NCT06358651",
      "phase": "Ph3",
-     "status": "ACTIVE_NOT_RECRUITING",
+     "status": "COMPLETED",
      "pcd": "2025-10-31",
      "n": 238,
      "results": false,
-     "updated": "2025-11-26"
+     "updated": "2026-11-03"
     },
     {
      "nct": "NCT06809179",
      "phase": "Ph2",
-     "status": "RECRUITING",
-     "pcd": "2026-04",
-     "n": 60,
+     "status": "COMPLETED",
+     "pcd": "2026-06-12",
+     "n": 61,
      "results": false,
-     "updated": "2026-02-05"
+     "updated": "2026-11-04"
     }
    ],
    "noTrial": null,
@@ -1580,11 +1580,11 @@
     {
      "nct": "NCT07730294",
      "phase": "Ph2",
-     "status": "NOT_YET_RECRUITING",
-     "pcd": "2028-10",
+     "status": "RECRUITING",
+     "pcd": "2028-11",
      "n": 75,
      "results": false,
-     "updated": "2026-10-21"
+     "updated": "2026-11-06"
     }
    ],
    "noTrial": null,
@@ -2830,11 +2830,11 @@
     {
      "nct": "NCT07536308",
      "phase": "Ph1",
-     "status": "RECRUITING",
+     "status": "ACTIVE_NOT_RECRUITING",
      "pcd": "2027-04-29",
-     "n": 80,
+     "n": 83,
      "results": false,
-     "updated": "2026-10-30"
+     "updated": "2026-11-06"
     }
    ],
    "noTrial": null,
@@ -3291,7 +3291,7 @@
      "pcd": "2027-11-15",
      "n": 80,
      "results": false,
-     "updated": "2026-10-30"
+     "updated": "2026-11-06"
     }
    ],
    "noTrial": null,
@@ -4335,10 +4335,10 @@
      "nct": "NCT04551482",
      "phase": "Ph2",
      "status": "RECRUITING",
-     "pcd": "2026-12-31",
-     "n": 55,
+     "pcd": "2027-03-31",
+     "n": 54,
      "results": false,
-     "updated": "2026-06-26"
+     "updated": "2026-11-04"
     }
    ],
    "noTrial": null,
@@ -4710,10 +4710,10 @@
      "nct": "NCT07667413",
      "phase": "Ph1",
      "status": "NOT_YET_RECRUITING",
-     "pcd": "2027-07",
+     "pcd": "2028-05",
      "n": 27,
      "results": false,
-     "updated": "2026-08-21"
+     "updated": "2026-11-06"
     }
    ],
    "noTrial": null,
@@ -5321,7 +5321,7 @@
      "pcd": "2028-12-27",
      "n": 348,
      "results": false,
-     "updated": "2026-09-25"
+     "updated": "2026-11-03"
     }
    ],
    "noTrial": null,
