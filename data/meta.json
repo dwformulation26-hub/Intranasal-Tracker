@@ -261,15 +261,15 @@
    "items": 3
   }
  },
- "last_update_run": "2026-11-02T08:02:38+09:00",
- "rotation_cursor": "natesto",
+ "last_update_run": "2026-11-09T08:01:40+09:00",
+ "rotation_cursor": "kr-skbio-nasal-binder",
  "source_health": {
   "sec.gov": "refuses scripts - confirm via search",
   "businesswire.com": "refuses scripts (403) - confirm via search/alternate source",
-  "stocktitan.net": "refuses scripts",
+  "stocktitan.net": "refuses scripts / 410 gone this run too",
   "fda.gov": "refuses scripts (404) - pages exist",
   "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files",
-  "fiercebiotech.com": "refused this run (403, Cloudflare)",
+  "fiercebiotech.com": "refused this run too (403, Cloudflare)",
   "globenewswire.com organization search": "refused this run (403)",
   "aptar.com news listing": "renders empty via fetch; use direct article URL",
   "ASX announcement PDFs (announcements.asx.com.au)": "WebFetch returns encrypted/unreadable text; Read tool on the saved local PDF works",
@@ -282,13 +282,21 @@
   "ir.ataibeckley.com": "DNS blocked this run - could not confirm BPL-003 JAMA publication claim",
   "polyrizon.com / ir.polyrizon.com": "DNS blocked this run - used biopharmawatch GlobeNewswire mirror instead",
   "astrazeneca.com media centre": "refused this run (403) - used VNVC official product page + VN trade press instead",
-  "biospectrumasia.com PDF export": "WebFetch returns only metadata/compressed stream - use the HTML article URL instead"
+  "biospectrumasia.com PDF export": "WebFetch returns only metadata/compressed stream - use the HTML article URL instead",
+  "medicaldialogues.in PDF uploads": "ok this run - official Gazette of India order (NPPA), read via saved local PDF",
+  "biopharmawatch.com": "ok this run - mirrors company press releases verbatim (AMPH, MIST, SPRY, TLSA all loaded)",
+  "sec.gov 8-K exhibit pages (Archives/edgar)": "ok this run via WebFetch (VTGN, SPRY exhibits loaded); sec.gov top-level pages still refuse scripts",
+  "jamanetwork.com": "ok this run - full article text accessible via WebFetch",
+  "primegene.net": "503 Service Unavailable this run - could not verify PG-011/pumecitinib nasal spray NDA acceptance claim",
+  "wowtale.net": "403 Forbidden this run - could not verify LionBio nasal GLP-1 pre-seed funding claim",
+  "globenewswire.com direct release pages": "refuses scripts (403) this run too - use biopharmawatch/finviz mirror",
+  "medscape.com": "404 this run on a guessed article URL - search the headline instead"
  },
  "last_update_counts": {
-  "cards_updated": 2,
-  "cards_added": 0,
-  "news_added": 3,
-  "leads_triaged": 199,
+  "cards_updated": 10,
+  "cards_added": 1,
+  "news_added": 5,
+  "leads_triaged": 194,
   "rotation_checked": 25
  }
 }

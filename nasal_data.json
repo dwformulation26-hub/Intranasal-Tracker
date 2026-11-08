@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-02",
+ "asOf": "2026-11-09",
  "lanes": [
   {
    "id": "market",
@@ -334,10 +334,10 @@
     "ko": "3상 (준비 중)"
    },
    "now": {
-    "en": "Sep 2026: Lilly completed its ~$2.8B AtaiBeckley acquisition; BPL-003 (FDA Breakthrough) is in Phase 3 preparation.",
-    "ko": "2026년 9월: Lilly가 약 28억 달러 규모의 AtaiBeckley 인수를 완료; BPL-003(FDA 혁신치료제 지정)은 3상 준비 중."
+    "en": "Oct 2026: JAMA published Phase 2b data (n=193): MADRS fell 12.5 pts (8mg) vs 5.5 pts comparator at day 29; 8mg dose advances to Phase 3.",
+    "ko": "2026년 10월: JAMA가 2b상 데이터(193명) 게재 - MADRS가 29일차에 8mg군에서 12.5점, 대조군 5.5점 감소; 8mg 용량이 3상으로 진행."
    },
-   "lastMove": "2026-09",
+   "lastMove": "2026-10",
    "trials": [
     {
      "nct": "NCT05870540",
@@ -360,10 +360,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Lilly PR 2026-09-11 (completes AtaiBeckley acquisition)",
-    "url": "https://www.placera.se/pressmeddelanden/lilly-completes-acquisition-of-ataibeckley-to-advance-therapies-for-treatment-resistant-depression-and-other-mental-health-conditions-20260911"
+    "label": "JAMA: Feifel D, et al., Single Intranasal Administration of Mebufotenin for TRD (26 Oct 2026)",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18380"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Sep 2026 AtaiBeckley acquisition close -> Oct 2026 JAMA publication of Phase 2b results (MADRS -12.5 at 8mg vs -5.5 comparator) [found late]",
+     "src": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18380"
+    }
+   ]
   },
   {
    "id": "fasedienol",
@@ -395,10 +402,10 @@
     "ko": "3상 (실패)"
    },
    "now": {
-    "en": "Aug 2026: exploratory repeat-dose Phase 2 (n=61) was not significant; Vistagen is seeking FDA input on a potential registrational path.",
-    "ko": "2026년 8월: 탐색적 반복투여 2상(n=61) 유의성 없음; Vistagen은 허가 경로에 대해 FDA 의견을 구하는 중."
+    "en": "Oct 2026: Vistagen cut 31% of staff but kept core capabilities for a US registration-directed Phase 3 of fasedienol, its retained lead program.",
+    "ko": "2026년 10월: Vistagen이 인력 31%를 감축했으나 주력 프로그램인 fasedienol의 미국 허가지향 3상 핵심 역량은 유지."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-10",
    "trials": [
     {
      "nct": "NCT06615557",
@@ -430,10 +437,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Vistagen release via BioSpace (6 Aug 2026)",
-    "url": "https://www.biospace.com/press-releases/vistagen-announces-topline-results-for-repeat-dose-study-of-fasedienol-for-acute-treatment-of-social-anxiety-disorder"
+    "label": "Vistagen Form 8-K, Item 2.05 (SEC, 26 Oct 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001411685/000162828026068627/vtgn-20261026.htm"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Aug 2026 repeat-dose Ph2 miss -> Oct 2026 31% workforce cut; fasedienol retained as lead program for US registration-directed Phase 3 [found late]",
+     "src": "https://www.sec.gov/Archives/edgar/data/0001411685/000162828026068627/vtgn-20261026.htm"
+    }
+   ]
   },
   {
    "id": "itruvone",
@@ -510,10 +524,10 @@
     "ko": "2a상"
    },
    "now": {
-    "en": "Sep–Oct 2026: INFORM-MS last patient visit done (topline guided for Oct 2026); ALS BANYAN dosing began; Alzheimer's Phase 2 fully enrolled (data Q1 2027).",
-    "ko": "2026년 9–10월: INFORM-MS 마지막 환자 방문 완료(톱라인 10월 예정), ALS BANYAN 투여 개시, 알츠하이머 2상 등록 완료(데이터 2027년 1분기)."
+    "en": "Nov 2026: INFORM-MS Phase 2a (n=48) hit its primary endpoint - 50µg reduced TSPO PET microglial activation vs placebo (p=0.0168); 100µg and EDSS showed no significant change.",
+    "ko": "2026년 11월: INFORM-MS 2a상(48명)이 1차 평가변수를 달성 - 50µg이 위약 대비 TSPO PET 미세교세포 활성화를 감소(p=0.0168); 100µg과 EDSS는 유의한 변화 없음."
    },
-   "lastMove": "2026-10",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT06292923",
@@ -545,10 +559,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Tiziana INFORM-MS last-visit release via StockTitan (21 Sep 2026)",
-    "url": "https://www.stocktitan.net/news/TLSA/tiziana-announces-last-patient-completes-last-visit-in-phase-2a-ckm8mz72y58o.html"
+    "label": "Tiziana INFORM-MS topline release via Finviz (2 Nov 2026)",
+    "url": "https://finviz.com/news/413021/tiziana-announces-positive-topline-results-from-phase-2a-inform-ms-trial-of-intranasal-foralumab-in-non-active-secondary-progressive-multiple-sclerosis"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Sep-Oct 2026 last-visit/enrollment status -> Nov 2026 INFORM-MS Phase 2a topline (50µg hit primary imaging endpoint p=0.0168; 100µg did not)",
+     "src": "https://finviz.com/news/413021/tiziana-announces-positive-topline-results-from-phase-2a-inform-ms-trial-of-intranasal-foralumab-in-non-active-secondary-progressive-multiple-sclerosis"
+    }
+   ]
   },
   {
    "id": "cenegermin-naion",
@@ -1572,10 +1593,10 @@
     "ko": "임상 2상"
    },
    "now": {
-    "en": "Yale-run Phase 2 (n=75) of TNX-1900 for post-pituitary-surgery pain was registered, not yet recruiting as of Jul 2026.",
-    "ko": "Yale 주도 TNX-1900 뇌하수체 수술 후 통증 2상(75명)이 등록됐으며, 2026년 7월 기준 아직 모집 전이다."
+    "en": "Nov 2026: Yale's Phase 2 (n=75) of TNX-1900 for post-pituitary-surgery pain opened to recruitment (was not-yet-recruiting as of Jul 2026).",
+    "ko": "2026년 11월: Yale 주도 TNX-1900 뇌하수체 수술 후 통증 2상(75명)이 모집을 시작(2026년 7월 기준 모집 전이었음)."
    },
-   "lastMove": "2026-07",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT07730294",
@@ -1592,7 +1613,14 @@
     "label": "ClinicalTrials.gov NCT07730294",
     "url": "https://clinicaltrials.gov/study/NCT07730294"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: trial status NOT_YET_RECRUITING -> RECRUITING (registry sync)",
+     "src": "https://clinicaltrials.gov/study/NCT07730294"
+    }
+   ]
   },
   {
    "id": "pecfent",
@@ -2106,10 +2134,10 @@
     "ko": "8개 이상 시장 승인"
    },
    "now": {
-    "en": "Q2 2026 US neffy sales were $26.2M; in Aug 2026 ARS shifted to targeted provider promotion and cut 2H26 spending over 40%.",
-    "ko": "2026년 2분기 미국 neffy 매출은 2,620만 달러였으며, ARS는 8월 의료진 대상 판촉으로 전환하고 하반기 비용을 40% 넘게 줄이기로 했다."
+    "en": "Nov 2026: Q3 2026 US neffy net revenue was $33.4M (5% market share, 9% in targeted accounts); SG&A cut 42% vs 1H26 to reach breakeven by end-2027.",
+    "ko": "2026년 11월: 2026년 3분기 미국 neffy 순매출은 3,340만 달러(시장점유율 5%, 타겟 계정 9%); SG&A를 상반기 대비 42% 절감해 2027년 말 손익분기점 목표."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT06834165",
@@ -2141,10 +2169,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "RTTNews: ARS Q2 2026",
-    "url": "https://www.rttnews.com/3681550/ars-pharma-refocuses-strategy-as-q2-revenue-hits-33-7m.aspx"
+    "label": "ARS Pharmaceuticals Q3 2026 8-K exhibit (SEC, 5 Nov 2026)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001671858/000119312526449748/spry-ex99_1.htm"
    },
-   "checked": "2026-10-26"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Aug 2026 commercial-strategy shift -> Nov 2026 Q3 2026 results ($33.4M neffy revenue, 5% share)",
+     "src": "https://www.sec.gov/Archives/edgar/data/0001671858/000119312526449748/spry-ex99_1.htm"
+    }
+   ]
   },
   {
    "id": "bryn-utuly",
@@ -2336,10 +2371,10 @@
     "ko": "FDA·EU 승인"
    },
    "now": {
-    "en": "Aug 2026: Baqsimi contract-year sales hit $175M, triggering a $100M milestone to Lilly; price erosion partly offset by volume.",
-    "ko": "2026년 8월 Baqsimi 계약연도 매출이 1억 7,500만 달러에 도달해 Lilly에 1억 달러 마일스톤이 발생했으며, 가격 하락을 물량 증가가 일부 상쇄했다."
+    "en": "Nov 2026: Amphastar's Q3 2026 Baqsimi sales hit a record $58.8M, up 10% YoY on higher volume despite price erosion.",
+    "ko": "2026년 11월: Amphastar의 2026년 3분기 Baqsimi 매출이 사상 최대치인 5,880만 달러로 전년 동기 대비 10% 증가(가격 하락에도 불구하고 물량 증가)."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT01994746",
@@ -2371,10 +2406,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Amphastar Q2 2026 results (Finviz)",
-    "url": "https://finviz.com/news/378884/amphastar-pharmaceuticals-reports-financial-results-for-the-three-months-ended-june-30-2026"
+    "label": "Amphastar Q3 2026 results (BioPharmaWatch mirror, 5 Nov 2026)",
+    "url": "https://www.biopharmawatch.com/news/AMPH/amphastar-pharmaceuticals-q3-2026-financial-results"
    },
-   "checked": "2026-10-26"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Aug 2026 $175M contract-year milestone -> Nov 2026 Q3 2026 record Baqsimi sales ($58.8M, +10% YoY)",
+     "src": "https://www.biopharmawatch.com/news/AMPH/amphastar-pharmaceuticals-q3-2026-financial-results"
+    }
+   ]
   },
   {
    "id": "flumist-home",
@@ -2822,10 +2864,10 @@
     "ko": "1상"
    },
    "now": {
-    "en": "NIAID-sponsored Phase 1 (n=80) recruiting as of the Oct 2026 registry update; an inhaled COVID/flu combination is also in Ocugen's pipeline.",
-    "ko": "NIAID 후원 1상(n=80) 2026년 10월 등록 갱신 기준 모집 중; Ocugen 파이프라인에 흡입형 코로나/독감 복합 백신도 포함."
+    "en": "Nov 2026: NIAID-sponsored Phase 1 (n=83) of OCU500 closed to recruitment (now active, not recruiting).",
+    "ko": "2026년 11월: NIAID 후원 OCU500 1상(83명)이 모집을 종료(현재 모집 중지 상태)."
    },
-   "lastMove": "2026-10",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT07536308",
@@ -2842,7 +2884,14 @@
     "label": "ClinicalTrials.gov NCT07536308",
     "url": "https://clinicaltrials.gov/study/NCT07536308"
    },
-   "checked": "2026-10-26"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: trial status RECRUITING -> ACTIVE_NOT_RECRUITING (registry sync)",
+     "src": "https://clinicaltrials.gov/study/NCT07536308"
+    }
+   ]
   },
   {
    "id": "coviliv",
@@ -3852,10 +3901,10 @@
     "ko": "FDA·중국 승인"
    },
    "now": {
-    "en": "China NMPA approved etripamil in Sep 2026; US launch began Feb 2026 and EU decision is expected 1H 2027.",
-    "ko": "2026년 9월 중국 NMPA가 승인했으며, 미국은 2026년 2월 출시, 유럽 허가 결정은 2027년 상반기 예정이다."
+    "en": "Nov 2026: AHA 2026 data showed etripamil converted recurrent PSVT to sinus rhythm in 66.7% of prior-ablation patients (n=6) vs 20% on placebo (n=5, descriptive only).",
+    "ko": "2026년 11월: AHA 2026 데이터에서 etripamil은 이전 절제술 시행 PSVT 환자(n=6)의 66.7%에서 동율동으로 전환, 위약군(n=5)은 20%(기술 통계만)."
    },
-   "lastMove": "2026-09",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT03464019",
@@ -3887,10 +3936,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Milestone 8-K: NMPA approval of etripamil (3 Sep 2026)",
-    "url": "https://www.sec.gov/Archives/edgar/data/0001408443/000110465926105052/tm2624766d1_ex99-1.htm"
+    "label": "Milestone Pharmaceuticals AHA 2026 release via BiopharmaWatch (2 Nov 2026)",
+    "url": "https://www.biopharmawatch.com/news/MIST/cardamyst-etripamil-presentation-aha-2026"
    },
-   "checked": "2026-11-02"
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: Sep 2026 China NMPA approval -> Nov 2026 AHA 2026 post-ablation PSVT subgroup data (66.7% vs 20% conversion, descriptive)",
+     "src": "https://www.biopharmawatch.com/news/MIST/cardamyst-etripamil-presentation-aha-2026"
+    }
+   ]
   },
   {
    "id": "xhance-eds",
@@ -4162,7 +4218,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07465965",
     "url": "https://clinicaltrials.gov/study/NCT07465965"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "orexo-ox472",
@@ -4206,7 +4263,8 @@
    "src": {
     "label": "Orexo pipeline: OX472",
     "url": "https://orexo.com/pipeline/ox472/"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "metp-semaglutide-n2b",
@@ -4250,7 +4308,8 @@
    "src": {
     "label": "Samedan / MetP Pharma release (22 Jan 2026)",
     "url": "https://www.samedanltd.com/?p=10700"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "aptar-glp1-nasal",
@@ -4294,7 +4353,8 @@
    "src": {
     "label": "ChemXplore: Aptar Pharma GLP-1 intranasal/pulmonary PoC (28 May 2026)",
     "url": "https://chemxplore.com/news/aptar-pharma-glp-1-intranasal-pulmonary-delivery"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "mgh-oxytocin-obesity",
@@ -4326,10 +4386,10 @@
     "ko": "2상 (연구자 주도)"
    },
    "now": {
-    "en": "Phase 2 still recruiting (n=55), primary completion estimated Dec 2026; a prior adult 8-week trial showed no weight loss.",
-    "ko": "2상(55명)이 모집 중이며 1차 완료는 2026년 12월 예정이고, 앞선 성인 8주 시험에서는 체중 감소가 없었다."
+    "en": "Phase 2 still recruiting (n=55); primary completion pushed from Dec 2026 to Mar 2027; a prior adult 8-week trial showed no weight loss.",
+    "ko": "2상(55명)이 모집 중이며 1차 완료가 2026년 12월에서 2027년 3월로 연기; 앞선 성인 8주 시험에서는 체중 감소가 없었다."
    },
-   "lastMove": "2026-06",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT04551482",
@@ -4345,7 +4405,15 @@
    "src": {
     "label": "ClinicalTrials.gov NCT04551482",
     "url": "https://clinicaltrials.gov/study/NCT04551482"
-   }
+   },
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: primary completion date Dec 2026 -> Mar 2027 (registry sync)",
+     "src": "https://clinicaltrials.gov/study/NCT04551482"
+    }
+   ]
   },
   {
    "id": "pumecitinib-pg011",
@@ -4405,7 +4473,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07146126",
     "url": "https://clinicaltrials.gov/study/NCT07146126"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "alixer-aldp001",
@@ -4456,7 +4525,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07219849",
     "url": "https://clinicaltrials.gov/study/NCT07219849"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "vivavision-vvn432",
@@ -4507,7 +4577,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07259538",
     "url": "https://clinicaltrials.gov/study/NCT07259538"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "cyrano-cyr064",
@@ -4559,7 +4630,7 @@
     "label": "Clinical Trials Arena: Cyrano's CYR-064 meets primary safety endpoint (19 Oct 2026)",
     "url": "https://www.clinicaltrialsarena.com/news/cyranos-cyr-064-meets-primary-safety-endpoint/"
    },
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "history": [
     {
      "date": "2026-10-26",
@@ -4610,7 +4681,8 @@
    "src": {
     "label": "BioSpace / Altamira release: Bentrio approved in China (19 Dec 2025)",
     "url": "https://www.biospace.com/press-releases/altamira-therapeutics-announces-market-approval-of-bentrio-nasal-spray-in-china"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "polyrizon-pl14",
@@ -4662,7 +4734,7 @@
     "label": "Polyrizon GlobeNewswire release via BioPharmaWatch (27 Oct 2026)",
     "url": "https://www.biopharmawatch.com/news/PLRZ/polyrizon-completes-enrollment-nasarix-allergy-blocker"
    },
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "history": [
     {
      "date": "2026-10-27",
@@ -4701,10 +4773,10 @@
     "ko": "임상 1상"
    },
    "now": {
-    "en": "Phase 1 dose-finding (n=27) registered, planned start Oct 2026, last updated Aug 2026.",
-    "ko": "용량탐색 1상(27명)이 등록되어 2026년 10월 시작 예정이며 2026년 8월 갱신됐다."
+    "en": "Nov 2026: Phase 1 dose-finding (n=27) still not yet recruiting; the planned Oct 2026 start has slipped and primary completion is now pushed to May 2028.",
+    "ko": "2026년 11월: 용량탐색 1상(27명)이 여전히 모집 전; 계획된 2026년 10월 시작이 지연되어 1차 완료가 2028년 5월로 밀림."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT07667413",
@@ -4720,7 +4792,15 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07667413",
     "url": "https://clinicaltrials.gov/study/NCT07667413"
-   }
+   },
+   "checked": "2026-11-09",
+   "history": [
+    {
+     "date": "2026-11-09",
+     "change": "now updated: planned Oct 2026 start slipped (still NOT_YET_RECRUITING); primary completion Jul 2027 -> May 2028 (registry sync)",
+     "src": "https://clinicaltrials.gov/study/NCT07667413"
+    }
+   ]
   },
   {
    "id": "kr-spravato",
@@ -4772,7 +4852,7 @@
     "label": "의학신문(Bosa), 2026-10-29",
     "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3015126"
    },
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "history": [
     {
      "date": "2026-10-29",
@@ -4823,7 +4903,8 @@
    "src": {
     "label": "Dailypharm, 2025-09-29",
     "url": "https://www.dailypharm.com/user/news/1665"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-ryaltris",
@@ -4867,7 +4948,8 @@
    "src": {
     "label": "Dailypharm, 2025-04-09",
     "url": "https://www.dailypharm.com/user/news/6848"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-daewoong-nasal-platform",
@@ -4911,7 +4993,8 @@
    "src": {
     "label": "Dailypharm, 2025-06-16",
     "url": "https://www.dailypharm.com/user/news/4987"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-daewoong-noseguard",
@@ -4962,7 +5045,8 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07516977",
     "url": "https://clinicaltrials.gov/study/NCT07516977"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-koreabnc-jinmedicine",
@@ -5006,7 +5090,8 @@
    "src": {
     "label": "Medigate News, 2025-09-03",
     "url": "https://medigatenews.com/news/2461019250"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-matica-vaxdome",
@@ -5050,7 +5135,8 @@
    "src": {
     "label": "The Bio News, 2026-07-07",
     "url": "https://www.thebionews.net/news/articleView.html?idxno=26164"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-caregen-spikedown",
@@ -5101,7 +5187,8 @@
    "src": {
     "label": "SmartToday, 2023-08-09",
     "url": "https://www.smarttoday.co.kr/ko-kr/articles/33359"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-bioen-bnin01",
@@ -5145,7 +5232,8 @@
    "src": {
     "label": "HIT News, 2024-04-09",
     "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=53866"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "kr-skbio-nasal-binder",
@@ -5189,7 +5277,8 @@
    "src": {
     "label": "Dealsite, 2022-04-13",
     "url": "https://dealsite.co.kr/articles/85716"
-   }
+   },
+   "checked": "2026-11-09"
   },
   {
    "id": "jp-neffy-alfresa",
@@ -5623,7 +5712,7 @@
     "url": "https://finviz.com/news/405349/neonc-technologies-and-the-department-of-health-abu-dhabi-sign-mou-to-advance-brain-cancer-research-and-proposed-clinical-collaboration"
    },
    "added": "2026-10-22",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "history": [
     {
      "date": "2026-10-26",
@@ -5780,7 +5869,7 @@
     "url": "https://www.cfi.net.cn/p20261023001196.html"
    },
    "added": "2026-10-26",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "id": "scienture-rezenopy",
@@ -5826,10 +5915,95 @@
     "url": "https://pr.redmondspokesman.com/article/SCIENTURE-Announces-Commercial-Launch-and-Fulfillment-of-Initial-Purchase-Orders-of-REZENOPYtm-the-Highest-Dose-FDA-Approved-Naloxone-Nasal-Spray/6a7c6247e2557832e110e08f"
    },
    "added": "2026-10-26",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
+  },
+  {
+   "id": "biodeal-midazolam-nasal",
+   "lane": "market",
+   "region": "IN",
+   "area": "CNS",
+   "company": {
+    "en": "Biodeal Pharmaceuticals",
+    "ko": "Biodeal Pharmaceuticals"
+   },
+   "product": {
+    "en": "Midazolam Nasal Spray (Biodeal)",
+    "ko": "미다졸람 나잘스프레이(Biodeal)"
+   },
+   "api": {
+    "en": "Midazolam 1.25 mg per actuation",
+    "ko": "미다졸람 1.25 mg(1회 분사당)"
+   },
+   "indication": {
+    "en": "Acute repetitive seizure clusters",
+    "ko": "급성 반복 발작(군집발작)"
+   },
+   "device": {
+    "en": "Multi-dose spray, 1.2 mL/12 actuations (device maker unconfirmed)",
+    "ko": "다회용 스프레이, 1.2mL/12회 분사 (기기 제조사 미확인)"
+   },
+   "stage": {
+    "en": "Approved in India (2025)",
+    "ko": "인도 승인(2025년)"
+   },
+   "now": {
+    "en": "Nov 2026: India's NPPA exempted Biodeal's Midazolam Nasal Spray 1.25mg from price controls for 5 years from its May 2025 CDSCO approval.",
+    "ko": "2026년 11월: 인도 NPPA가 Biodeal의 미다졸람 나잘스프레이 1.25mg에 대해 2025년 5월 CDSCO 승인일로부터 5년간 가격통제 면제를 부여."
+   },
+   "lastMove": "2026-11",
+   "trials": [],
+   "noTrial": {
+    "en": "Approved via CDSCO new-drug pathway; no NCT found",
+    "ko": "CDSCO 신약 경로로 승인; 관련 NCT 없음"
+   },
+   "src": {
+    "label": "Gazette of India / NPPA order S.O. 6000(E) (2 Nov 2026)",
+    "url": "https://medicaldialogues.in/pdf_upload/2026/11/05/277621-482300.pdf"
+   },
+   "added": "2026-11-09",
+   "checked": "2026-11-09"
   }
  ],
  "news": [
+  {
+   "date": "2026-11-02",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Tiziana's Phase 2a INFORM-MS trial (n=48) of intranasal foralumab in non-active secondary progressive MS hit its imaging primary endpoint at 50µg (p=0.0168) but not at 100µg.",
+    "ko": "Tiziana의 비활성 2차진행형 MS 대상 비강 foralumab 2a상 INFORM-MS(48명)가 50µg에서 영상 1차 평가변수를 달성(p=0.0168)했으나 100µg에서는 실패했다."
+   },
+   "src": {
+    "label": "Tiziana INFORM-MS topline release via Finviz",
+    "url": "https://finviz.com/news/413021/tiziana-announces-positive-topline-results-from-phase-2a-inform-ms-trial-of-intranasal-foralumab-in-non-active-secondary-progressive-multiple-sclerosis"
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Milestone presented AHA 2026 data showing CARDAMYST (etripamil) converted recurrent PSVT to sinus rhythm in 66.7% of post-ablation patients (n=6) vs 20% on placebo (n=5); descriptive subgroup only.",
+    "ko": "Milestone가 AHA 2026에서 CARDAMYST(etripamil)가 절제술 후 환자(n=6)의 66.7%에서 PSVT를 동율동으로 전환시켰고 위약군(n=5)은 20%였다고 발표(기술통계에 한한 부분집단 분석)."
+   },
+   "src": {
+    "label": "Milestone Pharmaceuticals AHA 2026 release via BiopharmaWatch",
+    "url": "https://www.biopharmawatch.com/news/MIST/cardamyst-etripamil-presentation-aha-2026"
+   }
+  },
+  {
+   "date": "2026-11-02",
+   "region": "GL",
+   "type": "Regulatory",
+   "text": {
+    "en": "India's NPPA exempted Biodeal's Midazolam Nasal Spray 1.25mg from price controls for 5 years, retroactive to its May 2025 CDSCO approval as a new drug for seizure clusters.",
+    "ko": "인도 NPPA가 Biodeal의 미다졸람 나잘스프레이 1.25mg에 대해 2025년 5월 CDSCO의 군집발작용 신약 승인일로 소급해 5년간 가격통제를 면제했다."
+   },
+   "src": {
+    "label": "Gazette of India / NPPA order S.O. 6000(E)",
+    "url": "https://medicaldialogues.in/pdf_upload/2026/11/05/277621-482300.pdf"
+   }
+  },
   {
    "date": "2026-10-29",
    "region": "KR",
@@ -5867,6 +6041,32 @@
    "src": {
     "label": "Polyrizon GlobeNewswire release via BioPharmaWatch (27 Oct 2026)",
     "url": "https://www.biopharmawatch.com/news/PLRZ/polyrizon-completes-enrollment-nasarix-allergy-blocker"
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "JAMA published Phase 2b results (n=193) for Eli Lilly/AtaiBeckley's intranasal mebufotenin (BPL-003): MADRS fell 12.5 points on 8mg vs 5.5 on comparator at day 29.",
+    "ko": "JAMA가 Eli Lilly/AtaiBeckley의 비강 메부포테닌(BPL-003) 2b상 결과(193명)를 게재 - 29일차 MADRS가 8mg군에서 12.5점, 대조군에서 5.5점 감소."
+   },
+   "src": {
+    "label": "JAMA: Feifel D, et al.",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2026.18380"
+   }
+  },
+  {
+   "date": "2026-10-26",
+   "region": "GL",
+   "type": "Corporate",
+   "text": {
+    "en": "Vistagen cut 31% of staff but retained core capabilities for a US registration-directed Phase 3 of its lead nasal-spray candidate fasedienol.",
+    "ko": "Vistagen이 인력 31%를 감축했으나 주력 비강 스프레이 후보 fasedienol의 미국 허가지향 3상 핵심 역량은 유지했다."
+   },
+   "src": {
+    "label": "Vistagen Form 8-K, Item 2.05 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001411685/000162828026068627/vtgn-20261026.htm"
    }
   },
   {

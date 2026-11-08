@@ -6261,7 +6261,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Lower dose of Tiziana's MS drug reduces neuroinflammation, while higher dose struggles - Fierce Biotech",
@@ -6277,7 +6278,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Tiziana Announces Positive Topline Results from Phase 2a INFORM-MS Trial of Intranasal Foralumab in Non-Active Secondary Progressive Multiple Sclerosis - The Manila Times",
@@ -6295,7 +6297,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Tiziana Life Sciences Announces Positive Phase 2a INFORM-MS Trial Results for Intranasal Foralumab - Kalkine Media",
@@ -6313,7 +6316,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Tiziana touts multiple sclerosis win at lower dose as high dose misses mark - BioSpace",
@@ -6329,7 +6333,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "NeOnc Technologies to Present Data from Its NEO100 and NEO212 Programs at the 31st Annual Meeting of the Society for Neuro-Oncology - The Manila Times",
@@ -6345,7 +6350,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "neonc-neo100 - future conf announcement only, no new data"
   },
   {
    "title": "NeOnc Is Putting Two Brain Cancer Programs on the Global Stage - The Manila Times",
@@ -6359,7 +6365,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "New Data Presented at AHA Scientific Sessions 2026 Demonstrate That CARDAMYST® (etripamil) Nasal Spray Converted Recurrent PSVT to Normal Heart Rhythm in Patients with Prior Catheter Ablation - The Manila Times",
@@ -6377,7 +6384,8 @@
     "etripamil"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "FDA approves new preservative-free ketamine, but hospitals still face a shortage first recorded in 2018 - Medical Daily",
@@ -6391,7 +6399,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "Milestone data show Cardamyst converted PSVT in post-ablation patients - StreetInsider",
@@ -6407,7 +6416,8 @@
     "Cardamyst"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "After a heart procedure, a nasal spray restored normal rhythm within 30 minutes in about two-thirds of a small group. - Stock Titan",
@@ -6423,7 +6433,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "Tiziana Announces Positive Topline Results from Phase 2a - GlobeNewswire",
@@ -6439,7 +6450,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "New Data Presented at AHA Scientific Sessions 2026 - GlobeNewswire",
@@ -6453,7 +6465,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "NeOnc Technologies to Present Data from Its NEO100 and - GlobeNewswire",
@@ -6469,7 +6482,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "neonc-neo100 - future conf announcement only, no new data"
   },
   {
    "title": "NeOnc Is Putting Two Brain Cancer Programs on the Global Stage - GlobeNewswire",
@@ -6483,7 +6497,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Emergent Biosolutions Reports Third Quarter 2026 Financial Results - Business Wire",
@@ -6497,7 +6512,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Alpha Cognition to Report Third Quarter 2026 Financial Results and Provide Business Update - Business Wire",
@@ -6511,7 +6527,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Tonix Pharmaceuticals Appoints George Lederman, Ph.D., as Executive Vice President of Strategy and Transformation - GlobeNewswire",
@@ -6525,7 +6542,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "BreathiZen Details Current Three-Botanical Label for Its - GlobeNewswire",
@@ -6539,7 +6557,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "티지아나, 비강형 다발성경화증 치료제 2상서 주요 목표 충족 - 메디컬투데이",
@@ -6553,7 +6572,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "한국얀센 ‘스프라바토’, 치료저항성 우울증에 건강보험 적용 - 헬스오",
@@ -6569,7 +6589,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "kr-spravato - already on card from last run"
   },
   {
    "title": "「最大クラスのBMW」新型は“鼻”がさらに巨大化！ 日本仕様が発売に ハイブリッドとEVの2本立て - carview!",
@@ -6583,7 +6604,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "カルディ、お鼻がボタンになってる「柴犬コインケース」発売。カラビナ付きでいつでも一緒 - グルメ Watch",
@@ -6597,7 +6619,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "irrelevant consumer product (keyword noise)"
   },
   {
    "title": "身体好就不用打流感疫苗？这几个常见误区要避开 - 极目新闻",
@@ -6611,7 +6634,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "抗心律失常药物市场规模、份额及2036年预测 - Fact.MR",
@@ -6625,7 +6649,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "UniQure gets review date and adcomm; Inovia's stock surges after approval",
@@ -6641,7 +6666,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Tiziana touts multiple sclerosis win at lower dose as high dose misses mark",
@@ -6658,7 +6684,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Vistagen cuts workforce for second time in 2026",
@@ -6674,7 +6701,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "fasedienol - Vistagen 31% workforce cut (found late)"
   },
   {
    "title": "스프라바토 급여 첫발…치료저항성 우울증 시장 안착 과제는",
@@ -6691,7 +6719,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "kr-spravato - already on card from last run"
   },
   {
    "title": "11월 신규·급여확대 약제 연 2252억원…실제 추가 부담은 이보다 낮아",
@@ -6707,7 +6736,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "kr-spravato - already on card from last run"
   },
   {
    "title": "Intranasal HSV‑1 infection drives region‑specific interferon‑dominant microglial remodeling  \"Herpes simplex virus type 1 (HSV-1) is a neurotropic pathogen capable of invading the central nervous system (CNS) and is associated with chronic neuroinflammation,1/2  journals.plos.org",
@@ -6724,7 +6754,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic HSV-1 microglial study, no company"
   },
   {
    "title": "#TLSA Tiziana Announces Positive Topline Results from Phase 2a INFORM-MS Trial of Intranasal Foralumab in Non-Active Secondary P…  https://www.stocktitan.net/news/TLSA/tiziana-announces-positive-topline-results-from-phase-2a-inform-ms-ciybrxfy2fc2.html?utm_source=stocktitan-blues",
@@ -6744,7 +6775,8 @@
     "tiziana"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "#MIST New Data Presented at AHA Scientific Sessions 2026 Demonstrate That CARDAMYST® (etripamil) Nasal Spray Converted Recurren…  https://www.stocktitan.net/news/MIST/new-data-presented-at-aha-scientific-sessions-2026-demonstrate-that-rju97g4ubuvq.html?utm_source=stocktitan-blues",
@@ -6763,7 +6795,8 @@
     "etripamil"
    ],
    "fetched": "2026-11-03T09:49+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "Intranasal Anti-CD3 Antibody Foralumab Reduces Brain Inflammation at Low Dose in Progressive MS, but Higher Dose Misses - BioPharm International",
@@ -6780,7 +6813,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Mebufotenin Shows Rapid Antidepressant Effects in Phase 2b Trial - HMP Global Learning Network",
@@ -6794,7 +6828,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "ARS Pharmaceuticals rated Buy despite slow adop... - Pluang",
@@ -6810,7 +6845,8 @@
     "ARS Pharmaceuticals"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "analyst opinion note, not new fact"
   },
   {
    "title": "Ameriwest advances Oregon copper-gold project with historic core resampling - Proactive financial news",
@@ -6824,7 +6860,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Market movers: Shopify, Apple, ON Semiconductor, Kirkland Lake Discoveries... - Proactive financial news",
@@ -6838,7 +6875,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Lupin Receives U.S. FDA Approval for Amifampridine Tablets - www.lupin.com",
@@ -6852,7 +6890,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Lupin amifampridine tablets, not nasal"
   },
   {
    "title": "Experimental MS therapy reduces brain inflammation in Phase 2 trial - Multiple Sclerosis News Today",
@@ -6866,7 +6905,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Milestone presents data on etripamil for post-ablation PSVT By Investing.com - Investing.com India",
@@ -6882,7 +6922,8 @@
     "etripamil"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "Combined Oxymetazoline and Budesonide Relieves Nasal Obstruction: JAMA - Medical Dialogues",
@@ -6896,7 +6937,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "A heart-medicine developer, Milestone Pharmaceuticals, will report Q3 results Nov. 13 and host an 8:30 a.m. call. - Stock Titan",
@@ -6912,7 +6954,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "routine corporate/earnings-date note"
   },
   {
    "title": "Milestone Pharmaceuticals to Announce Third Quarter 2026 Financial Results on November 13, 2026 - The Manila Times",
@@ -6928,7 +6971,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "routine corporate/earnings-date note"
   },
   {
    "title": "Orexo Sets Terms for SEK 253 Million Rights Issue - TipRanks",
@@ -6942,7 +6986,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Scientists Figured Out Why Nose Breathing Calms You Down - Medical News Bulletin",
@@ -6956,7 +7001,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Peptide Therapies Are Changing the Future of Medicine — And the Market Could Reach $335 Billion - GlobeNewswire",
@@ -6970,7 +7016,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Teva’s Pivot to Growth Strategy Delivers 33% Growth Across - GlobeNewswire",
@@ -6984,7 +7031,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Four Elevated Short Interest Stocks as Oil Retreats and Midterm Elections Approach - GlobeNewswire",
@@ -6998,7 +7046,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Emergent Biosolutions Reports Third Quarter 2026 Financial Results - BioSpace",
@@ -7012,7 +7061,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Alpha Cognition to Report Third Quarter 2026 Financial Results and Provide Business Update - BioSpace",
@@ -7026,7 +7076,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "Teva’s Pivot to Growth Strategy Delivers 33% Growth Across Key Innovative Brands; Raises 2026 Outlook for AUSTEDO®, AJOVY® and UZEDY®; Delivers Substantial Gross Margin Expansion - BioSpace",
@@ -7040,7 +7091,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "비강 인플루엔자 백신, 점막면역·교차방어 강점…소아 접종 선택지 확대 - 메디칼업저버",
@@ -7056,7 +7108,8 @@
     "비강"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general FluMist Korea explainer, no new fact"
   },
   {
    "title": "니온크 테크놀로지스, 11월 학회서 NEO100·NEO212 임상 데이터 발표 예정 - 데이터투자",
@@ -7072,7 +7125,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "neonc-neo100 - future conf announcement only (Korean dup)"
   },
   {
    "title": "‘치료제 없는’ na-SPMS 잡았다… 티지아나 ‘비강 포랄루맙’ 임상 2a상 성공 - 아이알팜",
@@ -7088,7 +7142,8 @@
     "비강"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general FluMist Korea explainer, no new fact"
   },
   {
    "title": "[스테로이드 없는] 코에픽 노즈베리어 비강 보호 코 알레르기 비염 코막힘 나잘 스프레이 20ml, 1개 - 판다랭크",
@@ -7104,7 +7159,8 @@
     "나잘 스프레이"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "OTC saline spray resale listing"
   },
   {
    "title": "[GLP-1의 반란] ② GLP-1RA-보라시데닙 병용으로 IDH 변이 뇌종양 치료 한계 넘는다… 중수소 대사 영상으로 정밀의료 패러다임 제시 - 아이알팜",
@@ -7118,7 +7174,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "普祺医药1类新药普美昔替尼鼻喷雾剂上市申请获国家药监局受理 - 观点网",
@@ -7134,7 +7191,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "PG-011/pumecitinib NDA claim unverifiable this run (Watching)"
   },
   {
    "title": "普祺医药1类新药用于治疗季节性过敏性鼻炎的普美昔替尼鼻喷雾剂NDA获受理 - ByDrug",
@@ -7150,7 +7208,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "PG-011/pumecitinib NDA claim unverifiable this run (Watching)"
   },
   {
    "title": "甲硝唑磨成粉吸入能治鼻炎？专家给出规范护理法 - 京报网",
@@ -7164,7 +7223,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "身体好就不用打流感疫苗？这几个常见误区要避开 - 北晚在线",
@@ -7178,7 +7238,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "身体好就不用打流感疫苗？这几个常见误区要避开 - 央广网",
@@ -7192,7 +7253,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "孩子上课走神查出过敏性鼻炎，家长囤起了“通鼻神器”？医生：长期使用有可能越喷越堵！-yeeyi - yeeyi",
@@ -7206,7 +7268,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "injectable ketamine shortage, not intranasal"
   },
   {
    "title": "UniQure gets review date and adcomm; Inovio's stock surges after approval",
@@ -7222,7 +7285,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Self-Administered Treatment in Paroxysmal Supraventricular Tachycardia (PSVT): Clinical and Payer Considerations With CARDAMYST® (Etripamil)",
@@ -7239,7 +7303,8 @@
     "Etripamil"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "한국얀센 우울증 치료제 스프라바토 건강보험 급여 적용",
@@ -7256,7 +7321,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "kr-spravato - already on card from last run"
   },
   {
    "title": "🚨 $NTHI On November 2, 2026, NeOnc Technologies Holdings, Inc. issued a press release announcing that data from its intranasal NEO100 and oral NEO212 programs will be presented in two posters on November 13, 2026, at the 31st Annual Meeting and Education Day of the Society for Ne",
@@ -7274,7 +7340,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social dup of NeOnc conference announcement"
   },
   {
    "title": "Boosting hybrid immunity with intranasal live-attenuated or intramuscular mRNA vaccination prevents SARS-CoV-2 XBB.1.5 transmission  www.sciencedirect.com/science/arti...",
@@ -7291,7 +7358,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic vaccination immunology study, no company"
   },
   {
    "title": "#MS_Selfie_Research Intranasal foralumab in non-active SPMS  What the INFORM-MS results do and don’t tell us => gavingiovannoni.substack.com/p/intranasal...",
@@ -7310,7 +7378,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social explainer thread, no new fact beyond card update"
   },
   {
    "title": "ELEVIDYS Shows Functional Benefits in Patients With DMD www.neurologylive.com/view/elevidy...",
@@ -7327,7 +7396,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic HSV-1 microglial study, no company"
   },
   {
    "title": "An intervention against inflammation: \"intranasal hiPSC-NSC-EVs therapy in late middle age can effectively diminish proinflammatory microglial transcriptome and signalling cascades that drive neuroinflammaging in the hippocampus\" isevjournals.onlinelibrary.wiley.com/doi/10.1002/.",
@@ -7345,7 +7415,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic HSV-1 microglial study, no company"
   },
   {
    "title": "Vistagen $VTGN marked its Phase 3 PALISADE-3 fasedienol trial as completed on the trial registry.  Mon close $0.17: below SMA50, below SMA200, RSI deeply oversold.  Hub: www.merlintrader.com/vistagen-the...  Not investment advice.",
@@ -7365,7 +7436,8 @@
     "vistagen"
    ],
    "fetched": "2026-11-04T08:06+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "fasedienol - trial registry completion, no new fact (covered by CT.gov sync)"
   },
   {
    "title": "Tiziana says nasal MS drug cuts brain inflammation in mid-stage study - Proactive financial news",
@@ -7381,7 +7453,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Combination Nasal Spray Blocks Rebound Congestion - Medscape",
@@ -7397,7 +7470,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic combo-spray trial, no company sponsor/brand"
   },
   {
    "title": "Tiziana's foralumab reduces microglial activation in Phase IIa MS trial at lower dose only - AllSci",
@@ -7414,7 +7488,8 @@
     "foralumab"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Tiziana Life Sciences Ltd (TLSA) stock price, news, quote and history - Yahoo Finance UK",
@@ -7430,7 +7505,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock price page, no new fact"
   },
   {
    "title": "Tiziana Life Sciences Ltd (TLSA) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -7446,7 +7522,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Hut 8 shares plunge as third-quarter loss widens and revenue misses forecasts - Proactive financial news",
@@ -7460,7 +7537,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Tiziana Life Sciences (TLSA) amendment covers an earlier report and its attached exhibit. - Stock Titan",
@@ -7476,7 +7554,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Overview of the Intranasal Drug Delivery Devices Market Highlighting Major Trends and Industry Advancements - openPR.com",
@@ -7492,7 +7571,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic vaccination immunology study, no company"
   },
   {
    "title": "FDA Approval for MOMETASONE FUROATE issued to AMNEAL PHARMS - Quantisnow",
@@ -7506,7 +7586,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "What Is Narcan? Naloxone Nasal Spray Explained - CASRAI",
@@ -7523,7 +7604,8 @@
     "Narcan"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Narcan explainer, no new fact"
   },
   {
    "title": "New data demonstrate etripamil nasal spray can convert recurrent PSVT to normal heart rhythm in prior-ablation patients - Cardiac Rhythm News",
@@ -7540,7 +7622,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst AHA data"
   },
   {
    "title": "The BioPharm Brief: A Potency Rulebook, a CDMO Buyout, and a Nasal Antibody for MS - BioPharm International",
@@ -7554,7 +7637,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "How Does Naloxone Work? Mechanism, Duration and Why 911 Still Matters - CASRAI",
@@ -7568,7 +7652,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - Quantisnow",
@@ -7584,7 +7669,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "routine corporate/Nasdaq inducement-grant filing"
   },
   {
    "title": "Nasal Pneumococcal Vaccine Ab-01.12 Clears Ethics Review for First Human Trial - Tech Times",
@@ -7598,7 +7684,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - GlobeNewswire",
@@ -7614,7 +7701,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "routine corporate/Nasdaq inducement-grant filing"
   },
   {
    "title": "Polaris Rx Selected by Bristol Myers Squibb to Dispense ZENBEXUS™ (iberdomide), the First FDA-Approved CELMoD Therapy for Multiple Myeloma - Business Wire",
@@ -7628,7 +7716,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Neuronetics Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) - GlobeNewswire",
@@ -7642,7 +7731,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Tonix Pharmaceuticals to Present at Guggenheim’s 3rd Annual Healthcare Innovation Conference - GlobeNewswire",
@@ -7656,7 +7746,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Neuronetics Reports Third Quarter 2026 Financial and Operating Results - GlobeNewswire",
@@ -7670,7 +7761,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Inducement Grants Under Nasdaq Listing Rule 5635(c)(4) - November 3, 2026 - BioSpace",
@@ -7686,7 +7778,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "routine corporate/Nasdaq inducement-grant filing"
   },
   {
    "title": "Neuronetics Reports Third Quarter 2026 Financial and Operating Results - BioSpace",
@@ -7700,7 +7793,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Top 5 Drugs Worldwide by Sales: The Pharmaceutical Powerhouses Behind a Trillion-Dollar Industry by Towards Healthcare Research and Consulting - BioSpace",
@@ -7714,7 +7808,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "20년 비염약 사라진다… 동일 성분 대체약 없는 국내 시장의 취약성 - IT조선",
@@ -7728,7 +7823,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "구강호흡이 부르는 노화…코 건강 개선 '삼백초 추출물LHF618' 적용 과정은? - 보건신문",
@@ -7742,7 +7838,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "注目高まる“上咽頭ケア”！ 梅エキスを活用した上咽頭洗浄「ミサトール - ニコニコニュース",
@@ -7756,7 +7853,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "抗流感鼻腔喷雾的转化开发：鼻黏膜感染模型、递送评价与减少动物实验的整合框架 - 生物通",
@@ -7772,7 +7870,8 @@
     "鼻腔"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic review article, no company/product"
   },
   {
    "title": "甲硝唑磨成粉吸入能治鼻炎？专家给出规范护理法 - 京报网",
@@ -7786,7 +7885,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "领跑东北！长春高新区生物医药综合竞争力居全国第19位 - 央广网",
@@ -7800,7 +7900,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "港大初创团队包揽\"创客中国\"香港站三甲 - The University of Hong Kong (HKU)",
@@ -7814,7 +7915,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "身体好就不用打流感疫苗？这几个常见误区要避开 - 京报网",
@@ -7828,7 +7930,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "GC녹십자, OTC 비염 스프레이 시장 ‘백기’ … 판매 부진 ‘콜즈록’ 출시 2년여 만에 철수",
@@ -7844,7 +7947,8 @@
     "나잘스프레이"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "GC Green Cross untracked OTC decongestant withdrawal"
   },
   {
    "title": "Vacuna intranasal frente a la tosferina: BPZE1 despierta la inmunidad nasal, pero ¿evita la transmisión?  Un ensayo aleatorizado de fase 2b en 366 niños y adolescentes muestra que la vacuna intranasal BPZE1 induce una potente respuesta de IgA nasal y es bien tolerada. Analizamos ",
@@ -7862,7 +7966,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-05T08:29+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "BPZE1 explainer, already on card, no new fact"
   },
   {
    "title": "Tiziana to Host Investor Call with Key Opinion Leaders to Discuss Positive Phase 2a INFORM-MS Topline Results - WBOC TV",
@@ -7878,7 +7983,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline (investor call)"
   },
   {
    "title": "Case reveals tooth in patient’s nasal cavity - American Dental Association",
@@ -7892,7 +7998,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "NeOnc Reports Third Quarter 2026 Financial Results and Highlights Recent Corporate and Clinical Progress - TradingView",
@@ -7906,7 +8013,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Tiziana’s Phase IIa trial of foralumab meets dual endpoints in na-SPMS - Clinical Trials Arena",
@@ -7923,7 +8031,8 @@
     "foralumab"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Synthetic DMT-like psychedelic produces ‘rapid, robust, and durable’ drop in depressive symptoms - Medical Republic",
@@ -7937,7 +8046,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Amphastar Pharmaceuticals Reports Financial Results for the Three Months Ended September 30, 2026 - TradingView",
@@ -7951,7 +8061,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "ARS Pharmaceuticals: Lawsuits And Cash Burn Are Priced In, Yet The Stock Keeps Falling - Seeking Alpha",
@@ -7967,7 +8078,8 @@
     "ARS Pharmaceuticals"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "analyst opinion note, not new fact"
   },
   {
    "title": "Shark Tank investor to join LTR Pharma - The Australian",
@@ -7981,7 +8093,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Two NEO100 and NEO212 posters are scheduled for NeOnc (NTHI) in Philadelphia on November 13, 2026. - Stock Titan",
@@ -7997,7 +8110,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "neonc-neo100 - future conf announcement only (Korean dup)"
   },
   {
    "title": "ARS Pharma Reports Business Highlights and Third Quarter 2026 Financial Results - The Manila Times",
@@ -8011,7 +8125,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Nasal spray duo offers relief for stubborn blocked noses without rebound congestion in early clinical trial - Medical Xpress",
@@ -8027,7 +8142,8 @@
     "Nasal spray"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general OTC combo-spray consumer article"
   },
   {
    "title": "Rubicon Reports Five FDA-Approved Nasal Products After 2020 Deal - Multibagg AI",
@@ -8041,7 +8157,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "NPPA Grants Biodeal's Midazolam Nasal Spray 5 Year Price Control Exemption - Medical Dialogues",
@@ -8057,7 +8174,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "India Biodeal midazolam - handled via NPPA Gazette order directly"
   },
   {
    "title": "Key facts: Branded outlook raised; $250m repurchase completed; Rx flat - TradingView",
@@ -8071,7 +8189,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Ethris Reports Positive Topline Phase 2a Data for Nasal mRNA Candidate ETH47 in Asthma Patients Challenged with Rhinovirus - The Manila Times",
@@ -8085,7 +8204,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "BreathiZen Reviews: Company Publishes Graded Research Summary and Label Notice for Its Oral Spray - USA Today",
@@ -8099,7 +8219,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Too Soon: HHS peptide policy - Bluffton Icon",
@@ -8113,7 +8234,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "week 45 / 2026 - Science X",
@@ -8127,7 +8249,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise, mining/misc)"
   },
   {
    "title": "NPPA exempts Biodeal’s indigenously developed midazolam nasal spray from price control for five years - BusinessLine",
@@ -8143,7 +8266,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "India Biodeal midazolam - handled via NPPA Gazette order directly"
   },
   {
    "title": "Daily peanuts for 16 weeks affected the brain’s response to insulin — News-Medical - UA.NEWS",
@@ -8157,7 +8281,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Glenmark partner IGI to present updated ISB 2001 data at ASH meeting - scanx.trade",
@@ -8171,7 +8296,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Hikma Pharmaceuticals Tightens 2026 Operating Profit Forecast to $740M-$760M Amid Strong Branded Segment Performance - Kalkine Media",
@@ -8185,7 +8311,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "ARS Pharma Reports Business Highlights and Third Quarter 2026 Financial Results - GlobeNewswire",
@@ -8199,7 +8326,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "From Gene Therapy to AI Drug Discovery, Sixth Annual BioTech Breakthrough Awards Names 2026 Winners - GlobeNewswire",
@@ -8213,7 +8341,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Ethris Reports Positive Topline Phase 2a Data for Nasal - GlobeNewswire",
@@ -8227,7 +8356,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Phillips Medisize Acquires Chippenham Facility to Expand Global Inhalation Center of Excellence - BioSpace",
@@ -8241,7 +8371,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Neuronetics Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) - November 4, 2026 - BioSpace",
@@ -8255,7 +8386,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "GC녹십자, OTC 비염 스프레이 시장 ‘백기’ … 판매 부진 ‘콜즈록’ 출시 2년여 만에 철수 - 헬스코리아뉴스",
@@ -8269,7 +8401,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "코에 뿌리는 항체약, 뇌 염증 줄일까?⋯다발성경화증 환자서 지표 개선 - 코메디닷컴",
@@ -8285,7 +8418,8 @@
     "코에 뿌리는"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline (Korean coverage)"
   },
   {
    "title": "薬が効かない「難治性うつ病」に、ヒキガエル毒素由来の点鼻スプレーが劇的効果 - au Webポータル",
@@ -8301,7 +8435,8 @@
     "点鼻"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "bpl-003 JAMA publication coverage (found late)"
   },
   {
    "title": "注目高まる“上咽頭ケア”！ 梅エキスを活用した上咽頭洗浄「ミサトール リノローション」が『ananカラダにいいもの大賞2026・秋』《準グランプリ》を受賞！ - Mantan Web",
@@ -8315,7 +8450,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "薬が効かない「難治性うつ病」に、ヒキガエル毒素由来の点鼻スプレーが劇的効果 - Excite エキサイト",
@@ -8331,7 +8467,8 @@
     "点鼻"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "bpl-003 JAMA publication coverage (found late)"
   },
   {
    "title": "普祺医药1类创新药普美昔替尼鼻喷雾剂NDA获受理有望为季节性过敏性鼻炎患者提供全新治疗选择 - 凤凰网财经",
@@ -8347,7 +8484,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "PG-011/pumecitinib NDA claim unverifiable this run (Watching, Korean/CN dup)"
   },
   {
    "title": "2026年鼻炎用药参考：先看不同鼻部问题的处理路径 - 手机新浪网",
@@ -8361,7 +8499,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "ARS Pharma Reports Business Highlights and Third Quarter 2026 Financial Results",
@@ -8377,7 +8516,8 @@
     "neffy"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy Q3 2026 results"
   },
   {
    "title": "Ages 2-49 can also self vaccinate at home with a nasal spray! (In most states. My insurance covered it, I just paid a nominal shipping fee.)   www.flumist.com",
@@ -8398,7 +8538,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "FluMist explainer, no new fact"
   },
   {
    "title": "Spravato or IV ketamine? One is an FDA-approved nasal spray often covered by insurance; the other is off-label and usually self-pay. Compared:  https://www.rothfamilymed.com/blog/spravato-vs-iv-ketamine  #Spravato #Ketamine",
@@ -8417,7 +8558,8 @@
     "spravato"
    ],
    "fetched": "2026-11-06T08:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Spravato/ketamine explainer, no new fact"
   },
   {
    "title": "LionBio Raises $6M Pre-Seed for a Nasal-Spray GLP-1 - Wowtale",
@@ -8431,7 +8573,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "Could a nasal spray loaded with nanorobots buy Alzheimer’s patients an extra decade? - Texas A&M Stories",
@@ -8447,7 +8590,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic nanorobot Alzheimer's research, no company"
   },
   {
    "title": "Tiziana Life Sciences to discuss positive Phase 2a multiple sclerosis trial results - Proactive financial news",
@@ -8463,7 +8607,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline (investor call)"
   },
   {
    "title": "Amphastar Pharmaceuticals Q3 Earnings Call Highlights - TradingView",
@@ -8477,7 +8622,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Tiziana Life Sciences Reports Positive Phase 2a INFORM-MS Results for Intranasal Foralumab - TipRanks",
@@ -8495,7 +8641,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline"
   },
   {
    "title": "Biologics, nasal challenges and head-to-head asthma data take the stage at Canadian allergy meeting - Bioengineer.org",
@@ -8509,7 +8656,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Peptide Uses: Medicine, Skincare, Wellness, and More - GoodRx",
@@ -8523,7 +8671,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "How Medical Breakthroughs Reach Patients - RealClearHealth",
@@ -8537,7 +8686,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Eating peanuts every day may change your brains insulin response - News-Medical",
@@ -8551,7 +8701,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "ARS Pharmaceuticals Q3 Earnings Call Highlights - TradingView",
@@ -8567,7 +8718,8 @@
     "ARS Pharmaceuticals"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy Q3 2026 results (earnings call highlights)"
   },
   {
    "title": "ARS Pharma (SPRY) Q3 2026 Earnings Call Transcript - The Globe and Mail",
@@ -8581,7 +8733,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "AMPH Q3 2026 deep dive: pipeline progress and manufacturing challenges shape outlook - StockStory",
@@ -8595,7 +8748,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Orexo Shareholders Approve Rights Issue and Financing Measures - TipRanks",
@@ -8609,7 +8763,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Alpha Cognition to Participate in Upcoming Investor Events - Business Wire",
@@ -8623,7 +8778,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "ARS Pharma Reports Business Highlights and Third Quarter 2026 Financial Results - BioSpace",
@@ -8637,7 +8793,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Eton Pharmaceuticals Reports Third Quarter 2026 Financial Results - BioSpace",
@@ -8651,7 +8808,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Johnson & Johnson announces U.S. FDA Approval of RYBREVANT FASPRO™ (amivantamab and hyaluronidase-lpuj) as First and Only Dual-Targeted Therapy for Advanced Head and Neck Cancer - BioSpace",
@@ -8665,7 +8823,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "폐암약 아미반타맙, 한국인 비강·부비동암 치료 가능성 탐색 - 헬스코리아뉴스",
@@ -8679,7 +8838,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "비충혈제거제·스테로이드 복합 비강분무제, 만성 코막힘 개선 효과 확인 - 메디컬투데이",
@@ -8695,7 +8855,8 @@
     "비강분무"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic OTC combo-spray study, no company sponsor"
   },
   {
    "title": "항히스타민 비강 스프레이 시장 2035년 전망: 연중 알레르기 완화 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
@@ -8711,7 +8872,8 @@
     "비강 스프레이"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size research report (IndexBox)"
   },
   {
    "title": "코로 맞는 GLP-1 라이온바이오, 600만 달러 프리시드 투자유치 - 와우테일",
@@ -8725,7 +8887,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "君实生物：11月5日召开业绩说明会，投资者参与 - 证券之星",
@@ -8739,7 +8902,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "健康资讯 - 山西省卫生健康委员会",
@@ -8753,7 +8917,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "用偏方治鼻炎？热播剧情节引争议，南京仁品鼻科专家提醒：规范治疗是正道 - 紫牛新闻",
@@ -8767,7 +8932,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "填补临床空白！远大医药（00512）CBT-001显著控制翼状胬肉病灶，深耕创新眼药赛道剑指百亿蓝海市场-证券之星 - 证券之星",
@@ -8781,7 +8947,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "去林芝旅游带什么？3个维度说清高原一天四季装备清单+FAQ - 手机新浪网",
@@ -8795,7 +8962,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "远大医药(00512)：全球创新眼科药物CBT-001用于翼状胬肉的国际多中心III期临床试验达到主要临床终点 - 证券之星",
@@ -8809,7 +8977,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "폐암약 아미반타맙, 한국인 비강·부비동암 치료 가능성 탐색",
@@ -8825,7 +8994,8 @@
     "비강"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "amivantamab nasal/sinus cancer - wrong admin route (IV drug, cancer site not delivery route)"
   },
   {
    "title": "Rational design and characterisation of intranasal gel incorporating eletriptan HBr-loaded solid lipid nanoparticles for enhanced brain delivery in migraine ▶️ Read Full Paper  📚 Source: Journal of liposome research 👤 Creator: Shrikishan Budharam et al. 📅 Date: 2026-11-06  #Migra",
@@ -8842,7 +9012,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic eletriptan nanogel formulation study, no company"
   },
   {
    "title": "FDA SUPPL 15 (Labeling) AP for MOMETASONE FUROATE - AMNEAL PHARMS (ANDA207989)",
@@ -8858,7 +9029,8 @@
     "route NASAL"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "generic mometasone ANDA labeling suppl"
   },
   {
    "title": "FDA SUPPL 11 (Labeling) AP for MOMETASONE FUROATE - AMNEAL PHARMS (ANDA207989)",
@@ -8874,7 +9046,8 @@
     "route NASAL"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "generic mometasone ANDA labeling suppl"
   },
   {
    "title": "FDA SUPPL 3 (Labeling) AP for MOMETASONE FUROATE - AMNEAL PHARMS (ANDA207989)",
@@ -8890,7 +9063,8 @@
     "route NASAL"
    ],
    "fetched": "2026-11-07T07:56+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "generic mometasone ANDA labeling suppl"
   },
   {
    "title": "Tiziana Life Sciences Ltd (TLSA) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -8906,7 +9080,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab INFORM-MS topline (investor call)"
   },
   {
    "title": "Chronic Nasal Congestion... Spray Achieves Improvement in 83% of Patients - وكالة صدى نيوز",
@@ -8920,7 +9095,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "Breathiterol Introduces Breathiterol Spray, a Three-Botanical Oral Dietary Supplement for Respiratory Wellness - USA Today",
@@ -8934,7 +9110,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "What Is MT-2? Uses and Risks of Tanning Peptides - GoodRx",
@@ -8948,7 +9125,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Antihistamine Nasal Sprays Market To 2035: Year-Round Allergy Relief Fuels Growth - News and Statistics - IndexBox",
@@ -8962,7 +9140,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "Best of 2026-11-06 - Science X",
@@ -8976,7 +9155,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "What Is Semax? What It Does and How It’s Used - GoodRx",
@@ -8990,7 +9170,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "AMPH Q3 2026 deep dive: pipeline progress and manufacturing challenges shape outlook - TradingView",
@@ -9004,7 +9185,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Fierce Biotech Fundraising Tracker '26: Alethio attains $90M series A for rare blood cancer drugs - Fierce Biotech",
@@ -9018,7 +9200,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "Fierce Biotech Layoff Tracker 2026: Agios trims 100 R&D roles; Ultragenyx lays off 20% - Fierce Biotech",
@@ -9032,7 +9215,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-08T06:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated items (keyword noise)"
   },
   {
    "title": "META_TITLE_QUOTE - Yahoo Finance",
@@ -9046,7 +9230,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "Chronic Oxytocin Modifies Brain White Matter Microstructure in Autistic Adults - Bioengineer.org",
@@ -9060,7 +9245,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic oxytocin/autism white-matter study, no company"
   },
   {
    "title": "New Pediatric Sedation Service Expands Access for Young Patients - Johns Hopkins Medicine",
@@ -9074,7 +9260,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "Could A Nasal Spray Reverse Brain Aging? What A New Study Reveals - MindBodyGreen",
@@ -9090,7 +9277,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic nanorobot Alzheimer's research, no company"
   },
   {
    "title": "Johnson and Johnson Rybrevant Faspro Gets USFDA Accelerated Approval for Advanced Head, Neck Cancer - Medical Dialogues",
@@ -9104,7 +9292,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "ARS Pharmaceuticals (NasdaqGM:SPRY) Stock Forecast & Analyst Predictions - Simply Wall St",
@@ -9120,7 +9309,8 @@
     "ARS Pharmaceuticals"
    ],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy Q3 2026 results (earnings call highlights)"
   },
   {
    "title": "Could a Nasal Spray Stop Alzheimer’s Before Memory Loss Begins? - SciTechDaily",
@@ -9136,7 +9326,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic nanorobot Alzheimer's research, no company"
   },
   {
    "title": "PreveCeutical Medical Inc. (PREV.CN) Company Profile & Facts - Yahoo Finance - Yahoo! Finance Canada",
@@ -9150,7 +9341,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LionBio nasal GLP-1 pre-seed - unverifiable this run (Watching)"
   },
   {
    "title": "Layoff Tracker: Voyager, C4 cut workforces - BioSpace",
@@ -9164,7 +9356,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "baqsimi/rextovy Amphastar Q3 2026 results"
   },
   {
    "title": "跃升两位！东北首位，全国第19！ - ThePaper.cn",
@@ -9178,7 +9371,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-09T06:54+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic oxytocin/autism white-matter study, no company"
   }
  ],
  "updated": "2026-11-09T06:54+09:00"
