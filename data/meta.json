@@ -1,10 +1,10 @@
 {
- "last_collect": "2026-11-13T08:26+09:00",
+ "last_collect": "2026-11-14T08:26+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 19,
-   "kept": 19
+   "items": 21,
+   "kept": 21
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
@@ -18,38 +18,38 @@
   },
   "Google News EN: nasal/intranasal vaccine": {
    "status": "ok",
-   "items": 2,
-   "kept": 2
-  },
-  "Google News EN: nose-to-brain": {
-   "status": "ok",
-   "items": 1,
-   "kept": 1
-  },
-  "Google News EN: wires intranasal": {
-   "status": "ok",
-   "items": 17,
-   "kept": 17
-  },
-  "Google News EN: trade press nasal": {
-   "status": "ok",
-   "items": 22,
-   "kept": 21
-  },
-  "Google News EN: China nasal approvals": {
-   "status": "ok",
    "items": 3,
    "kept": 3
   },
-  "Google News KO: 비강 제약": {
+  "Google News EN: nose-to-brain": {
+   "status": "ok",
+   "items": 5,
+   "kept": 5
+  },
+  "Google News EN: wires intranasal": {
+   "status": "ok",
+   "items": 15,
+   "kept": 15
+  },
+  "Google News EN: trade press nasal": {
+   "status": "ok",
+   "items": 17,
+   "kept": 16
+  },
+  "Google News EN: China nasal approvals": {
    "status": "ok",
    "items": 2,
    "kept": 2
   },
+  "Google News KO: 비강 제약": {
+   "status": "ok",
+   "items": 6,
+   "kept": 6
+  },
   "Google News KO: 비강 투여/스프레이": {
    "status": "ok",
-   "items": 0,
-   "kept": 0
+   "items": 3,
+   "kept": 3
   },
   "Google News JA: 点鼻": {
    "status": "ok",
@@ -58,8 +58,8 @@
   },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 7,
-   "kept": 7
+   "items": 5,
+   "kept": 5
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 63,
+   "items": 8,
    "kept": 0
   },
   "FDA press releases": {
@@ -118,12 +118,12 @@
   },
   "EMA news": {
    "status": "ok",
-   "items": 6,
+   "items": 7,
    "kept": 0
   },
   "EMA what's new": {
    "status": "ok",
-   "items": 208,
+   "items": 253,
    "kept": 1
   },
   "MFDS 보도자료": {
@@ -143,13 +143,13 @@
   },
   "DART 오늘의 공시": {
    "status": "ok",
-   "items": 6,
+   "items": 0,
    "kept": 0
   },
   "Endpoints News": {
    "status": "ok",
    "items": 24,
-   "kept": 0
+   "kept": 1
   },
   "BioSpace": {
    "status": "ok",
@@ -253,12 +253,12 @@
   },
   "Bluesky search": {
    "status": "ok",
-   "items": 19,
+   "items": 17,
    "errors": []
   },
   "openFDA drugsfda (nasal)": {
    "status": "ok",
-   "items": 3
+   "items": 0
   }
  },
  "last_update_run": "2026-11-09T08:01:40+09:00",
