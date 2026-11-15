@@ -6425,7 +6425,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "TLSA: SEC Form 6-K filed by Tiziana Life Sciences Ltd. - Quantisnow",
@@ -6441,7 +6442,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Tiziana KOL Call Highlights Consistency Between Positive Phase 2a INFORM-MS Topline Results and Longer-Term Clinical Benefits Observed in Expanded Access Program for Patients with Non-Active Secondary Progressive Multiple Sclerosis Treated with I - The Manila Times",
@@ -6457,7 +6459,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast - Stock Titan",
@@ -6473,7 +6476,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "LTR Pharma secures Indian patent until 2041 - grafa.com",
@@ -6487,7 +6491,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LTR Pharma Indian patent grant - IP news only, not a clinical/regulatory product event"
   },
   {
    "title": "What Does Indian Patent No. 605429 Mean for LTR Pharma’s (ASX:LTP) Intranasal Products? - Kalkine",
@@ -6503,7 +6508,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LTR Pharma Indian patent grant - IP news only, not a clinical/regulatory product event"
   },
   {
    "title": "MS trial results will headline Tiziana Life Sciences (TLSA)'s November 9 webcast at noon ET. - Stock Titan",
@@ -6519,7 +6525,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast - The Manila Times",
@@ -6535,7 +6542,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Tiziana Life Sciences to advance foralumab partnering talks at BIO-Europe 2026 - Yahoo Finance",
@@ -6552,7 +6560,8 @@
     "foralumab"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "LTR Pharma builds ED treatment patent portfolio - The Australian",
@@ -6566,7 +6575,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "LTR Pharma Indian patent grant - IP news only, not a clinical/regulatory product event"
   },
   {
    "title": "POLYRIZON ADOPTS LIMITED DURATION SHAREHOLDER RIGHTS PLAN - The Manila Times",
@@ -6582,7 +6592,8 @@
     "POLYRIZON"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Polyrizon shareholder rights plan, stock-defense measure not a product event"
   },
   {
    "title": "End of Day Message - The Manila Times",
@@ -6596,7 +6607,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated corporate filings (Bureau Veritas share count, generic EOD message)"
   },
   {
    "title": "BUREAU VERITAS - Number of shares and voting rights as of October 31, 2026 - The Manila Times",
@@ -6610,7 +6622,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated corporate filings (Bureau Veritas share count, generic EOD message)"
   },
   {
    "title": "Transactions in connection with share buyback programme - The Manila Times",
@@ -6624,7 +6637,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated share buyback notice"
   },
   {
    "title": "Tiziana Life Sciences Highlights INFORM-MS Phase 2a Results in KOL Call Update - TipRanks",
@@ -6640,7 +6654,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Tiziana Life Sciences Presents Foralumab Program at BIO-Europe 2026 - TipRanks",
@@ -6657,7 +6672,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Neffy nasal spray for severe allergies now available without prescription - Global News",
@@ -6674,7 +6690,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Types of flu shots: which flu vaccine is right for you - qz.com",
@@ -6688,7 +6705,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general flu-shot-types explainer, not company-specific"
   },
   {
    "title": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028 - CTV News",
@@ -6702,7 +6720,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "VapoLung Reviews: Vapo Lung Launches in U.S. With Full Supplement Facts Panel and Ingredient Research Sources Published at Launch - USA Today",
@@ -6716,7 +6735,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Phase 2b Study Identifies Dose-Response Signals for APPA in Knee Osteoarthritis, with Statistically Significant Benefits on Several Outcomes at the Higher Dose in Patients with Higher Baseline Pain - greatreporter",
@@ -6730,7 +6750,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "APPA knee osteoarthritis, not intranasal"
   },
   {
    "title": "Jury deliberations resume in Sandra Birchmore trial - CBS News",
@@ -6744,7 +6765,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Epinephrine nasal spray now available nationwide without prescription - CTV News",
@@ -6760,7 +6782,8 @@
     "Epinephrine nasal"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Murder trial underway for man accused of setting best friend on fire - CTV News",
@@ -6774,7 +6797,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Tonix Pharmaceuticals Reports Third Quarter 2026 Financial Results and Operational Highlights - The Manila Times",
@@ -6788,7 +6812,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Tonix Q3 financials, not TNX-2900/2900-pain specific news"
   },
   {
    "title": "‘We want to hear the details’: Tilbury murder trial underway in Chatham court - CTV News",
@@ -6802,7 +6827,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Environmental economist tells trial Canada has limited power to alter climate change - CTV News",
@@ -6816,7 +6842,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Man charged in connection to Saskatoon homicide enters new plea ahead of trial - CTV News",
@@ -6830,7 +6857,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Witness testifies about mental health of author Steven Galloway's accuser - CTV News",
@@ -6844,7 +6872,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Saskatoon woman noted ‘alarm bells’ as client for ex-RMT accused of sexual assault - CTV News",
@@ -6858,7 +6887,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "‘Project Vigilance’: Vancouver police launch road safety campaign - CTV News",
@@ -6872,7 +6902,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Montreal to launch transition centre for homeless before winter - CTV News",
@@ -6886,7 +6917,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Remote First Nations plan to search vehicles entering their territory - CTV News",
@@ -6900,7 +6932,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Vistagen Provides Regulatory Update Following Productive - GlobeNewswire",
@@ -6916,7 +6949,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "FDA recommends tracking patient function over time in an anxiety-drug study - Stock Titan",
@@ -6930,7 +6964,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "After FDA feedback, Vistagen (VTGN) plans to study more than acute social anxiety relief. - Stock Titan",
@@ -6946,7 +6981,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "VistaGen Receives Constructive FDA Feedback on Fasedienol Phase 3 Planning - TipRanks",
@@ -6963,7 +6999,8 @@
     "VistaGen"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast - GlobeNewswire",
@@ -6979,7 +7016,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "POLYRIZON ADOPTS LIMITED DURATION SHAREHOLDER RIGHTS PLAN - GlobeNewswire",
@@ -6995,7 +7033,8 @@
     "POLYRIZON"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Polyrizon shareholder rights plan, stock-defense measure not a product event"
   },
   {
    "title": "Alpha Cognition Strengthens Its Board of Directors with Appointment of Caren Deardorf - Business Wire",
@@ -7009,7 +7048,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Alpha Cognition board/investor events, not nasal-specific"
   },
   {
    "title": "Harrow Announces Third Quarter 2026 Financial Results - GlobeNewswire",
@@ -7023,7 +7063,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Harrow Q3 results, not Tyrvaya-specific"
   },
   {
    "title": "NeOnc CEO Adds Another 70,000 Shares as Insider Buying Continues - GlobeNewswire",
@@ -7037,7 +7078,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast - BioSpace",
@@ -7053,7 +7095,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "neffy ® Now Available Without a Prescription Across Canada for the Emergency Treatment of Allergic Reactions (Anaphylaxis) - BioSpace",
@@ -7069,7 +7112,8 @@
     "neffy"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Vistagen Provides Regulatory Update Following Productive Type C Meeting with U.S. FDA on Phase 3 Development of Fasedienol for Social Anxiety Disorder - BioSpace",
@@ -7086,7 +7130,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "Alpha Cognition to Participate in Upcoming Investor Events - November 6, 2026 - BioSpace",
@@ -7100,7 +7145,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Alpha Cognition board/investor events, not nasal-specific"
   },
   {
    "title": "argenx Presents Phase 3 ALKIVIA Data at ACR Convergence 2026 Showing Rapid and Sustained Improvement with Efgartigimod in Autoimmune Myositis - BioSpace",
@@ -7114,7 +7160,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "argenx myositis, not intranasal"
   },
   {
    "title": "[밴쿠버 조선일보]캐나다, 중증 알레르기 응급약 처방전 없이 산다 | 밴쿠버 뉴스 - 밴쿠버 조선일보",
@@ -7128,7 +7175,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "韓, 방역 참여 제도 공백 여전…中, 중의약 예방제 개발까지 고도화 > 뉴스 - 한의신문",
@@ -7142,7 +7190,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Chinese TCM preventive-medicine commentary, no defined nasal drug product/sponsor"
   },
   {
    "title": "第九届进博会｜碧迪医疗携手百克生物 进博首秀创新成果 - 新华网上海频道",
@@ -7156,7 +7205,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "BD/Baike CIIE exhibit mention without product specifics, superseded by the dedicated BD/BCHT Ganwu release"
   },
   {
    "title": "氮卓斯汀0.15%鼻喷雾剂与奥洛他定/莫米松复方制剂在环境暴露单元中治疗过敏原诱导性鼻炎的起效速度及总体疗效：一项随机双盲交叉研究 - 生物通",
@@ -7172,7 +7222,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic azelastine/olopatadine comparative-speed study, not a tracked product"
   },
   {
    "title": "全国儿科学术大会长沙启幕，菲洛维桃金娘油循证成果获关注 - 济南新闻",
@@ -7186,7 +7237,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "TCM herbal/perillartine OTC product coverage, not a defined nasal drug candidate"
   },
   {
    "title": "角膜一天被摩擦成千上万次！25岁女子眼睛干成“磨砂玻璃”，医生提醒 - 手机新浪网",
@@ -7200,7 +7252,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated cornea/eye story"
   },
   {
    "title": "2026年流感疫苗全景：裂解、亚单位、鼻喷三条路线怎么选？ - TOM",
@@ -7216,7 +7269,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general flu-vaccine-route explainer, no company-specific news"
   },
   {
    "title": "加拿大严重过敏患者有福了！鼻喷救命药全国免处方可购买 - 加拿大新闻网",
@@ -7232,7 +7286,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "POLYRIZON ADOPTS LIMITED DURATION SHAREHOLDER RIGHTS PLAN",
@@ -7250,7 +7305,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Polyrizon shareholder rights plan, stock-defense measure not a product event"
   },
   {
    "title": "#TLSA Tiziana KOL Call Highlights Consistency Between Positive Phase 2a INFORM-MS Topline Results and Longer-Term Clinical Benefi…  https://www.stocktitan.net/news/TLSA/tiziana-kol-call-highlights-consistency-between-positive-phase-2a-bbnq8yhye7ro.html?utm_source=stocktitan-blues",
@@ -7270,7 +7326,8 @@
     "tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "#TLSA Tiziana Life Sciences to Present at BIO-Europe 2026 and Host KOL Webcast  https://www.stocktitan.net/news/TLSA/tiziana-life-sciences-to-present-at-bio-europe-2026-and-host-kol-6jbv2pvsai9u.html?utm_source=stocktitan-bluesky&utm_medium=social",
@@ -7288,7 +7345,8 @@
     "tiziana"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "Neffy nasal spray for severe allergies now available without prescription",
@@ -7306,7 +7364,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Neffy nasal spray for severe allergies now available without prescription  The National Association of Pharmacy Regulatory Authorities (NAPRA) classified Neffy as a Schedule II product across Canada, which means it can now be sold over the counter.",
@@ -7324,7 +7383,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-10T10:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "State Naloxone Portals Differ Substantially in Design and Accessibility Nationwide - Bioengineer.org",
@@ -7338,7 +7398,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "naloxone-portal policy design study, not a nasal product event"
   },
   {
    "title": "symbol__ Stock Quote Price and Forecast - CNN",
@@ -7352,7 +7413,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock-quote placeholder page, no content"
   },
   {
    "title": "An experimental needle-free allergy medicine is absorbed under severe nasal congestion, an abstract says. - Stock Titan",
@@ -7366,7 +7428,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "Meta-Analysis Identifies Optimal Protocol Parameters for Modeling Allergic Rhinitis in Mice - Bioengineer.org",
@@ -7380,7 +7443,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic mouse-model meta-analysis, no sponsor product"
   },
   {
    "title": "Psychedelic pioneer Compass files for FDA approval as rivals close in - Drug Discovery & Development",
@@ -7394,7 +7458,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Compass Pathways psilocybin (oral capsule), not intranasal"
   },
   {
    "title": "Decoy Therapeutics Named “R&D Solution of the Year” in 2026 BioTech Breakthrough Awards - StreetInsider",
@@ -7408,7 +7473,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Decoy Therapeutics award, not nasal"
   },
   {
    "title": "NeOnc CEO Adds Another 70,000 Shares as Insider Buying Continues - The Manila Times",
@@ -7422,7 +7488,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Hopes that allergy nasal spray EURneffy gets approval in Guernsey - BBC",
@@ -7439,7 +7506,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "EURneffy Guernsey approval still pending/hopeful, not yet an event"
   },
   {
    "title": "Harrow debuts prescribing and access pharmacy platform - Glance by Eyes On Eyecare",
@@ -7453,7 +7521,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Harrow Q3/platform coverage, not Tyrvaya-specific"
   },
   {
    "title": "Weekly Recap: 2026 guidance refined and FDA accepts nasal spray filing - TradingView",
@@ -7469,7 +7538,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, see Q3 earnings item"
   },
   {
    "title": "Hopes allergy spray EURneffy gets approval in Guernsey - BBC",
@@ -7485,7 +7555,8 @@
     "EURneffy"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "EURneffy Guernsey approval still pending/hopeful, not yet an event"
   },
   {
    "title": "Harrow Q3 2026 slides: record revenue, product portfolio expansion - Investing.com",
@@ -7499,7 +7570,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Harrow Q3/platform coverage, not Tyrvaya-specific"
   },
   {
    "title": "BD and BCHT pioneer a next-generation needle-free flu vaccination solution - Global Times",
@@ -7513,7 +7585,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "bcht-nasal-laiv, BD Accuspray/Ganwu launch (added as news + card update)"
   },
   {
    "title": "Asian Study Shows Nasal Spray Reduces Allergy Symptoms Rapidly - Bioengineer.org",
@@ -7529,7 +7602,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic allergy-spray study, no identifiable sponsor product"
   },
   {
    "title": "Massage therapist who taught Kenneth Braun testifies about consent at sexual assault trial - CTV News",
@@ -7543,7 +7617,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Delix raises $100M to advance at-home psychedelic without hallucinogenic effects - BioSpace",
@@ -7557,7 +7632,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Delix psychedelic funding, not intranasal"
   },
   {
    "title": "Oxytocin alters how the brain learns and remembers social hierarchies - PsyPost",
@@ -7571,7 +7647,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic oxytocin brain-learning study, no sponsor product"
   },
   {
    "title": "Murder trial delayed for 15 months after Crown requests adjournment - CTV News",
@@ -7585,7 +7662,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Jemima Goldsmith accuses Russell Brand of ‘violence, coercive control and abuse’ - CTV News",
@@ -7599,7 +7677,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated news (celebrity/local transit)"
   },
   {
    "title": "Fresh Prep gets court approval to buy fellow meal kit company Goodfood - CTV News",
@@ -7613,7 +7692,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Saskatoon pushes rapid transit launch another year - CTV News",
@@ -7627,7 +7707,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated news (celebrity/local transit)"
   },
   {
    "title": "King Charles would ‘carefully’ consider China visit, senior aide says - CTV News",
@@ -7641,7 +7722,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Paramedic widow learned husband was shot while trying to save second Edmonton officer - CTV News",
@@ -7655,7 +7737,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match: criminal/civil court \"trial\" or unrelated local news, not a clinical trial"
   },
   {
    "title": "Orexo to present additional data on OX640, a novel nasal epinephrine powder, in two oral presentations at ACAAI 2026 - TradingView",
@@ -7672,7 +7755,8 @@
     "nasal epinephrine"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Orexo OX640 ACAAI presentation announcement only, no new data this run"
   },
   {
    "title": "Nasus Pharma Announces Abstracts Accepted for Presentation at ACAAI 2026 - GlobeNewswire",
@@ -7688,7 +7772,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "NeOnc CEO Amir Heshmatpour Adds 80,000 Shares in Open-Market Purchases - GlobeNewswire",
@@ -7702,7 +7787,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "Decoy Therapeutics Named “R&D Solution of the Year” in 2026 BioTech Breakthrough Awards - GlobeNewswire",
@@ -7716,7 +7802,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Decoy Therapeutics award, not nasal"
   },
   {
    "title": "Pacific Neuropsychiatric Specialists Is Now Mentava Mental Health - PR Newswire",
@@ -7730,7 +7817,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "The Emily Program Expands Access with New Lodging for Adults in their Columbus-based Partial Hospitalization Program for Eating Disorder Treatment - Business Wire",
@@ -7744,7 +7832,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated eating-disorder program news"
   },
   {
    "title": "Neuronetics Announces Proposed Public Offering of Common Stock - GlobeNewswire",
@@ -7758,7 +7847,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Neuronetics stock offering, unrelated company"
   },
   {
    "title": "Esperion Reaches Settlement Agreement with Seventh ANDA - GlobeNewswire",
@@ -7772,7 +7862,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Esperion ANDA settlement, not nasal"
   },
   {
    "title": "Nasus Pharma Announces Abstracts Accepted for Presentation at ACAAI 2026 - BioSpace",
@@ -7788,7 +7879,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "New Abbott Panbio™ COVID-19/Flu A&B Self-Test Helps Canadian Families Make Informed Decisions During Respiratory Illness Season - BioSpace",
@@ -7802,7 +7894,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Abbott COVID/flu self-test, not nasal drug"
   },
   {
    "title": "NeOnc CEO Amir Heshmatpour Adds 80,000 Shares in Open-Market Purchases - BioSpace",
@@ -7816,7 +7909,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NeOnc insider share purchase, not clinical/regulatory news"
   },
   {
    "title": "Delix raises $100M to advance at-home psychedelic without hallucinatory effects - BioSpace",
@@ -7830,7 +7924,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Delix psychedelic funding, not intranasal"
   },
   {
    "title": "Upstream Bio Reports Third Quarter 2026 Financial Results and Highlights Continued Progress - BioSpace",
@@ -7844,7 +7939,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Upstream Bio Q3 results, not nasal"
   },
   {
    "title": "Decoy Therapeutics Named “R&D Solution of the Year” in 2026 BioTech Breakthrough Awards - BioSpace",
@@ -7858,7 +7954,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Decoy Therapeutics award, not nasal"
   },
   {
    "title": "Alpha Cognition Strengthens Its Board of Directors with Appointment of Caren Deardorf - BioSpace",
@@ -7872,7 +7969,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Alpha Cognition board/investor events, not nasal-specific"
   },
   {
    "title": "Trevi Therapeutics Reports Third Quarter 2026 Financial Results and Provides Business Updates - BioSpace",
@@ -7886,7 +7984,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Trevi Therapeutics Q3 results, not nasal product"
   },
   {
    "title": "Harrow Announces Third Quarter 2026 Financial Results - BioSpace",
@@ -7900,7 +7999,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Harrow Q3 results, not Tyrvaya-specific news"
   },
   {
    "title": "이재서 교수, ‘WRC 2026’서 하비갑개 축소술 관련 기술 소개 - 미주중앙일보",
@@ -7914,7 +8014,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "turbinate-reduction surgical technique, device-only ENT procedure not a nasal drug/spray product"
   },
   {
    "title": "ST人福(600079):咪达唑仑鼻用喷雾剂获得药物临床试验批准通知书 - 中财网",
@@ -7930,7 +8031,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Humanwell midazolam nasal spray IND reported by Chinese stock-news mirrors only; could not open original SSE/cninfo disclosure this run - see Watching"
   },
   {
    "title": "ST人福：子公司咪达唑仑鼻用喷雾剂获批临床 - 财中社",
@@ -7946,7 +8048,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "TCM herbal/perillartine OTC product coverage, not a defined nasal drug candidate"
   },
   {
    "title": "严重过敏急救鼻喷剂现可免处方购买 体重达30公斤始适用 - VanPeople",
@@ -7962,7 +8065,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Human medicines European public assessment report (EPAR): Eurneffy, epinephrine, Date of authorisation: 22/08/2024, Revision: 8, Status: Authorised",
@@ -7979,7 +8083,8 @@
     "epinephrine"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "EURneffy EPAR routine revision, no new fact vs card"
   },
   {
    "title": "Nasus Pharma announced abstracts for NS002 *Accepted for presentation @ ACAAI *12-16Nov *Enhanced Absorption of Intranasal Powder Epinephrine after Single Dose in Adults with Allergic Rhinitis + others *Drs Blaiss, Megiddo & Fleicher + CEO O'Grady presenting $NSRX finance.yahoo.c",
@@ -7999,7 +8104,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "#NSRX Nasus Pharma Announces Abstracts Accepted for Presentation at ACAAI 2026  https://www.stocktitan.net/news/NSRX/nasus-pharma-announces-abstracts-accepted-for-presentation-at-acaai-kuc6r404q0xo.html?utm_source=stocktitan-bluesky&utm_medium=social",
@@ -8016,7 +8122,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "This will save lives. www.cbc.ca/news/health/...",
@@ -8033,7 +8140,8 @@
     "epinephrine"
    ],
    "fetched": "2026-11-11T08:05+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "NeOnc Technologies Granted FDA Type B End-of-Phase Meeting to Discuss Potential Accelerated Approval Pathway and Phase 3 Confirmatory Trial for Intranasal NEO100 - Yahoo Finance",
@@ -8050,7 +8158,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected"
   },
   {
    "title": "Intranasal Lidocaine Spray Eases Nasogastric Tube Placement in Adult Emergency Patients - Bioengineer.org",
@@ -8066,7 +8175,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "lidocaine nasal spray for NG-tube placement, academic case series, no sponsor/product tracked"
   },
   {
    "title": "The FDA will discuss a possible faster approval path for NeOnc’s brain cancer treatment in early January. - Stock Titan",
@@ -8080,7 +8190,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected"
   },
   {
    "title": "All 14 patients receiving Tiziana's nasal MS treatment had stable or improved disease within six months - Stock Titan",
@@ -8096,7 +8207,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "KDventures’ portfolio company SVF Vaccines enters research collaboration with Orexo to explore powder-based mRNA vaccine formulations - TradingView",
@@ -8110,7 +8222,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "Orexo/SVF Vaccines AmorphOX mRNA collaboration (added as news)"
   },
   {
    "title": "Tiziana Life Sciences to advance foralumab partnering talks at BIO-Europe 2026 - Proactive financial news",
@@ -8127,7 +8240,8 @@
     "foralumab"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Childhood Sleep Problems Linked to Agitation Under Dexmedetomidine and Midazolam Sedation - Bioengineer.org",
@@ -8143,7 +8257,8 @@
     "Midazolam"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Canadian Investment Regulatory Organization Trading Halt - TNR - The Manila Times",
@@ -8157,7 +8272,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated trading-halt notice (TNR)"
   },
   {
    "title": "Nasal mRNA Drug Cuts Common Cold Virus Load 40-Fold in Asthma Patients, Validating COVID-Vaccine Technology as a Respiratory Antiviral - Tech Times",
@@ -8171,7 +8287,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "nasal mRNA cold-virus study, no identifiable sponsor/defined product named"
   },
   {
    "title": "NFL Legend Drew Brees Talks About His Food Allergies, Current Life - Forbes",
@@ -8185,7 +8302,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Canada's needle-free epinephrine nasal spray is now prescription-free - DurhamRegion.com",
@@ -8201,7 +8319,8 @@
     "epinephrine nasal"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "6 Peptides Just Became Legal in the U.S. (BPC-157, TB-500, and More). Here's What Changed and How to Actually Get Them - BoxLife Magazine",
@@ -8215,7 +8334,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "peptide-legality explainer, not nasal"
   },
   {
    "title": "Q&A: PROOF-HD Insights on Antidopaminergic Use - DocWireNews",
@@ -8229,7 +8349,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Huntington disease antidopaminergic Q&A, not intranasal"
   },
   {
    "title": "NeOnc Technologies Granted FDA Type B End-of-Phase Meeting - GlobeNewswire",
@@ -8243,7 +8364,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "FDA Meeting Could Put NeOnc's NEO100 Experimental Brain Cancer Drug on Faster Track - GlobeNewswire",
@@ -8259,7 +8381,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected"
   },
   {
    "title": "Amphastar Pharmaceuticals to Present at the Jefferies Global Healthcare Conference in London - PR Newswire",
@@ -8273,7 +8396,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Amphastar conference-attendance notice, not a product event"
   },
   {
    "title": "Brain Cancer Breakthrough Hopes, a $30 Million Robotics Deal and an AI Gold Rush - GlobeNewswire",
@@ -8287,7 +8411,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Neuronetics Announces Pricing of $30 Million Underwritten Public Offering of Common Stock - GlobeNewswire",
@@ -8301,7 +8426,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Neuronetics stock offering, unrelated company"
   },
   {
    "title": "Aerin Medical Announces FDA Clearance and 1-Year Evidence Supporting ENT Treatment for Patients with Chronic Rhinitis and Comorbid Migraine - BioSpace",
@@ -8315,7 +8441,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Aerin Medical RF device for chronic rhinitis, drug-free ENT device not competing with a tracked nasal spray/drug"
   },
   {
    "title": "Amphastar Pharmaceuticals to Present at the 2026 Jefferies Global Healthcare Conference in London - BioSpace",
@@ -8329,7 +8456,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Amphastar conference-attendance notice, not a product event"
   },
   {
    "title": "Neuronetics Announces Proposed Public Offering of Common Stock - November 10, 2026 - BioSpace",
@@ -8343,7 +8471,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Neuronetics stock offering, unrelated company"
   },
   {
    "title": "Neuronetics Announces Pricing of $30 Million Underwritten Public Offering of Common Stock - BioSpace",
@@ -8357,7 +8486,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Neuronetics stock offering, unrelated company"
   },
   {
    "title": "Sonoma Pharmaceuticals Reports Second Fiscal Quarter 2027 Financial Results, Delivering First-ever Net Income Before Income Tax - BioSpace",
@@ -8371,7 +8501,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "이재서 교수, ‘WRC 2026’서 하비갑개 축소술 관련 기술 소개 - 중앙일보",
@@ -8385,7 +8516,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "turbinate-reduction surgical technique, device-only ENT procedure not a nasal drug/spray product"
   },
   {
    "title": "倍特药业PRT-064040鼻喷雾新适应症获批临床，第三代CGRP拮抗剂拓展丛集性头痛治疗赛道 - 摩熵医药",
@@ -8402,7 +8534,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "prt-064040, cluster-headache new indication (added as news + card update)"
   },
   {
    "title": "ST人福(600079.SH)：咪达唑仑鼻用喷雾剂获得药物临床试验批准通知书 - 凤凰网",
@@ -8418,7 +8551,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Humanwell midazolam nasal spray IND reported by Chinese stock-news mirrors only; could not open original SSE/cninfo disclosure this run - see Watching"
   },
   {
    "title": "人福医药咪达唑仑鼻用喷雾剂获批临床试验 累计投入730万元 - Minichart",
@@ -8434,7 +8568,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Humanwell midazolam nasal spray IND reported by Chinese stock-news mirrors only; could not open original SSE/cninfo disclosure this run - see Watching"
   },
   {
    "title": "I would like the intranasal vaccines to become widely available now, please.  www.nature.com/articles/s41...",
@@ -8451,7 +8586,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "NeOnc Technologies Granted FDA Type B End-of-Phase Meeting to Discu...  https://ohsem.me/2026/11/neonc-technologies-granted-fda-type-b-end-of-phase-meeting-to-discuss-potential-accelerated-approval-pathway-and-phase-3-confirmatory-trial-for-intranasal-neo100/?utm_source=bluesky&u",
@@ -8471,7 +8607,8 @@
     "neo100"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected (social/aggregator reposts)"
   },
   {
    "title": "#NTHI NeOnc Technologies Granted FDA Type B End-of-Phase Meeting to Discuss Potential Accelerated Approval Pathway and Phase 3 Confi…  https://www.stocktitan.net/news/NTHI/ne-onc-technologies-granted-fda-type-b-end-of-phase-meeting-to-ey4qxz2lb3ny.html?utm_source=stocktitan-blues",
@@ -8489,7 +8626,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected (social/aggregator reposts)"
   },
   {
    "title": "Nasus Pharma’s CEO Brendan O'Grady points out that 90% of the epinephrine market is still needle-based, providing a large penetration opportunity for nasal powder based formulations to make headway.   #Biotech #Nasax #SmallCap #Pharma #drugdelivery #NeedleFree $NSRX youtube.com/s",
@@ -8508,7 +8646,8 @@
     "nasal powder"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "Neffy epinephrine nasal spray is now available without a prescription in Ontario. Here’s who can use it, how much it costs, and where to get it.",
@@ -8526,7 +8665,8 @@
     "epinephrine nasal"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "ﾈﾌｨ=ｻｰﾝ🐭💜 30,000再生！ \r おめでとうございます！！！ 🎉🎉🎊🎊㊗️🎊🎊🎉🎉 (๑>◡<๑)b #再生回数お祝いの記録 #VALIS   💜 # VALIS | 革命バーチャルリアリティ（NEFFY Solo ver.）💜 # shorts # kamitsubaki_studio",
@@ -8543,7 +8683,8 @@
     "NEFFY"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "Check out our recent video interview series covering #ScientificSessions26!  Dr David Bharucha discusses the use of #etripamil for recurrent paroxysmal supraventricular #tachycardia following ablation.  https://bit.ly/4k5ayxy",
@@ -8561,7 +8702,8 @@
     "etripamil"
    ],
    "fetched": "2026-11-12T09:24+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead only, no corroborating Tier1/2 source opened this run"
   },
   {
    "title": "Intranasal Borneol Microemulsion Shows Early Protection in Rat Cerebral Ischemia Models - Bioengineer.org",
@@ -8577,7 +8719,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic rat-model borneol microemulsion study, no sponsor product tracked"
   },
   {
    "title": "St Petersburg researchers test nasal vaccine against flu, COVID-19, RSV and more - Новости GxP",
@@ -8593,7 +8736,8 @@
     "nasal vaccine"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/institute nasal vaccine research, no company sponsor named"
   },
   {
    "title": "Orexo and SVF Vaccines collaborate to explore AmorphOX® formulation of LNP-mRNA vaccines - News-Medical",
@@ -8609,7 +8753,8 @@
     "AmorphOX"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "Orexo/SVF Vaccines AmorphOX mRNA collaboration (added as news)"
   },
   {
    "title": "NeOnc Insider Buying Expands Ahead of FDA Discussions and Two Key Brain Cancer Data Presentations - The Manila Times",
@@ -8623,7 +8768,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, SNO conference coverage already reflected"
   },
   {
    "title": "A nasal multiple sclerosis treatment candidate met both main trial goals - Stock Titan",
@@ -8637,7 +8783,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Plant Nanovesicles Face Key Translational Hurdles in Neurological Therapy Review - Bioengineer.org",
@@ -8651,7 +8798,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic plant-nanovesicle review, no sponsor product"
   },
   {
    "title": "Both primary MS trial goals were met. Tiziana (TLSA) will discuss results in London November 18. - Stock Titan",
@@ -8667,7 +8815,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Lack of Patients Carrying Epi is a Health Crisis: ARS Pharma CEO - Allergic Living",
@@ -8681,7 +8830,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general advocacy op-ed on epinephrine carrying, not a product event"
   },
   {
    "title": "Biodeal Pharmaceuticals receives CDSCO approval for Midazolam nasal spray - Express Pharma",
@@ -8698,7 +8848,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "biodeal-midazolam-nasal, duplicate trade-press coverage of the Nov NPPA price-exemption order already on card"
   },
   {
    "title": "Police: UFC's Tommy McMillen found unresponsive in nightclub, rushed to hospital - MMA Junkie",
@@ -8712,7 +8863,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "already handled"
   },
   {
    "title": "All Medicare Part D and Medicaid Enrollees Had Naloxone Coverage, but Part D Generally Excluded the OTC Spray - Medical Daily",
@@ -8726,7 +8878,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "naloxone Medicare/Medicaid coverage policy analysis, not a specific nasal product event"
   },
   {
    "title": "Depression Treatment in California: When Two Medications Haven’t Worked - Breaking AC News",
@@ -8740,7 +8893,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "generic depression-treatment advertorial, no specific product"
   },
   {
    "title": "Harrow Q3 2026 slides: record revenue, product portfolio expansion By Investing.com - Investing.com India",
@@ -8754,7 +8908,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Harrow Q3/platform coverage, not Tyrvaya-specific"
   },
   {
    "title": "ARPA-H bets $4.9 million on ibogaine for PTSD treatment in veterans - Fierce Biotech",
@@ -8768,7 +8923,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "psychedelic/ibogaine funding or layoffs, not intranasal"
   },
   {
    "title": "Canada's needle-free epinephrine nasal spray is now prescription-free - Inside Halton",
@@ -8784,7 +8940,8 @@
     "epinephrine nasal"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy, Canada Rx-free NAPRA Schedule II (added as news)"
   },
   {
    "title": "Biodeal Pharma receives New Drug Permission from CDSCO for indigenously developed Midazolam Nasal Spray - BioSpectrum India",
@@ -8801,7 +8958,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "biodeal-midazolam-nasal, duplicate trade-press coverage of the Nov NPPA price-exemption order already on card"
   },
   {
    "title": "ClearLife Nasal Spray Lawsuit: 2026 Free Case Evaluation - Schmidt & Clark, LLP",
@@ -8817,7 +8975,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "lawyer-advertorial lawsuit pages for unrelated OTC sprays"
   },
   {
    "title": "Milestone Pharmaceuticals stock faces earnings update on November 13 - ad-hoc-news.de",
@@ -8833,7 +8992,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Milestone Q3 preview, superseded by actual Nov 13 results"
   },
   {
    "title": "HSE highlight free nasal flu vaccine for under 17s - Tipp FM",
@@ -8847,7 +9007,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Ireland seasonal flu-vaccine awareness campaign, no new fact vs FluMist/Fluenz cards"
   },
   {
    "title": "Tiziana Life Sciences to Present at the Jefferies Global Healthcare Conference 2026 in London - GlobeNewswire",
@@ -8863,7 +9024,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Oragenics Receives NYSE American Approval of Compliance Plan and Extension Through February 2028 - GlobeNewswire",
@@ -8877,7 +9039,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Oragenics NYSE listing extension, not nasal"
   },
   {
    "title": "NeOnc CEO Buys More Shares Below $5 as NTHI Secures FDA Meeting to Discuss Phase 3 Trial - GlobeNewswire",
@@ -8891,7 +9054,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "BODYWELLE Hosts Men's Health Awareness Panel in Miami Beach - ACCESS Newswire",
@@ -8905,7 +9069,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated men's-health panel event"
   },
   {
    "title": "Traws Pharma Reports Final Phase 2a Results for Ratutrelvir in COVID-infected Subjects, Showing Fewer Treatment-Related Adverse Events and No Viral Rebounds Versus PAXLOVID - BioSpace",
@@ -8919,7 +9084,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "Fierce Biotech Layoff Tracker 2026: Vertex trims 78 employees; Coherus lays off 30% of workforce - Fierce Biotech",
@@ -8933,7 +9099,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "psychedelic/ibogaine funding or layoffs, not intranasal"
   },
   {
    "title": "Eli Lilly secures first approval for weight-loss pill in China - Proactive financial news",
@@ -8947,7 +9114,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Eli Lilly oral weight-loss pill China approval, not intranasal"
   },
   {
    "title": "유유제약, 매운맛 입힌 씹어먹는 비타민C 출시…불닭·마라·와사비 3종 - 이코노미사이언스",
@@ -8961,7 +9129,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "already handled"
   },
   {
    "title": "鼻炎用药迎来新选择：普祺医药普美昔替尼鼻喷申报上市，能否切动存量市场？ - ByDrug",
@@ -8977,7 +9146,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "pumetacitinib nasal spray NDA not yet filed per this-run check (targeted Q4 2026) - see Watching"
   },
   {
    "title": "家庭常备药评选结果出炉，芪防鼻通片荣登鼻炎用药品类榜单 - TOM",
@@ -8991,7 +9161,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "OTC herbal rhinitis tablet ranking, not a tracked device/drug product"
   },
   {
    "title": "ST人福：咪达唑仑鼻用喷雾剂获得药物临床试验批准通知书 - Sohu",
@@ -9007,7 +9178,8 @@
     "鼻用喷雾剂"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Humanwell midazolam nasal spray IND reported by Chinese stock-news mirrors only; could not open original SSE/cninfo disclosure this run - see Watching"
   },
   {
    "title": "#TLSA Tiziana Life Sciences to Present at the Jefferies Global Healthcare Conference 2026 in London  https://www.stocktitan.net/news/TLSA/tiziana-life-sciences-to-present-at-the-jefferies-global-healthcare-4bjmufsrwsbl.html?utm_source=stocktitan-bluesky&utm_medium=social",
@@ -9025,7 +9197,8 @@
     "tiziana"
    ],
    "fetched": "2026-11-13T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Intranasal Epinephrine Powder Safety After Double Dose, With Michael Blaiss, MD - HCPLive",
@@ -9042,7 +9215,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "Intranasal Nanocarriers Offer Investigational Strategy for Multiple Sclerosis Brain Drug Delivery - Bioengineer.org",
@@ -9058,7 +9232,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic nanocarrier review article, not company-specific news"
   },
   {
    "title": "FMXIN002 Double Dose Delivers Faster Epinephrine Exposure Than Autoinjector - HCPLive",
@@ -9075,7 +9250,8 @@
     "FMXIN002"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus NS002 ACAAI abstract-acceptance/presentation coverage - single Tier2 source, could not meet 2-source bar this run"
   },
   {
    "title": "Nasal Delivery of Deferiprone Enhances Brain Exposure in Mice - Bioengineer.org",
@@ -9091,7 +9267,8 @@
     "Nasal Delivery"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic mouse-model deferiprone study, no sponsor product tracked"
   },
   {
    "title": "NeOnc Showcases Two Brain Cancer Drug Programs at SNO as FDA Meetings Approach - The Daily Tribune News",
@@ -9105,7 +9282,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected"
   },
   {
    "title": "FDA Meeting Could Put NeOnc's NEO100 Experimental Brain Cancer Drug on Faster Track - Quantisnow",
@@ -9121,7 +9299,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100, FDA Type B meeting already reflected"
   },
   {
    "title": "Vistagen Reports Fiscal Year 2027 Second Quarter Financial Results and Provides Corporate Update - The Manila Times",
@@ -9137,7 +9316,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "mRNA Vaccines Target Swine Influenza and Elicit Cross-Reactive Antibodies in Mice - Bioengineer.org",
@@ -9151,7 +9331,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic swine-influenza mRNA mouse study, no sponsor product tracked"
   },
   {
    "title": "Canada's Milestone Pharmaceuticals posts Q3 product revenue after nasal spray launch - TradingView",
@@ -9168,7 +9349,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Psychedelic Depression Drug GH001 Gets Initial FDA Feedback; Lilly-Owned Rival Advances Phase 3 Work - Tech Times",
@@ -9182,7 +9364,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "already handled"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Third Quarter 2026 Financial Results and Announces Cost-Efficiency Measures Designed to Extend Cash Runway Through AFib-RVR Phase 3 Data - mykxlg.com",
@@ -9198,7 +9381,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Milestone Pharmaceuticals plans 30% operating-expense cut - Mugglehead Investment Magazine",
@@ -9214,7 +9398,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Milestone Pharmaceuticalss stock rises 6% on beating estimates on revenue growth - StreetInsider",
@@ -9228,7 +9413,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "FDA said to end speedy drug review program while Compass Pathways submits FDA New Drug Application for psilocybin; Feds commit $25 million for ibogaine and “psychotropic” research - The Microdose",
@@ -9242,7 +9428,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "psychedelic/ibogaine funding or layoffs, not intranasal"
   },
   {
    "title": "Alternative drug via nasal spray could help in depression - The Star",
@@ -9258,7 +9445,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "MIST: Milestone recognizes $2.0M license revenue on NMPA approval - Quantisnow",
@@ -9272,7 +9460,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Milestone CARDAMYST Q3 Revenue Hits $1M, Cash Runway Extended to Late 2028 - Minichart",
@@ -9288,7 +9477,8 @@
     "CARDAMYST"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "ManukaGuard Nasal Spray Lawsuit: 2026 Free Case Evaluation - Schmidt & Clark, LLP",
@@ -9304,7 +9494,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "lawyer-advertorial lawsuit pages for unrelated OTC sprays"
   },
   {
    "title": "ReBoost Nasal Spray Lawsuit: 2026 Free Case Evaluation - Schmidt & Clark, LLP",
@@ -9320,7 +9511,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "lawsuit advertorial, unrelated OTC product"
   },
   {
    "title": "Milestone cuts costs 30% and extends cash runway - grafa.com",
@@ -9334,7 +9526,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Q3 2026 Loss of $0.18 Per Shar - GuruFocus",
@@ -9350,7 +9543,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "UFC Fighter Hospitalized After Suspected Nightclub Overdose as Coach Shares Health Update - شبكة تواصل الإخبارية",
@@ -9364,7 +9558,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated MMA news"
   },
   {
    "title": "Allergy Treatment Market Size to Reach USD 38.04 Billion by 2031 - openPR.com",
@@ -9378,7 +9573,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-size report (IndexBox-style), Tier 3"
   },
   {
    "title": "Painless vaccines among Japan's anti-flu measures before full-scale infection spread - 毎日新聞",
@@ -9392,7 +9588,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Japan flu-prevention policy roundup, no new nasal-vaccine fact"
   },
   {
    "title": "VTGN: Vistagen Therapeutics Inc. filed SEC Form 8-K: Results of... - Quantisnow",
@@ -9408,7 +9605,8 @@
     "Vistagen"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fasedienol, no material change beyond Oct 2026 workforce-cut update already on card"
   },
   {
    "title": "Aptar Pharma Expands Services Capabilities to Support Development of Inhaled and Nasal Drug Products Containing Controlled Substances - Yahoo Finance",
@@ -9424,7 +9622,8 @@
     "Aptar Pharma"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Aptar controlled-substances service-capability release could not be verified this run (search turned up only an older 2021 release) - see Watching"
   },
   {
    "title": "Milestone Pharmaceuticals Reports Third Quarter 2026 - GlobeNewswire",
@@ -9440,7 +9639,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "NeOnc Showcases Two Brain Cancer Drug Programs at SNO as FDA Meetings Approach - GlobeNewswire",
@@ -9454,7 +9654,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Brain Cancer Biotech Race Heats Up as NeOnc, Nuvation, Jazz and Cerenome Present New Data at SNO - GlobeNewswire",
@@ -9468,7 +9669,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "NeOnc Showcases Two Brain Cancer Drug Programs at SNO as FDA Meetings Approach - BioSpace",
@@ -9482,7 +9684,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "AstraZeneca cuts 600 US sales jobs amid $1.5B savings plan: Bloomberg - Fierce Pharma",
@@ -9496,7 +9699,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "AstraZeneca sales-jobs cuts, not nasal-specific"
   },
   {
    "title": "Milestone cuts 20% of staff with CMO, CFO exiting leadership roles - Endpoints News",
@@ -9510,7 +9714,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "HHS pumps up to $25M into ibogaine, other psychotropic drugs on Veteran’s Day - BioSpace",
@@ -9524,7 +9729,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "psychedelic/ibogaine funding or layoffs, not intranasal"
   },
   {
    "title": "SK바이오사이언스, 비강 스프레이 개발 종료…게이츠재단 우선순위 조정 - 메디코파마",
@@ -9540,7 +9746,8 @@
     "비강 스프레이"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "中, 중의약 방역 법제화에 확진자 91.5% 활용…이젠 ‘비강 예방제’까지 > 뉴스 - 한의신문",
@@ -9554,7 +9761,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Chinese TCM preventive-medicine commentary, no defined nasal drug product/sponsor"
   },
   {
    "title": "여러 항우울제에도 낫지 않는 우울증…새 치료 선택지 열려 - 헬스이슈앤뉴스",
@@ -9568,7 +9776,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "generic depression-treatment-options article, no new fact"
   },
   {
    "title": "니온크 테크놀로지스, FDA와 NEO100 가속승인 경로 논의 미팅 확정…CEO 8만 주 장내 매수 - 데이터투자",
@@ -9584,7 +9793,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "🥶 찬바람 불 때 필수! 온몸을 녹여주는 '클레로나인 전통 비강찜질팩' 특가 득템 찬스 ✨ - 판다랭크",
@@ -9598,7 +9808,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "nasal warming pack (device, drug-free, not competing barrier spray)"
   },
   {
    "title": "2026年第45周11.02-11.08全球创新药研发概览 - 摩熵医药",
@@ -9612,7 +9823,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "reviewed - no verifiable intranasal product event this run"
   },
   {
    "title": "远大医药(00512)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
@@ -9626,7 +9838,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Chinese stock-quote page, no content"
   },
   {
    "title": "百克生物连亏1年3季 2021年上市募15亿中信证券保荐 - Sohu",
@@ -9640,7 +9853,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Baike Bio financial loss, not a nasal product event"
   },
   {
    "title": "Milestone cuts 20% of staff as Cardamyst sales hit $1M in Q3",
@@ -9657,7 +9871,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "DISCUSSION: Intranasal cubosome delivery systems have strong potential to overcome blood-brain barrier restrictions through nose-to-brain administration. Their cubic nanostructure is distinctive, enhancing drug loading, stability, and controlled release, while in situ gel (🧵 8/11",
@@ -9675,7 +9890,8 @@
     "nose-to-brain"
    ],
    "fetched": "2026-11-14T08:26+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social thread discussing cubosome nose-to-brain delivery generically, no sponsor/product named"
   },
   {
    "title": "NeOnc Showcases Two Brain Cancer Drug Programs at SNO as FDA Meetings Approach - The Manila Times",
@@ -9689,7 +9905,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Biodeal Pharma gets DCGI nod for midazolam nasal spray - pharma.economictimes.indiatimes.com",
@@ -9706,7 +9923,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "biodeal-midazolam-nasal, duplicate trade-press coverage of the Nov NPPA price-exemption order already on card"
   },
   {
    "title": "Regeneron Reports Positive Phase 2 Results for Baloncibart in POTS, Plans Phase 3 Trial - Voice of Healthcare",
@@ -9720,7 +9938,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Regeneron baloncibart POTS, not intranasal"
   },
   {
    "title": "HKU Teams Win Grand Prize, Three Second Prizes at Challenge Cup Finals - Mirage News",
@@ -9734,7 +9953,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "student entrepreneurship-competition award, not a product event"
   },
   {
    "title": "Fierce Biotech Fundraising Tracker '26: China's Eli Radiopharma raises $60M; Neurosterix notches $105M - Fierce Biotech",
@@ -9748,7 +9968,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "fundraising tracker roundup, no nasal-specific item"
   },
   {
    "title": "宣泰医药(688247.SH)：泊沙康唑肠溶片获得哥伦比亚INVIMA批准文号 - 金融界",
@@ -9762,7 +9983,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "posaconazole Colombia approval, not nasal"
   },
   {
    "title": "Milestone Pharmaceuticals股价上涨6%，营收超预期 提供者 Investing.com - 英为财情 Investing.com",
@@ -9778,7 +10000,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-15T07:13+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Tiziana Life Sciences Ltd (TLSA) Discusses Positive Phase 2a INFORM-MS Results for Intranasal Foralumab in Nonactive Secondary Progressive Multiple Sclerosis - Slideshow - Seeking Alpha",
@@ -9796,7 +10019,8 @@
     "Tiziana"
    ],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "foralumab, Nov topline/BIO-Europe/Jefferies coverage already reflected"
   },
   {
    "title": "Oragenics Secures NYSE American Listing Extension Through 2028 - citybuzz -",
@@ -9810,7 +10034,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Oragenics NYSE listing extension, not nasal"
   },
   {
    "title": "Biodeal Pharmaceuticals Gets CDSCO Approval for Midazolam Nasal Spray - Voice of Healthcare",
@@ -9827,7 +10052,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "biodeal-midazolam-nasal, duplicate trade-press coverage of the Nov NPPA price-exemption order already on card"
   },
   {
    "title": "Milestone Pharmaceuticals plans 30% expense cut to extend cash runway - Mugglehead Investment Magazine",
@@ -9843,7 +10069,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "HKU Teams Capture One Grand Prize and Three Second Prizes at National Finals of the 15th Challenge Cup China Undergraduate Entrepreneurship Competition - The University of Hong Kong (HKU)",
@@ -9857,7 +10084,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "student entrepreneurship-competition award, not a product event"
   },
   {
    "title": "Layoff Tracker: Milestone cutting 20% of HQ team, including CMO - BioSpace",
@@ -9871,7 +10099,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "Fierce Biotech Layoff Tracker 2026: Milestone shrinks HQ workforce during Cardamyst rollout - Fierce Biotech",
@@ -9887,7 +10116,8 @@
     "Cardamyst"
    ],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "etripamil-cardamyst, Q3 2026 results/restructuring and neonc-neo100 FDA meeting already reflected"
   },
   {
    "title": "远大医药六款产品成功纳入2026年国家医保药品目录、商保创新药目录及行业配套列表 - ByDrug",
@@ -9901,7 +10131,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Yuanda Pharmaceutical NRDL inclusion for six products, none identified as a tracked nasal product"
   },
   {
    "title": "新增107种药品，如何进一步提升临床用药可及性，减轻患者负担？ - 京报网",
@@ -9915,7 +10146,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "China NRLM reimbursement-list expansion (107 drugs), no nasal-specific product named"
   },
   {
    "title": "已确认，三种毒株同时流行！紧急提醒 - 凤凰网",
@@ -9929,7 +10161,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-16T07:40+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general respiratory-virus-strain public-health alert, not a product event"
   }
  ],
  "updated": "2026-11-16T07:40+09:00"
