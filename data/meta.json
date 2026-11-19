@@ -1,15 +1,15 @@
 {
- "last_collect": "2026-11-18T09:50+09:00",
+ "last_collect": "2026-11-19T09:08+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 18,
-   "kept": 18
+   "items": 17,
+   "kept": 17
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 16,
-   "kept": 16
+   "items": 19,
+   "kept": 19
   },
   "Google News EN: nasal powder": {
    "status": "ok",
@@ -23,33 +23,33 @@
   },
   "Google News EN: nose-to-brain": {
    "status": "ok",
-   "items": 3,
-   "kept": 3
+   "items": 2,
+   "kept": 2
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 12,
-   "kept": 12
+   "items": 16,
+   "kept": 16
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 11,
+   "items": 12,
    "kept": 10
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "Google News KO: 비강 제약": {
    "status": "ok",
-   "items": 8,
-   "kept": 8
+   "items": 10,
+   "kept": 10
   },
   "Google News KO: 비강 투여/스프레이": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "Google News JA: 点鼻": {
    "status": "ok",
@@ -58,8 +58,8 @@
   },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 9,
-   "kept": 9
+   "items": 5,
+   "kept": 5
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 105,
+   "items": 68,
    "kept": 0
   },
   "FDA press releases": {
@@ -123,7 +123,7 @@
   },
   "EMA what's new": {
    "status": "ok",
-   "items": 292,
+   "items": 308,
    "kept": 1
   },
   "MFDS 보도자료": {
@@ -143,7 +143,7 @@
   },
   "DART 오늘의 공시": {
    "status": "ok",
-   "items": 25,
+   "items": 14,
    "kept": 0
   },
   "Endpoints News": {
@@ -234,7 +234,7 @@
   "뉴스더보이스": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "헬스코리아뉴스": {
    "status": "ok",
@@ -253,7 +253,7 @@
   },
   "Bluesky search": {
    "status": "ok",
-   "items": 10,
+   "items": 13,
    "errors": []
   },
   "openFDA drugsfda (nasal)": {
