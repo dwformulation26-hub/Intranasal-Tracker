@@ -1,15 +1,15 @@
 {
- "last_collect": "2026-11-21T08:53+09:00",
+ "last_collect": "2026-11-22T07:58+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 12,
-   "kept": 12
+   "items": 9,
+   "kept": 9
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 19,
-   "kept": 19
+   "items": 18,
+   "kept": 18
   },
   "Google News EN: nasal powder": {
    "status": "ok",
@@ -23,23 +23,23 @@
   },
   "Google News EN: nose-to-brain": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 3,
+   "kept": 3
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 11,
-   "kept": 11
+   "items": 5,
+   "kept": 5
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 6,
-   "kept": 5
+   "items": 7,
+   "kept": 6
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
-   "items": 1,
-   "kept": 1
+   "items": 2,
+   "kept": 2
   },
   "Google News KO: 비강 제약": {
    "status": "ok",
@@ -93,7 +93,7 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 41,
+   "items": 0,
    "kept": 0
   },
   "FDA press releases": {
@@ -253,7 +253,7 @@
   },
   "Bluesky search": {
    "status": "ok",
-   "items": 13,
+   "items": 11,
    "errors": []
   },
   "openFDA drugsfda (nasal)": {
