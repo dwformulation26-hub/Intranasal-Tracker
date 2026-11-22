@@ -1,41 +1,14 @@
 {
- "generated": "2026-11-16T07:42:11+09:00",
+ "generated": "2026-11-23T08:29:57+09:00",
  "trials_checked": 111,
  "changes": [
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT06292923",
-   "field": "status",
-   "old": "ACTIVE_NOT_RECRUITING",
-   "new": "COMPLETED",
-   "notable": true
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT06292923",
-   "field": "pcd",
-   "old": "2026-09",
-   "new": "2026-09-17",
-   "notable": true
-  },
-  {
-   "card": "foralumab",
-   "product": "Foralumab nasal",
-   "nct": "NCT06292923",
-   "field": "updated",
-   "old": "2026-07-02",
-   "new": "2026-11-12",
-   "notable": false
-  },
   {
    "card": "ocu500",
    "product": "OCU500",
    "nct": "NCT07536308",
    "field": "updated",
-   "old": "2026-11-06",
-   "new": "2026-11-13",
+   "old": "2026-11-13",
+   "new": "2026-11-20",
    "notable": false
   },
   {
@@ -43,8 +16,8 @@
    "product": "RVX-sCPD9",
    "nct": "NCT07703475",
    "field": "updated",
-   "old": "2026-11-06",
-   "new": "2026-11-13",
+   "old": "2026-11-13",
+   "new": "2026-11-20",
    "notable": false
   },
   {
@@ -52,17 +25,8 @@
    "product": "NIAID nasal COVID candidates",
    "nct": "NCT07221162",
    "field": "updated",
-   "old": "2026-06-23",
-   "new": "2026-11-13",
-   "notable": false
-  },
-  {
-   "card": "etripamil-cardamyst",
-   "product": "CARDAMYST (etripamil)",
-   "nct": "NCT06716021",
-   "field": "updated",
-   "old": "2026-10-07",
-   "new": "2026-11-12",
+   "old": "2026-11-13",
+   "new": "2026-11-20",
    "notable": false
   }
  ],
