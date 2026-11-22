@@ -7118,7 +7118,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Weekly Recap: NEO100 FDA and Phase 2a Update and CEO Share Purchase - TradingView",
@@ -7134,7 +7135,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup NEO100/CEO recap, already reflected"
   },
   {
    "title": "NeOnc CEO buys $1.5M in shares ahead of FDA meeting - StreetInsider",
@@ -7148,7 +7150,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "Sendai Virus Shows Promise as Pediatric Vaccine Against Respiratory Pathogens - Bioengineer.org",
@@ -7162,7 +7165,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Nasus Pharma Appoints Nir Sassi as Chief Financial Officer - The Manila Times",
@@ -7178,7 +7182,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus CFO appointment, not pipeline-material"
   },
   {
    "title": "LTR Pharma (ASX:LTP) Shares in Focus: Why Is the Fast-Onset Intranasal Absorption Drawing Attention? - Kalkine Media",
@@ -7194,7 +7199,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock-focused commentary, no new fact"
   },
   {
    "title": "Oxytocin Modulates Vicarious Fear Extinction Circuitry by Gender in Clinical Trial - Bioengineer.org",
@@ -7208,7 +7214,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "NeOnc CEO Amir Heshmatpour’s 2026 Open-Market Share Purchases Exceed $1.5 Million - The Manila Times",
@@ -7222,7 +7229,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "Truncated TrkB Receptor Fragment Triggers Post-Stroke Inflammation and Brain Damage - Bioengineer.org",
@@ -7236,7 +7244,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Herbal Formulation Protects Dopaminergic Neurons in Animal Models of Parkinson’s Disease - Bioengineer.org",
@@ -7250,7 +7259,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Study Clarifies Vulnerability and Safety Requirements in Clinical Ketamine Therapy Sessions - Bioengineer.org",
@@ -7264,7 +7274,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Nasus Pharma Appoints Nir Sassi as Chief Financial Officer - GlobeNewswire",
@@ -7280,7 +7291,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus CFO appointment, not pipeline-material"
   },
   {
    "title": "NeOnc CEO Amir Heshmatpour’s 2026 Open-Market Share Purchases Exceed $1.5 Million - GlobeNewswire",
@@ -7294,7 +7306,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "NEURELIS JOINS THE EPILEPSY COMMUNITY AT ANNUAL SOFIE'S JOURNEY EPILEPSY AWARENESS DAY AND EDUCATION EXPO AT DISNEYLAND® RESORT - PR Newswire",
@@ -7310,7 +7323,8 @@
     "NEURELIS"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "corporate awareness event, no pipeline fact"
   },
   {
    "title": "SCIENTURE Reports Q3 2026 Results with Approximately 265% - GlobeNewswire",
@@ -7324,7 +7338,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "scienture-rezenopy card update (Q3 2026)"
   },
   {
    "title": "Anti-Obesity Drugs Market Companies Analysis 2027: Eli - GlobeNewswire",
@@ -7338,7 +7353,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Listening to Spravato (2nd Ed.): The Esketamine User's Guide - ACCESS Newswire",
@@ -7354,7 +7370,8 @@
     "Spravato"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unrelated book/guide product"
   },
   {
    "title": "NeOnc CEO Amir Heshmatpour’s 2026 Open-Market Share Purchases Exceed $1.5 Million - BioSpace",
@@ -7368,7 +7385,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "Molecular Designs Earns Its First FDA 510(k) Clearance with SimplicityDx™ Panel FluA/FluB/RSV - BioSpace",
@@ -7382,7 +7400,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "diagnostic device, not a drug product"
   },
   {
    "title": "Nasus Pharma Appoints Nir Sassi as Chief Financial Officer - BioSpace",
@@ -7398,7 +7417,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus CFO appointment, not pipeline-material"
   },
   {
    "title": "SCIENTURE Reports Q3 2026 Results with Approximately 265% Sequential Revenue Growth Driven by the Commercial Launch of REZENOPY - BioSpace",
@@ -7414,7 +7434,8 @@
     "REZENOPY"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Scienture Q3 results"
   },
   {
    "title": "Five Reputable ENT Diode Laser Manufacturers in China 2026: Advancing Medical Laser Technology - Bergen Record",
@@ -7428,7 +7449,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "여러 항우울제에도 낫지 않는 우울증…새로운 선택지 열려 - 헬스이슈앤뉴스",
@@ -7442,7 +7464,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "[대한소아이비인후과학회-메디컬월드뉴스②]소아 코 질환 전원 기준 제시 - medicalworldnews.co.kr",
@@ -7456,7 +7479,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "\"뿌리는 항우울제 스프라바토, 빠른 효과·재발 예방 입증\" - 데일리팜",
@@ -7472,7 +7496,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "Nasus Pharma, Nir Sassi 최고재무책임자로 선임 - Investing.com 한국어",
@@ -7488,7 +7513,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus CFO appointment (KR), not pipeline-material"
   },
   {
    "title": "NeOnc CEO, 장내서 자사주 3만 주 추가 매입 - Investing.com 한국어",
@@ -7502,7 +7528,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "'스프라바토' 급여 적용…4주 후 반응이 지속 투여 좌우",
@@ -7519,7 +7546,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "얀센 '스프라바토', 치료저항성 우울증 치료 패러다임 변화 주목",
@@ -7535,7 +7563,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "\"스프라바토 급여 적용, 치료저항성 우울증 환자의 새로운 치료 옵션\"",
@@ -7552,7 +7581,8 @@
     "스프라바토"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "This might be the one? If so, interesting riteaid.com/peptides/pt-...",
@@ -7569,7 +7599,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-17T10:47+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead, unclear product match"
   },
   {
    "title": "Novel Epinephrine Devices Promising in Mid-Stage Trials - MedPage Today",
@@ -7585,7 +7616,8 @@
     "Epinephrine"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Nasus ACAAI data"
   },
   {
    "title": "Nasus Pharma presents phase 2 data on intranasal epinephrine - Investing.com",
@@ -7603,7 +7635,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Nasus ACAAI data"
   },
   {
    "title": "Intranasal Nanoparticles Circumvent Blood–Brain Barrier in Medulloblastoma Therapy Review - Bioengineer.org",
@@ -7619,7 +7652,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Ketamine, Esketamine Best Practices Remain Elusive - Medscape",
@@ -7633,7 +7667,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Flu Shots During Cancer Treatment: Your Questions Answered - Cure Today",
@@ -7647,7 +7682,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general consumer health, not pharma pipeline"
   },
   {
    "title": "EMA Upholds Refusals for Pediatric Pain Spray and NPC Drug - Medscape",
@@ -7661,7 +7697,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Cessatech/KemSu CHMP refusal, already tracked"
   },
   {
    "title": "Nasus Pharma Presents Data at ACAAI 2026 Demonstrating - GlobeNewswire",
@@ -7677,7 +7714,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "nasus-fmxin002 card update (ACAAI data)"
   },
   {
    "title": "Refined Mouse Model Links Severe Influenza Sepsis to Rapid Kidney Damage - Bioengineer.org",
@@ -7691,7 +7729,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "NeOnc Reports Additional Partial Response in Phase 2a Study of Intranasal NEO100 - Asianet Newsable",
@@ -7708,7 +7747,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup NEO100 ORR data, already reflected"
   },
   {
    "title": "Nasus Pharma Appoints Nir Sassi as Chief Financial Officer - TipRanks",
@@ -7724,7 +7764,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Nasus CFO appointment, not pipeline-material"
   },
   {
    "title": "Could a Nasal Spray Replace Lumbar Punctures Someday? - Medscape",
@@ -7740,7 +7781,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "diagnostic device, not a drug product"
   },
   {
    "title": "New Depression Treatment Offered At New Clinic In Rockland County - News12 | Westchester",
@@ -7754,7 +7796,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Ketamine for Treatment-Resistant Depression: Practical Clinical Considerations - Psychiatric Times",
@@ -7768,7 +7811,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Blood Markers May Signal Who Benefits From Psilocybin or Ketamine for Depression in Early Conference Research - Medical Daily",
@@ -7782,7 +7826,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Fifty Years in the Making: Naloxone’s Lifesaving Journey - SaportaReport",
@@ -7796,7 +7841,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general naloxone history piece"
   },
   {
    "title": "Biodeal Pharmaceuticals Gets CDSCO Approval For India's First Midazolam Nasal Spray - BW Healthcare World",
@@ -7813,7 +7859,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Biodeal approval, card has newer fact"
   },
   {
    "title": "SCIENTURE Reports Q3 2026 Results with Approximately 265%... - Quantisnow",
@@ -7827,7 +7874,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Scienture Q3 results"
   },
   {
    "title": "Dana White reacts to Tommy McMillen overdose reports: 'Hopefully that was a huge wakeup call' - Yahoo Sports",
@@ -7841,7 +7889,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Jury discharged in organised crime gang shooting trial - BBC",
@@ -7855,7 +7904,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Aquestive Therapeutics Eyes Needle-Free Allergy Treatment Launch Ahead of 2027 FDA Decision - TradingView",
@@ -7869,7 +7919,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Anaphylm is sublingual, not intranasal"
   },
   {
    "title": "Albertsons Faces $900 Million Judgment In Washington Opioid Case - Blavity News",
@@ -7883,7 +7934,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Aquestive Therapeutics at Jefferies conference: anaphylm drives growth - Investing.com",
@@ -7897,7 +7949,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "Anaphylm is sublingual, not intranasal"
   },
   {
    "title": "SfN Neuroscience 2026 Briefing Today Says Blood Markers Predict Depression Drug Response - Tech Times",
@@ -7911,7 +7964,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Novo Nordisk (CPSE:NOVO B) Scores Phase 3 Win And EU Approval Across New Therapies - Yahoo Finance UK",
@@ -7925,7 +7979,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "HKU showcases future-ready innovations at InnoCarnival 2026 to advance community well-being and smart living - EurekAlert!",
@@ -7939,7 +7994,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general showcase event, no product fact"
   },
   {
    "title": "NeOnc Reports Additional Partial Response in Phase 2a Study of Intranasal NEO100 - GlobeNewswire",
@@ -7956,7 +8012,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neonc-neo100 card update (ORR 12.5%)"
   },
   {
    "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - GlobeNewswire",
@@ -7970,7 +8027,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Taiwan Team's Breathing-Mimicking Stem Cell Platform Reduces Pulmonary Fibrosis in Preclinical Study - PR Newswire",
@@ -7984,7 +8042,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "NRx Pharmaceuticals (Nasdaq: NRXP) Reports Third Quarter 2026 Financial Results and Provides Corporate Update - GlobeNewswire",
@@ -7998,7 +8057,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Nasus Pharma Presents Data at ACAAI 2026 Demonstrating NS002 Reached the Therapeutic Epinephrine Threshold Faster Than an Autoinjector After Repeat Dosing and Under Severe Nasal Congestion - BioSpace",
@@ -8016,7 +8076,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "nasus-fmxin002 card update (ACAAI data)"
   },
   {
    "title": "NeOnc Reports Additional Partial Response in Phase 2a Study of Intranasal NEO100 - BioSpace",
@@ -8033,7 +8094,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup NEO100 ORR data, already reflected"
   },
   {
    "title": "Nine-month interim report (Q3) 2026 (unaudited) - BioSpace",
@@ -8047,7 +8109,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unidentified company, no nasal fact"
   },
   {
    "title": "Endpoints News - Endpoints News",
@@ -8061,7 +8124,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "empty/unparsable headline"
   },
   {
    "title": "Nasus Pharma, 비강 투여 에피네프린 2상 임상 데이터 발표 - Investing.com 한국어",
@@ -8078,7 +8142,8 @@
     "비강 투여"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Nasus ACAAI data (KR)"
   },
   {
    "title": "니온크 테크놀로지스, NEO100 임상 2a상 추가 반응 확인…ORR 12.5%로 상승 - 데이터투자",
@@ -8094,7 +8159,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup NEO100 ORR data (KR), already reflected"
   },
   {
    "title": "NeOnc, 신경교종 치료제 NEO100 임상 2a상 중간 결과 업데이트 - Investing.com 한국어",
@@ -8110,7 +8176,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup NEO100 data (KR), already reflected"
   },
   {
    "title": "大好評のコラボが今年も登場！ 「ネピア 鼻セレブティシュ ムーミンコラボパッケージ」数量限定発売 - ライブドアニュース",
@@ -8124,7 +8191,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "奥洛他定莫米松鼻喷雾剂纳入医保，推动过敏性鼻炎规范管理 - 中华网",
@@ -8140,7 +8208,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "insufficient Tier1 this run - see Watching"
   },
   {
    "title": "厚植生态 向新跃升——长春高新技术产业开发区医药产业一线观察 - 吉林省人民政府",
@@ -8154,7 +8223,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "核药及罕见药商保落地，叠加慢病产品医保续约，远大医药双线支付路径赋能多元产品放量 - 凤凰网财经",
@@ -8168,7 +8238,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "港大“挑战杯”四项目全数获奖 特等奖广谱肿瘤免疫疗法获最高荣誉 - https://www.hkong.cn/",
@@ -8182,7 +8253,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "American Regent, Inc. Issues Voluntary Nationwide Recall of Three Lots of Epinephrine Injection, USP 30 mg/ 30 mL (1 mg/mL) Due to the Presence of Particulate Matter and Lack of Assurance of Sterility",
@@ -8198,7 +8270,8 @@
     "Epinephrine"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "From Albany Medical College: pubpeer.com/publications...",
@@ -8215,7 +8288,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "Novel epinephrine formulations are advancing through mid-stage trials, with promising data presented at #ACAAI26. https://www.medpagetoday.com/meetingcoverage/acaai/123917",
@@ -8233,7 +8307,8 @@
     "epinephrine"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social dup of Nasus data"
   },
   {
    "title": "NeOnc Reports Additional Partial Response in Phase 2a Study of Intranasal NEO100  Objective response rate was 12.5% (3 of 24 patients) by RANO 2.0,...  https://ohsem.me/2026/11/neonc-reports-additional-partial-response-in-phase-2a-study-of-intranasal-neo100/?utm_source=bluesky&ut",
@@ -8253,7 +8328,8 @@
     "neo100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social dup of NEO100 data"
   },
   {
    "title": "#NTHI NeOnc Reports Additional Partial Response in Phase 2a Study of Intranasal NEO100  https://www.stocktitan.net/news/NTHI/ne-onc-reports-additional-partial-response-in-phase-2a-study-of-vnjwpubmm1y8.html?utm_source=stocktitan-bluesky&utm_medium=social",
@@ -8271,7 +8347,8 @@
     "NEO100"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social dup of NEO100 data"
   },
   {
    "title": "【歌ってみた】ODDS&ENDS/ryo(supercell) Covered by NEFFY youtu.be/wLVqOdfRRVo?... @YouTubeより",
@@ -8288,7 +8365,8 @@
     "NEFFY"
    ],
    "fetched": "2026-11-18T09:50+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Nasus Pharma presents phase 2 data on intranasal epinephrine By Investing.com - Investing.com Nigeria",
@@ -8306,7 +8384,8 @@
     "intranasal"
    ],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup Nasus ACAAI data"
   },
   {
    "title": "Oral Zavegepant Shows Favorable Tolerability in Terminated Chronic Migraine Prevention Trial - Bioengineer.org",
@@ -8322,7 +8401,8 @@
     "Zavegepant"
    ],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "GLP-1s now carry a warning about a rare vision-threatening eye condition | Newswise - Newswise",
@@ -8336,7 +8416,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Woman who got hooked on nasal spray for 10 years says it cost her thousands - Yahoo Health",
@@ -8352,7 +8433,8 @@
     "nasal spray"
    ],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "Ichnos Glenmark Submits IND for Cancer Drug ISB 2301 to USFDA - Rediff MoneyWiz",
@@ -8366,7 +8448,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "FTSE 100 Hikma (LSE:HIK) Confirms Its Guidance - Kalkine Media",
@@ -8380,7 +8463,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "Applause in court as father of murdered teen warns killer 'prison will not go well' - BBC",
@@ -8394,7 +8478,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Nasal Spray Market to Reach USD 57.9 Billion by 2032 as - GlobeNewswire",
@@ -8410,7 +8495,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Taxi Market in India to Surpass USD 36 Billion by 2032 - GlobeNewswire",
@@ -8424,7 +8510,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Hard Disk Drive (HDD) Market: USD 75.62 Billion by 2032 as - GlobeNewswire",
@@ -8438,7 +8525,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "RNAi Drug Delivery - Global Strategic Business Report 2026: - GlobeNewswire",
@@ -8452,7 +8540,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Amneal Announces European Approval of Adcomfo® (Omalizumab), a Biosimilar to XOLAIR® - BioSpace",
@@ -8466,7 +8555,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "산불 연기, 기도 섬모 운동·상피 장벽 동시 손상…신호전달 억제로 보호 가능성 확인 - 메디컬투데이",
@@ -8480,7 +8570,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "암닐파마슈티컬스, 오말리주맙 바이오시밀러 EU 허가 - 비건뉴스",
@@ -8494,7 +8585,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "니온크 테크놀로지스 CEO, 자사주 3만 주 추가 장내 매수…올해 누적 150만 달러 돌파 - 데이터투자",
@@ -8508,7 +8600,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "executive share purchase, out of scope"
   },
   {
    "title": "“코 뚫리는 데 10초”시원해서 10년 썼다가…수백만원 날린 英 여성의 후회 - 전자신문",
@@ -8522,7 +8615,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "让看牙不再“恐惧”：青岛宝岛吾同口腔医院3位医护登上中华口腔医学会全国讲台 - 鲁网",
@@ -8536,7 +8630,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-19T09:08+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "Review Evaluates Intranasal Delivery Strategies Across Molecular and Cellular CNS Therapeutics - Bioengineer.org",
@@ -8552,7 +8647,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Intranasal Anti-Inflammatory Drugs Fail to Eliminate Castration Pain in Piglets - Bioengineer.org",
@@ -8568,7 +8664,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Nasal mRNA drug prevents cognitive decline in Alzheimer's mice - Chosunbiz",
@@ -8582,7 +8679,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "A nasal, needle-free allergy emergency drug reached its target faster than an injector in a study. - Stock Titan",
@@ -8596,7 +8694,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup epinephrine-nasal-vs-injector theme"
   },
   {
    "title": "Saying no to ‘Neffy’? Needle-free epinephrine allergy treatment faces insurance hurdles in Florida - News4JAX",
@@ -8613,7 +8712,8 @@
     "epinephrine"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "US payer friction, not a stage/fact change"
   },
   {
    "title": "FDA adds rare eye condition warning to popular GLP-1 medications - News-Medical",
@@ -8627,7 +8727,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "ALK signs new partnership in “exciting growth region” - MedWatch",
@@ -8641,7 +8742,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "could not independently confirm - see Watching"
   },
   {
    "title": "Jury discharged in organised crime gang shooting at Pyle home - BBC",
@@ -8655,7 +8757,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "ALK presents new data at FAAM-EUROBAT-ISMA 2026: Data from a comparative study using adrenaline trainer devices suggests EURneffy® nasal adrenaline spray is more suitable for public places than an adrenaline auto-injector - The Manila Times",
@@ -8671,7 +8774,8 @@
     "EURneffy"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup ALK FAAM-EUROBAT-ISMA data"
   },
   {
    "title": "Pakistani scientists develop new patented nasal sprays for epilepsy, stroke patients - Khaleej Times",
@@ -8685,7 +8789,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "RAPID: Etripamil Converts Two-Thirds of Recurrent PSVT Episodes After Ablation - HCPLive",
@@ -8701,7 +8806,8 @@
     "Etripamil"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup etripamil AHA data, already reflected"
   },
   {
    "title": "Report from U.S. House Veterans’ Affairs subcommittee hearing on psychedelic-assisted therapies - The Microdose",
@@ -8715,7 +8821,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Daily peanut consumption may improve brain insulin responsiveness in older adults - PsyPost",
@@ -8729,7 +8836,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Abera begins phase I study with nasal vaccine - Biostock",
@@ -8745,7 +8853,8 @@
     "nasal vaccine"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "insufficient Tier1 this run - see Watching"
   },
   {
    "title": "Macquarie Uni awarded more than $4 million for MND research - https://www.weeklytimes.com.au/",
@@ -8759,7 +8868,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "코에 넣는 mRNA 점비제, 노화 생쥐 기억력 개선…알츠하이머병 치료 가능성 제시 - 메디컬투데이",
@@ -8775,7 +8885,8 @@
     "점비"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "AdaBioのミサトール リノローションがananカラダにいいもの大賞準グランプリ - Dellows News",
@@ -8789,7 +8900,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "让看牙不再恐惧：青岛宝岛吾同口腔医院3位医护登上中华口腔医学会全国讲台——在2026镇静镇痛学术会议上，他们分享了一套儿童舒适化诊疗的吾同方案 - 半岛网",
@@ -8803,7 +8915,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "裂解、亚单位、鼻喷有何区别？上海流感疫苗接种全攻略来了，支持医保个账支付 - 上观新闻",
@@ -8819,7 +8932,8 @@
     "鼻喷"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "远大医药(00512)：治疗呼吸道合胞病毒的全球创新雾化吸入剂 GPN01564 获批开展I期临床研究 - 证券之星",
@@ -8833,7 +8947,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "别等中招才后悔！今年流感疫苗怎么选？上海市民怎么约？看这一篇就够了 - Sohu",
@@ -8847,7 +8962,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "小朋友转季流鼻水咳唔停？拆解感冒/鼻敏感分别 附喷鼻剂使用贴士｜健康专访 - 星島頭條",
@@ -8861,7 +8977,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "﻿﻿﻿﻿﻿“30,000 depression patients unresponsive to existing medications gain new treatment opportunity with ‘Spravato’ insurance coverage”",
@@ -8878,7 +8995,8 @@
     "Spravato"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup kr-spravato reimbursement (already tracked)"
   },
   {
    "title": "Still more good news on the nasal epinephrine front: this powder epinephrine reaches higher bloodstream concentrations faster than an auto-injector, even with a stuffy nose. #foodallergies",
@@ -8897,7 +9015,8 @@
     "nasal epinephrine"
    ],
    "fetched": "2026-11-20T09:30+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social dup, epinephrine powder lead"
   },
   {
    "title": "Experimental Nose Drops Improve Memory and Neuron Markers in Mice - Gadget Review",
@@ -8911,7 +9030,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Public Nasal Spray Flu Vaccine Access Linked to Higher Pediatric Coverage - Bioengineer.org",
@@ -8927,7 +9047,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Mucosal Immunotherapy Strategies Offer New Pathways for Cancer Treatment and Metastasis Prevention - Bioengineer.org",
@@ -8941,7 +9062,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Nasus Pharma Ltd. (NSRX) stock price, news, quote and history - Yahoo Finance UK",
@@ -8957,7 +9079,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock price boilerplate"
   },
   {
    "title": "NTHI: NeOnc Technologies Holdings Inc. filed SEC Form 8-K... - Quantisnow",
@@ -8971,7 +9094,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "8-K filing note, no new fact beyond card"
   },
   {
    "title": "Nasus Pharma Ltd. (NSRX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
@@ -8987,7 +9111,8 @@
     "Nasus Pharma"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock price boilerplate"
   },
   {
    "title": "HSP70 Modulators Preserve Brain Mitochondria and Boost Survival in Rat Blast Injury - Bioengineer.org",
@@ -9001,7 +9126,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "SARS-CoV-2 Beta Variant Drives Acute Lung Immune Activation in Wild-Type Mice - Bioengineer.org",
@@ -9015,7 +9141,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Nasal Mucosa Therapeutics Market - Future Market Insights",
@@ -9029,7 +9156,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "For some patients, psychedelic treatment brings new troubles in its aftermath - NPR",
@@ -9043,7 +9171,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Scientists Develop Rapid-Absorption Nasal Spray for Erectile Dysfunction - Medical Dialogues",
@@ -9059,7 +9188,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "ALK study: Nasal spray easier to use than auto-injector in emergencies - MedWatch",
@@ -9075,7 +9205,8 @@
     "Nasal spray"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup ALK FAAM-EUROBAT-ISMA data"
   },
   {
    "title": "Danish ALK partners with Zuellig Pharma to bring allergy treatment to Southeast Asia - Scandasia",
@@ -9089,7 +9220,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "could not independently confirm - see Watching"
   },
   {
    "title": "FDA approves Sanofi pill as first treatment for brain effects of rare Gaucher disease - MedWatch",
@@ -9103,7 +9235,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Anti-pollution Nasal Spray Market to Reach USD 15.3 Billion - openPR.com",
@@ -9119,7 +9252,8 @@
     "Nasal Spray"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Nose Drops of BDNF Brain-Protein mRNA Let Aged Mice Match Young Memory; Plaques Unchanged - Tech Times",
@@ -9133,7 +9267,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "PRESS RELEASE ALK presents new data at FAAM-EUROBAT-ISMA 2026 - GlobeNewswire",
@@ -9147,7 +9282,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy card update (ALK FAAM-EUROBAT-ISMA)"
   },
   {
    "title": "- GlobeNewswire",
@@ -9161,7 +9297,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "unparsable title, likely dup ALK wire"
   },
   {
    "title": "NeOnc Technologies Announces FDA Rescheduled NEO212 End-of-Phase 1 Type B Meeting to November 23 - GlobeNewswire",
@@ -9175,7 +9312,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "NEO212 is oral, not intranasal"
   },
   {
    "title": "With Flu and Asthma Emergencies Surging, AAFA Releases Flu Vaccine Decision Aid - GlobeNewswire",
@@ -9189,7 +9327,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general flu-vaccine advocacy, not product-specific"
   },
   {
    "title": "Beauty and Personal Care Products Market Outlook 2032: - GlobeNewswire",
@@ -9203,7 +9342,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "India Switchgear Market to Reach $8.96 Billion by 2032, - GlobeNewswire",
@@ -9217,7 +9357,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Craig Chambliss of Neurelis recognized as Entrepreneur Of The Year® 2026 National Overall Award Winner - PR Newswire",
@@ -9233,7 +9374,8 @@
     "Neurelis"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "corporate award, no pipeline fact"
   },
   {
    "title": "Facing down Dupixent cliff, Sanofi mulls buyout of Insmed and its blockbuster-to-be Brinsupri: Bloomberg - Fierce Pharma",
@@ -9247,7 +9389,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Neuronetics Reports Inducement Grant Under Nasdaq Listing Rule 5635(c)(4) - November 18, 2026 - BioSpace",
@@ -9261,7 +9404,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "동국제약, 연고형 비강 보호제 '코앤텍' 10g 출시 - 메디컬투데이",
@@ -9277,7 +9421,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 용량 25% 늘린 비강 보호제 ‘코앤텍’ 10g 약국 출시 - 팝콘뉴스",
@@ -9293,7 +9438,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 비강 보호제 ‘코앤텍’ 10g 출시…약국 판매 - 주간한국",
@@ -9309,7 +9455,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 비강 보호제 '코앤텍' 10g 출시…약국으로 판매망 확대 - 딜라이트닷넷",
@@ -9325,7 +9472,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 용량 25% 늘린 비강 보호제 '코앤텍 10g' 선보여 - 열린뉴스통신",
@@ -9341,7 +9489,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 알레르기 유발물질 차단제 ‘코앤텍’ 10g 약국 출시 - 로컬세계",
@@ -9355,7 +9504,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "豪研究チーム、鼻から吸入するmRNAアルツハイマー治療薬を開発…マウス実験で認知機能低下を抑制 - BigGo ファイナンス",
@@ -9369,7 +9519,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "ヴィアトリス製薬、若年層のメンタルヘルスの課題に向き合う「ヘルスケア×アート」によるメンタルヘルスCSR活動 中高生向け特別授業「こころを描く教室」 - PR TIMES",
@@ -9383,7 +9534,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "五款呼吸系统用药密集获批，齐鲁制药复杂制剂迎来平台化收获期 - 21财经",
@@ -9397,7 +9549,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "동국제약, 알레르기 물질 차단제 '코앤텍' 10g 출시",
@@ -9413,7 +9566,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 알레르기 유발물질 차단제 ‘코앤텍’ 10g 약국 출시",
@@ -9429,7 +9583,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 알레르기 유발 물질 차단제 '코앤텍' 신규 규격 약국 출시",
@@ -9445,7 +9600,8 @@
     "비강 분무"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "동국제약, 알레르기 유발물질 차단 ‘코앤텍’ 10g 출시",
@@ -9461,7 +9617,8 @@
     "비강"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "no Tier1 found - see Watching"
   },
   {
    "title": "CEO Brendan O'Grady estimates the market size for NS002 given the competitive environment with EpiPen, generic autoinjectors and neffy.   #Biotech #Nasax #SmallCap #Pharma #drugdelivery #NeedleFree $NSRX youtube.com/shorts/jkM2C...",
@@ -9480,7 +9637,8 @@
     "neffy"
    ],
    "fetched": "2026-11-21T08:53+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "social lead, market-size commentary only"
   },
   {
    "title": "Stem Cell Vesicles Carrying PD-L1 Rescue Fragile X Symptoms in Mice - Bioengineer.org",
@@ -9494,7 +9652,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "Animal Studies Highlight Extracellular Vesicles for Diagnostics and Targeted Disease Therapies - Bioengineer.org",
@@ -9508,7 +9667,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "New Once-Daily Pill Slashes Bad Cholesterol by Nearly 65% in Clinical Trial - SciTechDaily",
@@ -9522,7 +9682,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Mothballed spaceport helps inspire new BBC sci-fi Sutherland - BBC",
@@ -9536,7 +9697,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   },
   {
    "title": "Suffern Clinic Offers Spravato Nasal Spray for Depression - Hoodline",
@@ -9553,7 +9715,8 @@
     "Spravato"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "general clinical-practice piece, no new product fact"
   },
   {
    "title": "Neffy Insurance Denials Hit Florida Blue Members - Hoodline",
@@ -9569,7 +9732,8 @@
     "Neffy"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "US payer friction, not a stage/fact change"
   },
   {
    "title": "Pfizer steps into in vivo CAR T space with $2.6B licensing deal - Drug Discovery News",
@@ -9583,7 +9747,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not intranasal / wrong route"
   },
   {
    "title": "Nanocarriers Offer Delivery Pathways for Emerging Alzheimer RNA Therapeutics - Bioengineer.org",
@@ -9597,7 +9762,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "academic/preclinical, no identifiable sponsor"
   },
   {
    "title": "ALK presents new data at FAAM-EUROBAT-ISMA 2026: Data from - GlobeNewswire",
@@ -9611,7 +9777,8 @@
    "tier": 1,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "used",
+   "note": "neffy card update (ALK data, dup wire)"
   },
   {
    "title": "Fierce Biotech Fundraising Tracker '26: VitriVax scores $87M; Ansa adds $71.5M series C - Fierce Biotech",
@@ -9625,7 +9792,8 @@
    "tier": 2,
    "matched": [],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "market-research report, out of scope"
   },
   {
    "title": "Milestone Pharmaceuticals (Nasdaq:MIST) - Stock Analysis - Simply Wall St",
@@ -9641,7 +9809,8 @@
     "Milestone Pharmaceuticals"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "stock analysis, no new fact"
   },
   {
    "title": "치료저항성 우울증, 환각성 물질 '메부포테닌' 비강 투여 효과 확인 : 병원·제약 - 의약일보",
@@ -9657,7 +9826,8 @@
     "비강 투여"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "dup bpl-003 JAMA data, already tracked"
   },
   {
    "title": "www.linkedin.com/pulse/intran...",
@@ -9674,7 +9844,8 @@
     "Intranasal"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "not a pharma pipeline item"
   },
   {
    "title": "ﾈﾌｨ=ｻｰﾝ🐭💜 10,000再生！  おめでとうございます！！！ 🎉🎉🎊🎊㊗️🎊🎊🎉🎉 (๑>◡<๑)b #再生回数お祝いの記録 #ネフィ一座  【歌ってみた】ODDS&ENDS/ryo(supercell) Covered by NEFFY",
@@ -9691,7 +9862,8 @@
     "NEFFY"
    ],
    "fetched": "2026-11-22T07:58+09:00",
-   "status": "new"
+   "status": "dismissed",
+   "note": "false keyword match"
   }
  ],
  "updated": "2026-11-22T07:58+09:00"

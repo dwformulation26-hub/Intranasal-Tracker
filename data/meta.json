@@ -261,35 +261,27 @@
    "items": 0
   }
  },
- "last_update_run": "2026-11-16T08:01:19+09:00",
- "rotation_cursor": "xjn010",
+ "last_update_run": "2026-11-23T08:01:18+09:00",
+ "rotation_cursor": "pecfent",
  "source_health": {
-  "sec.gov": "refuses scripts - confirm via search",
-  "businesswire.com": "refuses scripts (403) - confirm via search/alternate source",
-  "stocktitan.net": "refuses scripts / 410 gone again this run",
-  "fda.gov": "refuses scripts (404) - pages exist",
+  "sec.gov": "refuses scripts - confirmed Scienture/ARS figures via search snippets and BiopharmaWatch mirror",
+  "businesswire.com": "refuses scripts (403) - used biospace.com mirror for Cosette/Assertio release instead",
+  "ir.alk.net / ir.alk-abello.com": "refuses scripts (403) this run - used helpareporter.com mirror for FAAM-EUROBAT-ISMA release",
+  "fda.gov": "refuses scripts - pages exist",
   "clinicaltrials.gov": "blocked in cloud sandbox - use data/weekly files",
-  "fiercebiotech.com": "refused this run too (403, Cloudflare)",
-  "globenewswire.com": "refuses scripts (403) again this run - confirm via biopharmawatch/finviz mirror",
-  "globenewswire.com direct release pages": "refuses scripts (403) this run too - use biopharmawatch/finviz mirror",
-  "investors.milestonepharma.com": "refuses scripts (403) this run - used biopharmawatch.com mirror for Q3 2026 results instead",
-  "marketbeat.com": "refuses scripts (403) this run",
-  "data.eastmoney.com (notices listing)": "JS-rendered, empty via fetch - no static announcement text",
-  "cninfo.com.cn fulltextSearch": "JS-rendered, empty via fetch - could not confirm Humanwell/人福 midazolam nasal spray IND this run",
-  "aptar.com news listing": "renders empty via fetch; use direct article URL",
-  "biopharmawatch.com": "ok this run - mirrors company press releases verbatim (MIST Q3 2026 results, NTHI FDA meeting both confirmed)",
-  "hcplive.com": "ok this run via direct article URL (double-dose FMXIN002 ACAAI data) - site search page itself returns no listing, find exact URL via hcplive.com/clinical section pages",
-  "medicopharma.co.kr": "ok this run - full Korean article text accessible (SK bioscience/IAVI nasal-spray termination); only one source found, needs a second confirming outlet",
-  "pharnexcloud.com": "ok this run - CDE-sourced China trial-approval articles readable",
-  "medicaldialogues.in PDF uploads": "ok this run - official Gazette of India order (NPPA), read via saved local PDF",
-  "globaltimes.cn": "ok this run - BD/BCHT press release page loaded",
-  "dealsite.co.kr": "ok this run but article was unrelated (SK bioscience Skycovione EMA withdrawal, not the nasal-spray item sought)"
+  "abera.bio": "host not resolvable in this sandbox (DNS blocked) - could not confirm Abera Phase 1 start from company's own site",
+  "biopharmawatch.com": "ok this run - mirrors company press releases verbatim (NeOnc NEO100 Phase 2a update, Scienture Q3 2026 results both confirmed)",
+  "biospace.com": "ok this run - mirrors company press releases verbatim (Nasus ACAAI 2026 data, Cosette/Assertio Sprix acquisition both confirmed)",
+  "helpareporter.com": "ok this run - mirrors company press releases verbatim (ALK FAAM-EUROBAT-ISMA data confirmed)",
+  "webull.com": "ok this run - mirrors PR Newswire release text (LTR Pharma final Phase II SPONTAN data confirmed)",
+  "동국제약 (Dong Kook) 코앤텍 10g launch": "no Tier1 (company release) found this run despite 10+ Korean trade-press rewrites - see Watching",
+  "trial sync/discovery (sync_trials.py, discover_trials.py)": "data/weekly/trial_changes.json and trial_leads.json still carry last week's 2026-11-16 generation timestamp - the Monday GitHub Actions trial sync for this run's date did not appear to refresh; all entries in them were already consumed by last week's update"
  },
  "last_update_counts": {
-  "cards_updated": 4,
+  "cards_updated": 6,
   "cards_added": 0,
   "news_added": 6,
-  "leads_triaged": 233,
+  "leads_triaged": 172,
   "rotation_checked": 25
  }
 }

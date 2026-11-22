@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-16",
+ "asOf": "2026-11-23",
  "lanes": [
   {
    "id": "market",
@@ -1107,7 +1107,7 @@
     "label": "Acadia press release, Business Wire (24 Sep 2025)",
     "url": "https://secure.businesswire.com/news/home/20250924187122/en/Acadia-Pharmaceuticals-Announces-Phase-3-COMPASS-PWS-Trial-of-Intranasal-Carbetocin-ACP-101-for-Hyperphagia-in-Prader-Willi-Syndrome-Did-Not-Meet-Primary-Endpoint"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "sls-002",
@@ -1168,7 +1168,7 @@
     "label": "ClinicalTrials.gov NCT06816433",
     "url": "https://clinicaltrials.gov/study/NCT06816433"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "inp105",
@@ -1220,7 +1220,7 @@
     "label": "Sidley: Impel liquidating plan / asset sale",
     "url": "https://www.sidley.com/en/newslanding/newsannouncements/2024/04/sidley-secures-confirmation-of-liquidating-plan-for-impel-pharmaceuticals"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "zavzpret",
@@ -1290,7 +1290,7 @@
     "label": "PharnexCloud (CDE acceptance, 2025-12-05)",
     "url": "https://www.pharnexcloud.com/zixun/zcsp_256033"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "trudhesa",
@@ -1342,7 +1342,7 @@
     "label": "Trudhesa.com (© 2026 Impel Pharmaceuticals)",
     "url": "https://www.trudhesa.com/"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "atzumi",
@@ -1403,7 +1403,7 @@
     "label": "FilingReader (SNBL disclosure, 2026-05-11)",
     "url": "https://filingreader.com/news-wire/tokyo/2026-05-11/snbl-to-self-commercialize-migraine-drug-after-failed-licensing-talks"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "prt-064040",
@@ -1464,7 +1464,7 @@
     "label": "PharnexCloud (CDE filing data, reported 11 Nov 2026)",
     "url": "https://www.pharnexcloud.com/zixun/zcsp_391442"
    },
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-11-16",
@@ -1479,8 +1479,8 @@
    "region": "US",
    "area": "Pain & migraine",
    "company": {
-    "en": "Zyla Life Sciences (Assertio)",
-    "ko": "Zyla Life Sciences (Assertio)"
+    "en": "Cosette Pharmaceuticals (from Assertio)",
+    "ko": "Cosette Pharmaceuticals (Assertio로부터 인수)"
    },
    "product": {
     "en": "Sprix (ketorolac nasal spray)",
@@ -1503,20 +1503,27 @@
     "ko": "FDA 승인(2010)"
    },
    "now": {
-    "en": "Still listed by payers (e.g., FEP policy Oct 2025) with Zyla as labeler; no 2025-26 corporate news found.",
-    "ko": "2025년 10월 FEP 보험정책 등에 Zyla 표시 제품으로 계속 등재되어 있으며, 2025~26년 기업 뉴스는 찾지 못했다."
+    "en": "Apr 2026: Cosette Pharmaceuticals acquired US rights to Sprix (ketorolac nasal spray) and other branded NSAIDs from Assertio Holdings.",
+    "ko": "2026년 4월: Cosette Pharmaceuticals가 Assertio Holdings로부터 Sprix(케토롤락 비강 스프레이) 등 브랜드 NSAID 제품의 미국 판권을 인수했다."
    },
-   "lastMove": "2025-10",
+   "lastMove": "2026-04",
    "trials": [],
    "noTrial": {
     "en": "Marketed since 2010; no current industry trials",
     "ko": "2010년부터 판매; 진행 중 기업 임상 없음"
    },
    "src": {
-    "label": "FEP Blue medical policy (Oct 2025)",
-    "url": "https://www1.fepblue.org/-/media/PDFs/Medical-Policies/2025/October/Medical-Policies/Remove-and-Replace/570045-Sprix-ketorolac.pdf"
+    "label": "Cosette Pharmaceuticals press release via BioSpace (8 Apr 2026)",
+    "url": "https://www.biospace.com/press-releases/cosette-pharmaceuticals-expands-branded-portfolio-through-acquisition-of-sympazan-and-additional-products-from-assertio"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "change": "Admin correction [found late]: company Zyla Life Sciences/Assertio -> Cosette Pharmaceuticals (Apr 2026 acquisition); now updated accordingly",
+     "src": "https://www.biospace.com/press-releases/cosette-pharmaceuticals-expands-branded-portfolio-through-acquisition-of-sympazan-and-additional-products-from-assertio"
+    }
+   ]
   },
   {
    "id": "cessatech-ct001",
@@ -1568,7 +1575,7 @@
     "label": "Cessatech release (2026-08-27)",
     "url": "https://www.inderes.fi/releases/cessatech-ct001-ready-for-shipment-to-initial-us-hospitals-as-launch-activities-commence"
    },
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "tnx1900-pain",
@@ -1672,7 +1679,7 @@
     "label": "EMA PecFent product information",
     "url": "https://www.ema.europa.eu/en/documents/product-information/pecfent-epar-product-information_de.pdf"
    },
-   "checked": "2026-10-26"
+   "checked": "2026-11-23"
   },
   {
    "id": "hengrui-dexmed",
@@ -2141,8 +2148,8 @@
     "ko": "8개 이상 시장 승인"
    },
    "now": {
-    "en": "Nov 2026: Q3 2026 US neffy net revenue was $33.4M (5% market share, 9% in targeted accounts); SG&A cut 42% vs 1H26 to reach breakeven by end-2027.",
-    "ko": "2026년 11월: 2026년 3분기 미국 neffy 순매출은 3,340만 달러(시장점유율 5%, 타겟 계정 9%); SG&A를 상반기 대비 42% 절감해 2027년 말 손익분기점 목표."
+    "en": "Nov 2026: ALK's Canadian study found 79 of 90 (88%) untrained users preferred EURneffy over an auto-injector trainer for availability in public places (FAAM-EUROBAT-ISMA).",
+    "ko": "2026년 11월: ALK의 캐나다 연구에서 훈련받지 않은 참가자 90명 중 79명(88%)이 공공장소 비치용으로 오토인젝터보다 EURneffy를 선호했다(FAAM-EUROBAT-ISMA)."
    },
    "lastMove": "2026-11",
    "trials": [
@@ -2176,15 +2183,20 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "ARS Pharmaceuticals Q3 2026 8-K exhibit (SEC, 5 Nov 2026)",
-    "url": "https://www.sec.gov/Archives/edgar/data/0001671858/000119312526449748/spry-ex99_1.htm"
+    "label": "ALK press release, mirrored by HelpAReporter (19 Nov 2026)",
+    "url": "https://www.helpareporter.com/news-releases/alk-presents-new-data-at-faam-eurobat-isma-2026-data-from-a.md"
    },
-   "checked": "2026-11-09",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-11-09",
      "change": "now updated: Aug 2026 commercial-strategy shift -> Nov 2026 Q3 2026 results ($33.4M neffy revenue, 5% share)",
      "src": "https://www.sec.gov/Archives/edgar/data/0001671858/000119312526449748/spry-ex99_1.htm"
+    },
+    {
+     "date": "2026-11-23",
+     "change": "now updated: Nov 2026 Q3 US revenue ($33.4M) -> Nov 2026 ALK FAAM-EUROBAT-ISMA EURneffy-vs-auto-injector preference data (88%)",
+     "src": "https://www.helpareporter.com/news-releases/alk-presents-new-data-at-faam-eurobat-isma-2026-data-from-a.md"
     }
    ]
   },
@@ -2308,10 +2320,10 @@
     "ko": "IND 승인; 허가 임상 예정"
    },
    "now": {
-    "en": "Sep 2026: FDA cleared the NS002 IND; a pivotal self- vs HCP-administration study is planned for Q4 2026, with topline data in Q1 2027.",
-    "ko": "2026년 9월 FDA가 NS002 IND를 승인했으며, 자가 투여와 의료진 투여를 비교하는 피벗 시험을 2026년 4분기에 시작해 2027년 1분기에 톱라인 결과를 발표할 예정이다."
+    "en": "Nov 2026: ACAAI 2026 data showed NS002 reached the epinephrine threshold faster than an autoinjector after repeat dosing and under nasal congestion; pivotal study to start by end-2026.",
+    "ko": "2026년 11월: ACAAI 2026 데이터에서 NS002가 반복 투여 및 심한 코막힘 상황에서도 오토인젝터보다 빠르게 에피네프린 치료 농도에 도달; 2026년 말 피벗 임상 개시 예정."
    },
-   "lastMove": "2026-09",
+   "lastMove": "2026-11",
    "trials": [
     {
      "nct": "NCT07045701",
@@ -2343,10 +2355,17 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "Nasus Pharma release (2026-09-14)",
-    "url": "https://ir.nasuspharma.com/press_releases/nasus-pharma-announces-fda-clearance-to-initiate-clinical-study-of-ns002-in-the-treatment-of-anaphylaxis/"
+    "label": "Nasus Pharma press release via GlobeNewswire, mirrored by BioSpace (17 Nov 2026)",
+    "url": "https://www.biospace.com/press-releases/nasus-pharma-presents-data-at-acaai-2026-demonstrating-ns002-reached-the-therapeutic-epinephrine-threshold-faster-than-an-autoinjector-after-repeat-dosing-and-under-severe-nasal-congestion"
    },
-   "checked": "2026-10-26"
+   "checked": "2026-11-23",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "change": "now updated: Sep 2026 IND clearance -> Nov 2026 ACAAI data (faster than autoinjector after repeat dosing & under congestion)",
+     "src": "https://www.biospace.com/press-releases/nasus-pharma-presents-data-at-acaai-2026-demonstrating-ns002-reached-the-therapeutic-epinephrine-threshold-faster-than-an-autoinjector-after-repeat-dosing-and-under-severe-nasal-congestion"
+    }
+   ]
   },
   {
    "id": "baqsimi",
@@ -2558,7 +2577,7 @@
     "label": "Global Times (BD/BCHT press release, 6 Nov 2026)",
     "url": "https://www.globaltimes.cn/page/202611/1374016.shtml"
    },
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-11-16",
@@ -3953,7 +3972,7 @@
     "label": "Milestone Pharmaceuticals Q3 2026 results via BiopharmaWatch (13 Nov 2026)",
     "url": "https://www.biopharmawatch.com/news/MIST/milestone-pharmaceuticals-q3-2026-financial-results"
    },
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-11-16",
@@ -5342,7 +5361,7 @@
     "label": "Stock Titan (ARS release), 2025-09-19",
     "url": "https://www.stocktitan.net/news/SPRY/neffy-epinephrine-nasal-spray-approved-in-japan-as-the-first-and-frqh3z6k030a.html"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "jp-spydia",
@@ -5387,7 +5406,7 @@
     "label": "Viatris Japan press release, 2025-12-24",
     "url": "https://www.viatris.jp/ja-jp/newsroom/press-release/launch-sypdia"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "jp-esketamine-ph3",
@@ -5439,7 +5458,7 @@
     "label": "ClinicalTrials.gov NCT07716098",
     "url": "https://clinicaltrials.gov/study/NCT07716098"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "cn-bcht-laiv",
@@ -5500,7 +5519,7 @@
     "label": "ClinicalTrials.gov NCT07545564",
     "url": "https://clinicaltrials.gov/study/NCT07545564"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "cn-neffy-pediatrix",
@@ -5545,7 +5564,7 @@
     "label": "Stock Titan (ARS Q1 2026 release), 2026-05-15",
     "url": "https://www.stocktitan.net/news/SPRY/ars-pharmaceuticals-reports-first-quarter-2026-financial-results-and-lmdo7b4j6bew.html"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "cn-huahui-hh120",
@@ -5606,7 +5625,7 @@
     "label": "ClinicalTrials.gov NCT05787418",
     "url": "https://clinicaltrials.gov/study/NCT05787418"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "cn-paloalto-pa9159",
@@ -5667,7 +5686,7 @@
     "label": "ClinicalTrials.gov NCT07345442",
     "url": "https://clinicaltrials.gov/study/NCT07345442"
    },
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "neonc-neo100",
@@ -5699,8 +5718,8 @@
     "ko": "2a상 완료"
    },
    "now": {
-    "en": "Nov 2026: FDA granted NeOnc a Type B End-of-Phase meeting (early Jan 2027) on a 505(b)(2) accelerated-approval path and Phase 3 design for NEO100 in IDH-mutant grade 4 astrocytoma.",
-    "ko": "2026년 11월: FDA가 NeOnc에게 NEO100의 IDH 변이 4등급 성상세포종에 대한 505(b)(2) 가속승인 경로 및 3상 설계를 논의할 Type B 미팅(2027년 1월 초 예정)을 승인했다."
+    "en": "Nov 2026: Updated Phase 2a data for NEO100 showed objective response rose to 12.5% (3/24) from 8.3%, with a 66.7% disease control rate and 26.1-month median overall survival.",
+    "ko": "2026년 11월: NEO100 2a상 추가 데이터에서 객관적 반응률이 8.3%에서 12.5%(24명 중 3명)로 상승했고, 질병통제율 66.7%, 중앙생존기간 26.1개월을 기록했다."
    },
    "lastMove": "2026-11",
    "trials": [
@@ -5734,11 +5753,11 @@
    ],
    "noTrial": null,
    "src": {
-    "label": "NeOnc Technologies press release via BiopharmaWatch (11 Nov 2026)",
-    "url": "https://www.biopharmawatch.com/news/NTHI/neonc-fda-meeting-neon100-accelerated-approval"
+    "label": "NeOnc Technologies press release via GlobeNewswire, mirrored by BiopharmaWatch (17 Nov 2026)",
+    "url": "https://www.biopharmawatch.com/news/NTHI/neonc-phase-2a-study-ne0100-results"
    },
    "added": "2026-10-22",
-   "checked": "2026-11-16",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-11-16",
@@ -5754,6 +5773,11 @@
      "date": "2026-10-22",
      "change": "Admin correction: now updated to Aug 2026 Phase 2a topline (routine had a stale Jul 2026 expectation); ClinicalTrials.gov trials linked",
      "src": "https://neonctechnologies.gcs-web.com/news-releases/news-release-details/neonc-technologies-reports-positive-topline-phase-2a-results"
+    },
+    {
+     "date": "2026-11-23",
+     "change": "now updated: Nov 2026 FDA Type B meeting granted -> Nov 2026 Phase 2a interim update (ORR 12.5% vs 8.3%, DCR 66.7%, mOS 26.1mo)",
+     "src": "https://www.biopharmawatch.com/news/NTHI/neonc-phase-2a-study-ne0100-results"
     }
    ]
   },
@@ -5801,7 +5825,7 @@
     "url": "https://www.hikma.com/news/hikma-advances-its-epinephrine-nasal-spray-with-multi-market-regulatory-filings/"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-22"
+   "checked": "2026-11-23"
   },
   {
    "id": "ltr-spontan-roxus",
@@ -5833,8 +5857,8 @@
     "ko": "NDA 전; 특별접근 공급"
    },
    "now": {
-    "en": "Oct 2026: first US ROXUS (compounded vardenafil spray) prescriptions filled via telehealth; SPONTAN is supplied in Australia under TGA Special Access.",
-    "ko": "2026년 10월: 미국에서 ROXUS(조제 바르데나필 스프레이) 첫 처방이 원격의료로 조제됨; SPONTAN은 호주 TGA 특별접근제도로 공급 중."
+    "en": "Oct 2026: Final Phase II data showed SPONTAN (5mg) reached peak plasma 6x faster than oral vardenafil (median 10 vs 60 min, p<0.0001), maintained in patients 65+.",
+    "ko": "2026년 10월: 2상 최종 데이터에서 SPONTAN(5mg)이 경구 바르데나필보다 혈중최고농도 도달이 6배 빨랐고(중앙값 10분 대 60분, p<0.0001), 65세 이상에서도 유지됐다."
    },
    "lastMove": "2026-10",
    "trials": [],
@@ -5843,16 +5867,21 @@
     "ko": "SPONTAN의 미국 505(b)(2) 경로는 아직 중추 임상 이전 단계; ROXUS는 조제약으로 FDA 심사 대상 아님; 이번 조사에서 NCT 미확인"
    },
    "src": {
-    "label": "LTR Pharma ASX announcement: First ROXUS Prescriptions Fulfilled in the US (6 Oct 2026)",
-    "url": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
+    "label": "LTR Pharma press release via PR Newswire, mirrored by Webull (8 Oct 2026)",
+    "url": "https://www.webull.com/news/15712982230434816"
    },
    "added": "2026-10-22",
-   "checked": "2026-10-22",
+   "checked": "2026-11-23",
    "history": [
     {
      "date": "2026-10-22",
      "change": "Admin correction: lane market -> early (SAS and 503A compounding are not regulatory approvals)",
      "src": "https://announcements.asx.com.au/asxpdf/20261006/pdf/074z5gqjrzc8pt.pdf"
+    },
+    {
+     "date": "2026-11-23",
+     "change": "now updated [found late]: Oct 2026 first ROXUS US prescriptions -> Oct 2026 final Phase II PK data (6x faster Tmax vs oral, p<0.0001)",
+     "src": "https://www.webull.com/news/15712982230434816"
     }
    ]
   },
@@ -5900,7 +5929,7 @@
     "url": "https://www.cfi.net.cn/p20261023001196.html"
    },
    "added": "2026-10-26",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "id": "scienture-rezenopy",
@@ -5932,21 +5961,28 @@
     "ko": "FDA 승인; 출시"
    },
    "now": {
-    "en": "Aug 2026: Scienture commercially launched REZENOPY (naloxone 10 mg) nasal spray, filling first US wholesaler orders; the highest-dose FDA-approved naloxone nasal spray.",
-    "ko": "2026년 8월: Scienture가 REZENOPY(날록손 10mg) 비강 스프레이를 상업 출시하고 미국 도매업체에 첫 주문을 공급; 미국 내 최고 용량의 FDA 승인 날록손 비강 스프레이."
+    "en": "Nov 2026: Scienture's Q3 2026 revenue rose 265% sequentially to $1.25M, including ~$925K from initial REZENOPY wholesale shipments; gross margin 81.3%, targeting 2027 profitability.",
+    "ko": "2026년 11월: Scienture의 2026년 3분기 매출이 전 분기 대비 265% 증가한 125만 달러를 기록(REZENOPY 초기 도매 출하분 약 92.5만 달러 포함); 매출총이익률 81.3%, 2027년 흑자전환 목표."
    },
-   "lastMove": "2026-08",
+   "lastMove": "2026-11",
    "trials": [],
    "noTrial": {
     "en": "FDA-approved (NDA) naloxone nasal spray; no new NCT disclosed in the commercial-launch release",
     "ko": "FDA 승인(NDA) 날록손 비강 스프레이; 출시 공고에 신규 임상시험 등록번호 없음"
    },
    "src": {
-    "label": "Scienture press release via GlobeNewswire (12 Aug 2026)",
-    "url": "https://pr.redmondspokesman.com/article/SCIENTURE-Announces-Commercial-Launch-and-Fulfillment-of-Initial-Purchase-Orders-of-REZENOPYtm-the-Highest-Dose-FDA-Approved-Naloxone-Nasal-Spray/6a7c6247e2557832e110e08f"
+    "label": "Scienture Holdings Q3 2026 results via GlobeNewswire, mirrored by BiopharmaWatch (16 Nov 2026)",
+    "url": "https://www.biopharmawatch.com/news/SCNX/scienture-q3-2026-results-revenue-growth"
    },
    "added": "2026-10-26",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "change": "now updated: Aug 2026 commercial launch -> Nov 2026 Q3 2026 results ($1.25M revenue +265%, ~$925K REZENOPY)",
+     "src": "https://www.biopharmawatch.com/news/SCNX/scienture-q3-2026-results-revenue-growth"
+    }
+   ]
   },
   {
    "id": "biodeal-midazolam-nasal",
@@ -5992,10 +6028,62 @@
     "url": "https://medicaldialogues.in/pdf_upload/2026/11/05/277621-482300.pdf"
    },
    "added": "2026-11-09",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   }
  ],
  "news": [
+  {
+   "date": "2026-11-19",
+   "region": "GL",
+   "type": "Device",
+   "text": {
+    "en": "ALK's Canadian comparative study found 79 of 90 (88%) untrained bystanders preferred EURneffy nasal spray over an auto-injector trainer for availability in public places, presented at FAAM-EUROBAT-ISMA 2026.",
+    "ko": "ALK의 캐나다 비교연구에서 훈련받지 않은 참가자 90명 중 79명(88%)이 공공장소 비치용으로 오토인젝터보다 EURneffy 비강 스프레이를 선호한다고 답했으며, FAAM-EUROBAT-ISMA 2026에서 발표됐다."
+   },
+   "src": {
+    "label": "ALK press release via HelpAReporter",
+    "url": "https://www.helpareporter.com/news-releases/alk-presents-new-data-at-faam-eurobat-isma-2026-data-from-a.md"
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "NeOnc's updated Phase 2a data for intranasal NEO100 showed objective response rising to 12.5% (3 of 24) from 8.3%, with 66.7% disease control and 26.1-month median survival in recurrent high-grade glioma.",
+    "ko": "NeOnc의 NEO100(비강) 2a상 업데이트 데이터에서 재발성 고등급 신경교종 환자의 객관적 반응률이 8.3%에서 12.5%(24명 중 3명)로 상승했고, 질병통제율 66.7%, 중앙생존기간 26.1개월을 기록했다."
+   },
+   "src": {
+    "label": "NeOnc Technologies press release via BiopharmaWatch",
+    "url": "https://www.biopharmawatch.com/news/NTHI/neonc-phase-2a-study-ne0100-results"
+   }
+  },
+  {
+   "date": "2026-11-17",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "Nasus Pharma presented ACAAI 2026 data showing its NS002 intranasal epinephrine powder reached therapeutic levels faster than an autoinjector after repeat dosing and under severe nasal congestion; a pivotal study is planned to start by end-2026.",
+    "ko": "Nasus Pharma가 ACAAI 2026에서 NS002 비강 에피네프린 분말이 반복 투여 및 심한 코막힘 상황에서도 오토인젝터보다 빠르게 치료 농도에 도달했다는 데이터를 발표했으며, 2026년 말 피벗 임상 개시를 계획 중이다."
+   },
+   "src": {
+    "label": "Nasus Pharma press release via BioSpace",
+    "url": "https://www.biospace.com/press-releases/nasus-pharma-presents-data-at-acaai-2026-demonstrating-ns002-reached-the-therapeutic-epinephrine-threshold-faster-than-an-autoinjector-after-repeat-dosing-and-under-severe-nasal-congestion"
+   }
+  },
+  {
+   "date": "2026-11-16",
+   "region": "GL",
+   "type": "Corporate",
+   "text": {
+    "en": "Scienture's Q3 2026 revenue rose 265% sequentially to $1.25M, including about $925K from initial REZENOPY (naloxone 10mg nasal spray) wholesale shipments; the company targets profitability in 2027.",
+    "ko": "Scienture의 2026년 3분기 매출이 전 분기 대비 265% 증가한 125만 달러를 기록했으며, 이 중 약 92.5만 달러가 REZENOPY(날록손 10mg 비강 스프레이) 초기 도매 출하분이었다; 2027년 흑자전환을 목표로 한다."
+   },
+   "src": {
+    "label": "Scienture Holdings press release via BiopharmaWatch",
+    "url": "https://www.biopharmawatch.com/news/SCNX/scienture-q3-2026-results-revenue-growth"
+   }
+  },
   {
    "date": "2026-11-13",
    "region": "GL",
@@ -6293,6 +6381,19 @@
    "src": {
     "label": "Aptar press release (14 Oct 2026)",
     "url": "https://aptar.com/en-us/news-events/aptar-announces-ce-marking-for-luervax-and-accompanying-spray-divider-strengthening-support-for-vaccine-developers"
+   }
+  },
+  {
+   "date": "2026-10-08",
+   "region": "GL",
+   "type": "Trial",
+   "text": {
+    "en": "LTR Pharma's final Phase II data showed intranasal SPONTAN (vardenafil 5mg) reached peak plasma six times faster than oral vardenafil (median 10 vs 60 min, p<0.0001), maintained in patients 65 and older.",
+    "ko": "LTR Pharma의 2상 최종 데이터에서 비강 스프레이 SPONTAN(바르데나필 5mg)이 경구 바르데나필보다 혈중최고농도 도달이 6배 빨랐고(중앙값 10분 대 60분, p<0.0001), 65세 이상에서도 효과가 유지됐다."
+   },
+   "src": {
+    "label": "LTR Pharma press release via PR Newswire, mirrored by Webull",
+    "url": "https://www.webull.com/news/15712982230434816"
    }
   },
   {
@@ -6787,6 +6888,19 @@
    "src": {
     "label": "ClinicalTrials.gov NCT07516977",
     "url": "https://clinicaltrials.gov/study/NCT07516977"
+   }
+  },
+  {
+   "date": "2026-04-08",
+   "region": "GL",
+   "type": "Deal",
+   "text": {
+    "en": "Cosette Pharmaceuticals acquired US rights to Sprix (ketorolac nasal spray) and other branded NSAIDs from Assertio Holdings.",
+    "ko": "Cosette Pharmaceuticals가 Assertio Holdings로부터 Sprix(케토롤락 비강 스프레이) 등 브랜드 NSAID 제품의 미국 판권을 인수했다."
+   },
+   "src": {
+    "label": "Cosette Pharmaceuticals press release via BioSpace",
+    "url": "https://www.biospace.com/press-releases/cosette-pharmaceuticals-expands-branded-portfolio-through-acquisition-of-sympazan-and-additional-products-from-assertio"
    }
   },
   {
