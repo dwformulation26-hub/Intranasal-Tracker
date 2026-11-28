@@ -1,15 +1,15 @@
 {
- "last_collect": "2026-11-27T10:38+09:00",
+ "last_collect": "2026-11-28T10:18+09:00",
  "feed_health": {
   "Google News EN: intranasal": {
    "status": "ok",
-   "items": 8,
-   "kept": 8
+   "items": 7,
+   "kept": 7
   },
   "Google News EN: nasal spray (pharma terms)": {
    "status": "ok",
-   "items": 11,
-   "kept": 11
+   "items": 12,
+   "kept": 12
   },
   "Google News EN: nasal powder": {
    "status": "ok",
@@ -23,18 +23,18 @@
   },
   "Google News EN: nose-to-brain": {
    "status": "ok",
-   "items": 4,
-   "kept": 4
+   "items": 3,
+   "kept": 3
   },
   "Google News EN: wires intranasal": {
    "status": "ok",
-   "items": 7,
+   "items": 6,
    "kept": 6
   },
   "Google News EN: trade press nasal": {
    "status": "ok",
-   "items": 10,
-   "kept": 9
+   "items": 8,
+   "kept": 7
   },
   "Google News EN: China nasal approvals": {
    "status": "ok",
@@ -48,23 +48,23 @@
   },
   "Google News KO: 비강 투여/스프레이": {
    "status": "ok",
-   "items": 2,
-   "kept": 2
+   "items": 3,
+   "kept": 3
   },
   "Google News JA: 点鼻": {
    "status": "ok",
-   "items": 2,
-   "kept": 2
+   "items": 1,
+   "kept": 1
   },
   "Google News ZH: 鼻喷": {
    "status": "ok",
-   "items": 8,
-   "kept": 8
+   "items": 6,
+   "kept": 6
   },
   "GlobeNewswire keyword: intranasal": {
    "status": "ok",
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "GlobeNewswire industry: Pharmaceuticals": {
    "status": "ok",
@@ -74,7 +74,7 @@
   "GlobeNewswire industry: Biotechnology": {
    "status": "ok",
    "items": 20,
-   "kept": 0
+   "kept": 1
   },
   "PR Newswire: pharmaceuticals": {
    "status": "ok",
@@ -93,37 +93,33 @@
   },
   "BusinessWire home": {
    "status": "ok",
-   "items": 19,
+   "items": 2,
    "kept": 0
   },
   "FDA press releases": {
-   "status": "ok",
-   "items": 20,
-   "kept": 0
+   "status": "error",
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   "FDA What's New: Drugs": {
-   "status": "ok",
-   "items": 20,
-   "kept": 0
+   "status": "error",
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   "FDA What's New: Biologics": {
-   "status": "ok",
-   "items": 20,
-   "kept": 0
+   "status": "error",
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   "FDA Recalls": {
-   "status": "ok",
-   "items": 20,
-   "kept": 0
+   "status": "error",
+   "error": "HTTPError: HTTP Error 401: Unauthorized"
   },
   "EMA news": {
    "status": "ok",
-   "items": 5,
+   "items": 8,
    "kept": 0
   },
   "EMA what's new": {
    "status": "ok",
-   "items": 538,
+   "items": 560,
    "kept": 1
   },
   "MFDS 보도자료": {
@@ -143,7 +139,7 @@
   },
   "DART 오늘의 공시": {
    "status": "ok",
-   "items": 50,
+   "items": 0,
    "kept": 0
   },
   "Endpoints News": {
@@ -224,7 +220,7 @@
   "의학신문": {
    "status": "ok",
    "items": 50,
-   "kept": 1
+   "kept": 0
   },
   "약사공론": {
    "status": "ok",
